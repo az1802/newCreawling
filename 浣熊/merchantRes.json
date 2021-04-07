@@ -1,0 +1,2822 @@
+{
+	"shopName": "阿旺师傅",
+	"shop_pic": "http://op.diandianwaimai.com:10090/dd_op/attached/image/20180611/20180611140730-20277-logo.png",
+	"categories": [
+		{
+			"name": "新品推介",
+			"foods": [
+				{
+					"name": "辣椒酱",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200618201852243596.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": []
+				},
+				{
+					"name": "窝笋木耳肉丝饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191221193714706259.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜菇牛肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190702203213259373.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "虎皮尖椒饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190718215019430307.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜鱼饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200306173954724299.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒爽耳饭(猪耳朵)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200227122347993898.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菜花炒回锅肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200227122309344274.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菠萝甜酸鱼饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200413223729372093.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "春笋炒肉饭酸辣味",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210312005127438643.png",
+					"price": "21",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜鱼(黑鱼)饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201029012132461617.png",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆角回锅肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160706160146118282.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡姜炒牛肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201112012926563071.jpg",
+					"price": "23",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡姜炒鸡杂饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201112013926322007.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡姜炒腰花饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201112014657036756.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷兰豆炒腊味饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201125191235657863.png",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莴笋炒腊味饭",
+					"picUrl": "",
+					"price": "23",
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "现炒快餐",
+			"foods": [
+				{
+					"name": "东江盐焗鸡饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20160119/20160119180552-1150612-product_h_pic.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇蒸滑鸡饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161122110310615918.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家酿豆腐饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910172935174751.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸蛋蒸肉饼饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160520143313364814.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹肉丝饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915233810703401.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹牛腩饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20151217/20151217154715-1129780-product_h_pic.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "榨菜肉丝饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20151206/20151206232432-1127150-product_h_pic.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆焖牛腩饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160324124011055637.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "攸县香干饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171123021527274207.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸豆角烟肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190702210804608309.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可换",
+							"values": [
+								{
+									"value": "肉沫",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								},
+								{
+									"value": "烟肉",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆豉鲮鱼炒麦菜饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910181109267241.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可换",
+							"values": [
+								{
+									"value": "豆豉鲮鱼炒凉瓜饭",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								},
+								{
+									"value": "豆豉鲮鱼炒麦菜饭",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜牛肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160526140343996758.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可换",
+							"values": [
+								{
+									"value": "肉丝",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								},
+								{
+									"value": "牛肉",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒回锅肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20160127/20160127143204-1148996-product_h_pic.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鱼块饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915185024880734.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸鱼茄子饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160505155004057623.jpg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆角茄子饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170314002034624059.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒牛肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160526140343359902.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可换",
+							"values": [
+								{
+									"value": "肉丝",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								},
+								{
+									"value": "牛肉",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "笋干炒烟肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191025204722460067.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171123020352376100.jpg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可换",
+							"values": [
+								{
+									"value": "凉瓜炒蛋饭",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								},
+								{
+									"value": "番茄炒蛋饭",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家红焖肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171123015320785102.jpg",
+					"price": "23",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "梅菜扣肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150329/20150329160409-1092167-product_h_pic.png",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香芋扣肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181212194501437141.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉汁蒸排骨饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170228161025706400.jpg",
+					"price": "21",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉汁蒸凤爪饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910175729372806.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "现炒快餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "推荐套餐",
+			"foods": [
+				{
+					"name": "腐竹牛腩饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171015160143281386.jpg",
+					"price": "29",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "红烧鱼块饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915184955780362.jpg",
+					"price": "29",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "腐竹肉丝饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171015162133226070.jpg",
+					"price": "27",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "咸鱼茄子饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915203110419087.jpg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "凉瓜牛肉饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190313200006972165.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "东江盐焗鸡饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180902222536539538.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "豉汁蒸排骨饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915171919746261.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "豉汁蒸凤爪饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915184707588368.jpg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "香菇蒸滑鸡饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915182732266163.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "客家红焖肉饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915183051739697.jpg",
+					"price": "33",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "梅菜扣肉饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20151213/20151213020027-1132425-product_h_pic.jpg",
+					"price": "32",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "咸蛋蒸肉饼饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160520143313364814.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				},
+				{
+					"name": "客家酿豆腐饭套餐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915184244513305.jpg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "推荐套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "原盅炖汤",
+			"foods": [
+				{
+					"name": "椰子炖竹丝鸡",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200523192141804329.png",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "原盅炖汤",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花旗参炖竹丝鸡",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910204125739780.jpg",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "原盅炖汤",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红萝卜玉米炖排骨",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171021180710437674.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "原盅炖汤",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "生熟地炖瘦肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910204006876766.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "原盅炖汤",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "虫草花炖排骨",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161023011557503364.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "原盅炖汤",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茶鲜菇炖排骨",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915235627836298.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "原盅炖汤",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "小食蔬菜",
+			"foods": [
+				{
+					"name": "白灼菜心",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160323180408915673.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼有机菜花",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200306171634069920.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎蛋",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915203958992017.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花生米",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150328/20150328164730-1096024-product_h_pic.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "砵仔饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170915204249311777.png",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": []
+				},
+				{
+					"name": "白饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170920172656651168.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼生菜",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171015163204179369.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "不建议打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可换",
+							"values": [
+								{
+									"value": "麦菜",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								},
+								{
+									"value": "生菜",
+									"price": "0",
+									"propName": "可换",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸鸭蛋/1个",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180520012011504435.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "小食蔬菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "精美小炒",
+			"foods": [
+				{
+					"name": "各式时蔬",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181109162417121682.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "蔬菜",
+							"values": [
+								{
+									"value": "菜心",
+									"price": "0",
+									"propName": "蔬菜",
+									"isMul": 0
+								},
+								{
+									"value": "油麦菜",
+									"price": "0",
+									"propName": "蔬菜",
+									"isMul": 0
+								},
+								{
+									"value": "娃娃菜",
+									"price": "0",
+									"propName": "蔬菜",
+									"isMul": 0
+								},
+								{
+									"value": "生菜",
+									"price": "0",
+									"propName": "蔬菜",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜煎蛋(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160414173759541312.jpg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酿豆腐(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910184528025032.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜牛肉(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20160311/20160311185941-1180568-product_h_pic.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家红焖肉(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160324124119532033.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "回锅肉(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150410/20150410164158-1100189-product_h_pic.jpg",
+					"price": "42",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "可选",
+							"values": [
+								{
+									"value": "菜花",
+									"price": "0",
+									"propName": "可选",
+									"isMul": 0
+								},
+								{
+									"value": "尖椒",
+									"price": "0",
+									"propName": "可选",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷兰豆腊味(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910184805913383.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆焖牛腩(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910195157318788.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒土豆丝(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910184939095993.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "攸县香干(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190108123221415721.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "支竹肉丝(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910190148334382.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆角茄子(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150723/20150723113211-1115458-product_h_pic.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鱼块(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910195753105738.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒牛肉(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160526140343359902.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆豉鲮鱼炒麦菜(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150825/20150825170336-1109908-product_h_pic.jpg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "笋干炒烟肉(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910200132309091.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸鱼茄子煲(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150525/20150525155501-1110373-product_h_pic.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸豆角烟肉(小炒)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180313190354040545.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "小辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "特辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "煲仔饭煲仔粥",
+			"foods": [
+				{
+					"name": "豉汁排骨煲仔饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181212181057240429.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "煲仔饭煲仔粥",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "5",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩煲仔饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190514204615654324.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "煲仔饭煲仔粥",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "5",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇滑鸡煲仔饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190514204511475520.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "煲仔饭煲仔粥",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "5",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "广式腊味煲仔饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181212181407070728.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "煲仔饭煲仔粥",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "备注",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "5",
+									"propName": "备注",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮料酒水",
+			"foods": [
+				{
+					"name": "金威啤酒",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190925140700198655.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318171154-1081142-product_h_pic.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "椰子汁",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170905164344505737.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318171143-1081140-product_h_pic.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170907011325291096.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "纯悦饮用水",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170910184159936200.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "青岛啤酒",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150324/20150324170757-1083555-product_h_pic.png",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "百威啤酒",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150324/20150324170757-1083554-product_h_pic.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				},
+				{
+					"name": "芬达",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180327213318838594.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "打包餐具",
+			"foods": [
+				{
+					"name": "打包餐具",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170920172107783949.jpg",
+					"price": "1",
+					"unit": "份",
+					"categoryName": "打包餐具",
+					"props": []
+				}
+			]
+		}
+	]
+}

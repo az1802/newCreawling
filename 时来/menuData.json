@@ -1,0 +1,3133 @@
+{
+  "data": {
+      "dinerUplimit": 16,
+      "dishes": [
+          {
+              "category": {
+                  "id": "b581dd4b94d04f77aa148856f83f2990",
+                  "name": "新品黄焖茄子+米饭",
+                  "sort": 1100
+              },
+              "dishList": [
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2adff682b069428b8dca5c7b543eaacb",
+                                      "name": "大份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "b581dd4b94d04f77aa148856f83f2990",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "30d9dda887694de1920510f7a5eea969",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-0.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "秘制黄焖腐竹",
+                      "originPrice": 2000,
+                      "price": 2000,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1100,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-95-6190cde4a2cb4348b2412cfda058c834-0.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2ef26a36c1ea44afac2d73153522a109",
+                                      "name": "小份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "b581dd4b94d04f77aa148856f83f2990",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "9bd874f1f416454cbf54c07bf4d13a0a",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-0.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "秘制黄焖腐竹",
+                      "originPrice": 1600,
+                      "price": 1600,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1200,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-59-6190cde4a2cb4348b2412cfda058c834-0.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2adff682b069428b8dca5c7b543eaacb",
+                                      "name": "大份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "b581dd4b94d04f77aa148856f83f2990",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "34dd2182c9684042af5012ee09f708e0",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-1.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "秘制黄焖茄子",
+                      "originPrice": 1900,
+                      "price": 1900,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1300,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-71-6190cde4a2cb4348b2412cfda058c834-1.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2ef26a36c1ea44afac2d73153522a109",
+                                      "name": "小份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "b581dd4b94d04f77aa148856f83f2990",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "51d65610875b4125a15117c9baa68185",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-1.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "秘制黄焖茄子",
+                      "originPrice": 1600,
+                      "price": 1600,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1400,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-90-6190cde4a2cb4348b2412cfda058c834-1.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  }
+              ]
+          },
+          {
+              "category": {
+                  "id": "3756f5f4e3824e8e93b897c942778ff9",
+                  "name": "招牌黄焖系列+米饭",
+                  "sort": 1200
+              },
+              "dishList": [
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2ef26a36c1ea44afac2d73153522a109",
+                                      "name": "小份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "441d5415dfb94a15a0aa8b854aeed835",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-2.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "招牌黄焖鸡",
+                      "originPrice": 1900,
+                      "price": 1900,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1500,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-90-6190cde4a2cb4348b2412cfda058c834-2.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2adff682b069428b8dca5c7b543eaacb",
+                                      "name": "大份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "aa29dcf709184e118880bd8cfb216756",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-2.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "招牌黄焖鸡",
+                      "originPrice": 2400,
+                      "price": 2400,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1600,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-28-6190cde4a2cb4348b2412cfda058c834-2.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2ef26a36c1ea44afac2d73153522a109",
+                                      "name": "小份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "f351690dad6a46408e74c8c857775b36",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-3.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖排骨",
+                      "originPrice": 2400,
+                      "price": 2400,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1700,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-38-6190cde4a2cb4348b2412cfda058c834-3.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2adff682b069428b8dca5c7b543eaacb",
+                                      "name": "大份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "a92e9e1908e04b23affc6de0445ecd60",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-3.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖排骨",
+                      "originPrice": 2900,
+                      "price": 2900,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1800,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-91-6190cde4a2cb4348b2412cfda058c834-3.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2ef26a36c1ea44afac2d73153522a109",
+                                      "name": "小份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "e4f88457910f461abffb4f42264cf03d",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-4.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖牛腩",
+                      "originPrice": 2400,
+                      "price": 2400,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 1900,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-58-6190cde4a2cb4348b2412cfda058c834-4.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2adff682b069428b8dca5c7b543eaacb",
+                                      "name": "大份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "98c1b0ed2589411ebc7451b85e03aff7",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-4.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖牛腩",
+                      "originPrice": 2900,
+                      "price": 2900,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2000,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-40-6190cde4a2cb4348b2412cfda058c834-4.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2ef26a36c1ea44afac2d73153522a109",
+                                      "name": "小份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "fa1df63013aa4efdad3e3c084637c731",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-5.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖水豆腐",
+                      "originPrice": 1600,
+                      "price": 1600,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2100,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-35-6190cde4a2cb4348b2412cfda058c834-5.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "2adff682b069428b8dca5c7b543eaacb",
+                                      "name": "大份",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "SPECIFICATION"
+                                  }
+                              ],
+                              "groupId": "b673ae049579481786c62acc96f652cf",
+                              "groupName": "份量",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "0b6ca7f614684098af8cfbbdac0d14ec",
+                                      "name": "金针菇",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "28c7c1212e574246b14a7ba33f8dc483",
+                                      "name": "黄焖荷包蛋",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fb43d6b7b2a045ed8ff5db2ccc30fc34",
+                                      "name": "黄焖豆腐泡",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "26a5e03efb2f434fb32734449b97e190",
+                                      "name": "黄焖腐竹",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "591aa87050654e7283963775f4aeb64c",
+                                      "name": "土豆",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "048c259fe01a4a96bdf524a62541342a",
+                                      "name": "青菜",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "fdf7326c3de5449690c47e93bf4ddc22",
+                                      "name": "不加料",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "26f8f3891a444070a23d88620b26a48c",
+                              "groupName": "加料",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "91cec04defd74b69afcba35803a6e1ed",
+                                      "name": "清凉茶柠檬汁特惠1元",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d3e1c7fe222c4f7593d9f34b9da34aee",
+                                      "name": "绿豆冰沙特惠2元",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "db552ff30d5e47aab7f86823bee1e196",
+                                      "name": "北冰洋黄焖伴侣特惠5元",
+                                      "reprice": 500,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "cb4cd7b26bb241848be9f825e9520eec",
+                              "groupName": "升级为超值套餐",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "3756f5f4e3824e8e93b897c942778ff9",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "2489dd76ecd2456b871998bd68031d8b",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-5.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖水豆腐",
+                      "originPrice": 2000,
+                      "price": 2000,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2200,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-1-6190cde4a2cb4348b2412cfda058c834-5.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  }
+              ]
+          },
+          {
+              "category": {
+                  "id": "d64f36d6f80143099cc370f5298dca66",
+                  "name": "黄焖素菜-主食伴侣",
+                  "sort": 1300
+              },
+              "dishList": [
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 100,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "de9a0346e09c46cdae153b51cdd73bc0",
+                                      "name": "不辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "d0dd5ca83db14bf9a1577b209610e233",
+                                      "name": "微辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "dd8869e5ca274aeebaac4f9a90e8026c",
+                                      "name": "中辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "45e0929dd1504acf8078c7c165ed847d",
+                                      "name": "特辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  },
+                                  {
+                                      "id": "ff88a2df0f444bc3afd096a2a615e1ad",
+                                      "name": "麻辣",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "e60690a417bf4c498e8ea2d3cca63923",
+                              "groupName": "口味",
+                              "isMultiSelect": false
+                          },
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "7801a7cdffb8496f86527e42f10336cb",
+                                      "name": "米饭",
+                                      "reprice": 200,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "83eb617e61c94ce5b10e095a7e212e0b",
+                              "groupName": "加",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "d64f36d6f80143099cc370f5298dca66",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "98305f2096d1410b9217a495a9a71e87",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-6.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黄焖生菜(不含米饭)",
+                      "originPrice": 1200,
+                      "price": 1200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2300,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-79-6190cde4a2cb4348b2412cfda058c834-6.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  }
+              ]
+          },
+          {
+              "category": {
+                  "id": "7f0d993afc9d4fcb94e7b2b050dea7d7",
+                  "name": "最佳黄焖伴侣北冰洋、回到初恋的感觉",
+                  "sort": 1400
+              },
+              "dishList": [
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "7f0d993afc9d4fcb94e7b2b050dea7d7",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "04717db2251b45648d61dabda16a81fa",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-7.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "冰爽两重天炎炎夏日解暑神器北冰洋",
+                      "originPrice": 600,
+                      "price": 600,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2400,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-28-6190cde4a2cb4348b2412cfda058c834-7.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  }
+              ]
+          },
+          {
+              "category": {
+                  "id": "28ffa6ad302846b58cc7981b9a5e30f2",
+                  "name": "饮料类",
+                  "sort": 1500
+              },
+              "dishList": [
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "43328074604c440697f0399c93adc6e8",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-8.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "绿豆冰沙特惠2元",
+                      "originPrice": 250,
+                      "price": 250,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2500,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-30-6190cde4a2cb4348b2412cfda058c834-8.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "16c33fbde7714d968e8aba3937726714",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-8.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "绿豆冰沙",
+                      "originPrice": 250,
+                      "price": 250,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2500,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-54-6190cde4a2cb4348b2412cfda058c834-8.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "43148bdca3ee424f8f1e80b0c43a1afc",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-9.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "北冰洋气水",
+                      "originPrice": 600,
+                      "price": 600,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2600,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-43-6190cde4a2cb4348b2412cfda058c834-9.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "fb73b6b6cd42462db939ae43ba28f00f",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-10.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "维他奶",
+                      "originPrice": 300,
+                      "price": 300,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2700,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7-6190cde4a2cb4348b2412cfda058c834-10.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "9a427347923146dbb8c2c92a4752df11",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-11.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "可乐铝罐",
+                      "originPrice": 300,
+                      "price": 300,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2800,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-47-6190cde4a2cb4348b2412cfda058c834-11.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "330990e466814a73b5e5ed8d412b13db",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-12.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "芬达铝罐",
+                      "originPrice": 300,
+                      "price": 300,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 2900,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-89-6190cde4a2cb4348b2412cfda058c834-12.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "83383338606d471ab3883edefe53a1b2",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-13.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "雪碧铝罐",
+                      "originPrice": 300,
+                      "price": 300,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3000,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-3-6190cde4a2cb4348b2412cfda058c834-13.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "476ffa622e1d44c1bf24ae10b5c26c98",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-14.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "小可乐",
+                      "originPrice": 250,
+                      "price": 250,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3100,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-75-6190cde4a2cb4348b2412cfda058c834-14.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "ce4300bf5bfe4ee8b28558f294882190",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-15.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "小美年达塑料瓶装",
+                      "originPrice": 250,
+                      "price": 250,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3200,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-44-6190cde4a2cb4348b2412cfda058c834-15.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "24a3da52d1194e40bfde264e43910b5f",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-16.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "桂花酸梅汤",
+                      "originPrice": 400,
+                      "price": 400,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3300,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-0-6190cde4a2cb4348b2412cfda058c834-16.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "c26b012dee4d437b82f3c0545ad25243",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-17.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "百香果汁",
+                      "originPrice": 400,
+                      "price": 400,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3400,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-13-6190cde4a2cb4348b2412cfda058c834-17.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "b9f45f1ce41745329234203db2ed7f5d",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-18.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "葡萄汁",
+                      "originPrice": 400,
+                      "price": 400,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3500,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-96-6190cde4a2cb4348b2412cfda058c834-18.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "961e4871080e409f80ac501e127d523d",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-19.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "维他柠檬茶罐",
+                      "originPrice": 500,
+                      "price": 500,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3600,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-62-6190cde4a2cb4348b2412cfda058c834-19.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "a8de94db6f02441792ef926e324b7244",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-20.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "王老吉",
+                      "originPrice": 500,
+                      "price": 500,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3700,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-9-6190cde4a2cb4348b2412cfda058c834-20.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "c842f16613c741818dc03910e4894d2e",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-21.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "维他柠檬茶",
+                      "originPrice": 300,
+                      "price": 300,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3800,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-64-6190cde4a2cb4348b2412cfda058c834-21.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "b7deba7a61fd4640b69774565c0767b7",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-22.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "可乐大瓶1.25L",
+                      "originPrice": 700,
+                      "price": 700,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 3900,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-23-6190cde4a2cb4348b2412cfda058c834-22.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "7a22395267dc4de2be971e5272276349",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-23.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "雪碧大瓶1.25L",
+                      "originPrice": 700,
+                      "price": 700,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4000,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-36-6190cde4a2cb4348b2412cfda058c834-23.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "b562eee17cde44f4a5d7634991964990",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-24.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "测试菜（勿点）",
+                      "originPrice": 1,
+                      "price": 1,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4100,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-61-6190cde4a2cb4348b2412cfda058c834-24.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "d75c54cc68bf4a7a9b073d4a2e35e195",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-25.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "矿泉水",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4200,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-66-6190cde4a2cb4348b2412cfda058c834-25.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "63cdd5cbcd4d415cb1c7bd9912b42c7e",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-26.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "蜂蜜柠檬汁",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4300,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-67-6190cde4a2cb4348b2412cfda058c834-26.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "2f29f92f87a94e5dbf66a31194bcf281",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-27.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "清凉茶",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4400,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-87-6190cde4a2cb4348b2412cfda058c834-27.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "14f0377bde86402cb959c175c8cff6bc",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-28.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "芒果汁纸盒",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4500,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-11-6190cde4a2cb4348b2412cfda058c834-28.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "47956b62e793436db21ce84724ff3ea7",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-29.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "菊花茶",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4600,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-15-6190cde4a2cb4348b2412cfda058c834-29.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "575bc07a282d40cb88fb6c161a072eb4",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-30.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "维他奶纸盒",
+                      "originPrice": 300,
+                      "price": 300,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4700,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-72-6190cde4a2cb4348b2412cfda058c834-30.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "d0ec05610f5d491b95fda0e0c6b56d04",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-31.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "青岛啤酒玻璃瓶",
+                      "originPrice": 500,
+                      "price": 500,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4800,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-5-6190cde4a2cb4348b2412cfda058c834-31.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "28ffa6ad302846b58cc7981b9a5e30f2",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "a639df1674584ebcab84f3725d4ef3a2",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-32.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "果粒橙",
+                      "originPrice": 1000,
+                      "price": 1000,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 4900,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-47-6190cde4a2cb4348b2412cfda058c834-32.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  }
+              ]
+          },
+          {
+              "category": {
+                  "id": "03e4b9a8870442e3ab528249dd3ab89f",
+                  "name": "其他",
+                  "sort": 1600
+              },
+              "dishList": [
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "03e4b9a8870442e3ab528249dd3ab89f",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "b7c1624806b14ee1883d63ac59297013",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-33.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "米饭",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 5000,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-4-6190cde4a2cb4348b2412cfda058c834-33.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  },
+                  {
+                      "attrList": [
+                          {
+                              "attrs": [
+                                  {
+                                      "id": "09e44022d1834b8988a3c581d7c1d049",
+                                      "name": "打包",
+                                      "reprice": 0,
+                                      "status": "NORMAL",
+                                      "type": "TASTE"
+                                  }
+                              ],
+                              "groupId": "d4521438a22042ceaddb51cf1474ed4b",
+                              "groupName": "要求",
+                              "isMultiSelect": true
+                          }
+                      ],
+                      "availableCopies": 0,
+                      "boxQty": 0,
+                      "categoryId": "03e4b9a8870442e3ab528249dd3ab89f",
+                      "childDishGroups": [],
+                      "discountPrice": 0,
+                      "dishType": "SINGLE",
+                      "hasDiscount": true,
+                      "id": "625c3ed0077542cdbe24d2d58cf4ad79",
+                      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-34.png",
+                      "isIFeedU": false,
+                      "isVerificationDish": false,
+                      "marketPrice": 0,
+                      "minOrderNum": 0,
+                      "name": "黃焖荷包蛋不含米饭",
+                      "originPrice": 200,
+                      "price": 200,
+                      "saleTimeStr": "",
+                      "soldNumber": 0,
+                      "sort": 5100,
+                      "status": "NORMAL",
+                      "supplyCondimentUplimit": 0,
+                      "supplyCondiments": [],
+                      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-12-6190cde4a2cb4348b2412cfda058c834-34.png",
+                      "type": "MENU",
+                      "uuid": ""
+                  }
+              ]
+          }
+      ],
+      "enableEatIn": true,
+      "enableGroupDining": false,
+      "enableRecommendDish": false,
+      "enableTakeAway": false,
+      "groupDiningEventId": "",
+      "minimalBillFee": 0,
+      "packageFeePerProduct": 0,
+      "packagingBoxConfig": {},
+      "peopleCount": 0,
+      "phone": "",
+      "redPacketDiscount": {
+          "maxRedPacketPercentage": 0,
+          "maxValueCap": 0,
+          "minRedPacketPercentage": 0
+      },
+      "reminderCategories": {},
+      "requiredOrderItems": [],
+      "shippingFee": 0,
+      "splashImageUrl": ""
+  }
+}

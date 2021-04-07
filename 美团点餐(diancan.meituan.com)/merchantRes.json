@@ -1,0 +1,586 @@
+{
+	"shopName": "烧鹅侠（金色领域店）",
+	"categories": [
+		{
+			"name": "默认分类",
+			"foods": [
+				{
+					"name": "烧鸭饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/78e39cf4fb7e2c329fa79f1d5b66dba3174333.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "默认分类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "自选双拼（三拼）",
+			"foods": [
+				{
+					"name": "烧鸭双拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7609f2af12acbedb6aaa08b0ca71f876182519.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "自选双拼（三拼）",
+					"props": []
+				},
+				{
+					"name": "烧味双拼饭.",
+					"picUrl": "http://p0.meituan.net/erpbossapi/3edde24823e42d82eda8d2622e202e7d181881.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "自选双拼（三拼）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "单人套餐",
+			"foods": [
+				{
+					"name": "虫草花瘦肉汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6ca90fbe409cfa7a145c727f306c04e8298143.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "椰子乌鸡汤",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d25eec5916ef775084e78dd462146005108030.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "雪梨菜干猪肺汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c215e03460d93aa77c8850947d439481296986.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "松茸排骨汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c06ea0b1e9b3841acd17c256a671ace8258695.jpg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧鹅饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fe05da2d96b5f8cefdb250072019cf2e184685.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "咸香鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/1e3a67767de406cd1d6bffa1c667e6cb165304.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "豉油鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/bac3f2757cc3dad94a89bc0b16024246175666.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "白切鸡饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/f2a200895a620ad1335fb70b288ace7c177050.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "手撕鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/0cf3e00282907ac5cc19b74f80bcb557175542.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧肉饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/22d3476a2aeccb4f6fc2d998a1346b45129612.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "叉烧饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6354963cd676c03fb540daf6e49b4899169985.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "排骨饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/9cda8f886d7fd90a86b39d1489cd7de4130977.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "蜜计鸡翅饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ee095426843ce9852ea274f5e94e2377122650.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "香辣猪耳",
+					"picUrl": "http://p0.meituan.net/erpbossapi/98754d6b14c6465b6d52295df443a758147134.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "香辣鸭肾",
+					"picUrl": "http://p1.meituan.net/erpbossapi/f517c070692a26cb64f24aeba5f0ffc6144368.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "卤水拼盘",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e766cd3535dd5e67b656aa9858f6403f405552.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "卤水耳肾",
+					"picUrl": "http://p1.meituan.net/erpbossapi/f391b517c682ec9a298e815709e2963b165094.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸡腿饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/cfcec8f99d3b36991f89194f683e1bd4122056.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸭腿饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ddd26c564d7969cd22208fb56fd384d6187426.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鹅腿饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/34c7c249d50a0ff657834b9594adf132132337.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸡腿拼鸭腿",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鹅腿拼鸭腿饭",
+					"picUrl": "",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "香辣拼盘饭",
+					"picUrl": "",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "香辣手撕鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c0b847cdb4a6b732704b7a6986716deb162594.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧味双拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/792f95f5e92d2ad5160e435cadc79cab188314.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧味三拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c52066fcc7bf50185456f205902a7e78183424.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧鸭双拼饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d407d080e81cf1fdc15dc930e9f48e04181396.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧鸭三拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b6f23414a020018ac7751625b2e15ee2184223.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧鹅双拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/46928713c18739c2ca1ff4a66f0c9f5f179665.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "烧鹅三拼饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/3995db165ba3ba27d2854160712cc6ec183729.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸡腿双拼",
+					"picUrl": "http://p1.meituan.net/erpbossapi/4c68d6b104c0cc05370fab8436a254a1181506.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸡腿三拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b6065be94d83b2cbea8c3abedd5abf7f186021.jpg",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸭腿双拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/dd1fc5305aa44ef8d4544767eddd53fc184825.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸭腿三拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5ade5ea1855d5df3d501686cfcb32b42539133.jpg",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鹅腿双拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4c30f801b11a86c009d76b0642b23f94184812.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鹅腿三拼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fceb49a2098a1ad35127dcdbfed3cb05186193.jpg",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "脆皮烧鸭饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/aea98fd455ab4cf3412e2c6b774fd785173794.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "香辣三拼",
+					"picUrl": "",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "鸭脖饭",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				},
+				{
+					"name": "葱油鸡",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "斩料",
+			"foods": [
+				{
+					"name": "手撕鸡",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "鹅头颈一条",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "白切鸡半只",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "咸香鸡半只",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "酱油鸡半只",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "鹅头",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "姜蓉",
+					"picUrl": "",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "鹅掌翼",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				},
+				{
+					"name": "煌上煌卤蛋",
+					"picUrl": "",
+					"price": 2.5,
+					"unit": "份",
+					"categoryName": "斩料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料",
+			"foods": [
+				{
+					"name": "纯生高罐",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "菠萝啤",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "美年达罐装",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "可口可乐咖啡摩登罐",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "东鹏特饮大瓶",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "柠檬茶盒装",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "美年达瓶装",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "健力宝罐装",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "维他奶摩登装",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "辣椒酱",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "玻璃瓶",
+					"picUrl": "",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "果粒橙",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "豆奶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "东方树叶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "扫码点餐",
+			"foods": []
+		}
+	]
+}

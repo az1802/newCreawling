@@ -1,0 +1,4759 @@
+{
+	"shopName": "重庆小面万科云城店",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "六道招牌菜",
+			"foods": [
+				{
+					"name": "酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/1adc16ae986800fbb88764df3f58d655.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/ac7de99caa2b7e9a174f4c932b33740b.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红油抄手",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/b2e6190d6345dfbd7af8e06db94a52c9.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/f1d5c0a0d6ef98509383462323d764ab.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧 肥肠面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/91cf431dcc48346b3a86cc1f685143a9.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9cdcdc71c6d1057b217e4159db834a642a6c9ffd.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "可乐",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/6d43055b7a24bce45cc3584270facd85.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "3.50",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冰",
+									"price": "0.00",
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "不冰",
+									"price": "0.00",
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/b64b01ea3a397bc3a00352aaa89c3dd2.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "3.50",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "常温",
+									"price": "0.00",
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "冰",
+									"price": "0.00",
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/a52412d003ab1e198c9af25c8cc09945.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "4.00",
+					"unit": "份",
+					"categoryName": "六道招牌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "常温",
+									"price": "0.00",
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "冰",
+									"price": "0.00",
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "面类",
+			"foods": [
+				{
+					"name": "重庆红油小面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/2485a5c4e1807d89165e651ba0c2bd76.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣小面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/61685cebe48ec20b13bab3f1564104d6.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干捞杂酱面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/6d11993eac0fefbb3e62fae9db32e927.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豌豆杂酱面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/0af2545ad3cd555aff6279294ced7a6a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤杂酱面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小菜",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "小菜",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "小菜",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "小菜",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "抄手面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/51cbe89e1f93efbd6034bd4d5b749a62.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/6e2d0afc53f0c990ef36ba986489725c43ff5373.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/073f8fa256ba64ddf4f0f7011a2a60638e5fc1bb.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜鸡杂面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/7d1995b7506f16286902905ad271dfad.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "清汤排骨面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧 牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/f1d5c0a0d6ef98509383462323d764ab.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/8455535dfa6b012d805647a798083f90.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肚面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "25.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱刀削面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红油刀削面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠刀削面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉刀削面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "粉类",
+			"foods": [
+				{
+					"name": "重庆红油米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干捞杂酱粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豌豆杂酱粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "抄手粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/4e45542982b2f6215b254ab35abe5d00.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/df453bf82251121db946225d63c1d35a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜鸡杂粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/77958f8a36a1f465b473602a41b16d6c.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "清汤排骨粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/1fde8da77bef50e66352022beb3c5e68.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a5b6a56b810582fbd66b87ecdf41d40152ccb360.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/9f986b21cc8ca8a444f07b10fd0e9895.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肚粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/694e4d2891c6a5e468f5530aaa63a6a6.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "25.00",
+					"unit": "份",
+					"categoryName": "粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酸辣粉",
+			"foods": [
+				{
+					"name": "正宗重庆酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/aeeda4d0f947c1f8d809c308ddb290b7.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/7644cf0cb4d96d443dc8fcd0c0cbe080.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "21.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/597073747664154236f3f697569bbc6c.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "21.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/c5cb3256c41a3a7d0aecaf64b829f618.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "21.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/59d41f5a16a1bb2496e77535f3cf159d.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/6f0e04c8b48f74004349fd9d03a233c0.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/45e0fbb9e4846b3c102898057b26082a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "24.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肚酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/1f975d9663e95beeba2b5c70331e3a0d.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "26.00",
+					"unit": "份",
+					"categoryName": "酸辣粉",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "米饭类",
+			"foods": [
+				{
+					"name": "卤肉 饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9cdcdc71c6d1057b217e4159db834a642a6c9ffd.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "米饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "焖鸭饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a5ef1474804aa4f20f64ab75a44635a078bf36b0.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "米饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣鸡杂饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e5ebe25440429573c519352b9d4ee9a5e00f666a.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "米饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/acd613aa576be5cd46160822c04908374d5764b6.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "25.00",
+					"unit": "份",
+					"categoryName": "米饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/530d7e8d13dec21b71d90677fd1afa0671cb579e.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "25.00",
+					"unit": "份",
+					"categoryName": "米饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/7593212984207d420351ec36b5dc4c168be4f3d3.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "25.00",
+					"unit": "份",
+					"categoryName": "米饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "抄手类",
+			"foods": [
+				{
+					"name": "干捞抄手",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/775f1c6ab46c04c229b21ec8dedc479d.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "抄手类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "清汤抄手",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/8129dafb1ef2e34280c7299388da55f8.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "抄手类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红油 抄手",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/ef11d75d8dd8b29be08f664cc80167bd.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "抄手类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "河粉类",
+			"foods": [
+				{
+					"name": "红油河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣鸡杂河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "23.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "22.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝河粉",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": "20.00",
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料区",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "火腿肠",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								},
+								{
+									"value": "海带丝",
+									"price": "3.00",
+									"propName": "加料区",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "中辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "微辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								},
+								{
+									"value": "不辣",
+									"price": "0.00",
+									"propName": "辣度",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "加料区",
+			"foods": [
+				{
+					"name": "牛肉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/33fdc0ce8790695e88955287e5d4bca7.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/384fae2a579f2186273d16e8fa5b4e02eef8d7f1.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肚",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/fdd55165e4afa790e17f2757d92c192a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/7db31632b58384bd435e852c933f259a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡杂",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/e0e4a25bbeb9328acfcbe8383fdd1dda.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "10.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉丝",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/df671268daca2ec48be199b562930f7b.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "10.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/ba940b607128031f5406e1c5d51eef11.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "10.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "伴生菜",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/537de29e2eed71cb604c0205bf00b3ca.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "10.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/922bed6744b061a8a14994c639e93315.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "3.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷包蛋",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9af64e4560d6aa47b607ccf6eafb84f44a53cdd7.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "3.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "火腿肠",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/bfc43e4fd7df2a3b55f312c30bc9374afc95989f.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "3.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海带丝",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/14609/goods/d94f4fc326b245773551b73d57fe8b2a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": "3.00",
+					"unit": "份",
+					"categoryName": "加料区",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "不加钱",
+									"price": 0,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

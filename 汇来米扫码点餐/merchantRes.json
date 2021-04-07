@@ -1,0 +1,5376 @@
+{
+	"shopName": "天下客木桶饭",
+	"categories": [
+		{
+			"name": "干锅类",
+			"foods": [
+				{
+					"name": "干锅手撕包菜",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412140054.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干锅土豆片",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412150023.jpg",
+					"price": 2600,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干锅莴笋腊肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412150054.jpg",
+					"price": 3200,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干锅肥肠",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412120048.jpg",
+					"price": 3200,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干锅牛腩",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412130057.jpg",
+					"price": 3500,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干锅 田鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412130023.jpg",
+					"price": 3800,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干锅牛肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412140024.jpg",
+					"price": 4200,
+					"unit": "份",
+					"categoryName": "干锅类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "木桶饭(快餐类)",
+			"foods": [
+				{
+					"name": "泡椒田鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/泡椒田鸡.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧茄子饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413060004.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆片炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412430010.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "韭菜炒蛋饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413040030.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆片回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412400025.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "四季豆肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412480021.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "时蔬炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412500049.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "油豆腐肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412250054.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜炒蛋饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413000055.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芹菜香干肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412530002.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜小笋肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412420007.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼香肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412240034.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒蛋饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412510050.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烟笋炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412290051.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜台回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412450014.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "榨菜蛋炒饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412230000.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "脆笋炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110410400011.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸萝卜丝肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412590039.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "四季豆回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412460008.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香干回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412310006.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白萝卜丝肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110317440041.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青豆角肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412520030.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "冬瓜肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110317480023.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "外婆菜炒蛋饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412380008.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "榨菜肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412210015.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412390045.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "油豆腐回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412260031.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "家常豆腐饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413010037.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "萝卜干炒蛋饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412550049.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "外婆菜炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412380038.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青瓜肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412460035.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸豆角肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412400055.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412510022.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻婆豆腐饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412540012.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干豆角回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411170020.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜台肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412440009.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧土豆丁饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413050034.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412290024.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412560018.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪里红肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412300018.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆芽肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110317520056.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青瓜火腿饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412500020.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红萝卜肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413060031.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "攸县香干肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412280052.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "萝卜干肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412540046.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412410030.jpg",
+					"price": 1000,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧猪血饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413050003.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莲藕肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413020007.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄鸡蛋饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413150029.jpg",
+					"price": 1200,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莴笋肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412390016.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕包菜饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412490052.jpg",
+					"price": 1000,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茄子豆角肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412530039.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜香干肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412420039.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "韭菜肉沫饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413030046.jpg",
+					"price": 1300,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413210022.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "脆笋腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413160024.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鸡块",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/红烧鸡块.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣小鱼仔饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/香辣小鱼仔饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老干妈猪肚饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/老干妈猪肚饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干豆角红烧肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412030000.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芹菜牛肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/芹菜牛肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸鱼茄子饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/咸鱼茄子饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "井岗烟笋腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/井岗烟笋腊肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413120052.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒鸡杂饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/尖椒鸡杂饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/香菇肉丝饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "家常拆骨肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/家常拆骨肉饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹排骨饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/腐竹排骨饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜牛肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/凉瓜牛肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "湘味猪肝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413280035.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "油豆腐拆骨饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412280022.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒肥肠饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/爆炒肥肠饭.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小笋腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/小笋腊肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/腐竹肉丝饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/小炒腊肉饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鱼块饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/红烧鱼块饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莴笋腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/莴笋腊肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆排骨饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412370016.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣鸡杂饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/酸辣鸡杂饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "农家一碗香饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412570040.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷包蛋拆骨肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413090010.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹牛肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/腐竹牛肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆腐鱼块饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/豆腐鱼块饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老干妈猪肝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/老干妈猪肝饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜红烧肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412470050.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金针菇牛肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/金针菇牛肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "油豆腐牛腩饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/油豆腐牛腩饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "萝卜丝牛肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/萝卜丝牛肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸萝卜猪肚饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/酸萝卜猪肚饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小南瓜肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/小南瓜肉丝饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "湘味猪肚饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/湘味猪肚饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "包菜回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/包菜回锅肉饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒鸡饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/木耳炒鸡饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆焖鸡饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/土豆焖鸡饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹红烧肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/腐竹红烧肉饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/红烧排骨饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹牛腩饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/腐竹牛腩饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "冬菇滑鸡饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/冬菇滑鸡饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花菜炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/花菜炒肉饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金针菇肉丝饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/金针菇肉丝饭.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣子鸡丁饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/辣子鸡丁饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "野山椒牛肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/野山椒牛肉饭.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣肥肠饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/酸辣肥肠饭.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干张腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413100020.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "啤酒鸭饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/啤酒鸭饭.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干豆角腊肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/干豆角腊肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷包蛋回锅肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110413080005.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "农家小炒肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/农家小炒肉饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "时蔬炒鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/时蔬炒鸡.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆红烧肉饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/土豆红烧肉饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "冬菇排骨饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/冬菇排骨饭.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜鱼块饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/酸菜鱼块饭.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "日本豆腐饭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412490018.jpg",
+					"price": 1400,
+					"unit": "份",
+					"categoryName": "木桶饭(快餐类)",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "水煮类",
+			"foods": [
+				{
+					"name": "水煮鱼",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412070023.jpg",
+					"price": 3800,
+					"unit": "份",
+					"categoryName": "水煮类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜鱼",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412070058.jpg",
+					"price": 3800,
+					"unit": "份",
+					"categoryName": "水煮类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "水煮肉片",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412060000.jpg",
+					"price": 3800,
+					"unit": "份",
+					"categoryName": "水煮类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "水煮田鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412060040.jpg",
+					"price": 3800,
+					"unit": "份",
+					"categoryName": "水煮类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "毛血旺",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412040013.jpg",
+					"price": 3800,
+					"unit": "份",
+					"categoryName": "水煮类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "水煮牛肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412050024.jpg",
+					"price": 4800,
+					"unit": "份",
+					"categoryName": "水煮类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "新增菜品",
+			"foods": [
+				{
+					"name": "啤酒鸭",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411240017.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "新增菜品",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411190043.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "新增菜品",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411250017.jpg",
+					"price": 1000,
+					"unit": "份",
+					"categoryName": "新增菜品",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老干妈煎蛋",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411220022.jpg",
+					"price": 1500,
+					"unit": "份",
+					"categoryName": "新增菜品",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷包煎蛋",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110712210035.jpg",
+					"price": 200,
+					"unit": "个",
+					"categoryName": "新增菜品",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "靓汤类",
+			"foods": [
+				{
+					"name": "三鲜汤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412100002.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "靓汤类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "榨菜肉丝汤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412110042.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "靓汤类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "紫菜蛋花汤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412120013.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "靓汤类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿蛋花汤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412110011.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "靓汤类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金针菇肉丝汤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412090028.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "靓汤类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青瓜皮蛋肉丝汤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412080050.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "靓汤类",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "农家风味（小炒类）",
+			"foods": [
+				{
+					"name": "清炒时蔬",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411450016.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411480045.jpg",
+					"price": 1600,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕包菜",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411450059.jpg",
+					"price": 1800,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒蛋",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411440029.jpg",
+					"price": 2200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干煸四季豆",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411210027.jpg",
+					"price": 2200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茄子豆角",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411430052.jpg",
+					"price": 2200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莴笋肉片",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411520006.jpg",
+					"price": 2200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "家常豆腐",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411410058.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "湘西外婆菜",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411390043.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣鸡杂",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411470039.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "农家小炒肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411400033.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "攸县香干",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411300019.jpg",
+					"price": 2600,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香干回锅肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411560012.jpg",
+					"price": 2800,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "虎皮尖椒",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411410010.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "农家一碗香",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411430017.jpg",
+					"price": 2800,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒回锅肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411420040.jpg",
+					"price": 2500,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莴笋腊肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411510022.jpg",
+					"price": 3000,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇 滑鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411590032.jpg",
+					"price": 3200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒牛肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411330059.jpg",
+					"price": 3600,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "湘味猪肚",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412010002.jpg",
+					"price": 3600,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "湘味辣子鸡",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110412000018.jpg",
+					"price": 3200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土匪猪肝",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411500035.jpg",
+					"price": 2800,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒腊肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411340053.jpg",
+					"price": 3000,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒肥肠",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411190020.jpg",
+					"price": 3200,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "野山椒牛肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411320045.jpg",
+					"price": 3600,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烟笋腊肉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110411330022.jpg",
+					"price": 3000,
+					"unit": "份",
+					"categoryName": "农家风味（小炒类）",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "中辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								},
+								{
+									"value": "大辣",
+									"price": "0",
+									"propName": "辣度",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酒水饮品",
+			"foods": [
+				{
+					"name": "加多宝",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418220012.jpg",
+					"price": 400,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418240043.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418250044.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418190036.jpg",
+					"price": 400,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "天地一号",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418270002.jpg",
+					"price": 500,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418310003.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "豆奶",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418320058.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "菠萝啤",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418380049.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "椰子汁",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418410012.jpg",
+					"price": 500,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418280036.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418340033.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "美年达",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418350043.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "水蜜桃",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418370039.jpg",
+					"price": 300,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "哈尔滨啤酒",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418430001.jpg",
+					"price": 500,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "百威啤酒",
+					"picUrl": "https://cdn.fuioupay.com/sys/scte/0002900F3608906/2020110418440016.jpg",
+					"price": 800,
+					"unit": "份",
+					"categoryName": "酒水饮品",
+					"props": []
+				}
+			]
+		}
+	]
+}

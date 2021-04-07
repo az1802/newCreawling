@@ -1,0 +1,2389 @@
+{
+  "data": {
+    "dinerUplimit": 16,
+    "dishes": [
+      {
+        "category": {
+          "id": "91611c0e636648d1ae783e27be679793",
+          "name": "手工饺子",
+          "sort": 1100
+        },
+        "dishList": [
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "978a6aee93774f53a7f8ac3d0b5ad0b7",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-1.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "芹菜鲜肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1100,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-1.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "252fbc84a0cc441799cda9190d7193d0",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-1.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "芹菜鲜肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1200,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-1.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "41d6c11f50df496088b610eeb624d8cf",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-2.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "白菜猪肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1300,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-2.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "6cf9e2e6b49c49e4878a2921cf379b5b",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-2.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "白菜猪肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1400,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-2.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "4277c79cc3a043bbb635bf2a5a393924",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-3.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "韭菜鸡蛋饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1500,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-3.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "749502e074e84077aacfcebe694f6995",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-3.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "韭菜鸡蛋饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1600,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-3.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "8869f7ce80b4404aa97f6dece2e7e699",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-4.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "香菇鲜肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1700,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-4.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "ba5dbbfcf65a401489693cfd83c0113c",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-4.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "香菇鲜肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1800,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-4.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "5d90a9514adc4957afb98d350e9c447f",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-5.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "西葫芦鸡蛋饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 1900,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-5.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "b0ad2fc89b4d4abea4ea93ba85388b5f",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-5.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "西葫芦鸡蛋饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2000,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-5.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "bacae80ce63f4072b00f3fccb2ade3ba",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-6.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "韭菜鲜肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2100,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-6.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "e761dfc89e0e4444a0ea04bdb5a0a71b",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-6.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "韭菜鲜肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2200,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-6.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "3bbdb13473dc4f2c9382a469b464214f",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-7.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "茴香鲜肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2300,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-7.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "1c5bfb462c1a4aab833573b42167c0e0",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-7.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "茴香鲜肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2400,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-7.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "523ac8807d304ea4aa8e7830dfeb229c",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-8.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "玉米鲜肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2500,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-8.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "6e71d12cba22436690f04e381c14599a",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-8.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "玉米鲜肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2600,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-8.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "abc4f94947df456da037a7fd298ac480",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-9.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "酸菜鲜肉饺",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2700,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-9.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "badce632fb6e4974af5d14b632aa8e57",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-9.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "酸菜鲜肉饺",
+            "originPrice": 2400,
+            "price": 2400,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2800,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-9.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "aadaad507922410195c5ef3a4726a4f5",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-10.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "大葱鲜肉饺",
+            "originPrice": 2100,
+            "price": 2100,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 2900,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-10.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "c46c39b590504eeaaaf7a7e58a8d6add",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-10.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "大葱鲜肉饺",
+            "originPrice": 2800,
+            "price": 2800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3000,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-10.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "08fc56a578824af08ed03e8e4ba7c51c",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-11.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "牛肉饺",
+            "originPrice": 2100,
+            "price": 2100,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3100,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-11.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "92b65171de8e4e308be82f1965e221fa",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-11.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "牛肉饺",
+            "originPrice": 2800,
+            "price": 2800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3200,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-11.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "5659407299b7484aaf91ab885aba02d8",
+                    "name": "15个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "643aec1674904ece99a0c3945f275c51",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-12.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "羊肉饺",
+            "originPrice": 2100,
+            "price": 2100,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3300,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-12.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "c23321a3bd464cdfa9ae3aaa1cbb3d71",
+                    "name": "20个",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "62bedab0fdbb466e8e8576499820607d",
+                "groupName": "数量",
+                "isMultiSelect": false
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "dd32f4a54fb144daabcc1de11241da14",
+                    "name": "汤饺",
+                    "reprice": 200,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "353ee831edbc4e8e9811df46fc817e7d",
+                "groupName": "做法",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "91611c0e636648d1ae783e27be679793",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "780546669d9649c7bf6badbef75fd3f4",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-12.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "羊肉饺",
+            "originPrice": 2800,
+            "price": 2800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3400,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-12.png",
+            "type": "MENU",
+            "uuid": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "id": "29ff2421125e4ae6ba0cbe316da53f99",
+          "name": "凉拌类",
+          "sort": 1200
+        },
+        "dishList": [
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "6389a68fb9514e7ebe625ad0c909d9fb",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-13.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "凉拌土豆丝",
+            "originPrice": 1200,
+            "price": 1200,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3500,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-13.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "2cc6ea857b8d4925998860da36d354ce",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-14.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "凉拌海带丝",
+            "originPrice": 1200,
+            "price": 1200,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3600,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-14.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "939cfd295377417c9c73c6640ba9da54",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-15.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "凉拌黄瓜",
+            "originPrice": 1200,
+            "price": 1200,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3700,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-15.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "b208861521874d338681d1c4cb556976",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-16.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "凉拌木耳",
+            "originPrice": 1200,
+            "price": 1200,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3800,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-16.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "a06c8dbb22f348b18797750625a6acc1",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-17.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "红油皮蛋",
+            "originPrice": 1200,
+            "price": 1200,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 3900,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-17.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "821f184bf0554543955f0df65d5d0b93",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-18.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "凉皮",
+            "originPrice": 1500,
+            "price": 1500,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4000,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-18.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "bba7552039884ade9b7e586ac7b8ef26",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-19.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "凉拌猪耳",
+            "originPrice": 2000,
+            "price": 2000,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4100,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-19.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "c5537e494fa04929a0b18538471dc05f",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-20.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "哈尔滨红肠",
+            "originPrice": 1500,
+            "price": 1500,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4200,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-20.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "7bc483acccf84c578bc117be6c86bd5f",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-21.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "酱骨架",
+            "originPrice": 1500,
+            "price": 1500,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4300,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-21.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "a7a8c84703864b369fdd29758a65fa19",
+                    "name": "半只",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "61554549ccc04573878e4c134ddbd061",
+                "groupName": "规格",
+                "isMultiSelect": false
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "67a82cfdd4e24db7b73498909232b016",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-21.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "东北烧鸡",
+            "originPrice": 2500,
+            "price": 2500,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4400,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-21.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              },
+              {
+                "attrs": [
+                  {
+                    "id": "b95914a40114496ba2a534e380cb3f46",
+                    "name": "整只",
+                    "reprice": 0,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "61554549ccc04573878e4c134ddbd061",
+                "groupName": "规格",
+                "isMultiSelect": false
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "29ff2421125e4ae6ba0cbe316da53f99",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "b984c3cf3e6648409426ea859d80b1c7",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-21.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "东北烧鸡",
+            "originPrice": 4500,
+            "price": 4500,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4500,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-21.png",
+            "type": "MENU",
+            "uuid": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "id": "6c701f5452d1415984c3cf941b27d851",
+          "name": "手工面条",
+          "sort": 1300
+        },
+        "dishList": [
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "6c701f5452d1415984c3cf941b27d851",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "ae8e243a38474f8d8f7837c7e92b2da7",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-23.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "榨菜肉沫打卤面",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4600,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-23.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "6c701f5452d1415984c3cf941b27d851",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "2459f6686eea40bb9a23a080deb12b03",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-24.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "青椒肉沫打卤面",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4700,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-24.png",
+            "type": "MENU",
+            "uuid": ""
+          },
+          {
+            "attrList": [
+              {
+                "attrs": [
+                  {
+                    "id": "d7452ed6247a4fa2bf9078c5c4bd7bb9",
+                    "name": "打包",
+                    "reprice": 100,
+                    "status": "NORMAL",
+                    "type": "SPECIFICATION"
+                  }
+                ],
+                "groupId": "1317d2eaf4ac4cf896191de306a230a3",
+                "groupName": "打包",
+                "isMultiSelect": true
+              }
+            ],
+            "availableCopies": 0,
+            "boxQty": 0,
+            "categoryId": "6c701f5452d1415984c3cf941b27d851",
+            "childDishGroups": [],
+            "discountPrice": 0,
+            "dishType": "SINGLE",
+            "hasDiscount": true,
+            "id": "8dce2bb24e914821987e0b47ffa906cd",
+            "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ba3cab1fd0d49c8b608fd5217bc0d73-25.png",
+            "isIFeedU": false,
+            "isVerificationDish": false,
+            "marketPrice": 0,
+            "minOrderNum": 0,
+            "name": "东北大冷面",
+            "originPrice": 1800,
+            "price": 1800,
+            "saleTimeStr": "",
+            "soldNumber": 0,
+            "sort": 4800,
+            "status": "NORMAL",
+            "supplyCondimentUplimit": 0,
+            "supplyCondiments": [],
+            "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-7ba3cab1fd0d49c8b608fd5217bc0d73-25.png",
+            "type": "MENU",
+            "uuid": ""
+          }
+        ]
+      }
+    ],
+    "enableEatIn": true,
+    "enableGroupDining": false,
+    "enableRecommendDish": false,
+    "enableTakeAway": false,
+    "groupDiningEventId": "",
+    "minimalBillFee": 0,
+    "packageFeePerProduct": 0,
+    "packagingBoxConfig": {},
+    "peopleCount": 0,
+    "phone": "17688479248",
+    "redPacketDiscount": {
+      "maxRedPacketPercentage": 5,
+      "maxValueCap": 1800,
+      "minRedPacketPercentage": 4.5
+    },
+    "reminderCategories": {},
+    "requiredOrderItems": [],
+    "shippingFee": 0,
+    "splashImageUrl": ""
+  },
+  "errcode": 0,
+  "errmsg": "success"
+}
