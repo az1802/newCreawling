@@ -35,7 +35,8 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   }
 }
 
-const attrsSort = ["打包",
+const attrsSort = [
+  "打包",
 "其他",
   "饮料"
 ]

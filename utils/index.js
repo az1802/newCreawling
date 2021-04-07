@@ -169,6 +169,7 @@ menuSetting = {
   practice:[],
   feeding:[],
   remarks:[],
+  propsGroupSort:[]
 }
 */
 
@@ -181,6 +182,17 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
   
   let excelData = [[]];
   let allPropObj = {};
+
+
+  // 调整属性组的顺序
+  categories.forEach(categoryItem => {
+    categoryItem.foods.forEach(foodItem => {
+      handleFoodProps(foodItem,menuSetting)
+    })
+  })
+
+
+
   categories.forEach(categoryItem => {
     categoryItem.foods.forEach(foodItem => {
       let foodName = foodItem.name,
