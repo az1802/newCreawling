@@ -10,16 +10,29 @@ let foodList = merchantMenuInfo.foodList
 const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[ ],//做法
+  practice:[ '煲仔饭',     '喝不喝靓汤',
+  '加料',       '选三种肉菜',
+  '选两种肉菜', '特色荷叶蒸饭',
+  '小吃糖水',   '原味蒸饭',
+  '炒菜类',     '时令炖汤'],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-   
+    "煲仔饭",
+    "选两种肉菜",
+    "选三种肉菜",
+    "特色荷叶蒸饭",
+    "原味蒸饭",
+    "炒菜类",
+    "加料",
+    "小吃糖水",
+    "时令炖汤",
+    "喝不喝靓汤",
   ],
   propsSort: {
   }
@@ -31,8 +44,8 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 
 // 打印日志到test.json 文件夹
-async function logInfo(info) { 
-  fs.writeFileSync("./test.json",JSON.stringify(info,null,'\t'))
+async function logInfo(info,fileName="test") { 
+  fs.writeFileSync("./"+fileName+".json",JSON.stringify(info,null,'\t'))
 }
 
 // 获取原始数据
@@ -46,6 +59,7 @@ let allGroupsName = [];
 
 function formatFoodProps(foodItem) { 
   let propsGroups = foodItem.methodCategories || [];
+  let combosList = foodItem.combosList || [];
   
   let propsRes = propsGroups.map(groupItem => { 
     let groupTemp = {}
@@ -62,9 +76,25 @@ function formatFoodProps(foodItem) {
     })
     return groupTemp
   })
-  //TODO 属性的排序可以在此操作
   
 
+  combosList && combosList.forEach(comboItem => {
+    let groupTemp = {}
+    let basePrice = parseFloat(comboItem.price || 0)
+    groupTemp.name = comboItem.groupName;
+    allGroupsName.indexOf(groupTemp.name) == -1 ? (allGroupsName.push(groupTemp.name)) : "";
+
+    groupTemp.values = comboItem.cdatList.map( cdatItem=> { 
+      return {
+        value: cdatItem.name,
+        price: parseFloat(cdatItem.price),
+        propName:groupTemp.name,
+        isMul:false
+      }
+    })
+
+    propsRes.push(groupTemp)
+  })
 
   return propsRes;
   
@@ -143,7 +173,7 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
-  await logInfo(merchantInfo)
+  await logInfo(merchantInfo ,"merchantRes")
   // return;
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
@@ -159,7 +189,8 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genSpecificationsWord(merchantInfo, outputDir,menuSettingDefault)
+    genWord(merchantInfo, outputDir)
+    genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 }
 

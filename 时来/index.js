@@ -26,26 +26,28 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 
 // 飞蛾模式 menuSetting
-// let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-//   specifications:[],//规格
-//   practice:[],//做法
-//   feeding:[],//加料
-//   remarks: [],//备注
-//   propsGroupSort: [
-//     '默认'
-//   ],
-//   propsSort: {
-//     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
-//   }
-// }
-
-// 客如云模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[ '要求', '份量', '口味', '加料', '升级为超值套餐', '加' ],//做法
+  practice:[ 	"备注（可不选）",
+	"选择做法"],//做法
   feeding:[],//加料
   remarks: [],//备注
+  propsGroupSort: [
+    "备注（可不选）",
+    "选择做法"
+  ],
+  propsSort: {
+    // "口味":["不辣","微辣","中辣","特辣","麻辣"]
+  }
 }
+
+// 客如云模式 menuSetting
+// let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
+//   specifications:[],//规格
+//   practice:[ '要求', '份量', '口味', '加料', '升级为超值套餐', '加' ],//做法
+//   feeding:[],//加料
+//   remarks: [],//备注
+// }
 
 
 
@@ -144,7 +146,6 @@ async function  handleRequestData(requestShopData,requestMenuData) {
     })
 
 
-    console.log(propsGroupArr)
     merchantInfo.categories = categories
     return merchantInfo;
   } catch (err) { 
@@ -163,6 +164,7 @@ async function mkShopDir(shopDir) {
 async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
 
+  logInfo(propsGroupArr,"propsGroupArr")
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
@@ -174,7 +176,7 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    // genWord(merchantInfo, outputDir)
+    genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo,outputDir,menuSetting)
   }
 

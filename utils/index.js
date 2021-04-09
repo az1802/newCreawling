@@ -355,14 +355,10 @@ let menuSettingDefault = { //到处的菜品属性归为规格,备注,加料,做
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "打包",
-    "辣度",
-    "规格",
-    "小菜",
-    "加料区",
+    
   ],
   propsSort: {
-    "辣度":["不辣","微辣","中辣"]
+   
   }
 }
 

@@ -1,524 +1,208 @@
 {
-	"shopName": "杨铭宇 黄焖鸡米饭",
-	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7e4ec6f8-f8fa-4497-8870-c80bb210056b_tmp_6b09196452dd1f5d2ae7df8e54ae8270.jpg",
+	"shopName": "程江捞面馆（庭威店）",
+	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/de1b567c-40eb-49f5-bd05-f447de94c162_tmp_c403432d2e322bdceb1aa1a5c9330af3.jpg",
 	"categories": [
 		{
-			"name": "新品黄焖茄子+米饭",
+			"name": "捞粉面+汤套餐",
 			"foods": [
 				{
-					"name": "秘制黄焖腐竹",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-0.png",
+					"name": "客家腌粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/635f1759-10ad-4502-9c97-1a980410ecb9.jpg",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "新品黄焖茄子+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "大份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
 				},
 				{
-					"name": "秘制黄焖腐竹",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-0.png",
-					"price": 16,
+					"name": "特色捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/764eee33-5433-4394-8f36-1ed78fea205d.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "新品黄焖茄子+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
 				},
 				{
-					"name": "秘制黄焖茄子",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-1.png",
+					"name": "酱肉笋干捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1f86bb8e-3961-44cf-9d9a-64f247dedda0.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				},
+				{
+					"name": "川香捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ccc65c36-e219-4bec-89e5-b4e8cd872612.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				},
+				{
+					"name": "葱油捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b3b184c2-4ab6-459d-a737-996ea9500ca8.JPG",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				},
+				{
+					"name": "卤肉捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/91fc5cee-b28a-41f9-ba3c-86f57c3c9e58.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				},
+				{
+					"name": "牛腩捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cb244b77-c4fa-47bc-ba55-b5dad4922be3.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				},
+				{
+					"name": "XO酱海鲜捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b9f69d92-1389-44bd-9b87-e27d3451ee79.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				},
+				{
+					"name": "手撕鸡捞粉面+汤套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/dedd3756-f631-4e21-b6a7-affc96eccb28.png",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "捞粉面+汤套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "捞粉面+饮品套餐",
+			"foods": [
+				{
+					"name": "客家腌粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d58fca4c-2123-43e4-affe-30ff8e1325f3.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "特色捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1a75d414-ef13-4a19-875c-9965a2486ebd.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "酱肉笋干捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1385ba5f-e721-4db5-8434-3f716491dfae.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "川香捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fb15b3d8-84aa-41ec-989c-37260ae3763b.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "葱油捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d188d97a-62eb-4599-8c8e-a4edaad1d438.JPG",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "卤肉捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/af570f03-2d64-4b24-80f3-7c663a7164d9.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "牛腩捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a2ab94b0-76de-47bb-8847-09d04537d743.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "XO酱海鲜酱捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cffbb3b9-3a06-427a-a8da-6bd6695b9c00.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				},
+				{
+					"name": "手撕鸡捞粉面+饮品套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/90050462-bf16-496e-ab05-9bde9d397403.png",
 					"price": 19,
 					"unit": "份",
-					"categoryName": "新品黄焖茄子+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "大份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
+					"categoryName": "捞粉面+饮品套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "汤饭",
+			"foods": [
 				{
-					"name": "秘制黄焖茄子",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-1.png",
-					"price": 16,
+					"name": "三及第汤饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f67c744e-cefe-40cb-b8b1-07550130aace.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "新品黄焖茄子+米饭",
+					"categoryName": "汤饭",
 					"props": [
 						{
-							"name": "要求",
+							"name": "备注（可不选）",
 							"values": [
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
 									"price": 0,
-									"propName": "份量",
+									"propName": "备注（可不选）",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
+								},
 								{
-									"value": "不辣",
+									"value": "免粉肠",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
+									"value": "免猪肝",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
+									"value": "免胡椒粉",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "特辣",
+									"value": "少肉多菜",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
+								},
 								{
-									"value": "不加料",
+									"value": "全瘦肉",
 									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
@@ -528,132 +212,66 @@
 			]
 		},
 		{
-			"name": "招牌黄焖系列+米饭",
+			"name": "煲仔饭单品",
 			"foods": [
 				{
-					"name": "招牌黄焖鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-2.png",
+					"name": "牛杂煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/aa25cb71-a95e-44bd-a4ed-7f008895f51c.jpeg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家酿豆腐煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b434bbac-8af5-457d-863b-fa73f0b52b6b.jpeg",
 					"price": 19,
 					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
+					"categoryName": "煲仔饭单品",
 					"props": [
 						{
-							"name": "要求",
+							"name": "备注（可不选）",
 							"values": [
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
 									"price": 0,
-									"propName": "份量",
+									"propName": "备注（可不选）",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
+								},
 								{
-									"value": "不辣",
+									"value": "免芹菜",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
+									"value": "免葱",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
@@ -661,909 +279,261 @@
 					]
 				},
 				{
-					"name": "招牌黄焖鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-2.png",
-					"price": 24,
-					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "大份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖排骨",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-3.png",
-					"price": 24,
-					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖排骨",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-3.png",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "大份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖牛腩",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-4.png",
-					"price": 24,
-					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖牛腩",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-4.png",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "大份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖水豆腐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-5.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "青菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "不加料",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "升级为超值套餐",
-							"values": [
-								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								},
-								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖水豆腐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-5.png",
+					"name": "咸菜苦笋煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d30f981e-501d-4b31-a552-50b4bffb8bd9.jpeg",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "招牌黄焖系列+米饭",
+					"categoryName": "煲仔饭单品",
 					"props": [
 						{
-							"name": "要求",
+							"name": "备注（可不选）",
 							"values": [
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "要求",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "秘制猪手煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2a5dab95-633b-4cf9-9b34-0e4e25ebb7e6.jpeg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
 						{
-							"name": "份量",
+							"name": "备注（可不选）",
 							"values": [
 								{
-									"value": "大份",
+									"value": "打包",
 									"price": 0,
-									"propName": "份量",
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "酸菜卤肉煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/47cc8bd9-b308-46ee-b482-84c8c5b5fb30.jpeg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
 						{
-							"name": "口味",
+							"name": "备注（可不选）",
 							"values": [
 								{
-									"value": "不辣",
+									"value": "打包",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
+									"value": "免芹菜",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
+									"value": "免葱",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "萝卜牛腩煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ebf0b150-3bd0-4745-a3a6-9731d18fb7b3.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
 						{
-							"name": "加料",
+							"name": "备注（可不选）",
 							"values": [
 								{
-									"value": "金针菇",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖荷包蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖豆腐泡",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "黄焖腐竹",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "土豆",
+									"value": "打包",
 									"price": 0,
-									"propName": "加料",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "青菜",
+									"value": "免芹菜",
 									"price": 0,
-									"propName": "加料",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "不加料",
+									"value": "免葱",
 									"price": 0,
-									"propName": "加料",
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "手撕盐焗鸡饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e5f302e1-9516-4698-af6f-633417a757f0.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
 						{
-							"name": "升级为超值套餐",
+							"name": "备注（可不选）",
 							"values": [
 								{
-									"value": "清凉茶柠檬汁特惠1元",
-									"price": 1,
-									"propName": "升级为超值套餐",
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "绿豆冰沙特惠2元",
-									"price": 2,
-									"propName": "升级为超值套餐",
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "北冰洋黄焖伴侣特惠5元",
-									"price": 5,
-									"propName": "升级为超值套餐",
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免花生",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇滑鸡煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cf429886-96a9-4b5e-8d31-8780ffea45e0.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "梅菜扣肉煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4f7aeb7e-894d-48c5-b459-c512c5a3ac9b.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "仔姜焖鸭煲饭单品",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b674e26c-1c6b-414e-be0a-85b0b994edd3.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "煲仔饭单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
@@ -1573,68 +543,2439 @@
 			]
 		},
 		{
-			"name": "黄焖素菜-主食伴侣",
+			"name": "煲仔饭套餐",
 			"foods": [
 				{
-					"name": "黄焖生菜(不含米饭)",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-6.png",
+					"name": "阿婆牛杂煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f0df2402-0d73-4de9-9180-3d71c46daaf0.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕盐焗鸡饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c59c2933-1f73-46d3-b740-dfca2a2621d3.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免花生",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "仔姜焖鸭煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/88fa5bee-eafd-447f-ad49-ace88a423f4e.jpeg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "梅菜扣肉煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b58580b6-fe1c-47ac-89af-f21c1669fe86.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "萝卜牛腩煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f684595a-3e89-4df9-905f-bdef1e1ff3f7.png",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜卤肉煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6917117f-429f-4535-8cf9-3bdf906a920b.png",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制猪手煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7436d59b-811d-4596-a621-caa33d484fd3.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸菜苦笋煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/375e5533-e125-4140-8584-f4d538f9b387.png",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家酿豆腐煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d291a018-e325-466f-ac3a-76c74239c863.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇滑鸡煲饭套餐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/20ef321a-8f24-4fd9-902a-a6f652af044b.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭套餐",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤面",
+			"foods": [
+				{
+					"name": "牛杂汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/080ea8a2-7a56-49b2-b660-d83b51e8decc.jpeg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/72506c23-4072-4060-bf25-0f0cd577c782.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/62dad991-f8bb-4770-a869-9c6292273833.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉碎汤面（辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8a31f143-a37e-460d-b6c3-beb2a566676c.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪手汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5d59e00b-ae00-42a3-b076-e82ba10b3e5d.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/499e7b86-ab34-44fb-97e7-843d8b4fc3bc.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉丸汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eee60287-8f6a-4886-a692-6f993bafb750.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三及第汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fe2b8d5c-a8ec-404d-971f-a6c0f74a85a8.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "全瘦肉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免粉肠",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免猪肝",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免胡椒粉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "少肉多菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "选择做法",
+							"values": [
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼丸汤面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eceb88f9-3655-4c98-b61d-48e543def996.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤米粉",
+			"foods": [
+				{
+					"name": "牛腩汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/30123c73-a3a0-42ee-818a-99eccaaa1fa3.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f9f898e8-a718-478a-ab5f-a75668c92a64.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉碎汤米粉（辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3d71aeba-8809-4557-874f-b7fd346e8019.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3efff317-ec5f-4047-bb44-3ff17c677742.jpeg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "选择做法",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三及第汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/39dc9063-b59a-4141-95ee-8072847c3897.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "全瘦肉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免粉肠",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免猪肝",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免胡椒粉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "少肉多菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "选择做法",
+							"values": [
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉丸汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eee74e64-36ef-4bdb-bd50-27404711387e.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "选择做法",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b1a0488f-dc80-4742-98da-b15dcf878755.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "选择做法",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "选择做法",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪手汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/80a0e359-79ed-4b38-aea1-fd0f6f9b2f09.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "深海鱼丸汤米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/30745b9b-8bcc-434e-bddd-640c414ff10d.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤米粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤河粉",
+			"foods": [
+				{
+					"name": "牛腩汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a246cc69-a671-4276-adaf-cfb0a5a6790c.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6495b228-254a-40d8-864a-18ab3a6586f5.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉碎汤河粉（辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9fb8da84-5150-4dc7-8e37-0793fc38c226.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/648083b7-ffb4-4ea0-8473-6f88b161e707.jpeg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三及第汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b4f61747-7f99-4822-bbe0-ff304ac94800.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "全瘦肉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免粉肠",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免猪肝",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免胡椒粉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "少肉多菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "选择做法",
+							"values": [
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "选择做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉丸汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2d67ebd1-5835-427f-83ca-09134712790f.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/883df6ed-e7ea-4c0a-866b-293cb5f8ee22.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪手汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a1c70a38-6dc3-41ea-a650-53f7d71c5fca.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "深海鱼丸汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/89deb97e-f7c1-4659-ad8f-3fc91d8ae31e.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤河粉",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "捞面单品",
+			"foods": [
+				{
+					"name": "葱油捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5ab493d4-9025-44ee-b5f7-a44d7f087586.jpeg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家腌面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/43774c94-8428-4fdf-abdf-25cf549c28a5.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "特色捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4e32340d-08a0-4c77-8069-f84e287cd10c.jpg",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "黄焖素菜-主食伴侣",
+					"categoryName": "捞面单品",
 					"props": [
 						{
-							"name": "要求",
+							"name": "备注（可不选）",
 							"values": [
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
 									"price": 0,
-									"propName": "口味",
+									"propName": "备注（可不选）",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加",
-							"values": [
-								{
-									"value": "米饭",
+									"value": "加2元量",
 									"price": 2,
-									"propName": "加",
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川香捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f587f852-3afd-4417-aa67-d2555506dce2.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "笋干捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b7eb641b-d902-4833-ae40-2e18969c7b69.jpeg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/56942c1f-44f0-459c-b04e-74edbe708d5e.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e33294b0-8444-42f8-b65a-d3af3818fa75.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕盐焗鸡捞面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c00e07fd-87c0-4b1e-8282-091a6f4ee6ff.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免花生",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "XO海鲜酱面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bee12529-b447-4fd2-87a5-d3d0831735e8.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "捞面单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
 									"isMul": true
 								}
 							]
@@ -1644,228 +2985,1451 @@
 			]
 		},
 		{
-			"name": "最佳黄焖伴侣北冰洋、回到初恋的感觉",
+			"name": "捞米粉单品",
 			"foods": [
 				{
-					"name": "冰爽两重天炎炎夏日解暑神器北冰洋",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-7.png",
+					"name": "葱油捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1f509214-3dc5-4c98-a1a4-f6c17c59c298.jpeg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家腌米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bf5cd5a1-6581-4349-b804-78e1b658b96e.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/984184ef-6f5e-4c9d-ac48-293eccb894c9.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6d0e7316-22ed-4d46-af20-92f94a2ed551.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "笋干捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4e1559e8-b727-444a-8b24-c0d3ec97e569.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川香捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1d1d8a34-0d51-4f4b-8b2c-e6c0f872fba8.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "特色捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ebd6f400-fe3e-4470-a418-92fad80247a0.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "XO海鲜酱米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d9c511d5-22c2-47d4-a415-171f23aece0a.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕鸡捞米粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/619b3fd7-c6f6-45b2-afc2-b13a3e0524db.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞米粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免花生",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "捞河粉单品",
+			"foods": [
+				{
+					"name": "葱油捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/370a5c3a-5718-4ddd-8d14-844eee683dd9.jpeg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家腌河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7bf93b48-649e-4525-bc4d-8ab8039427db.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "特色捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1c08dabb-4ffd-49ed-aed4-4ce64b178f7f.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川香捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9a120916-0293-4a9f-a3f8-982519caf691.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "笋干捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/39043cd6-04d6-45d0-926c-96774e9234a7.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/aa17b2be-670e-4003-aff0-c87462fd529a.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2cc69aaf-0aff-4043-9ff4-976c76e7f1c4.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免芹菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免包菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "XO海鲜酱河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6bd3f788-e661-4fdb-9bb3-fe82daf3c3cc.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕鸡捞河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/17b49175-a527-49e8-b50a-b20a421262aa.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "捞河粉单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加2元量",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加1元量",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋2元",
+									"price": 2,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免花生",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加酸菜1元",
+									"price": 1,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤单品",
+			"foods": [
+				{
+					"name": "紫菜牛肉丸汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c186a88b-2e07-414e-96d0-3786fd4ac48e.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜蔬深海鱼丸汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4a3b09ff-cb38-407a-a735-8dd087d63b2d.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜蔬猪肉丸汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f623178d-1ee4-4de2-b6e0-b96a8c45ebc3.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "换枸杞叶",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三及第汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a8f66cde-5a40-4a61-ae0f-bebe4271c1e5.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "汤单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免粉肠",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免猪肝",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "免胡椒粉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "少肉多菜",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "全瘦肉",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老火例汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cfab6817-8270-400b-bed4-8189c3a44f08.jpeg",
 					"price": 6,
 					"unit": "份",
-					"categoryName": "最佳黄焖伴侣北冰洋、回到初恋的感觉",
+					"categoryName": "汤单品",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "糖水",
+			"foods": [
+				{
+					"name": "绿豆沙糖水",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/693936d4-d43b-451e-8e19-975f28db2e46.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加热",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红枣雪耳糖水",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/281d5172-42b2-4796-9b9a-66dc96ced2d0.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								},
+								{
+									"value": "加热",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸梅汁",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/513f609f-56e7-4ea4-9522-c7f775d91f44.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ce9a72d1-1ef1-4a4d-acc5-8e76b21c4be0.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "龟苓膏",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/35cb72a7-4e1f-481c-9f32-fc7ec8f2c531.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原味豆腐花",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/249dfbed-5fd7-4347-be68-144f1d45c963.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
+					"props": []
+				},
+				{
+					"name": "红豆豆腐花",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e0e2725a-6d51-422c-863a-42c94790d2f3.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "糖水",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "饮料类",
+			"name": "小吃",
 			"foods": [
 				{
-					"name": "绿豆冰沙特惠2元",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-8.png",
-					"price": 2.5,
+					"name": "阿婆牛杂（小吃）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/07455bb4-18f8-4cb8-ba2b-87f09c313f94.png",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "绿豆冰沙",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-8.png",
-					"price": 2.5,
+					"name": "阿婆泡蒜",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3972098f-3440-40ff-a379-76ea1d0ffb42.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "北冰洋气水",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-9.png",
-					"price": 6,
+					"name": "卤蛋",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/78718cfe-3f4a-4a07-8a6f-ee9d9cfdeda9.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "维他奶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-10.png",
+					"name": "米饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f07c33d0-1ec2-4e2c-876c-e1aeee22e79a.jpg",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "可乐铝罐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-11.png",
-					"price": 3,
+					"name": "五香卤肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f7132144-4b53-4727-927f-7dfdee963327.jpg",
+					"price": 11,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "芬达铝罐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-12.png",
-					"price": 3,
+					"name": "花生猪手",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ab891cd8-f1db-4ccb-b52a-fbd506a1cc71.jpg",
+					"price": 11,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "雪碧铝罐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-13.png",
-					"price": 3,
+					"name": "萝卜牛腩（小吃）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c66d8519-109c-42a7-a6f2-d24729dfba43.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "小可乐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-14.png",
-					"price": 2.5,
+					"name": "生菜",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b97ff5c3-1367-4158-9d5f-91bab25f2ff2.jpg",
+					"price": 9,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "小美年达塑料瓶装",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-15.png",
-					"price": 2.5,
+					"name": "菜心",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bb584d1e-78c5-450d-b1ce-2d050c7518cd.jpg",
+					"price": 9,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "桂花酸梅汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-16.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "百香果汁",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-17.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "葡萄汁",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-18.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "维他柠檬茶罐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-19.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "王老吉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-20.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "维他柠檬茶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-21.png",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "可乐大瓶1.25L",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-22.png",
+					"name": "五香豆干",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c65edfce-1f09-45bf-a4ca-f69c2560c5e0.jpg",
 					"price": 7,
 					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "雪碧大瓶1.25L",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-23.png",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "测试菜（勿点）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-24.png",
-					"price": 0.01,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "矿泉水",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-25.png",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "蜂蜜柠檬汁",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-26.png",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "清凉茶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-27.png",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "芒果汁纸盒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-28.png",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "菊花茶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-29.png",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "维他奶纸盒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-30.png",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "青岛啤酒玻璃瓶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-31.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
-				},
-				{
-					"name": "果粒橙",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-32.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "饮料类",
-					"props": []
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "备注（可不选）",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "备注（可不选）",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
@@ -1873,44 +4437,28 @@
 			"name": "其他",
 			"foods": [
 				{
-					"name": "米饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-33.png",
-					"price": 2,
+					"name": "补差价",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e9e2ced3-139b-4b32-b83b-6daa0ee2f83f.jpeg",
+					"price": 1,
 					"unit": "份",
 					"categoryName": "其他",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"props": []
 				},
 				{
-					"name": "黃焖荷包蛋不含米饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-34.png",
-					"price": 2,
+					"name": "补差价",
+					"picUrl": "",
+					"price": 1,
 					"unit": "份",
 					"categoryName": "其他",
-					"props": [
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "要求",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"props": []
+				},
+				{
+					"name": "补差价",
+					"picUrl": "",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
 				}
 			]
 		}
