@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
 
 
 
@@ -12,8 +12,10 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 const exportMode = "keruyun"
   // const exportMode = "feie"
 
-let merchantAllData =  require("./tempData.json");
 
+
+let merchantAllData =  require("./tempData.json");
+merchantAllData = merchantAllData.data
 let requestShopData =merchantAllData.shopInfo
 let requestMenuData = merchantAllData.dishCategories
 let allsSuIds = merchantAllData.spuDetail;
@@ -36,11 +38,6 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 
 let propsGroupArr = [];
 
-function addPropsGroupArr(name) {
-  if (propsGroupArr.indexOf(name) == -1) {
-    propsGroupArr.push(name)
-  } 
-}
 
 
 // 打印日志到test.json 文件夹
@@ -83,7 +80,7 @@ function formatFoodProps(foodItem) {
     if (skuObj.values.length) {
       res.push(skuObj)
       console.log("规格菜----",foodItem.spuName)
-      addPropsGroupArr("规格")
+      addPropsGroupArr(propsGroupArr,"规格")
     }
   }
 
@@ -102,7 +99,7 @@ function formatFoodProps(foodItem) {
     })
     res.push(tempObj)
 
-    addPropsGroupArr(tempObj.name)
+    addPropsGroupArr(propsGroupArr,tempObj.name)
   })
 
   return res;
@@ -172,7 +169,7 @@ async function genImgsAndExcel() {
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
 
-  logInfo(propsGroupArr,"./propGroups.txt")
+  logInfo(propsGroupArr,"propGroups")
 
   // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
@@ -181,7 +178,7 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
     genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo,outputDir,menuSetting)
+    genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 
   

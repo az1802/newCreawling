@@ -9,16 +9,27 @@ let subGroups = merchantMenuInfo.subGroups
 let specifications = merchantMenuInfo.specifications
 let categoryGoods = merchantMenuInfo.categoryGoods
 
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,genSpecificationsWord} = require("../utils/index")
 
+const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
 
+let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
+  specifications:[],//规格
+  practice:[],//做法
+  feeding:[	"加料"],//加料
+  remarks: [],//备注
+  propsGroupSort: [
+    "加料"
+  ],
+  propsSort:[]
+}
 
+let propsGroupArr = [];
 
-const shopId = 'PwJ28'
+const shopId = 'DyXGz'
 // const shopId = 1001500
 // const exportMode = "keruyun"
 const exportMode = "feie"
-const menuRequestUrl = `https://m-diancan.lehuipay.com/api/v1/q/=${shopId}`
+const menuRequestUrl = `https://m-diancan.lehuipay.com/api/mini/${shopId}`
 
 
 const outputDir = path.join(__dirname, "merchantInfos")
@@ -50,6 +61,9 @@ function formatFoodProps(foodItem) {
       }
       groupTemp.name = subGroupsItem.name;
       let maxSelect = groupItem.maxSelect
+
+  addPropsGroupArr(propsGroupArr,groupTemp.name)
+
       groupTemp.values = specificationIds.map(specificationId => { 
         let specificationItem = specifications[specificationId];
         return {
@@ -62,32 +76,8 @@ function formatFoodProps(foodItem) {
       
     return groupTemp
     })
-  if (foodItem.categoryName != "加料区") {
-    propsRes.unshift({
-      "name": "打包",
-      "values": [
-        {
-          "value": "不加钱",
-          "price": 0,
-          "propName": "打包",
-          "isMul": true
-        },
-      ]
-    })
-   }
-  
 
   
-  // let res = new Array(100)
-  // 针对属性组的顺序进行排序
-  // for (let i = 0; i < propsRes.length; i++) { 
-  //   let sortIndex = attrsSort.indexOf(propsRes[i].name)
-  //   if (sortIndex!=-1) {
-  //     res[sortIndex] = propsRes[i];
-  //   } else { 
-  //     res.push(propsRes[i])
-  //   }
-  // }
 
   return propsRes;
 }
@@ -147,21 +137,24 @@ async function mkShopDir(shopDir) {
 }
 
 // 生成图片文件夹以及excel文件
-async function genImgsAndExcel() { 
+async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
-  await logInfo(merchantInfo,"merchantRes")
-  let { shopName} = merchantInfo
+  await logInfo(merchantInfo, "merchantRes")
+  let { shopName } = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // // 重建创建商铺目录
   await mkShopDir(shopDir)
-
+  logInfo(propsGroupArr, "allpropGroup")
   // // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
-    genImgs(merchantInfo,outputDir);
+    genImgs(merchantInfo, outputDir);
     genExcel(merchantInfo, outputDir);
+    genExcelAll(merchantInfo, outputDir, menuSetting)
   } else {
-    genSpecificationsWord(merchantInfo, outputDir)
+    genWord(merchantInfo, outputDir)
+    genSpecificationsWord(merchantInfo, outputDir, menuSetting)
   }
+
 }
 
 

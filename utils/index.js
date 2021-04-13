@@ -385,7 +385,7 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
     //   })
     // }
     
-    if (propsSort[propName]) { //具体某个属性组具体的排序
+    if (propsSort&&propsSort[propName]) { //具体某个属性组具体的排序
       let propNameSort = propsSort[propName]
       let tempPropsSort = new Array(propNameSort.length)
       let propValues = propVals;
@@ -535,7 +535,7 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
       // console.log("j-----",foods[j].name)
       let foodItem = foods[j];
       // 菜品图片与imgIndex对应生成图片
-      let imgName = foodItem._imgIndex;
+      let imgName = foodItem._imgIndex+1;
       let url = foodItem.picUrl
       if (url) {
         // let ext = url.slice(url.lastIndexOf("."));

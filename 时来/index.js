@@ -9,8 +9,8 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 const shopId = "372546e43f394617ba29f2a286ac6576"
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 const shopRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/`
 const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${shopId}?mealType=EAT_IN`
@@ -28,13 +28,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[ 	"备注（可不选）",
-	"选择做法"],//做法
+  practice:[ 	"就餐类型"
+],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "备注（可不选）",
-    "选择做法"
+    "就餐类型"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -130,8 +129,8 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         if (foodItem) { 
           let foodData = {
             name:foodItem.name || "",
-            picUrl: foodItem.image || foodItem.thumbImage || "",
-            price:(parseFloat(foodItem.originPrice)/100) || "",
+            picUrl: foodItem.image || foodItem.thumbImage ||  foodItem.shilaiImageUrl||"",
+            price:(parseFloat(foodItem.price)/100) || "",
             unit: foodItem.unit || "份",
             categoryName:  categoryItem.category.name,
             props:[],
@@ -176,7 +175,7 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genWord(merchantInfo, outputDir)
+    // genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo,outputDir,menuSetting)
   }
 

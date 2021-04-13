@@ -1,499 +1,578 @@
 {
-	"shopName": "上古小锅菜广州高唐路",
+	"shopName": "Im拌粉",
+	"shop_pic": "",
 	"categories": [
 		{
-			"name": "干饺/汤饺",
+			"id": "60e360d8-68af-40a6-800d-f4f6cb9442df",
+			"name": "招牌必点",
 			"foods": [
 				{
-					"id": "0620f878-9446-4cf6-9861-4a352d319e89",
-					"name": "鲜肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "927447c7-3ecc-45a9-bfce-fa8e6207a5f5",
-					"name": "羊肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "d1ccbb74-d361-47f7-9050-f624a3f7b440",
-					"name": "哈尔滨红肠",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7c4787d90fb4a90d6d9ef17ac7c42f46.jpeg",
-					"categoryName": "干饺/汤饺",
+					"id": "37b17722-b48c-406e-a42d-866f35fe8b15",
+					"name": "招牌杂酱拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/59a9e8730f2f0fb3da9c44a6d70ceb4f.jpg",
+					"categoryName": "招牌必点",
 					"price": 15,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "杂酱",
+							"values": [
+								{
+									"value": "杂酱拌粉",
+									"price": 15,
+									"propName": "杂酱",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 24,
+									"propName": "杂酱",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 24,
+									"propName": "杂酱",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "6a40b9a8-99cd-4842-9591-5b67db8316d8",
-					"name": "酸菜肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "d8524f50-0139-44e8-b282-7ed2946d0ff6",
-					"name": "茴香肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "4a330510-bea8-4989-b151-319b3fa44413",
-					"name": "玉米肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "178d298b-4777-433e-9f44-78400cf0d726",
-					"name": "香菇肉饺",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/31c7506677d89b3e5287e9310c42aab4.jpg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
+					"id": "d54fc3ad-66d4-4593-982c-cfdc9b872441",
+					"name": "招牌大红袍柠檬茶（冰）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0246190cfa2dd5591c66dff13cad75ee.jpg",
+					"categoryName": "招牌必点",
+					"price": 8,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "b5d81444-c8e7-4385-b557-f58f95b9a9aa",
-					"name": "芹菜肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "a6ae208e-4b8e-47e4-b75a-4278e5a9a6e0",
-					"name": "白菜肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "9ed1ccc9-dd2c-4064-abba-741f889ed162",
-					"name": "韭菜肉饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/da156be3516f7904ff164267453881a5.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "c8611416-ad5f-437e-9fc3-93f6ccce7008",
-					"name": "韭菜鸡蛋饺子",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/0011c8004c3cfc60f9497b162bfe40c9.jpg",
-					"categoryName": "干饺/汤饺",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "2ba3248e-8fa5-458b-bf36-3b29d913f98d",
-					"name": "虾三鲜馅水饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c4d4b2d75bc46c8c892dadaed23657ce.jpeg",
-					"categoryName": "干饺/汤饺",
-					"price": 22,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "汤面",
-			"foods": [
-				{
-					"id": "6a73dc6a-7fac-4180-a41d-e75e4c095c21",
-					"name": "排骨汤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/34acf04dfa67e430f747677ecbad29e0.jpeg",
-					"categoryName": "汤面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "e45b0ff0-6b89-4925-acc8-9f23ec5334fe",
-					"name": "牛腩汤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8fd98071b721fde9d4aa46cfa372840e.jpeg",
-					"categoryName": "汤面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "82aa4662-9e3a-4248-b2d8-b41ba99adb98",
-					"name": "肥牛汤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/115b2d6c864e5c8de8d757c9816ef3b4.jpeg",
-					"categoryName": "汤面",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "1ce2d180-a6a2-46cd-bf93-eaca25eebcb1",
-					"name": "鸡块汤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/64b85724333954d6443b667d3931c8d4.jpeg",
-					"categoryName": "汤面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "980b98e5-801a-49c9-802d-6aeb43f35a93",
-					"name": "青菜汤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ee0981e7a02271bc59a6631ada6c2b4.jpeg",
-					"categoryName": "汤面",
-					"price": 12,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "0aa0ecea-6814-4698-b388-8034f6c02734",
-					"name": "番茄鸡蛋汤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5372b3ab952680c5530d013f72f769b7.jpeg",
-					"categoryName": "汤面",
-					"price": 13,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "cdb839c0-da40-40da-90f4-e2c53cd0cd2d",
-					"name": "麻将肉丝凉面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f231b923dfdbb9492853961db4bf7d38.jpeg",
-					"categoryName": "汤面",
-					"price": 15,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "盖面",
-			"foods": [
-				{
-					"id": "4e388c63-cbf2-4b95-bbaa-a66e1a0a81cd",
-					"name": "土豆丝盖面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/821d8804e7bf42f098597f2cf953022b.jpeg",
-					"categoryName": "盖面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "9d12799d-5144-480e-bcb8-9eaea1d939d0",
-					"name": "青椒肉丝盖面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/916da0400b40cf95f0511397e2ea8fda.jpeg",
-					"categoryName": "盖面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "34af4c8b-55f7-402d-a609-2f605355972e",
-					"name": "肉末茄子盖面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b6b17b00b0b57e7946d5205e0d17a955.jpeg",
-					"categoryName": "盖面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "d0216f89-de4c-4ea8-9902-6df8849c40bf",
-					"name": "番茄鸡蛋盖面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8c1981718c58c70c28a49bbcbbbf787d.jpeg",
-					"categoryName": "盖面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "3ce9e910-a413-431e-a774-25dd99f05af9",
-					"name": "鱼香肉丝盖面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f7da46dd63863ba9232bdd34bfea375e.jpeg",
-					"categoryName": "盖面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "c51abc94-004e-4735-b107-856bc459e88f",
-					"name": "青椒鸡蛋盖面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/859de05755a0ac807b9144ccb252351a.jpeg",
-					"categoryName": "盖面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "02a3fedf-5146-4a4f-8947-8d43f89bb61f",
-					"name": "肉沫打卤面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8c56b375c4543933c0c180a3b5432e6d.jpeg",
-					"categoryName": "盖面",
-					"price": 15,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒面",
-			"foods": [
-				{
-					"id": "238a10fb-4d16-41e5-81fe-34cd2b406bc4",
-					"name": "肉丝炒面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/842370419dc6b3ca2db60a73b4a67535.jpeg",
-					"categoryName": "炒面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "395b390d-7e15-41f2-8f14-3545781cf2f4",
-					"name": "肥牛炒面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1fa42d68bf22b2f6556fcfafa769a8f9.jpeg",
-					"categoryName": "炒面",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "c189a82f-41e0-4a4e-8e5a-3e26c4eb6015",
-					"name": "鸡蛋火腿炒面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b71f672bbb878a59dcfe0e4eb5abd001.jpeg",
-					"categoryName": "炒面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "37d7c16e-a0c3-4419-a812-d5c965fc164e",
-					"name": "鸡蛋青菜炒面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0fb5173cd3a7561018283d1b69d1f697.jpeg",
-					"categoryName": "炒面",
-					"price": 16,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "上古.小锅菜",
-			"foods": [
-				{
-					"id": "ffc5f2e1-7b3d-44de-8ea6-4ad8e6716991",
-					"name": "小锅海鲜烩豆腐",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3049bb33ee4aa0dcc99ea780ce53eafd.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 26,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "052a1c60-d5d5-412c-81ce-584abeff09d6",
-					"name": "小锅牛毛肚",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1320e029e5156c403b5f641ecae64941.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 27,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "b6eb31a4-a046-4d18-a3b9-c2daf7a18ab7",
-					"name": "小锅香辣肥牛",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d34b4e84c25ce234b5d6c477bfecd772.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 27,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "4c4cddf2-d258-46ff-869e-81f6790ba98d",
-					"name": "小锅香辣虾",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9703cbbb706d9246dda72003bd7b2cce.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 28,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "94d8b277-7ab5-43f8-9465-97a9b965a75e",
-					"name": "小锅原味鸡",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ff06b4cc9a0741ec6bed21cdb7435f90.jpeg",
-					"categoryName": "上古.小锅菜",
+					"id": "9f4b74be-ce20-4178-8f5f-28af676c866e",
+					"name": "招牌炒粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/57207aa5a40e7fc4d210ba7d7311305b.jpg",
+					"categoryName": "招牌必点",
 					"price": 18,
 					"unit": "份",
-					"props": []
-				},
+					"props": [
+						{
+							"name": "招牌炒粉",
+							"values": [
+								{
+									"value": "招牌炒粉",
+									"price": 18,
+									"propName": "招牌炒粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 27,
+									"propName": "招牌炒粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 27,
+									"propName": "招牌炒粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2030bbec-e531-418d-90a3-7c5348eb0b84",
+			"name": "拌粉类",
+			"foods": [
 				{
-					"id": "44ce46f8-5ba4-408a-84c1-19fe5f5aa281",
-					"name": "小锅肉沫金针菇",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a2110218bfebe13f2d3b0b57479e7d2b.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 16,
+					"id": "8af2849d-086f-409e-bca3-4581aa20421a",
+					"name": "牛腩拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/51ab97b9315ec3270b48b4e0c0bcf722.jpg",
+					"categoryName": "拌粉类",
+					"price": 18,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "牛腩拌粉",
+							"values": [
+								{
+									"value": "牛腩拌粉",
+									"price": 18,
+									"propName": "牛腩拌粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 27,
+									"propName": "牛腩拌粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 27,
+									"propName": "牛腩拌粉",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "bbfb4d8d-7a42-4bc6-9723-4ec730677aa1",
-					"name": "小锅水煮牛肉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e333d1648a6cded9858a29c4fbe8bf95.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 25,
+					"id": "76fd5af0-f5be-4bfa-afcb-9544b47d475b",
+					"name": "素拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/77d1fde516c863ed193936ffab979b6b.jpg",
+					"categoryName": "拌粉类",
+					"price": 12,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "素拌粉",
+							"values": [
+								{
+									"value": "素拌粉",
+									"price": 12,
+									"propName": "素拌粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 21,
+									"propName": "素拌粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 21,
+									"propName": "素拌粉",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "64a3d6bf-85cc-4612-bde9-a3075943b107",
-					"name": "小锅原味肥牛",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/79734f24cdcd5841fb7b1e6c2ca9814b.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 27,
+					"id": "dedde4ce-b007-4282-852c-e610543933ff",
+					"name": "排骨拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bb110d6c6a32209bf38ee2f70e7b6748.jpg",
+					"categoryName": "拌粉类",
+					"price": 18,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "排骨拌粉",
+							"values": [
+								{
+									"value": "排骨拌粉",
+									"price": 18,
+									"propName": "排骨拌粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 27,
+									"propName": "排骨拌粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 27,
+									"propName": "排骨拌粉",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "dde1609c-2fa3-4f81-9aa9-4651b4636d9f",
-					"name": "小锅香辣无骨鱼",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5910211abe3956ae2442bde867dbd59d.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 23,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "ce31c302-8777-4b89-83a1-7d799fdd56e5",
-					"name": "小锅鲜虾鸡",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/aa94bff94f39cc6ccc79e033cf34fd26.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 23,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "24a1e454-112f-44d9-a95c-06963c268109",
-					"name": "小锅排骨",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8a1e6f82fcb75c93860b0238d94843cd.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 22,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "2f94b7b9-7c5b-4c11-865a-7215ea061b84",
-					"name": "小锅花甲鸡",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4d17f2b95bc05d2d273dd76300f8780e.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 22,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "32f12d96-5d5a-446f-ab2e-f65e66a4fafc",
-					"name": "小锅牛腩",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fbe538d655517c825e9a81b3fb70364a.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 22,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "a9f82435-6780-44e4-b9c1-7d011c239318",
-					"name": "小锅香辣花甲",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c2e7cfd0b850f0bce663194232cad757.jpeg",
-					"categoryName": "上古.小锅菜",
+					"id": "e0dee27e-d49d-4966-90b4-29880aea2915",
+					"name": "肥肠拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b24eeb380cf4bf6a757e26036d4f79c2.jpg",
+					"categoryName": "拌粉类",
 					"price": 20,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "肥肠拌粉",
+							"values": [
+								{
+									"value": "肥肠拌粉",
+									"price": 20,
+									"propName": "肥肠拌粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 29,
+									"propName": "肥肠拌粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 29,
+									"propName": "肥肠拌粉",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "e38d08c7-e00b-4c61-b6dd-bac63ddb1cb4",
-					"name": "小锅香辣鸡",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9a3af3ee5270f0d5b8df1632809a17f9.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 19,
+					"id": "c4e72626-b897-427e-a910-bd329518d1bd",
+					"name": "酸豆角肉沫拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bbca85e6f3cb0e2ad4d2fa69e784860f.jpg",
+					"categoryName": "拌粉类",
+					"price": 15,
+					"unit": "份",
+					"props": [
+						{
+							"name": "酸豆角拌粉",
+							"values": [
+								{
+									"value": "酸豆角拌粉",
+									"price": 15,
+									"propName": "酸豆角拌粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 24,
+									"propName": "酸豆角拌粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 24,
+									"propName": "酸豆角拌粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "eb021da1-b147-4bc6-968a-7d816e5f55e7",
+					"name": "牛杂拌粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2057a97f80f6ee045b4c2cde58d5e5a5.jpg",
+					"categoryName": "拌粉类",
+					"price": 20,
+					"unit": "份",
+					"props": [
+						{
+							"name": "牛杂拌粉",
+							"values": [
+								{
+									"value": "牛杂拌粉",
+									"price": 20,
+									"propName": "牛杂拌粉",
+									"isMul": true
+								},
+								{
+									"value": "虫草花乌鸡汤",
+									"price": 29,
+									"propName": "牛杂拌粉",
+									"isMul": true
+								},
+								{
+									"value": "玉米龙骨汤",
+									"price": 29,
+									"propName": "牛杂拌粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "d3e5d1a5-b96d-40ed-bc42-a83e1a77ee42",
+			"name": "小吃类",
+			"foods": [
+				{
+					"id": "9be93d1e-31ce-447a-8270-b184f6d6ac36",
+					"name": "加-花生米",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/0c1f78be6c00a3fc8021256102408a09.jpg",
+					"categoryName": "小吃类",
+					"price": 4,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "a8737add-b35a-4be3-aaef-3f6c708f0029",
-					"name": "小锅肉沫茄子",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f8bbf066cbfac3f91a125d3f0a3ee66b.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 16,
+					"id": "993e2885-5cad-42fc-a133-ccbed704260a",
+					"name": "卤蛋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bcb56c826f8887bd88aa4588cf1e9251.jpg",
+					"categoryName": "小吃类",
+					"price": 2,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "3cf13523-3a3a-48ae-ad55-3dc9219a9adc",
-					"name": "小锅肉沐香菇菜心",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5189584c3b1e3e1fb620b5f2c51f3c26.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 16,
+					"id": "c78a002f-cc57-43d7-8b65-82562fe6e970",
+					"name": "加-香火肥肠",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/41ad386ef7399ea3fa85c7d2cd22b1ff.jpg",
+					"categoryName": "小吃类",
+					"price": 9,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "5f2814f3-8b8b-4522-b54e-c47b119693e9",
-					"name": "小锅肉沫豆腐",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2bf6ffe4d3f914d8970b9e842ee9bc73.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 16,
+					"id": "502d287e-db39-4b62-8b6c-31b5c0af3126",
+					"name": "加-牛杂",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b711bd38eb41f6f88beb843d7e89acc1.jpg",
+					"categoryName": "小吃类",
+					"price": 9,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "077d8ed1-72ef-4352-b149-fcee4f07f70c",
-					"name": "小锅肉沫娃娃菜",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4dde6ca71096cd7dc23320a858c74ff4.jpeg",
-					"categoryName": "上古.小锅菜",
-					"price": 16,
+					"id": "b36b53f6-ceec-4979-bbad-a3bcaa8ee41c",
+					"name": "加-秘制牛腩",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4cabd2ea83e9fdf0b1dd736d39458828.jpg",
+					"categoryName": "小吃类",
+					"price": 8,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "7ab94e5b-5ad3-4dd8-9fad-e62d7993c4d8",
-					"name": "小锅无骨酸菜鱼",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/c1745c07033921429ea81028a3738192.jpg",
-					"categoryName": "上古.小锅菜",
-					"price": 22,
+					"id": "6ecc514e-8ab6-439f-9324-602e3ea30898",
+					"name": "加-酸豆角肉沫",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4afe39a9dac2db5b2b6b885f158fc285.jpg",
+					"categoryName": "小吃类",
+					"price": 5,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "8e0f015b-4760-42f7-8fc6-cb92480b368b",
+					"name": "加-红烧排骨",
+					"picUrl": null,
+					"categoryName": "小吃类",
+					"price": 8,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "b25cbbe6-5489-4cd2-99e5-bacfeaacfd33",
+					"name": "加-杂酱",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4afe39a9dac2db5b2b6b885f158fc285.jpg",
+					"categoryName": "小吃类",
+					"price": 6,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "0b2d9789-72d1-4da0-8ed6-eafef65c8519",
+					"name": "鸭脖",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/77dee5cbc54c100667fae9bac4a2a859.jpg",
+					"categoryName": "小吃类",
+					"price": 4,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "398a9eb6-684e-43e6-8e2c-6c8a5602b35e",
+					"name": "荷包蛋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b2b774e30a1271201c8e743166f56261.jpg",
+					"categoryName": "小吃类",
+					"price": 2,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "9be93d1e-31ce-447a-8270-b184f6d6ac36",
+					"name": "加-花生米",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/0c1f78be6c00a3fc8021256102408a09.jpg",
+					"categoryName": "小吃类",
+					"price": 4,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "993e2885-5cad-42fc-a133-ccbed704260a",
+					"name": "卤蛋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bcb56c826f8887bd88aa4588cf1e9251.jpg",
+					"categoryName": "小吃类",
+					"price": 2,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "c78a002f-cc57-43d7-8b65-82562fe6e970",
+					"name": "加-香火肥肠",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/41ad386ef7399ea3fa85c7d2cd22b1ff.jpg",
+					"categoryName": "小吃类",
+					"price": 9,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "502d287e-db39-4b62-8b6c-31b5c0af3126",
+					"name": "加-牛杂",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b711bd38eb41f6f88beb843d7e89acc1.jpg",
+					"categoryName": "小吃类",
+					"price": 9,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "b36b53f6-ceec-4979-bbad-a3bcaa8ee41c",
+					"name": "加-秘制牛腩",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4cabd2ea83e9fdf0b1dd736d39458828.jpg",
+					"categoryName": "小吃类",
+					"price": 8,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "6ecc514e-8ab6-439f-9324-602e3ea30898",
+					"name": "加-酸豆角肉沫",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4afe39a9dac2db5b2b6b885f158fc285.jpg",
+					"categoryName": "小吃类",
+					"price": 5,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "8e0f015b-4760-42f7-8fc6-cb92480b368b",
+					"name": "加-红烧排骨",
+					"picUrl": null,
+					"categoryName": "小吃类",
+					"price": 8,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "b25cbbe6-5489-4cd2-99e5-bacfeaacfd33",
+					"name": "加-杂酱",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4afe39a9dac2db5b2b6b885f158fc285.jpg",
+					"categoryName": "小吃类",
+					"price": 6,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "0b2d9789-72d1-4da0-8ed6-eafef65c8519",
+					"name": "鸭脖",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/77dee5cbc54c100667fae9bac4a2a859.jpg",
+					"categoryName": "小吃类",
+					"price": 4,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "398a9eb6-684e-43e6-8e2c-6c8a5602b35e",
+					"name": "荷包蛋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b2b774e30a1271201c8e743166f56261.jpg",
+					"categoryName": "小吃类",
+					"price": 2,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "2c58cb7c-d21f-4c63-882b-c720ab529ee7",
+					"name": "藕片",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/58de1b805abae7d21c8d6c02d976d0f0.jpg",
+					"categoryName": "小吃类",
+					"price": 3,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "891e2231-5c3d-4a61-9ac6-0cc33657febb",
+					"name": "木耳",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5a8fecab0578209cbff1276100f11b1e.jpg",
+					"categoryName": "小吃类",
+					"price": 6,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "2be3730c-c111-4822-a1e9-28ad735cc7f6",
+					"name": "黄瓜",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e435cdb494ae48c7670c235e68e55ada.jpg",
+					"categoryName": "小吃类",
+					"price": 5,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "07ec5d5c-89e0-4176-876a-a830ee9cd6da",
+					"name": "鸡爪",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d21042ce596699f5f4aa17a04ab55aa5.jpg",
+					"categoryName": "小吃类",
+					"price": 6,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "d9aa0145-da55-4dbd-8827-0c961dda9c07",
+					"name": "热狗",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/cfb2ffeb2c2ac99adeb4b7f51cc7b038.jpg",
+					"categoryName": "小吃类",
+					"price": 2,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "cc83e30e-fa3f-43f4-a7fa-c868b5c1c404",
+					"name": "卤豆干",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/469ec63c3e0ae37f9f5a211dbadb2c0b.jpg",
+					"categoryName": "小吃类",
+					"price": 2,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "加料",
+			"id": "f29b41e9-c9c1-4793-a329-e65d873c24a6",
+			"name": "饮料+汤",
 			"foods": [
 				{
-					"id": "2b758845-db74-4208-979b-87f27b9b56b5",
-					"name": "加面",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/110f3b79b8021858ca5aa390eb96312e.jpg",
-					"categoryName": "加料",
-					"price": 1,
+					"id": "de9fb0cf-3eb6-4a79-8a10-6c4fabd49b93",
+					"name": "加多宝",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/13a724d2fd6f5263e9e23ab622e4020c.png",
+					"categoryName": "饮料+汤",
+					"price": 5,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "bb606505-307c-44ae-8b4d-daf5ae8eafd1",
-					"name": "煎蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/42ee3db58d9548466885932bc3c8e891.jpg,https://marketing-static.shouqianba.com/gallery/6a3a6e066822694c374edfc80350becf.jpg",
-					"categoryName": "加料",
-					"price": 3,
+					"id": "5d4efebd-bc5b-4bfc-b658-7cab7eb36e1f",
+					"name": "矿泉水",
+					"picUrl": null,
+					"categoryName": "饮料+汤",
+					"price": 2,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "9594560b-1e24-41cd-bb8e-26963127503b",
+					"name": "可乐",
+					"picUrl": null,
+					"categoryName": "饮料+汤",
+					"price": 4,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "fd79bcf5-8c2e-44a0-b88a-dce7ebe672c8",
+					"name": "虫草花乌鸡汤",
+					"picUrl": null,
+					"categoryName": "饮料+汤",
+					"price": 9,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "c5734fbf-4e78-44af-95b8-6b5d0fa0cd7a",
+					"name": "玉米龙骨汤",
+					"picUrl": null,
+					"categoryName": "饮料+汤",
+					"price": 9,
 					"unit": "份",
 					"props": []
 				}

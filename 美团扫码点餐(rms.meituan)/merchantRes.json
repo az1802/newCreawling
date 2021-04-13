@@ -1,251 +1,166 @@
 {
-	"shopName": "香巴巴煲仔饭（马家龙分店）",
+	"shopName": "清真伊香缘牛肉面",
 	"shop_pic": "",
 	"categories": [
-		{
-			"name": "推荐",
-			"foods": [
-				{
-					"name": "土豆牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/cab6b2a794b2481075c8996482cd4cb3166378.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "+腊肉",
-					"picUrl": "https://p1.meituan.net/rmscashier/3ae35b72bee06e8370a89fb990ca9fd281708.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "排骨腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a88b978885f4f69d5697cd2e31215ee9147484.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "滑鸡腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/540c005735eb219ab8817250b848d4e1210707.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "土豆排骨煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/7347079b4690231351cf4461dabc2b65150813.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "+香菇",
-					"picUrl": "https://p0.meituan.net/rmscashier/1df247708f7501c5b73f7c0d7b51084f87116.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "天地壹号（罐装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/d18cd383fa85f5975a1f1e47edab0e23118802.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "蒙牛酸酸乳（草莓味）",
-					"picUrl": "https://p0.meituan.net/rmscashier/c7ed0876e9c0296f806ad410aca9611399459.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "+酸豆角",
-					"picUrl": "https://p0.meituan.net/rmscashier/51e87192603aa77bd217c76ca24e2385112623.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				},
-				{
-					"name": "维他奶盒装",
-					"picUrl": "https://p0.meituan.net/rmscashier/82087d693f8e987ae93a405d4910df52113342.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				}
-			]
-		},
 		{
 			"name": "热销",
 			"foods": [
 				{
-					"name": "一品腊肠煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/d80d2f3812b36d71015100d311c433ce214289.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "传统牛肉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/ed6e56410eff048b5077a285e2b3107e146743.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 15,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "特级腊味煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a037484edf816f7a235ed82b669e47a9212943.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "排骨腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a88b978885f4f69d5697cd2e31215ee9147484.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "窝蛋牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/51d54a744a28ec915395c7fec1999ace185630.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "滑鸡腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/540c005735eb219ab8817250b848d4e1210707.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "+窝蛋",
-					"picUrl": "https://p1.meituan.net/rmscashier/05e0e50dc1ed23a5c8188c6c7f04f19752203.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "煎蛋",
+					"picUrl": "https://p0.meituan.net/rmscashier/600d699f811e1d10f2ca2f6bdc13c99b127817.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 2,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "酸菜肉片煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/c1285427d2ab0934db3e86c7d37359c2192480.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "牛肉刀削面",
+					"picUrl": "https://p1.meituan.net/rmscashier/c8f060d1d21215ec1718a7b9475827e5149424.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "牛肉汤粉",
+					"picUrl": "https://p1.meituan.net/rmscashier/805491fd33c648981f75a7e110da9379155387.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "牛肉炒拉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/4bdf02ac45de6513291ca16dca28a076131036.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "凉菜",
+					"picUrl": "https://p0.meituan.net/rmscashier/7737e84e751f34fbd62fb8e0a8a64d4b117011.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "肉夹馍",
+					"picUrl": "https://p0.meituan.net/rmscashier/e22e2386b34df3eacbb993ca40f1e0aa107251.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "水饺",
+					"picUrl": "https://p0.meituan.net/rmscashier/634d861dc1a9335bcc811d21e27b7890126819.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "牛肉凉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/b8ec63e9bcb006da0ff5eb728c7a3a4b115058.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 17,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "香菇肉片煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/95142dcec482acfdf325af1951e236b4208259.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "牛肉炒饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/523d8d481c3b31259657702d4573cee8124575.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 18,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "泡椒牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/e4d161748599866c904f142356a54cdc163653.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
+					"name": "葱油饼",
+					"picUrl": "https://p0.meituan.net/rmscashier/b119b3ec1075e13cec3ce49d37729c3285098.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 10,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "香菇滑鸡煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/1b1a0b3cca3853397d559b3a89d69fc5160143.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "腐竹牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/f872e4bf59e83350b643912b9b6f4849128460.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 20,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "土豆牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/cab6b2a794b2481075c8996482cd4cb3166378.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
+					"name": "红烧牛肉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/7a651d61b8a7470d3649b09723f27be6144696.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "红烧茄子煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/66f28cb616ea132ed76f75f2a6269882136930.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 18,
+					"name": "鸡蛋拉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/a4ce7e82e5654ec66c0914ca591a8080130514.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "牛肉腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a760fc78524ae10cc5bb797ed86c504f169670.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "咸鸭蛋",
-					"picUrl": "https://p0.meituan.net/rmscashier/1c5bb3ac1f39b8c2c4f4252a4562485c71220.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/6a96f2205daf508008fd8cff820c53ac208017.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "排骨滑鸡煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/0f53201b66488423d36d5e11a3d69b4a142312.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "腊味三宝煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/f11bf4540f29834fab856bd0e6be8998176008.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "酸豆角肉片煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/9e37fbafa2739468a93109b4667c664c137977.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "香菇排骨煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/35f55185bdaca14e1ee9727d6bd2d9b1122168.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "香干肉丝煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/fff63db33a98223915d8929d92589e34122346.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "牛肉烩面",
+					"picUrl": "https://p0.meituan.net/rmscashier/29a68e2da26b6bf2143b6d8c3484a82d139661.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "兰州炒饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/a229d1a1ace3f443113c3bc65faedb23122106.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "牛肉泡馍",
+					"picUrl": "https://p0.meituan.net/rmscashier/f8d5746410e8aa7280d772c7fd867cd1125520.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒拉面",
+					"picUrl": "https://p1.meituan.net/rmscashier/d9e847e92c5d4746ec1ff1a568228e78130335.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "https://p0.meituan.net/rmscashier/147ea41a4491e95ed80018411d57c2d2128599.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "干饺",
+					"picUrl": "https://p0.meituan.net/rmscashier/8c710f5c2a7f50ea79851bd67ec92b8296078.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
@@ -257,533 +172,1103 @@
 			"foods": []
 		},
 		{
-			"name": "🍚香巴巴煲仔饭",
+			"name": "新品推荐",
 			"foods": [
 				{
-					"name": "一品腊肠煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/d80d2f3812b36d71015100d311c433ce214289.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "凉拌凉皮",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "新品推荐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "今日特价",
+			"foods": [
+				{
+					"name": "肉夹馍",
+					"picUrl": "https://p0.meituan.net/rmscashier/e22e2386b34df3eacbb993ca40f1e0aa107251.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "牛肉汤粉",
+					"picUrl": "https://p1.meituan.net/rmscashier/805491fd33c648981f75a7e110da9379155387.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "水饺",
+					"picUrl": "https://p0.meituan.net/rmscashier/634d861dc1a9335bcc811d21e27b7890126819.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "今日特价",
 					"props": []
 				},
 				{
-					"name": "酸菜肉片煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/c1285427d2ab0934db3e86c7d37359c2192480.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "干饺",
+					"picUrl": "https://p0.meituan.net/rmscashier/8c710f5c2a7f50ea79851bd67ec92b8296078.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "牛肉凉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/b8ec63e9bcb006da0ff5eb728c7a3a4b115058.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 17,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "今日特价",
 					"props": []
 				},
 				{
-					"name": "香菇肉片煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/95142dcec482acfdf325af1951e236b4208259.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "鸡蛋凉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/2737fc8e34cc57a6f902a9ec2d5cfdbe124689.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "青椒土豆丝盖浇饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/0f1791e755e06fd4e905e09bc96445de82279.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "红烧茄子盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/6a8c7f32d5307f5ec3d4528987428b3e130052.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "小盘鸡",
+					"picUrl": "https://p0.meituan.net/rmscashier/3e1571cc33e4f377ea917789b2b51e2d181875.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				},
+				{
+					"name": "大盘鸡",
+					"picUrl": "https://p0.meituan.net/rmscashier/95fab97eb7a006360ac45e2ff3ca12c9181971.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 118,
+					"unit": "份",
+					"categoryName": "今日特价",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "汤面类",
+			"foods": [
+				{
+					"name": "传统牛肉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/ed6e56410eff048b5077a285e2b3107e146743.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋拉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/a4ce7e82e5654ec66c0914ca591a8080130514.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "牛肉刀削面",
+					"picUrl": "https://p1.meituan.net/rmscashier/c8f060d1d21215ec1718a7b9475827e5149424.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋刀削面",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "西红柿鸡蛋面",
+					"picUrl": "https://p0.meituan.net/rmscashier/30528a79a6488a2a84a287124200f1cb135755.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "酸菜牛肉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/c3e4013e3dd20e51d13179b85a3ede16152543.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "麻辣牛肉面",
+					"picUrl": "https://p1.meituan.net/rmscashier/a26f670fd871726c9f5f750e8275ab91161970.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/7a651d61b8a7470d3649b09723f27be6144696.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "牛肉泡馍",
+					"picUrl": "https://p0.meituan.net/rmscashier/f8d5746410e8aa7280d772c7fd867cd1125520.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "羊肉泡馍",
+					"picUrl": "https://p0.meituan.net/rmscashier/344301317a7413f5a0bf3baed3729fb2120780.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "青菜拉面",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "牛肉烩面",
+					"picUrl": "https://p0.meituan.net/rmscashier/29a68e2da26b6bf2143b6d8c3484a82d139661.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小吃类",
+			"foods": [
+				{
+					"name": "煎蛋",
+					"picUrl": "https://p0.meituan.net/rmscashier/600d699f811e1d10f2ca2f6bdc13c99b127817.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "葱油饼",
+					"picUrl": "https://p0.meituan.net/rmscashier/b119b3ec1075e13cec3ce49d37729c3285098.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "加一份牛肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/0e828316df9aa92bf54d3dcd4c7a4156146074.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "凉菜",
+					"picUrl": "https://p0.meituan.net/rmscashier/7737e84e751f34fbd62fb8e0a8a64d4b117011.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "白饼",
+					"picUrl": "",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "白米饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/f190fb12ad1a58a65461761d90a690f362560.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "打包米饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/8fe9feb16abe1ff7c881af60e56ac6ca62969.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "凉拌黄瓜",
+					"picUrl": "https://p0.meituan.net/rmscashier/4e4eb52906f71d3a77084af9456175b8124533.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "凉拌土豆丝",
+					"picUrl": "https://p0.meituan.net/rmscashier/d43d4017bfddd19835ad8cfd52e35bd9116890.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "凉拌木耳",
+					"picUrl": "https://p0.meituan.net/rmscashier/8c43a222f50641505c6cb143f35ec627125519.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "凉拌牛肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/72acb07c461d04e74a6b682cc82fb435144115.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 50,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "炒面类",
+			"foods": [
+				{
+					"name": "牛肉炒拉面",
+					"picUrl": "https://p0.meituan.net/rmscashier/4bdf02ac45de6513291ca16dca28a076131036.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒拉面",
+					"picUrl": "https://p1.meituan.net/rmscashier/d9e847e92c5d4746ec1ff1a568228e78130335.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "https://p0.meituan.net/rmscashier/147ea41a4491e95ed80018411d57c2d2128599.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒刀削面",
+					"picUrl": "https://p1.meituan.net/rmscashier/742911c6018345d9a93b404f3f4c5fa2127456.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				},
+				{
+					"name": "炮仗面",
+					"picUrl": "https://p0.meituan.net/rmscashier/be5487198670b706c63bb9911bcf8927154938.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				},
+				{
+					"name": "丁丁炒面",
+					"picUrl": "https://p0.meituan.net/rmscashier/1a1bc4bffe6a1c7391250372527ddb8a142614.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "盖浇面类",
+			"foods": [
+				{
+					"name": "青椒土豆丝盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/8d827c5572004c967ddc3e1293846ac1109704.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "盖浇面类",
 					"props": []
 				},
 				{
-					"name": "红烧茄子煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/66f28cb616ea132ed76f75f2a6269882136930.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "酸辣白菜盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/d2e8ec0161d07aa457e7b7d9f4889f2e124757.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "盖浇面类",
 					"props": []
 				},
 				{
-					"name": "酸豆角肉片煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/9e37fbafa2739468a93109b4667c664c137977.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "土豆茄条盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/5c26b4ce53d47f4e3ba41fcbaaa7a266116206.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "盖浇面类",
 					"props": []
 				},
 				{
-					"name": "特级腊味煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a037484edf816f7a235ed82b669e47a9212943.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "红烧茄子盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "腐竹牛肉盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/b2f2d2a610e1a74d1a2f052551f11ffe125704.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/7130a06c4be6345477acde1010052b9f115116.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "青椒炒牛肉盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/ec6557f78fd2aa6ce2306b6b6b1bccb5117748.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "蘑菇炒牛肉盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/fe3c46de00cd674e660160b2a2b7e0d9115536.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "蒜苔炒牛肉盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/1796bfa3021f4ac98af0b03bef993fbf119314.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "红烧鸡块盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/e6599fced6b4900259556d152cf0d514109309.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "蒜苔肉沫盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/d549c779a03d44bdb9b722015c69381a116567.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/e1b17c6a30c5e6708bbe9c2180919d88108552.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "葱爆羊肉盖浇面",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "土豆烧牛肉盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/a5dd5d10c3d3f5a388b57eb50a5f0af1116991.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉盖浇面",
+					"picUrl": "https://p1.meituan.net/rmscashier/1656f520738e551d8db74403334010cc124084.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "孜然羊肉盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/b5bba877f32e570b95c68642a8fd54fa129895.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "孜然牛肉盖浇面",
+					"picUrl": "https://p0.meituan.net/rmscashier/54789b2b293aa5e09b4b328538e56142126830.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "盖浇饭类",
+			"foods": [
+				{
+					"name": "酸辣白菜盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/c4d96b4784a9d225b4d0e25d8902337f117011.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "土豆茄条盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/cb851f2bae0e977e6ce9eca21a04c5f873447.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/de851322dde92dbe2836f1ee4997d97688237.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "青椒炒牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/10092fd3d9f61059d6678c9e2c83a141108886.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "腐竹牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/f872e4bf59e83350b643912b9b6f4849128460.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "蘑菇炒牛肉盖浇饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/9dd01913a628fa2b5ed27d59a52ccf26107309.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "蒜苔炒牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/32714d8e2b709d083ef206a97e5ca5b997902.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "红烧鸡块盖浇饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/d6b4b19ed92ce84636f818ad4715e98b117597.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "蒜苔肉沫盖浇饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/59e34bae600cb45c47dc443a9f76856e114201.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "土豆烧牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/32b67253b7cc92a94be49bffc1dc3279108063.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉盖浇饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/4dc34d67a8bbdd1ef558486e5d3fcc5f110990.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/f4e707381c663bf92a57f4278c4b6c31101357.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "葱爆羊肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/a748a8db1e954ae09f5bfef679dee207100102.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "孜然牛肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/c72bfd1da42423fd884a44cd9e003eb6105746.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "孜然羊肉盖浇饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/4b780f4fd5c4c1e1754b1a40e4f0ea7b106160.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "炒饭类",
+			"foods": [
+				{
+					"name": "蛋炒饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/2fa13fc3321ac331d41e624d9cf5bc27111899.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": []
+				},
+				{
+					"name": "兰州炒饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/a229d1a1ace3f443113c3bc65faedb23122106.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": []
+				},
+				{
+					"name": "牛肉炒饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/523d8d481c3b31259657702d4573cee8124575.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "米粉类",
+			"foods": [
+				{
+					"name": "红烧牛肉汤粉",
+					"picUrl": "https://p1.meituan.net/rmscashier/2e495f9f1fc5ac2ee801fb617156e5b2124506.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": []
+				},
+				{
+					"name": "酸菜牛肉汤粉",
+					"picUrl": "https://p0.meituan.net/rmscashier/dad02c3f64406e0492b743593b0b01d0132218.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": []
+				},
+				{
+					"name": "麻辣牛肉汤粉",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "特色拌面",
+			"foods": [
+				{
+					"name": "葱油拌面",
+					"picUrl": "https://p1.meituan.net/rmscashier/cbc81f8f25becc54e709ce84e48755c6115404.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 19,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "特色拌面",
 					"props": []
 				},
 				{
-					"name": "滑鸡腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/540c005735eb219ab8817250b848d4e1210707.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "香干肉丝煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/fff63db33a98223915d8929d92589e34122346.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "香菇滑鸡煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/1b1a0b3cca3853397d559b3a89d69fc5160143.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "鱼香肉丝煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/e0b21f494f30f8473ce8dd9c113e1e96138591.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "香辣鸡杂煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/4987c46ed48729798a7eb55cb06d0a4e201332.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "香菇排骨煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/35f55185bdaca14e1ee9727d6bd2d9b1122168.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/6a96f2205daf508008fd8cff820c53ac208017.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "腊鸭煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/7c587c7a2fac2fb1432b3198f55ef745157281.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "干妈牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/78cd63140bc84bfd1516c4be7bfe2570157734.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "排骨煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/6e912688b7bf7729e29c46787d00d666136582.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "排骨腊肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/99ece087774e98b7d0264fa316ce9985137452.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "土豆牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/cab6b2a794b2481075c8996482cd4cb3166378.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "窝蛋牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/51d54a744a28ec915395c7fec1999ace185630.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "泡椒牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/e4d161748599866c904f142356a54cdc163653.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "豉汁排骨煲仔饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/9a57556b6d2fa37ee4a4498321a40b02137609.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "土豆排骨煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/7347079b4690231351cf4461dabc2b65150813.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "排骨滑鸡煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/0f53201b66488423d36d5e11a3d69b4a142312.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "排骨腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a88b978885f4f69d5697cd2e31215ee9147484.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
-					"props": []
-				},
-				{
-					"name": "腊味三宝煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/f11bf4540f29834fab856bd0e6be8998176008.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "精品干拌面",
+					"picUrl": "https://p1.meituan.net/rmscashier/c3f3a8e1f75db930b3f2d3754f1ae465137308.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 23,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "特色拌面",
 					"props": []
 				},
 				{
-					"name": "酸菜牛肉煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/ced338ea19d268b8c6b5e331900541de196987.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 23,
+					"name": "新疆拌面",
+					"picUrl": "https://p1.meituan.net/rmscashier/c6b0a64763461e4a37b910742f9d2d24105145.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "特色拌面",
 					"props": []
 				},
 				{
-					"name": "牛肉腊肠煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/a760fc78524ae10cc5bb797ed86c504f169670.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 23,
+					"name": "大盘鸡拌面",
+					"picUrl": "https://p0.meituan.net/rmscashier/0590e0271520fa5501c9ff534ba8aecb143572.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 35,
 					"unit": "份",
-					"categoryName": "🍚香巴巴煲仔饭",
+					"categoryName": "特色拌面",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "🥢煲仔饭加菜系列",
+			"name": "自取饮料",
 			"foods": [
-				{
-					"name": "咸鸭蛋",
-					"picUrl": "https://p0.meituan.net/rmscashier/1c5bb3ac1f39b8c2c4f4252a4562485c71220.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "香辣海带丝",
-					"picUrl": "https://p1.meituan.net/rmscashier/83b8686265a38a6f4b8fdc78d66fe271120369.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "红油榨菜丝",
-					"picUrl": "https://p1.meituan.net/rmscashier/f7754e1831559a5f8f7431785d2b47f6134741.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 1.5,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "香菇酱",
-					"picUrl": "https://p0.meituan.net/rmscashier/4a6ff1cb70c116d95bd1e71e72bf07d095088.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 1.5,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+窝蛋",
-					"picUrl": "https://p1.meituan.net/rmscashier/05e0e50dc1ed23a5c8188c6c7f04f19752203.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+酸菜",
-					"picUrl": "https://p0.meituan.net/rmscashier/ed7e4234d20016e155262113666433bc75101.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+酸豆角",
-					"picUrl": "https://p0.meituan.net/rmscashier/51e87192603aa77bd217c76ca24e2385112623.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+香菇",
-					"picUrl": "https://p0.meituan.net/rmscashier/1df247708f7501c5b73f7c0d7b51084f87116.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+滑鸡",
-					"picUrl": "https://p1.meituan.net/rmscashier/11542788aaad2119e5460c096e5fa413115764.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+腊肉",
-					"picUrl": "https://p1.meituan.net/rmscashier/3ae35b72bee06e8370a89fb990ca9fd281708.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+腊肠",
-					"picUrl": "https://p1.meituan.net/rmscashier/9a34e0415aa0b18dd2f3a29d7fc18e9195088.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+排骨",
-					"picUrl": "https://p1.meituan.net/rmscashier/b6b23f8c6186e436e884fbac044919d089524.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+牛肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/3ed0f2773105f4b61121abeef1837f9f131089.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				},
-				{
-					"name": "+白米饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/b610eeff06a801e152da924524f8dcf6118041.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "🥢煲仔饭加菜系列",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "☕甜品四季",
-			"foods": [
-				{
-					"name": "莲子花生露（冰）",
-					"picUrl": "https://p0.meituan.net/rmscashier/3137e7345896625e4468192b3fd98b3e70821.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "☕甜品四季",
-					"props": []
-				},
-				{
-					"name": "糯米红豆（冰）",
-					"picUrl": "https://p0.meituan.net/rmscashier/31dea747513790ec3279cf73b4cc09a879220.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "☕甜品四季",
-					"props": []
-				},
-				{
-					"name": "红枣雪耳（冰）",
-					"picUrl": "https://p0.meituan.net/rmscashier/b5c2b1098c4576a3196ea43b8393683182870.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "☕甜品四季",
-					"props": []
-				},
-				{
-					"name": "黑米粥（冰）",
-					"picUrl": "https://p1.meituan.net/rmscashier/9a90f1e0c84729c71403b5bc2399aa5379189.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "☕甜品四季",
-					"props": []
-				},
-				{
-					"name": "木瓜银耳羹（冰）",
-					"picUrl": "https://p0.meituan.net/rmscashier/4a6720102b2455c710ab246783e40ea177329.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "☕甜品四季",
-					"props": []
-				},
-				{
-					"name": "绿豆冰沙（冰）",
-					"picUrl": "https://p0.meituan.net/rmscashier/3f7da841cc74b96a3e4a00bbc6173baf74658.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "☕甜品四季",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "🍹饮料",
-			"foods": [
-				{
-					"name": "芬达（瓶装）",
-					"picUrl": "https://p1.meituan.net/rmscashier/6b2f8331ca89362e19cbd2253e9bccd733424.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🍹饮料",
-					"props": []
-				},
-				{
-					"name": "雪碧（瓶装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/bfc251d76f332549750e534ba6bc062a81591.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🍹饮料",
-					"props": []
-				},
-				{
-					"name": "可乐（瓶装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/3e7af8a17d359e15aaa49bb9e71c426432009.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "🍹饮料",
-					"props": []
-				},
 				{
 					"name": "怡宝",
-					"picUrl": "https://p0.meituan.net/rmscashier/c4b4cc8566ff7db95a10dc3331366d5959408.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"picUrl": "https://p0.meituan.net/rmscashier/b93b63304e2c917d22b2891d1ca2998164042.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 2,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
 					"props": []
 				},
 				{
-					"name": "维他奶",
-					"picUrl": "https://p1.meituan.net/rmscashier/6461aa0b9d5fbf1a9bf2832cd40f900c22485.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "悦纯",
+					"picUrl": "https://p0.meituan.net/rmscashier/23be282df4d7d29a5cc6295c18a5bd1c72332.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "罐装芬达",
+					"picUrl": "https://p1.meituan.net/rmscashier/ca70f7cedced3276c41a7f9b289fe3be63029.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
 					"props": []
 				},
 				{
-					"name": "芬达（罐装）",
-					"picUrl": "https://p1.meituan.net/rmscashier/1cef3c78998972d8b2eea6d2b85ea3ce48732.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "可口可乐",
+					"picUrl": "https://p0.meituan.net/rmscashier/b5af6508193bf69c344a98772902a1d171104.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "罐装雪碧",
+					"picUrl": "https://p0.meituan.net/rmscashier/72e391cb2397690d7321190e78ef47e161041.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "坚果豆奶",
+					"picUrl": "https://p0.meituan.net/rmscashier/be00f6204b5d9a4cf4aaacdce9a1c90064225.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 4,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
 					"props": []
 				},
 				{
-					"name": "可口可乐（罐装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/3007408dbba9fc7f8ee737b5f7dc921450646.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "鲜磨豆奶",
+					"picUrl": "https://p0.meituan.net/rmscashier/182583ed9cd48c39564c60201ce585f759188.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 4,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
 					"props": []
 				},
 				{
-					"name": "雪碧（罐装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/2c253e2636e14b06abe293e05656629869629.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "榨椰子汁",
+					"picUrl": "https://p0.meituan.net/rmscashier/91c58737d9a168f4ed786e2e87c56b1059847.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 4,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
 					"props": []
 				},
 				{
-					"name": "青岛（罐装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/2de733f33189a364485fbc8f749926c894859.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "罐装柠檬茶",
+					"picUrl": "https://p0.meituan.net/rmscashier/5467a149627c345c7a15617d990bd55764250.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "胶瓶雪碧",
+					"picUrl": "https://p1.meituan.net/rmscashier/7862828dadc992933dae195ae9d50dbd69836.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "和其正",
+					"picUrl": "https://p0.meituan.net/rmscashier/b8132d4496cfe1a96a3d025146eb71ff62015.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "美汁源",
+					"picUrl": "https://p0.meituan.net/rmscashier/95ad346ca2c327d618bc2319efdb341469167.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "https://p0.meituan.net/rmscashier/2a5197d5a29f95f6506f4120c2d3ee8873276.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "酸梅汤",
+					"picUrl": "https://p0.meituan.net/rmscashier/83d7255e5755f22286c2ed0d5e98904864182.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "百香果",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "健力宝",
+					"picUrl": "https://p0.meituan.net/rmscashier/1865b4cb0adc38c70795ae780727555a76699.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
 					"price": 5,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
 					"props": []
 				},
 				{
-					"name": "天地壹号（罐装）",
-					"picUrl": "https://p0.meituan.net/rmscashier/d18cd383fa85f5975a1f1e47edab0e23118802.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"name": "茶丕",
+					"picUrl": "https://p0.meituan.net/rmscashier/bff9cd43d4c1c39591fda2920fc5e9ab69395.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "脉动",
+					"picUrl": "",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "自取饮料",
+					"props": []
+				},
+				{
+					"name": "胶瓶柠檬茶",
+					"picUrl": "",
 					"price": 6,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "自取饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "汤类",
+			"foods": [
+				{
+					"name": "西红柿蛋汤",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤类",
 					"props": []
 				},
 				{
-					"name": "加多宝",
-					"picUrl": "https://p0.meituan.net/rmscashier/f5a975f8ae1a5d0e53393c9db82ab51994884.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 5,
+					"name": "牛肉粉丝汤",
+					"picUrl": "",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "汤类",
 					"props": []
 				},
 				{
-					"name": "椰汁",
-					"picUrl": "https://p1.meituan.net/rmscashier/eb1c7b954a9f1fb99bc97c730e1b352064010.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 5,
+					"name": "牛肉汤",
+					"picUrl": "https://p1.meituan.net/rmscashier/a3c753988cc20a38186f9115ae0db5af142626.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "汤类",
 					"props": []
 				},
 				{
-					"name": "雪花啤酒",
-					"picUrl": "https://p1.meituan.net/rmscashier/1fa3bc244956801a7967695388854eeb56124.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 7,
+					"name": "羊肉汤",
+					"picUrl": "https://p1.meituan.net/rmscashier/11a04a5f1f78e04c966f132b7477a90f162689.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "汤类",
 					"props": []
 				},
 				{
-					"name": "维他柠檬茶",
-					"picUrl": "https://p0.meituan.net/rmscashier/e92bbdc6b7897047a034ccfbe6e219bf65511.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 4,
+					"name": "羊肉粉丝汤",
+					"picUrl": "https://p0.meituan.net/rmscashier/22a978beb46682e0c16580447490b5df158544.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "汤类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "套餐类",
+			"foods": [
+				{
+					"name": "A套餐",
+					"picUrl": "",
+					"price": 33,
+					"unit": "份",
+					"categoryName": "套餐类",
 					"props": []
 				},
 				{
-					"name": "维他奶盒装",
-					"picUrl": "https://p0.meituan.net/rmscashier/82087d693f8e987ae93a405d4910df52113342.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 4,
+					"name": "B套餐",
+					"picUrl": "",
+					"price": 33,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "套餐类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "热菜类",
+			"foods": [
+				{
+					"name": "素炒青菜",
+					"picUrl": "https://p0.meituan.net/rmscashier/97da52f2805dfd3165384ca1ff35447e106820.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热菜类",
 					"props": []
 				},
 				{
-					"name": "蒙牛酸酸乳（草莓味）",
-					"picUrl": "https://p0.meituan.net/rmscashier/c7ed0876e9c0296f806ad410aca9611399459.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 3,
+					"name": "酸辣土豆丝",
+					"picUrl": "https://p0.meituan.net/rmscashier/680c66790d5ff998de774d05fe4d179a95207.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "热菜类",
 					"props": []
 				},
 				{
-					"name": "蒙牛纯牛奶",
-					"picUrl": "https://p0.meituan.net/rmscashier/2a26bfa0534bb0d21854d1ed56956fc588698.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
-					"price": 4,
+					"name": "青椒土豆丝",
+					"picUrl": "https://p0.meituan.net/rmscashier/760485cd775cf1c91295c580ac5ebd6496199.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "🍹饮料",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "https://p1.meituan.net/rmscashier/9bb3c0713eed5ee00a55e7c91bf6bac7154426.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "香菇菜心",
+					"picUrl": "https://p0.meituan.net/rmscashier/df45e393615c61894f66e19d7c5199bc108620.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋",
+					"picUrl": "https://p0.meituan.net/rmscashier/13109f04feebf2daa77f012347e7bd3c123247.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "麻婆豆腐",
+					"picUrl": "https://p0.meituan.net/rmscashier/e7dbaa5ed557c2dc1ada5ce4fd5f679c164413.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "木耳炒肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/9e050b4bfd0bb5ae8722c1afa0c5498d132445.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "蘑菇炒肉",
+					"picUrl": "https://p1.meituan.net/rmscashier/a06df56b4e2e799b2b8de8e7d4bb5101123318.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "青椒炒肉",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "蒜苔炒肉",
+					"picUrl": "https://p1.meituan.net/rmscashier/2a9fa5e61cac292d1918ed3d1c572bdc101588.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "洋葱炒肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/2e89390ba37abc94ab51f45c73d2b6b7132253.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "土豆烧牛肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/451063efb48ef55346b4d358cb1cb328122888.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "红烧鸡块",
+					"picUrl": "",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/f09f7fd11bea7e39c298a87e923ed8a5122846.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 50,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "葱爆羊肉",
+					"picUrl": "https://p1.meituan.net/rmscashier/ff4e52126405004956eafea49a1e29f5123950.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 55,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/e9199e3b7029bb6e71add621242672f3134299.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 60,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "鲜炸羊排",
+					"picUrl": "",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "孜然炒烤肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/071004c2bc4833054c5cc810d258a6b1136231.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 60,
+					"unit": "份",
+					"categoryName": "热菜类",
+					"props": []
+				},
+				{
+					"name": "手抓羊肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/5f0b3bae88745a46f47a9995e50d69be114510.jpg%40640w_480h_1e_1c_1l%7Cwatermark%3D0",
+					"price": 90,
+					"unit": "份",
+					"categoryName": "热菜类",
 					"props": []
 				}
 			]
