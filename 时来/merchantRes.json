@@ -59,7 +59,7 @@
 				},
 				{
 					"name": "手工羊肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/443c8586389049f09a0f2f709fa421eb.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/443c8586389049f09a0f2f709fa421eb.png",
 					"price": 15,
 					"unit": "份",
 					"categoryName": "汤面类",
@@ -241,7 +241,7 @@
 				},
 				{
 					"name": "番茄鸡蛋刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/64ffda6263ad43ddb50607ce290c5cf0.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/64ffda6263ad43ddb50607ce290c5cf0.jpeg",
 					"price": 15,
 					"unit": "份",
 					"categoryName": "汤面类",
@@ -293,7 +293,7 @@
 				},
 				{
 					"name": "红烧刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e4466d6a26474b909cb60ba379dbce0b.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e4466d6a26474b909cb60ba379dbce0b.png",
 					"price": 15,
 					"unit": "份",
 					"categoryName": "汤面类",
@@ -719,7 +719,7 @@
 			"foods": [
 				{
 					"name": "牛肉水饺",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c1d516d7aaca4c3f9ba33cac34c3a15a.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c1d516d7aaca4c3f9ba33cac34c3a15a.jpeg",
 					"price": 15,
 					"unit": "份",
 					"categoryName": "饺子类",
@@ -854,7 +854,7 @@
 				},
 				{
 					"name": "番茄炒蛋拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ff7bcfc4212147f8bfb1ff83f80c9640.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ff7bcfc4212147f8bfb1ff83f80c9640.jpg",
 					"price": 15,
 					"unit": "份",
 					"categoryName": "特色拌面类",
@@ -880,7 +880,7 @@
 				},
 				{
 					"name": "蘑菇炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fe6cdfc62d13496086710be0c61a6a69.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fe6cdfc62d13496086710be0c61a6a69.png",
 					"price": 16,
 					"unit": "份",
 					"categoryName": "特色拌面类",
@@ -1036,7 +1036,7 @@
 				},
 				{
 					"name": "洋葱炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9003e6b90de54a8a98be36154141c2ba.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9003e6b90de54a8a98be36154141c2ba.jpg",
 					"price": 16,
 					"unit": "份",
 					"categoryName": "特色拌面类",
@@ -1140,7 +1140,7 @@
 				},
 				{
 					"name": "孜然牛肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/827272cadbd84961a3f3e6852a0891c2.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/827272cadbd84961a3f3e6852a0891c2.jpeg",
 					"price": 18,
 					"unit": "份",
 					"categoryName": "特色拌面类",
@@ -1166,7 +1166,7 @@
 				},
 				{
 					"name": "孜然羊肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fd9f39777b204614912d861172ef1d64.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fd9f39777b204614912d861172ef1d64.jpeg",
 					"price": 20,
 					"unit": "份",
 					"categoryName": "特色拌面类",
@@ -1436,7 +1436,7 @@
 				},
 				{
 					"name": "蒜苔炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7a33865db175405c95cce070313a0352.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7a33865db175405c95cce070313a0352.jpg",
 					"price": 16,
 					"unit": "份",
 					"categoryName": "盖浇饭",
@@ -1462,7 +1462,7 @@
 				},
 				{
 					"name": "青椒炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5f26f1f723ad4cc9b081b8495827ed22.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5f26f1f723ad4cc9b081b8495827ed22.jpg",
 					"price": 16,
 					"unit": "份",
 					"categoryName": "盖浇饭",
@@ -1514,7 +1514,7 @@
 				},
 				{
 					"name": "土豆烧牛肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/46187114bbb24e2fa5ccec017af40da2.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/46187114bbb24e2fa5ccec017af40da2.png",
 					"price": 17,
 					"unit": "份",
 					"categoryName": "盖浇饭",
@@ -1540,7 +1540,7 @@
 				},
 				{
 					"name": "木耳炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7545a65167574f2ba7ab7ee9780b1f13.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7545a65167574f2ba7ab7ee9780b1f13.png",
 					"price": 17,
 					"unit": "份",
 					"categoryName": "盖浇饭",
@@ -1592,7 +1592,7 @@
 				},
 				{
 					"name": "西葫芦炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/24aa854f02544bd38c77d2ca08708a0b.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/24aa854f02544bd38c77d2ca08708a0b.jpg",
 					"price": 16,
 					"unit": "份",
 					"categoryName": "盖浇饭",
@@ -1618,7 +1618,7 @@
 				},
 				{
 					"name": "孜然羊肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/969d8ecb4e19460d951cba0781f6cb76.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/969d8ecb4e19460d951cba0781f6cb76.jpg",
 					"price": 18,
 					"unit": "份",
 					"categoryName": "盖浇饭",
@@ -1727,7 +1727,7 @@
 			"foods": [
 				{
 					"name": "新疆大盘鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8ff376895d4d4bf3b3306e17021acbdf.jpg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8ff376895d4d4bf3b3306e17021acbdf.jpeg",
 					"price": 98,
 					"unit": "份",
 					"categoryName": "特色炒菜",
@@ -2117,7 +2117,7 @@
 				},
 				{
 					"name": "蘑菇炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6826a686e46c4a2e880863641ca9b3a7.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6826a686e46c4a2e880863641ca9b3a7.jpg",
 					"price": 35,
 					"unit": "份",
 					"categoryName": "特色炒菜",
@@ -2413,7 +2413,7 @@
 				},
 				{
 					"name": "牛杂汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f53a995c30f141728c69b62f4b165ca6.jpeg",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f53a995c30f141728c69b62f4b165ca6.jpg",
 					"price": 20,
 					"unit": "份",
 					"categoryName": "汤类",

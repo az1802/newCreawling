@@ -535,11 +535,11 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
       // console.log("j-----",foods[j].name)
       let foodItem = foods[j];
       // 菜品图片与imgIndex对应生成图片
-      let imgName = foodItem._imgIndex+1;
+      let imgName = foodItem._imgIndex;
       let url = foodItem.picUrl
       if (url) {
         // let ext = url.slice(url.lastIndexOf("."));
-        let ext=".jpg"
+        let ext=".jpeg"
 
         try {
           request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))

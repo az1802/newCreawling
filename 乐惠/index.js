@@ -151,7 +151,7 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo, outputDir, menuSetting)
   } else {
-    genWord(merchantInfo, outputDir)
+    // genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo, outputDir, menuSetting)
   }
 
