@@ -20,7 +20,8 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   propsGroupSort: [
     "加料"
   ],
-  propsSort:[]
+  propsSort: [],
+  bigImage:true
 }
 
 let propsGroupArr = [];
@@ -62,7 +63,7 @@ function formatFoodProps(foodItem) {
       groupTemp.name = subGroupsItem.name;
       let maxSelect = groupItem.maxSelect
 
-  addPropsGroupArr(propsGroupArr,groupTemp.name)
+    addPropsGroupArr(propsGroupArr,groupTemp.name)
 
       groupTemp.values = specificationIds.map(specificationId => { 
         let specificationItem = specifications[specificationId];

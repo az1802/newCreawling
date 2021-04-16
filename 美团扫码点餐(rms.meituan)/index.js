@@ -28,11 +28,17 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[],//做法
+  practice: [
+    "酱料",
+    "甜度",
+    "飲料"
+  ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-   
+    "酱料",
+    "甜度",
+    "飲料"
   ],
 }
 

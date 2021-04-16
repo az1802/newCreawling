@@ -7,32 +7,31 @@ let merchantMenuInfo = requestMenuJson.baseInfo;
 let shopeInfo = merchantMenuInfo.restaurant
 let foodList = merchantMenuInfo.foodList
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
-// const exportMode = "keruyun"
-const exportMode = "feie"
+const exportMode = "keruyun"
+// const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[ '煲仔饭',     '喝不喝靓汤',
-  '加料',       '选三种肉菜',
-  '选两种肉菜', '特色荷叶蒸饭',
-  '小吃糖水',   '原味蒸饭',
-  '炒菜类',     '时令炖汤'],//做法
+  practice: [
+    "匠心米线",
+    "小吃小菜",
+    "饮品",
+    "固定菜",
+    "可选分组1",
+    "可选分组2"
+  ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "煲仔饭",
-    "选两种肉菜",
-    "选三种肉菜",
-    "特色荷叶蒸饭",
-    "原味蒸饭",
-    "炒菜类",
-    "加料",
-    "小吃糖水",
-    "时令炖汤",
-    "喝不喝靓汤",
+    "匠心米线",
+    "小吃小菜",
+    "饮品",
+    "固定菜",
+    "可选分组1",
+    "可选分组2"
   ],
   propsSort: {
   }
@@ -55,7 +54,7 @@ async function getMerchantInfo() {
   return merchantInfo;
 }
 
-let allGroupsName = [];
+let propsGroupArr=[];
 
 function formatFoodProps(foodItem) { 
   let propsGroups = foodItem.methodCategories || [];
@@ -64,8 +63,7 @@ function formatFoodProps(foodItem) {
   let propsRes = propsGroups.map(groupItem => { 
     let groupTemp = {}
     groupTemp.name = groupItem.categoryName;
-    allGroupsName.indexOf(groupItem.categoryName) == -1 ? (allGroupsName.push(groupTemp.name)) : "";
-    console.log(allGroupsName,groupItem.categoryName)
+    addPropsGroupArr(propsGroupArr, groupTemp.name)
     groupTemp.values = groupItem.methodList.map( methodItem=> { 
       return {
         value: methodItem.name,
@@ -78,12 +76,11 @@ function formatFoodProps(foodItem) {
   })
   
 
-  combosList && combosList.forEach(comboItem => {
+  combosList && combosList.forEach((comboItem,index) => {
     let groupTemp = {}
     let basePrice = parseFloat(comboItem.price || 0)
-    groupTemp.name = comboItem.groupName;
-    allGroupsName.indexOf(groupTemp.name) == -1 ? (allGroupsName.push(groupTemp.name)) : "";
-
+    groupTemp.name = comboItem.groupName || (index==0 ? "固定菜":"可选分组"+index);
+    addPropsGroupArr(propsGroupArr, groupTemp.name)
     groupTemp.values = comboItem.cdatList.map( cdatItem=> { 
       return {
         value: cdatItem.name,
@@ -92,7 +89,6 @@ function formatFoodProps(foodItem) {
         isMul:false
       }
     })
-
     propsRes.push(groupTemp)
   })
 
@@ -173,7 +169,9 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
-  await logInfo(merchantInfo ,"merchantRes")
+  await logInfo(merchantInfo, "merchantRes")
+  await logInfo(propsGroupArr, "propsGroupArr")
+  
   // return;
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
@@ -181,7 +179,6 @@ async function genImgsAndExcel() {
   await mkShopDir(shopDir)
 
 
-  console.log("所有属性组---",allGroupsName)
 
   // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
@@ -189,7 +186,7 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genWord(merchantInfo, outputDir)
+    // genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 }

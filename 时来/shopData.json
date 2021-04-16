@@ -1,7 +1,7 @@
 {
   "data": {
       "address": "均禾新石路149号之一109铺",
-      "bannerMode": "BANNER_NONE",
+      "bannerMode": "BANNER_FANPIAO",
       "comboMealOnly": false,
       "disableBuyFanpiao": false,
       "disableCouponPackageRefund": false,
@@ -19,7 +19,7 @@
       "enableCouponExpirationReminder": true,
       "enableDishIncremental": false,
       "enableEatIn": true,
-      "enableFanpiao": false,
+      "enableFanpiao": true,
       "enableGroupDining": false,
       "enableInviteShare": false,
       "enableInvoice": false,
@@ -62,7 +62,7 @@
       "recommendedFoodPhotoUrls": [],
       "splashCouponCategoryId": "",
       "splashImageUrl": "",
-      "splashMode": "NONE",
+      "splashMode": "FANPIAO",
       "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/608da0a9-3194-4717-8e57-7c4b206570b4_tmp_735eaa09c4838415449516493a5d2a3015b3984268fd024f.jpg",
       "storeId": ""
   }

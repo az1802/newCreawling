@@ -25,12 +25,16 @@ const outputDir = path.join(__dirname, "merchantInfos")
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[ 	"就餐类型"
+  practice:[ 		"就餐类型",
+    "备注",
+   
 ],//做法
-  feeding:[],//加料
+  feeding:[ "加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "就餐类型"
+    "就餐类型",
+    "备注",
+    "加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -88,9 +92,24 @@ function formatFoodProps(foodItem) {
         }
       })
     }
-
     propsRes.push(propTemp);
   }
+
+  let supplyCondiments = foodItem.supplyCondiments || [];
+  let condimentTemp = {
+    name: "加料",
+    values: supplyCondiments.map(item => {
+      return {
+        value: item.name,
+        price: (parseFloat(item.marketPrice)/100),
+        propName: "加料",
+        isMul: true,
+        type:"supplyCondiment"
+      }
+    })
+  }
+  propsRes.push(condimentTemp)
+
 
   return propsRes;
 }

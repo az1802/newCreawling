@@ -365,7 +365,7 @@ let menuSettingDefault = { //到处的菜品属性归为规格,备注,加料,做
 
 let propsGroupArr = [];//存放所有的属性组
 async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
-  let { propsGroupSort,propsSort } = menuSetting
+  let { propsGroupSort,propsSort} = menuSetting
   let props = foodItem.props;
   for (let k = 0; k < props.length; k++) {
     let propName = props[k].name,propVals = props[k].values
@@ -478,7 +478,7 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
   let { categories, shopName } = merchantInfo;
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
-  let { specifications } = menuSetting
+  let { specifications ,bigImage} = menuSetting
   console.log("specifications---",specifications)
   mkdirSync(foodsImgsDir)
   let noImgUrls = {}
@@ -540,7 +540,9 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
       if (url) {
         // let ext = url.slice(url.lastIndexOf("."));
         let ext=".jpeg"
-
+        if (bigImage) {//阿里云模式下下载大图
+          url = url.slice(0, -3) + "2048";
+        } 
         try {
           request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
         } catch (err) {
@@ -552,7 +554,7 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
       }
 
       var pObj = docx.createP({ align: 'left' });
-      pObj.addText(`菜品：${foodItem.name}，${imgName}，${foodItem.price}`, { bold: false, font_face: 'Arial', font_size: 18 });
+      pObj.addText(`菜品：${foodItem.name}，${url?imgName:-1}，${foodItem.price}`, { bold: false, font_face: 'Arial', font_size: 18 });
 
       // 处理属性
       let props = foodItem.props;
@@ -560,7 +562,7 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
         let propItem = props[k];
         propItem.values.forEach(tempVal => { 
           var pObj = docx.createP({ align: 'left' });
-          pObj.addText(`属性：${tempVal.value}，${tempVal.price}，${tempVal.propName}，${tempVal.type=="SPECIFICATION" ? "SPECIFICATION" : "TASTE"}`, { bold: false, font_face: 'Arial', font_size: 18 });
+          pObj.addText(`${tempVal.type=="supplyCondiment" ? "配料" : "属性"}：${tempVal.value}，${tempVal.price}，${tempVal.propName}，${tempVal.type=="SPECIFICATION" ? "SPECIFICATION" : "TASTE"}`, { bold: false, font_face: 'Arial', font_size: 18 });
         })
       }
       var pObj_b = docx.createP({ align: 'left' });

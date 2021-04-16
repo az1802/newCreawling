@@ -6,7 +6,8 @@ const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,
 const defaultImgUrl = "https://shouqianba-customer.oss-cn-hangzhou.aliyuncs.com/jjz/processedPhoto5/ca06311f-796e-4889-8db4-dfb2f1a43ad1"
 
 
-const exportMode = "feie"
+const exportMode = "keruyun"
+const findJsonLen = 14
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let merchantInfo = require("./shopData.json")
@@ -43,15 +44,16 @@ function handleFoodPropGroup(foodDetail) {
     }
   })
 
-  return [propGroup]
+  return propGroup.name == "规格" ? [propGroup] : []
 
 }
+
 
 //读取dataJson下的所有文件取出 food菜品
 async function genMenuFoods() { 
   let allFoods = [];
-  for (let i = 0; i < 6; i++) { 
-    let filePath = path.join(__dirname, "dataJson", "find" + i);
+  for (let i = 0; i < findJsonLen; i++) { 
+    let filePath = path.join(__dirname, "dataJson", "find" + (i==0 ? "" : i));
     let records = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.records;
     // console.log(records)
     records.forEach(record => {
@@ -95,7 +97,6 @@ async function genMenuFoods() {
 
   let categoryArr = []
   categories.forEach(categoryItem => {
-    console.log(categoryData)
     categoryArr.push(categoryData[categoryItem.id])
   })
 
@@ -122,26 +123,12 @@ let tempObj = {}
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice:[
-    "杂酱",
-    "招牌炒粉",
-    "牛腩拌粉",
-    "素拌粉",
-    "排骨拌粉",
-    "肥肠拌粉",
-    "酸豆角拌粉",
-    "牛杂拌粉"
+   "规格"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
-  propsGroupSort:[
-    "杂酱",
-    "招牌炒粉",
-    "牛腩拌粉",
-    "素拌粉",
-    "排骨拌粉",
-    "肥肠拌粉",
-    "酸豆角拌粉",
-    "牛杂拌粉"
+  propsGroupSort: [
+    "规格"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]

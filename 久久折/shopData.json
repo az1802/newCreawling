@@ -1,38 +1,73 @@
 {
-  "store_id": "36115100-61db-401e-bc69-441c0b20e62a",
-  "sn": "1580000004061574",
-  "name": "Im拌粉",
+  "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609",
+  "sn": "1580000003813616",
+  "name": "99度酸菜鱼深圳科技路店",
   "business_status": 1,
-  "merchant_id": "8aa0ee0b-4cfa-4439-b22a-eae455ac0672",
-  "merchant_sn": "1680004265716",
+  "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+  "merchant_sn": "1680004094294",
   "categories": [{
-    "id": "60e360d8-68af-40a6-800d-f4f6cb9442df",
-    "name": "招牌必点",
+    "id": "81f36e77-848c-4578-a9e4-b7348d405177",
+    "name": "美味金汤米饭套餐",
     "display_order": 1,
-    "item_count": 3,
-    "merchant_id": "8aa0ee0b-4cfa-4439-b22a-eae455ac0672",
-    "store_id": "36115100-61db-401e-bc69-441c0b20e62a"
+    "item_count": 10,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
   }, {
-    "id": "2030bbec-e531-418d-90a3-7c5348eb0b84",
-    "name": "拌粉类",
+    "id": "600de4ed-1a86-4a24-af31-dbd9e893c273",
+    "name": "水煮系列米饭套餐（辣）",
     "display_order": 2,
+    "item_count": 12,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
+  }, {
+    "id": "f5129cf0-c863-41af-a927-03e9489ff36a",
+    "name": "豪华双拼系列",
+    "display_order": 3,
     "item_count": 6,
-    "merchant_id": "8aa0ee0b-4cfa-4439-b22a-eae455ac0672",
-    "store_id": "36115100-61db-401e-bc69-441c0b20e62a"
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
   }, {
-    "id": "d3e5d1a5-b96d-40ed-bc42-a83e1a77ee42",
-    "name": "小吃类",
-    "display_order": 5,
-    "item_count": 16,
-    "merchant_id": "8aa0ee0b-4cfa-4439-b22a-eae455ac0672",
-    "store_id": "36115100-61db-401e-bc69-441c0b20e62a"
+    "id": "cfb909e8-a2bb-4200-aba2-8c1ff780f207",
+    "name": "火锅便当米饭套餐",
+    "display_order": 4,
+    "item_count": 6,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
   }, {
-    "id": "f29b41e9-c9c1-4793-a329-e65d873c24a6",
-    "name": "饮料+汤",
+    "id": "adde2b82-0de5-4dcf-a80e-e996abae9dc0",
+    "name": "海带面/豆腐面/牛肉面/面板",
     "display_order": 6,
-    "item_count": 5,
-    "merchant_id": "8aa0ee0b-4cfa-4439-b22a-eae455ac0672",
-    "store_id": "36115100-61db-401e-bc69-441c0b20e62a"
+    "item_count": 4,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
+  }, {
+    "id": "2c4f95e4-e139-4bdb-8ea7-6edb34003321",
+    "name": "土豪加料",
+    "display_order": 7,
+    "item_count": 11,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
+  }, {
+    "id": "b388c77b-153e-4c7d-b068-5fa696b7228e",
+    "name": "特色小吃",
+    "display_order": 8,
+    "item_count": 12,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
+  }, {
+    "id": "dbe3ee2e-0db9-491d-a051-e8dbea171d0b",
+    "name": "饮料类",
+    "display_order": 9,
+    "item_count": 10,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
+  }, {
+    "id": "cf2d5ca4-f8fa-4b1e-b2e3-825aa201efda",
+    "name": "酒水类",
+    "display_order": 10,
+    "item_count": 2,
+    "merchant_id": "101be451-9bc4-49a1-9897-2ff838eda0da",
+    "store_id": "970a680e-8cb9-48cf-9f4e-7a09010f3609"
   }],
   "store_bulletin": null,
   "cashier_mode": null,
