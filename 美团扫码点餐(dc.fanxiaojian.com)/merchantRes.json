@@ -1,733 +1,884 @@
 {
-	"shopName": "十秒到过桥米线",
-	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1657292",
+	"shopName": "炳荣荔枝柴烧鹅(浙商大厦店)",
+	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1605899",
 	"categories": [
 		{
-			"name": "匠心米线",
+			"name": "鲜榨果汁",
 			"foods": [
 				{
-					"name": "牛肉米线",
+					"name": "百香苹果汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/1444f535ecc84096b38f00dca8b5cef4.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "大杯450ml",
+									"price": 18,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中杯300ml",
+									"price": 12,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百香雪梨汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/d404991e2e594937af8b06e3a8e43597.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "大杯450ml",
+									"price": 18,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中杯300ml",
+									"price": 12,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬西瓜汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/f00a9eeed89f4c38beb84d16369b44bb.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "大杯450ml",
+									"price": 18,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中杯300ml",
+									"price": 13,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬苹果汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/20cbe23b10ac454682e1c68c0e9ea0dd.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "大杯450ml",
+									"price": 18,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中杯300ml",
+									"price": 12,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪梨柠檬汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/dc07d38773c94dd49a93da1da632d2e7.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "大杯450ml",
+									"price": 18,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中杯300ml",
+									"price": 12,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "苹果雪梨汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/47f9acfdc1a24f88aa172e11e921da7c.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "大杯450ml",
+									"price": 18,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西瓜汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/91fe0834ace74c588cc7c61f6253e8c2.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港式丝袜奶茶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/69069064320441d8ae9ac34daeeb8799.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "热港式丝袜奶茶",
+							"values": [
+								{
+									"value": "冷",
+									"price": 0,
+									"propName": "热港式丝袜奶茶",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "热饮",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 2,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪梨汁",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/52ede8mL.jpg@200w_150h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "杯",
+					"categoryName": "鲜榨果汁",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "精选特饮",
+			"foods": [
+				{
+					"name": "柠乐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/f9d7bb28427644219866605bcd94eedb.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "杯",
+					"categoryName": "精选特饮",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "富贵柠檬茶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/e4d4c25817d145e4b2c567ffb7eee1c9.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "杯",
+					"categoryName": "精选特饮",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百香柠檬茶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/bedd17ab9d6c435d8d3ed07ae8de5159.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "杯",
+					"categoryName": "精选特饮",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金桔柠檬",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/4e2134a75014479a9d5bda9aec7903fa.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "杯",
+					"categoryName": "精选特饮",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠七",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/b1bf7b40cab647b68b6f323278973684.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "杯",
+					"categoryName": "精选特饮",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "新品",
+			"foods": [
+				{
+					"name": "丝瓜鹅杂饭",
 					"picUrl": "",
-					"price": "35.0",
+					"price": "28.0",
 					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁大杯",
+									"price": 10,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "牛腩米线",
-					"picUrl": "",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "羊排米线",
-					"picUrl": "",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "泡椒大排米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/1990ac79cb894b58a234cd85dd24a2c2.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "泡椒肥牛米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/2ef7c96a3afa439aa999b370fda07360.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "泡椒牛腩米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/24fa0981232b432b96e823dd7e3ca4d3.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "泡椒巴沙鱼米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/4c02ff4063a449c687241844f1cd9b3e.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "花胶鸡米线（特）",
+					"name": "豉汁蒸排骨饭",
 					"picUrl": "",
 					"price": "25.0",
 					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁大杯",
+									"price": 10,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "泡椒米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/078666cb58d94e8699166fb57067950c.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
+					"name": "卤香牛腩饭",
+					"picUrl": "",
+					"price": "30.0",
 					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁大杯",
+									"price": 10,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "原味过桥米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/b528f46ae2ac4035b202cd698d2c0c01.jpg@600w_450h_1e_1c_1l",
+					"name": "肉丸瘦肉粉",
+					"picUrl": "",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "榨菜肉丝粉",
+					"picUrl": "",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱花肉粒炒蛋饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/7a5f35bae4dd470c98c36e7e064828f8.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芹菜木耳鸡肉饭",
+					"picUrl": "",
 					"price": "26.0",
 					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "原味大排米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/4b78aa45671048d88053e5d4991d925c.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "原味肥牛米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/4c4a950f210a408f9ff5201f119ed4ef.jpg@600w_450h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "原味牛腩米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/75338c0556f64534a9077e1160bb59f5.jpg@600w_450h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "番茄米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/ea8138dedcb04b8bb66100464dd1eab6.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "番茄大排米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/021898ebdf1d47c98c7f7170d06897b0.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "番茄牛腩米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/hotel/1657292/e9cd5619586c4f42aee8f857df26d659.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "番茄肥牛米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/d43287a4d6eb4fbba5e46945f7ec0ea0.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "金汤米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/a36cbfed420446a592fb9b331dddeaa1.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "金汤肥牛米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/0afd7e73e18949d186d4566584c7e523.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "金汤巴沙鱼米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/fb4d41ca53004c5dbd057ee151a69b6f.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "金汤大排米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/dbb78be777f04582aaf412e615c2d2c2.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "金汤牛腩米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/2ed1e3eca899431ea610b84a068cb14e.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "麻辣米线（特）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/1ab396eb6abc45729124687ee85af685.jpg@600w_450h_1e_1c_1l",
-					"price": "23.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "麻辣肥肠米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/17beec44751047abbe0150ba75e5c6ba.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "麻辣牛腩米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/0fb140648239458688a44ad745befad9.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "麻辣鱼米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/ee4137c7d92545779b5d751337ef2a7f.jpg@600w_450h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "猪杂米线（特）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/0ecd6f834cb04cfba3649a0ef3b15e12.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "麻辣鸡腿米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/a450c49b56774c888b3f23f7f4b42e03.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "叉烧米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/bb027c8570324d52af114f7cff05a705.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "鸡汤米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/e023b8db6d22417da46725704031126a.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "泡菜肥牛米线（特）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/423f627197a3474881e70646753aa106.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "酸菜鱼米线（特）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/e22b5e1ee53f4434b1d41c975c745872.jpg@600w_450h_1e_1c_1l",
-					"price": "24.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "麻辣牛肚米线(特）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/8d92e62da6bb40c9bc00f79f30e40976.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				},
-				{
-					"name": "红烧排骨米线",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9a78a1cF.jpg@200w_150h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "匠心米线",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "简餐饭类",
-			"foods": [
-				{
-					"name": "田鸡黄鳝蒸饭",
-					"picUrl": "",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "豉汁鱼腩蒸饭",
-					"picUrl": "",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "牛肉蒸饭",
-					"picUrl": "",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "豉汁田鸡蒸饭",
-					"picUrl": "",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "冰糖雪梨汤",
-					"picUrl": "",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "淮山排骨汤",
-					"picUrl": "",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "虫草花乌鸡汤",
-					"picUrl": "",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "豉汁黄鳝蒸饭",
-					"picUrl": "",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "白切鸡蒸饭",
-					"picUrl": "",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉蒸饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/a73167d7309d4653ab4462e02187b48b.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "牛腩蒸饭",
-					"picUrl": "",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "腊味蒸饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/a62cb5ac77ba494cbabad9c244f0cc0e.jpg@600w_450h_1e_1c_1l",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "香菇滑鸡蒸饭",
-					"picUrl": "",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				},
-				{
-					"name": "豆豉排骨蒸饭",
-					"picUrl": "",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "简餐饭类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "小吃小菜",
-			"foods": [
-				{
-					"name": "骨肉相连",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9pKwU7Pl.jpg@200w_150h_1e_1c_1l",
-					"price": "10.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "香辣鸡柳",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/HzlVcALZ.jpg@200w_150h_1e_1c_1l",
-					"price": "10.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "香芋地瓜丸",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Y9bDWU8N.jpg@200w_150h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "南瓜饼",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DqmmtMyX.jpg@200w_150h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "鸡米花",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/98KykdgC.jpg@200w_150h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "炸薯条",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DxEP20O9.jpg@200w_150h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "酸辣黄瓜",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ElPGN2Q8.jpg@200w_150h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "纳西豆皮",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/b538f4443a494de8b5b28ca5493e4112.jpg@600w_450h_1e_1c_1l",
-					"price": "10.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "老醋木耳",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/MyoIPpEn.jpg@200w_150h_1e_1c_1l",
-					"price": "10.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				},
-				{
-					"name": "白灼生菜",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/52baa6sY.jpg@200w_150h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "小吃小菜",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饮品",
-			"foods": [
-				{
-					"name": "百事可乐-青柠味",
-					"picUrl": "",
-					"price": "5.0",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "百事可乐（桂花味）",
-					"picUrl": "",
-					"price": "5.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "美年达-百香果菠萝味",
-					"picUrl": "",
-					"price": "5.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "百事可乐(树莓味)",
-					"picUrl": "",
-					"price": "5.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "七喜(柠檬味汽水）",
-					"picUrl": "",
-					"price": "5.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "酸梅汁",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/513ad7jJ.jpg@200w_150h_1e_1c_1l",
-					"price": "6.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "宁乐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/11556d5eb843464c9097ffd3f0276962.jpg@600w_450h_1e_1c_1l",
-					"price": "8.0",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "宁七",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/73102ff7afcb410abf0045f2b58f7562.jpg@600w_450h_1e_1c_1l",
-					"price": "8.0",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "鲜百香果茶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/b3af6936cd2444cab504e7e3b9a07b19.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "王老吉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/9da65661b2cf4d9988ca133dc44812ed.jpg@600w_450h_1e_1c_1l",
-					"price": "5.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "维他奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/41f4a85ea91a49c690957976407cc3ef.jpg@600w_450h_1e_1c_1l",
-					"price": "3.0",
-					"unit": "杯",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "矿泉水330ml",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/64cea1eN.jpg@200w_150h_1e_1c_1l",
-					"price": "3.0",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "矿泉水500ml",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/54669agK.jpg@200w_150h_1e_1c_1l",
-					"price": "4.0",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "加料",
-			"foods": [
-				{
-					"name": "米线打包盒1",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/fc5af7yG.jpg@200w_150h_1e_1c_1l",
-					"price": "2.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "叉烧",
-					"picUrl": "",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "纸巾1",
-					"picUrl": "",
-					"price": "1.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "生菜卷",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/a7e38a87573e439e99b5be0809efe464.jpg@600w_450h_1e_1c_1l",
-					"price": "2.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "肉酱",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/ce82396a05f74e10adf72fda4afb8dae.jpg@600w_450h_1e_1c_1l",
-					"price": "2.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "小鸡腿",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/04b07b7f2cd0469a8843003074a347c6.jpg@600w_450h_1e_1c_1l",
-					"price": "3.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "美味大排",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/23046e53f3054107bd93a8a3208ce835.jpg@600w_450h_1e_1c_1l",
-					"price": "10.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "风味鸡腿",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/d471351c4a6c473494791d6edcc9f15b.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "红烧牛腩",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/396db1c4acbc4ad484863fcba2f01386.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加米线",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/c83b5fdce13d423da9833369de21eb96.jpg@600w_450h_1e_1c_1l",
-					"price": "3.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "麻辣肥肠",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/11044f26807a4fd6ae704708c2a53ebd.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "红烧排骨",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/19e59f390c47487a9efa1c2fbd2e1089.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "优质肥牛",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/e56571193d9346608cd48e762d1a52d5.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "米饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/SgXfUFZl.jpg@200w_150h_1e_1c_1l",
-					"price": "3.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "煎鸡蛋",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3246dbfT.jpg@200w_150h_1e_1c_1l",
-					"price": "3.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "鹌鹑蛋",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/ac491b27a78045d498354a3ff04aeb0c.jpg@600w_450h_1e_1c_1l",
-					"price": "1.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "黄金酥豆",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/140dce9642af4b8aa7f31715eacd5f0c.jpg@600w_450h_1e_1c_1l",
-					"price": "2.0",
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
+					"categoryName": "新品",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
@@ -735,71 +886,54 @@
 			"name": "套餐",
 			"foods": [
 				{
-					"name": "原味米线套餐A",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/2a12c1dad45945f5a5573865a178e057.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
+					"name": "单人饮品套餐",
+					"picUrl": "",
+					"price": "35.0",
 					"unit": "份",
 					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "匠心米线",
+							"name": "金牌烧腊饭类",
 							"values": [
 								{
-									"value": "原味过桥米线",
-									"price": 26,
-									"propName": "匠心米线",
+									"value": "白切鸡饭",
+									"price": 28,
+									"propName": "金牌烧腊饭类",
+									"isMul": false
+								},
+								{
+									"value": "秘制卤水鹅杂饭",
+									"price": 30,
+									"propName": "金牌烧腊饭类",
+									"isMul": false
+								},
+								{
+									"value": "秘制卤水鹅掌亦饭",
+									"price": 30,
+									"propName": "金牌烧腊饭类",
+									"isMul": false
+								},
+								{
+									"value": "荔枝柴烧鹅饭",
+									"price": 30,
+									"propName": "金牌烧腊饭类",
 									"isMul": false
 								}
 							]
 						},
 						{
-							"name": "小吃小菜",
+							"name": "精选特饮",
 							"values": [
 								{
-									"value": "骨肉相连",
+									"value": "柠七",
 									"price": 10,
-									"propName": "小吃小菜",
+									"propName": "精选特饮",
 									"isMul": false
 								},
 								{
-									"value": "香辣鸡柳",
+									"value": "柠乐",
 									"price": 10,
-									"propName": "小吃小菜",
-									"isMul": false
-								},
-								{
-									"value": "老醋木耳",
-									"price": 10,
-									"propName": "小吃小菜",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "饮品",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": 3,
-									"propName": "饮品",
-									"isMul": false
-								},
-								{
-									"value": "宁七",
-									"price": 8,
-									"propName": "饮品",
-									"isMul": false
-								},
-								{
-									"value": "宁乐",
-									"price": 8,
-									"propName": "饮品",
-									"isMul": false
-								},
-								{
-									"value": "酸梅汁",
-									"price": 6,
-									"propName": "饮品",
+									"propName": "精选特饮",
 									"isMul": false
 								}
 							]
@@ -807,264 +941,72 @@
 					]
 				},
 				{
-					"name": "泡菜肥牛米线套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/df9e31857d43442dbf9866b10146384a.jpg@600w_450h_1e_1c_1l",
-					"price": "40.0",
+					"name": "单人炖汤套餐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/08/8a2761a36ec3404aab56f4b83a9bcab0.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
 					"unit": "份",
 					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
+							"name": "金牌烧腊饭类",
 							"values": [
 								{
-									"value": "老醋木耳",
-									"price": 10,
-									"propName": "可选分组1",
+									"value": "荔枝柴叉烧饭",
+									"price": 32,
+									"propName": "金牌烧腊饭类",
 									"isMul": false
 								},
 								{
-									"value": "香辣鸡柳",
-									"price": 10,
-									"propName": "可选分组1",
+									"value": "秘制卤水鹅杂饭",
+									"price": 30,
+									"propName": "金牌烧腊饭类",
+									"isMul": false
+								},
+								{
+									"value": "荔枝柴烧鹅饭",
+									"price": 30,
+									"propName": "金牌烧腊饭类",
+									"isMul": false
+								},
+								{
+									"value": "秘制卤水鹅掌亦饭",
+									"price": 30,
+									"propName": "金牌烧腊饭类",
 									"isMul": false
 								}
 							]
 						},
 						{
-							"name": "可选分组2",
+							"name": "精选特饮",
 							"values": [
 								{
-									"value": "宁乐",
-									"price": 8,
-									"propName": "可选分组2",
+									"value": "富贵柠檬茶",
+									"price": 15,
+									"propName": "精选特饮",
 									"isMul": false
 								},
 								{
-									"value": "宁七",
-									"price": 8,
-									"propName": "可选分组2",
+									"value": "五指毛桃龙骨汤",
+									"price": 16,
+									"propName": "精选特饮",
 									"isMul": false
 								},
 								{
-									"value": "维他奶",
-									"price": 3,
-									"propName": "可选分组2",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡汤米线套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/0eda6607a991411f8e53fd52d8347bff.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": [
-								{
-									"value": "老醋木耳",
-									"price": 10,
-									"propName": "可选分组1",
+									"value": "茶树菇龙骨汤",
+									"price": 16,
+									"propName": "精选特饮",
 									"isMul": false
 								},
 								{
-									"value": "香辣鸡柳",
-									"price": 10,
-									"propName": "可选分组1",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "可选分组2",
-							"values": [
-								{
-									"value": "宁乐",
-									"price": 8,
-									"propName": "可选分组2",
+									"value": "花旗参竹丝鸡汤",
+									"price": 16,
+									"propName": "精选特饮",
 									"isMul": false
 								},
 								{
-									"value": "宁七",
-									"price": 8,
-									"propName": "可选分组2",
-									"isMul": false
-								},
-								{
-									"value": "维他奶",
-									"price": 3,
-									"propName": "可选分组2",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麻辣米线套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/c86118e3f49c497c9d5eca59f88ff632.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": [
-								{
-									"value": "老醋木耳",
-									"price": 10,
-									"propName": "可选分组1",
-									"isMul": false
-								},
-								{
-									"value": "香辣鸡柳",
-									"price": 10,
-									"propName": "可选分组1",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "可选分组2",
-							"values": [
-								{
-									"value": "宁乐",
-									"price": 8,
-									"propName": "可选分组2",
-									"isMul": false
-								},
-								{
-									"value": "宁七",
-									"price": 8,
-									"propName": "可选分组2",
-									"isMul": false
-								},
-								{
-									"value": "维他奶",
-									"price": 3,
-									"propName": "可选分组2",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金汤米线套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/7d0d29a4b7d94b0594aa919c56a85f63.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": [
-								{
-									"value": "老醋木耳",
-									"price": 10,
-									"propName": "可选分组1",
-									"isMul": false
-								},
-								{
-									"value": "香辣鸡柳",
-									"price": 10,
-									"propName": "可选分组1",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "可选分组2",
-							"values": [
-								{
-									"value": "宁乐",
-									"price": 8,
-									"propName": "可选分组2",
-									"isMul": false
-								},
-								{
-									"value": "宁七",
-									"price": 8,
-									"propName": "可选分组2",
-									"isMul": false
-								},
-								{
-									"value": "维他奶",
-									"price": 3,
-									"propName": "可选分组2",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄米线套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/54af97ac76014d4ebb39f15cbcf5ef59.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": [
-								{
-									"value": "宁乐",
-									"price": 8,
-									"propName": "可选分组1",
-									"isMul": false
-								},
-								{
-									"value": "宁七",
-									"price": 8,
-									"propName": "可选分组1",
-									"isMul": false
-								},
-								{
-									"value": "维他奶",
-									"price": 3,
-									"propName": "可选分组1",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "可选分组2",
-							"values": [
-								{
-									"value": "老醋木耳",
-									"price": 10,
-									"propName": "可选分组2",
-									"isMul": false
-								},
-								{
-									"value": "香辣鸡柳",
-									"price": 10,
-									"propName": "可选分组2",
+									"value": "虫草花竹丝鸡汤",
+									"price": 16,
+									"propName": "精选特饮",
 									"isMul": false
 								}
 							]
@@ -1072,6 +1014,5439 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "金牌汤粉类",
+			"foods": [
+				{
+					"name": "荔枝柴烧鹅粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/a84ac7c623f943d78380e8886741aa7a.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅腿粉",
+					"picUrl": "",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴叉烧粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/23a72eb01c3941ceab8bf4e3b285385b.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油王鹅杂粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/fb63a5dc38ee4ec79f9b6d722d29dd11.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切鸡粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/f2edb31d061945eb809dbaeeb1bb9ec4.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油王掌亦粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/6f2b519fc9ac478897c8a2820894ae49.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼叉烧粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/e3c20ee522bd447f91689bf3274b9b99.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼掌翅粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/0dc37c58618147628dcab62782340888.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼鹅杂粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/cbf54a2789024a9c8ad3283f15d9363d.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肝瘦肉粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/7c9a61f8001f4bcea160fc0dabae9c15.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "瘦肉粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/26b8f9e07ca54e5e9bab63a78d89f741.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜菇菜心瘦肉粉",
+					"picUrl": "",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "斋粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/8b487818beed42aa8a2254e8a288e5a3.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "金牌汤粉类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "濑粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "金牌烧腊饭类",
+			"foods": [
+				{
+					"name": "荔枝柴烧鹅饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/b793fbeed838450e818a3ae55b184bc9.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅腿饭",
+					"picUrl": "",
+					"price": "40.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": []
+				},
+				{
+					"name": "荔枝柴叉烧饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/3c1e2e93d47543ce9e6c5536cdee8eb7.jpg@600w_450h_1e_1c_1l",
+					"price": "32.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切鸡腿饭",
+					"picUrl": "",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": []
+				},
+				{
+					"name": "秘制卤水鹅杂饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/935a764427f44da29580d741b4af47f9.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤水鹅掌亦饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/9fddea23ff824dfeb39f6d2bb16bebd7.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油鸡饭",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/BtVgFknZ.jpg@200w_150h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切鸡饭",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/TDmiL6wU.jpg@200w_150h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/781c1802e5d94fdfaf89652246a42a2c.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "白切鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "豉油鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼叉烧饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/4d5aaab308c943b197f362671289db8b.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼鹅杂饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/2e09020ab4f0459887c5652dff170879.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/a44017b338894dd4a30748d05bf783b8.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "白切鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "豉油鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼掌翅饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/92ffa3d440c34c61bfb8e2a8f96d61ce.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼鹅杂饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/1cee38e4695e40a2b12bce9ab9530bbe.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三宝饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/453b981c51da4bbc85de167ec7897e0c.jpg@600w_450h_1e_1c_1l",
+					"price": "45.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "豉油鸡.",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "白切鸡.",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼掌翅饭",
+					"picUrl": "",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌烧腊饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "金牌碟头饭类",
+			"foods": [
+				{
+					"name": "青瓜瘦肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/08/d8b17958965c42e3b11fc5626db19eb7.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": []
+				},
+				{
+					"name": "青椒鸡杂饭",
+					"picUrl": "",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": []
+				},
+				{
+					"name": "青椒炒蛋饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/f5e9a59d63274ac9947d9ec67b6c2780.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣土豆丝饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/c8dbefe3327a4f9c9ced909af10977cf.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣茄子炒肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/70b2d489de69459b9359027d8ddef835.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "原配",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "换鸡柳",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椰菜花瘦肉饭",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/aYzlNCh6.jpg@200w_150h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "原配",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "换鸡柳",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱牛肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/d4b360a8d7874094922cbf48a527fb12.jpg@600w_450h_1e_1c_1l",
+					"price": "33.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "苦瓜牛肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/8a9ceb17905544f4b9cb1b603b8b4055.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "滑蛋牛肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/5b3076bce7074f01983b5f3503a99393.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒滑蛋炒肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/3921c1d2269946dcbfaf094d8aebda3d.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒鸡排饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/5d16d7bea11b4f2c81ec62266788bab2.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菜心牛肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/9d74800a2bcc4d5cbec7bf6867672f8e.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒杂菇瘦肉饭",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/f735d6fG.jpg@200w_150h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "榨菜肉丝炒蛋饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/97f4f18f229f4c45a0d58567d0f43aa6.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "原配",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "换鸡柳",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青瓜鹅杂饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/8102cdd7d5b74dcc8e5090e06a4edeed.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒炒肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/1efaff784f324778a95780b29b61f11b.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒猪肝瘦肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/6511e56cffbe4eeda0cfa95268e5690c.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青瓜肉片饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/2c75d5fdbda34e5aad7a5f108367aeea.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂菇牛肉饭",
+					"picUrl": "",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菠萝焖鸭饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/05/35645b723c094241b72cfd927d0489d1.jpeg@600w_450h_1e_1c_1l",
+					"price": "33.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "枸杞叶猪杂汤饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/08/e32ebf09a82d4f4b80f70a34e906b311.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "瘦肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/6dfad0a948c34425a416bd5cfb57b358.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "滑蛋叉烧饭",
+					"picUrl": "",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": []
+				},
+				{
+					"name": "酸豆角肉沫饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/08/2134f5b0d9ac461d8e61c6f01b921af7.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "金牌碟头饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "金牌例牌",
+			"foods": [
+				{
+					"name": "荔枝柴烧鹅腿例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/e569a8a2c3c5426484c14d29945b3b6d.jpg@600w_450h_1e_1c_1l",
+					"price": "35.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/ff41260f4d964c0ca440da3781d5789b.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴叉烧例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/c397871072814be5842e3de4f7363466.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼盘例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/d01986422d4c48ac9b2cecfd11794936.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "白切鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "豉油鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼盘例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/67be856f2805418bb15eb0a437545ba0.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "白切鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "豉油鸡",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅（一只）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/4c5e6ca7882641afb9f37e2f5003cbd0.jpg@600w_450h_1e_1c_1l",
+					"price": "268.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅（半只）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/23992661e8134c5798d6c6195a28fd93.jpg@600w_450h_1e_1c_1l",
+					"price": "136.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三宝拼盘例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/bc5683bb81694209a25f63b09ed4228f.jpg@600w_450h_1e_1c_1l",
+					"price": "78.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "豉油鸡.",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "白切鸡.",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鹅五宝例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/5da0f35616b64cddb36f7e98abc8e426.jpg@600w_450h_1e_1c_1l",
+					"price": "88.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼鹅杂例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/c5c0bcb3940c4f36ab11373ddffc30a7.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼鹅杂例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/8c18a2c48c324fb8894160a68b1502ff.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼叉烧例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/54e6f148a34647808d162d6387f8a242.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切鸡例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/05/d92e01ce61294689b293302d92e2c9f6.jpeg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油鸡例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/a8bac6f847b74ecd921f41c64c81f8f9.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油王鹅杂例",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/7f37ad91865641bc86d5933f3a65faa7.jpg@600w_450h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅例牌（中份）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/05/e36b67e8796a4c3d8a929dbcca5ae5c4.jpeg@600w_450h_1e_1c_1l",
+					"price": "40.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切鸡半只",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/IP9sV4ht.jpg@320w_240h_1e_1c_1l",
+					"price": "68.0",
+					"unit": "份",
+					"categoryName": "金牌例牌",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "精美小炒",
+			"foods": [
+				{
+					"name": "菜心牛肉（例牌）",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/mY6WeQTH.jpg@320w_240h_1e_1c_1l",
+					"price": "45.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": []
+				},
+				{
+					"name": "滑蛋叉烧（例牌）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/df492ac0331e4fb9914a33090c53ee5c.jpg@600w_450h_1e_1c_1l",
+					"price": "50.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒青瓜鹅杂（例牌）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/20cf7cada59e4998a61711df8fe58163.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "丝瓜鹅杂例牌",
+					"picUrl": "",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸豆角肉沫（例牌）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/989e10b354514a678d5a8e86606cabfb.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "滑蛋牛肉（例牌）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/7b23f381020d440db7c724d6b47bb3fb.jpg@600w_450h_1e_1c_1l",
+					"price": "45.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉瓜牛肉（例牌）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/e7c68d96b1a44ecb8a289e59f5f90232.jpg@600w_450h_1e_1c_1l",
+					"price": "45.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒滑蛋炒瘦肉（例牌）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/dd6631bdb2df4733b3eb19d2f707bbf7.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂菇牛肉例牌",
+					"picUrl": "",
+					"price": "45.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋肉沫（例牌）",
+					"picUrl": "",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "姜葱鹅肠",
+					"picUrl": "",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "精美小炒",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "健康绿蔬",
+			"foods": [
+				{
+					"name": "白灼生菜例",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/52baa6sY.jpg@200w_150h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼菜心例",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/S6KQ6FiV.jpg@320w_240h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爽脆凉拌青瓜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/60fe0c7534964718964f659b41a88a30.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼西兰花",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/6RtPSrJg.jpg@320w_240h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜蓉炒西兰花",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/5d0233uU.jpg@320w_240h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜蓉炒菜心",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/441511oC.jpg@320w_240h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜蓉炒生菜",
+					"picUrl": "",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "健康绿蔬",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "精选炖汤",
+			"foods": [
+				{
+					"name": "炖汤（随机）",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "精选炖汤",
+					"props": []
+				},
+				{
+					"name": "花旗参竹丝鸡汤",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/180886.jpg@320w_240h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "精选炖汤",
+					"props": []
+				},
+				{
+					"name": "五指毛桃龙骨汤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/6a6632f7b5bf4c00b7a2cffeaaeb3eee.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "精选炖汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茶树菇龙骨汤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/5bdc040e5edf44a894602892557be74a.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "精选炖汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "虫草花竹丝鸡汤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/11/084929628b9c4090926d7340fea03707.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "精选炖汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "精选小吃",
+			"foods": [
+				{
+					"name": "黄金薯饼",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/zvL42Dsi.jpg@320w_240h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酥皮菠萝包",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/OYEsUt9S.jpg@320w_240h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蜂蜜黄油厚多士",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/6cb29d96edf741c390e79df7fa9df17b.JPG@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港式西多士",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/44b71210844347a2b1b03437c0701840.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "手摇柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠七",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "柠乐",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式冻奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式柠檬茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "港式热奶茶",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁中杯",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "西瓜汁大杯",
+									"price": 10,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁中杯",
+									"price": 8,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "鲜榨雪梨汁大杯",
+									"price": 14,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄金鸡米花",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/98fb68bb9a78443da0981cea2df4c40e.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "焦糖肉桂厚多士",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/b78f0a929ddf40b9bee5dc4108f3e246.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "公司三明治",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/3898fb1ca9de4adea0024c089879b2f3.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "波浪薯条",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/345893170a554c1c8be743ae054be20d.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "精选小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "精品小吃",
+			"foods": [
+				{
+					"name": "豉油王鹅掌亦（一对）",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "精品小吃",
+					"props": []
+				},
+				{
+					"name": "豉油王鹅肾",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/8622f2c75f194a3982ae4db93b3bac22.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "精品小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅脖",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/cf89daf8d15e475aa2828d16abd4c725.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "精品小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油王鹅肝",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/bc585c11f746494ea12f54af5ea22248.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "精品小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荔枝柴烧鹅头",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/c214f71e473e45b6a759577ffe09966b.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "份",
+					"categoryName": "精品小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "加料",
+			"foods": [
+				{
+					"name": "煎鸡蛋",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8050.jpg@320w_240h_1e_1c_1l",
+					"price": "3.0",
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "米饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/02/2ae79a4e3aea40be9decfbd8fb499441.jpg@600w_450h_1e_1c_1l",
+					"price": "3.0",
+					"unit": "份",
+					"categoryName": "加料",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "热菜类",
+			"foods": []
+		},
+		{
+			"name": "凉菜类",
+			"foods": []
+		},
+		{
+			"name": "主食类",
+			"foods": []
+		},
+		{
+			"name": "金牌碟头饭",
+			"foods": []
+		},
+		{
+			"name": "金牌肠粉",
+			"foods": []
+		},
+		{
+			"name": "金牌汤粉",
+			"foods": []
+		},
+		{
+			"name": "加料（米饭）",
+			"foods": []
 		}
 	]
 }

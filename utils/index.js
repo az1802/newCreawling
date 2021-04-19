@@ -373,17 +373,7 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
       propsGroupArr.push(propName);
     }
 
-    // let propTemp = {
-    //   name: props[k].p_name,
-    //   values: props[k].values.map(propValItem => { 
-    //     return {
-    //       value: propValItem.p_value,
-    //       price: propsPriceObj[`#${props[k].p_name_id}_${propValItem.p_value_id}#`],
-    //       propName: props[k].p_name,
-    //       isMul:props[k].is_multiple
-    //     }
-    //   })
-    // }
+  
     
     if (propsSort&&propsSort[propName]) { //具体某个属性组具体的排序
       let propNameSort = propsSort[propName]
@@ -401,57 +391,7 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
       tempPropsSort = tempPropsSort.filter(item => !!item);
       props[k].values = tempPropsSort //属性值调整顺序之后替换为新的
     }
-
-    // if (propName == "加料区"&&foodItem.categoryName!="加料区") {
-    //   props[k].values = [
-    //     {
-    //       "value": "荷包蛋",
-    //       "price": "3",
-    //       "propName": "加料区",
-    //       "isMul": true
-    //     },
-    //     {
-    //       "value": "火腿肠",
-    //       "price": "3",
-    //       "propName": "加料区",
-    //       "isMul":true
-    //     },
-    //     {
-    //       "value": "海带丝",
-    //       "price": "3",
-    //       "propName": "加料区",
-    //       "isMul": true
-    //     }
-    //   ]
-    // }
   }
-
-  // if (foodItem.categoryName!="加料区") {
-  //   props.push({
-  //     name: "饮料",
-  //     values:[
-  //       {
-  //         "value": "可乐",
-  //         "price": "3.5",
-  //         "propName": "饮料",
-  //         "isMul": true
-  //       },
-  //       {
-  //         "value": "雪碧",
-  //         "price": "3",
-  //         "propName": "饮料",
-  //         "isMul":true
-  //       },
-  //       {
-  //         "value": "王老吉",
-  //         "price": "4",
-  //         "propName": "饮料",
-  //         "isMul": true
-  //       }
-  //     ]
-  //   })
-  // }
-
 
   //处理属性组的顺序  
   let tempPropsGroup = new Array(propsGroupSort.length)

@@ -14,24 +14,24 @@ const exportMode = "keruyun"
 // const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications:["规格"],//规格
   practice: [
-    "匠心米线",
-    "小吃小菜",
-    "饮品",
-    "固定菜",
-    "可选分组1",
-    "可选分组2"
+    "热港式丝袜奶茶",
+    "默认分类",
+    "做法",
+    "金牌烧腊饭类",
+    "精选特饮"
   ],//做法
-  feeding:[],//加料
+  feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "匠心米线",
-    "小吃小菜",
-    "饮品",
-    "固定菜",
-    "可选分组1",
-    "可选分组2"
+    "规格",
+    "加料",
+    "热港式丝袜奶茶",
+    "默认分类",
+    "做法",
+    "金牌烧腊饭类",
+    "精选特饮"
   ],
   propsSort: {
   }
@@ -59,6 +59,8 @@ let propsGroupArr=[];
 function formatFoodProps(foodItem) { 
   let propsGroups = foodItem.methodCategories || [];
   let combosList = foodItem.combosList || [];
+  let norms = foodItem.norms || []; //规格
+  let additionCategories = foodItem.additionCategories || [];//加料
   
   let propsRes = propsGroups.map(groupItem => { 
     let groupTemp = {}
@@ -91,6 +93,47 @@ function formatFoodProps(foodItem) {
     })
     propsRes.push(groupTemp)
   })
+
+  if (norms && norms.length > 0) {
+    let groupTemp = {
+      name: "规格",
+      values:[]
+    }
+    addPropsGroupArr(propsGroupArr, groupTemp.name)
+    groupTemp.values = norms.map( normItem=> { 
+      return {
+        value: normItem.name,
+        price: parseFloat(normItem.price),
+        propName:groupTemp.name,
+        isMul:false
+      }
+    })
+    propsRes.push(groupTemp)
+  }
+
+  if (additionCategories && additionCategories.length > 0) {
+    additionCategories.sort((a, b) => (a.sort > b.sort ? 1 : -1))
+    
+
+    let groupTemp = {
+      name: "加料",
+      values:[]
+    }
+    addPropsGroupArr(propsGroupArr, groupTemp.name)
+    additionCategories.forEach(additionCategoryItem => {
+      let additionArr = additionCategoryItem.additions.map(additionItem => {
+        return {
+          value: additionItem.name,
+          price: parseFloat(additionItem.priceUpValue),
+          propName:groupTemp.name,
+          isMul:true
+        }
+      })
+      groupTemp.values.push(...additionArr)
+
+    })
+    propsRes.push(groupTemp)
+  }
 
   return propsRes;
   

@@ -1,16 +1,286 @@
 {
-	"shopName": "精品牛肉面",
-	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c2cbbc9a-9d2d-40d0-81d9-98bf0b976048_tmp_5b63932713148b97a99a64900a4bf965ce743a5ee8216159.jpg",
+	"shopName": "烧鹅侠（石湾榴苑店）",
+	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/82da59b9-f323-44fe-9bb1-e2687395a978_tmp_a5055e79505bd12b046a067269abc1f9.jpg",
 	"categories": [
 		{
-			"name": "汤面类",
+			"name": "固定菜饭类",
 			"foods": [
 				{
-					"name": "精品牛肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-0.png",
+					"name": "脆皮烧鸭饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-12.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "驰名咸香鸡饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-10.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "清远白切鸡饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-27.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "清远鼓油鸡饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-28.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "招牌手撕鸡饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-35.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "黯然叉烧饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-5.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "八戒猪耳饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-6.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁鸡亦饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-25.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "卤水拼盘饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-24.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "固定菜饭类",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁排骨饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-26.png",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "汤面类",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -23,1170 +293,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
 						},
 						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "手工牛肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-1.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手工羊肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-2.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "加大牛肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-3.png",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸菜牛肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-4.png",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡蛋拉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-5.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡蛋刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-6.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-7.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄鸡蛋面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-8.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄鸡蛋刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-9.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-10.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-11.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉烩面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-12.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉烩面片",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-13.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉泡馍",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-14.png",
+					"name": "化皮烧肉饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-16.png",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "汤面类",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -1199,923 +323,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "羊肉泡馍",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-15.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛杂汤面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-16.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "汤面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "炒面类",
-			"foods": [
-				{
-					"name": "炸酱面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-17.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉炒面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-18.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉炒刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-19.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡蛋炒面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-20.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡蛋炒刀削面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-21.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "葱油牛肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-22.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉凉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-23.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡蛋凉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-24.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "炒面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "新疆拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-25.png",
+					"name": "黄金鸡肶饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-40.png",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "炒面类",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -2128,78 +353,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "牛肉炒面片",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-26.png",
+					"name": "咸香鸡肶饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-40.png",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "炒面类",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -2212,167 +383,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
 						},
 						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "饺子类",
-			"foods": [
-				{
-					"name": "牛肉水饺",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-27.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "饺子类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "牛肉干饺",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-28.png",
-					"price": 15,
+					"name": "一品鸭肶饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-33.png",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "饺子类",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -2385,78 +413,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "牛肉烩饺子",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-29.png",
-					"price": 18,
+					"name": "金牌烧鹅饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-21.png",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "饺子类",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -2469,3962 +443,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
 						},
 						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "特色拌面类",
-			"foods": [
-				{
-					"name": "酸辣白菜拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-30.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "酸辣土豆丝拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-31.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄炒蛋拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-32.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蘑菇炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-33.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-34.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-35.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "葱爆炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-36.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆烧牛肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-37.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木耳炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-38.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "洋葱炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-39.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西葫芦炒肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-40.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒炒蛋拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-41.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-42.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然牛肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-43.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然羊肉拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-44.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧鸡块拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-45.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛杂拌面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-46.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "特色拌面类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "炒饭类",
-			"foods": [
-				{
-					"name": "蛋炒饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-47.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "炒饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉炒饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-48.png",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "炒饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "兰州炒饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-49.png",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "炒饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "盖浇饭",
-			"foods": [
-				{
-					"name": "酸辣白菜盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-50.png",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣土豆丝盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-51.png",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄炒蛋盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-52.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蘑菇炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-53.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-54.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-55.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "葱爆炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-56.png",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆烧牛肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-57.png",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木耳炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-58.png",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "洋葱炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-59.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西葫芦炒肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-60.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然羊肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-61.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然牛肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-62.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-63.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧鸡块盖浇饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-64.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "盖浇饭",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "特色炒菜",
-			"foods": [
-				{
-					"name": "新疆大盘鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-65.png",
-					"price": 98,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "新疆小盘鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-66.png",
-					"price": 88,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-67.png",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧羊肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-68.png",
-					"price": 50,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "葱爆牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-69.png",
-					"price": 40,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然羊肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-70.png",
-					"price": 50,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-71.png",
-					"price": 40,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄炒蛋",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-72.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣白菜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-73.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "素炒青菜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-74.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣土豆丝",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-75.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒炒肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-76.png",
+					"name": "至尊烧鹅肶饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-36.png",
 					"price": 35,
 					"unit": "份",
-					"categoryName": "特色炒菜",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -6437,414 +473,24 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
 						},
 						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "木耳炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-77.png",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-78.png",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-79.png",
-					"price": 40,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蘑菇炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-80.png",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西葫芦炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-81.png",
+					"name": "烧鹅拼排骨饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-4.png",
 					"price": 30,
 					"unit": "份",
-					"categoryName": "特色炒菜",
+					"categoryName": "固定菜饭类",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -6857,844 +503,29 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
 						},
 						{
 							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "洋葱炒牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-82.png",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧鸡块",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-83.png",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "特色炒菜",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
+							"values": []
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "凉菜类",
+			"name": "自选双拼（三拼）",
 			"foods": [
 				{
-					"name": "凉拌黄瓜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-84.png",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "凉菜类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉拌土豆丝",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-85.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "凉菜类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉拌三丝",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-86.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "凉菜类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉拌牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-87.png",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "凉菜类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "汤类",
-			"foods": [
-				{
-					"name": "番茄鸡蛋汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-88.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉粉丝汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-89.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-90.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加煎蛋",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加白饼",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加油炸白饼",
-									"price": 4,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加葱油饼",
-									"price": 8,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加肉夹馍",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "加牛肉",
-									"price": 10,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛杂汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-91.png",
+					"name": "烧味自选双拼饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-1.png",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "汤类",
+					"categoryName": "自选双拼（三拼）",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -7707,19 +538,8 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -7728,43 +548,50 @@
 							"name": "加料",
 							"values": [
 								{
-									"value": "加煎蛋",
-									"price": 2,
+									"value": "拼烧鸭",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加白饼",
-									"price": 2,
+									"value": "拼白切鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加油炸白饼",
-									"price": 4,
+									"value": "拼鼓油鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加葱油饼",
-									"price": 8,
+									"value": "拼咸香鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加肉夹馍",
-									"price": 10,
+									"value": "拼手撕鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加牛肉",
-									"price": 10,
+									"value": "拼叉烧",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼烧肉",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
@@ -7774,11 +601,11 @@
 					]
 				},
 				{
-					"name": "羊杂汤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-92.png",
-					"price": 21,
+					"name": "烧味自选三拼饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-2.png",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "汤类",
+					"categoryName": "自选双拼（三拼）",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -7791,19 +618,8 @@
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": 1,
 									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -7812,43 +628,232 @@
 							"name": "加料",
 							"values": [
 								{
-									"value": "加煎蛋",
-									"price": 2,
+									"value": "拼烧鸭",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加白饼",
-									"price": 2,
+									"value": "拼白切鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加油炸白饼",
-									"price": 4,
+									"value": "拼鼓油鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加葱油饼",
-									"price": 8,
+									"value": "拼咸香鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加肉夹馍",
-									"price": 10,
+									"value": "拼手撕鸡",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
 								},
 								{
-									"value": "加牛肉",
-									"price": 10,
+									"value": "拼叉烧",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼烧肉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅自选双拼饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-1.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "自选双拼（三拼）",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "固定菜",
+							"values": [
+								{
+									"value": "烧鹅",
+									"price": 0,
+									"propName": "固定菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "拼烧鸭",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼白切鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼鼓油鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼咸香鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼手撕鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼叉烧",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼烧肉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅三拼饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-2.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "自选双拼（三拼）",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "固定菜",
+							"values": [
+								{
+									"value": "烧鹅",
+									"price": 0,
+									"propName": "固定菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "拼烧鸭",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼白切鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼鼓油鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼咸香鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼手撕鸡",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼叉烧",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "拼烧肉",
+									"price": 0,
 									"propName": "加料",
 									"isMul": true,
 									"type": "supplyCondiment"
@@ -7860,15 +865,596 @@
 			]
 		},
 		{
-			"name": "饼类",
+			"name": "外带斩料",
 			"foods": [
 				{
-					"name": "葱油饼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-93.png",
+					"name": "明炉烧鸭/斤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-41.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "部位",
+							"values": [
+								{
+									"value": "上庄鸭翅部位",
+									"price": 0,
+									"propName": "部位",
+									"isMul": true
+								},
+								{
+									"value": "下庄鸭腿部位",
+									"price": 0,
+									"propName": "部位",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "清远鸡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-42.png",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "半只",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "白切",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "豉油",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "咸香",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "清远鸡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-42.png",
+					"price": 46,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "整只",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "白切",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "豉油",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "咸香",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "走地鸡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-43.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "半只",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "白切",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "豉油",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "咸香",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "走地鸡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-43.png",
+					"price": 56,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "整只",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "白切",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "豉油",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "咸香",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "金牌烧鹅/斤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-44.png",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "部位",
+							"values": [
+								{
+									"value": "上庄鹅翅部位",
+									"price": 0,
+									"propName": "部位",
+									"isMul": true
+								},
+								{
+									"value": "下庄鹅腿部位",
+									"price": 0,
+									"propName": "部位",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁叉烧",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-45.png",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "半斤",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁叉烧",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-45.png",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "一斤",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "脆皮烧肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-46.png",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "半斤",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "脆皮烧肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-46.png",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "一斤",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁排骨",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-47.png",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "半斤",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁排骨",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-47.png",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "一斤",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "卤水鹅掌亦",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-48.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "约4两/盒",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "美味鸭掌亦",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-49.png",
 					"price": 8,
 					"unit": "份",
-					"categoryName": "饼类",
+					"categoryName": "外带斩料",
 					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "约4两/盒",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "加料",
 							"values": []
@@ -7876,12 +1462,34 @@
 					]
 				},
 				{
-					"name": "肉夹馍",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-94.png",
-					"price": 10,
+					"name": "鸭下巴",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-50.png",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "饼类",
+					"categoryName": "外带斩料",
 					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "约4两/盒",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "加料",
 							"values": []
@@ -7889,12 +1497,34 @@
 					]
 				},
 				{
-					"name": "白饼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-95.png",
-					"price": 2,
+					"name": "凤爪",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-51.png",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饼类",
+					"categoryName": "外带斩料",
 					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "约4两/盒",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "加料",
 							"values": []
@@ -7902,12 +1532,47 @@
 					]
 				},
 				{
-					"name": "油炸白饼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4db2d2a409d54399ad90758e71c4c661-96.png",
-					"price": 4,
+					"name": "卤水鸭肾/只",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-53.png",
+					"price": 5,
 					"unit": "份",
-					"categoryName": "饼类",
+					"categoryName": "外带斩料",
 					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蜜汁鸡翅/只",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-55.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "外带斩料",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "免费打包",
+									"price": 0,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "加料",
 							"values": []

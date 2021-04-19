@@ -3,15 +3,15 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll} = require("../utils/index")
 
 
 
 
-const shopId = 1000164
+const shopId = 1001323
 // const shopId = 1001500
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
 const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
@@ -20,15 +20,15 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice:[
     "打包",
-    "其他",
-    "饮料"
+    "辣度",
+    "小吃"
   ],//做法
-  feeding:[],//加料
+  feeding:[    ],//加料
   remarks: [],//备注
   propsGroupSort:[
     "打包",
-    "其他",
-    "饮料"
+    "辣度",
+    "小吃",
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -36,9 +36,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 }
 
 const attrsSort = [
-  "打包",
-"其他",
-  "饮料"
+
 ]
 
 
@@ -75,6 +73,7 @@ function formatFoodProps(foodItem) {
           value: propValItem.p_value,
           price: propsPriceObj[`#${props[k].p_name_id}_${propValItem.p_value_id}#`],
           propName: props[k].p_name,
+          type: "",
           isMul:props[k].is_multiple
         }
       })
@@ -156,7 +155,8 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo, outputDir, menuSetting);
     
   } else {
-    genWord(merchantInfo, outputDir,menuSetting)
+    // genWord(merchantInfo, outputDir, menuSetting)
+    genSpecificationsWord(merchantInfo, outputDir, menuSetting)
   }
 }
 

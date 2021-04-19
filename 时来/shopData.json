@@ -1,6 +1,6 @@
 {
   "data": {
-      "address": "均禾新石路149号之一109铺",
+      "address": "广东省佛山市禅城区榴苑路21号首层17号铺",
       "bannerMode": "BANNER_FANPIAO",
       "comboMealOnly": false,
       "disableBuyFanpiao": false,
@@ -43,27 +43,27 @@
       "fanpiaoSalesBoostFactor": 0,
       "groupDiningCount": 0,
       "imageUrls": [
-          "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3124f92f-192f-4633-a2f8-7a9a4413e13a_tmp_0f897b170254ae8174d42bc134aa6422906c996b54dd298f.jpg"
+          "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/92103ef3-1ca0-452b-9034-163c8082dc7e_tmp_879a614cff44db63c3b11096238908b1.jpg"
       ],
       "lat": 0,
       "lng": 0,
-      "logoUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c2cbbc9a-9d2d-40d0-81d9-98bf0b976048_tmp_5b63932713148b97a99a64900a4bf965ce743a5ee8216159.jpg",
-      "merchantId": "4db2d2a409d54399ad90758e71c4c661",
-      "merchantName": "精品牛肉面",
-      "name": "精品牛肉面",
+      "logoUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/82da59b9-f323-44fe-9bb1-e2687395a978_tmp_a5055e79505bd12b046a067269abc1f9.jpg",
+      "merchantId": "5379f4522c344975a9309d0ac57ea4d5",
+      "merchantName": "烧鹅侠（石湾榴苑店）",
+      "name": "烧鹅侠（石湾榴苑店）",
       "noDiscountTimeRanges": "",
       "opening": true,
-      "openingHoursDesc": "09:00-22:00",
+      "openingHoursDesc": "10:00-20:30",
       "packageBoxType": "LADDER",
       "payType": "PAY_FIRST",
-      "phone": "13299721110",
+      "phone": "13929989644",
       "recentlyOrderId": "",
       "recentlyPaidOrderId": "",
       "recommendedFoodPhotoUrls": [],
       "splashCouponCategoryId": "",
       "splashImageUrl": "",
       "splashMode": "FANPIAO",
-      "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/608da0a9-3194-4717-8e57-7c4b206570b4_tmp_735eaa09c4838415449516493a5d2a3015b3984268fd024f.jpg",
+      "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8cc2f11e-31cb-41ec-97e3-57fb179f1147_tmp_9872ae9ff86c35984343a0e0277bcf36.jpg",
       "storeId": ""
   }
 }
