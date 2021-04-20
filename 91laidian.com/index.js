@@ -1,21 +1,21 @@
 
 const fs = require("fs");
 const path = require("path");
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
-
-
-const outputDir = path.join(__dirname, "merchantInfos")
 const requestMenuJson = require("./merchantInfo.json");
+let merchantMenuInfo = requestMenuJson.product;
 
-let merchantMenuInfo = requestMenuJson.data;
-let shopeInfo = {
-  shopName: "湘食湘聚",
-  shop_pic:""
+let shopInfo = {
+  name: "牛牛卤(万益广场)",
+  logo:""
 }
-let categoryList = merchantMenuInfo.list
+let categoryList =  merchantMenuInfo
+let foodList = merchantMenuInfo
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+
+
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
@@ -25,11 +25,16 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    
+   
   ],
   propsSort: {
   }
 }
+
+
+
+const outputDir = path.join(__dirname, "merchantInfos")
+
 
 // 打印日志到test.json 文件夹
 async function logInfo(info,fileName="test") { 
@@ -45,47 +50,40 @@ async function getMerchantInfo() {
 
 let propsGroupArr=[];
 
-function formatFoodProps(foodItem) {
-  return [];
+function formatFoodProps(foodItem) { 
+ 
+  let propsRes = [];
+  return propsRes;
   
 }
 // 爬取的数据中进行信息提取
 async function  handleRequestData(requestMenuData) {
 
-  
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: shopeInfo.shopName,
-      shop_pic: shopeInfo.shop_pic,
+      shopName: shopInfo.name,
+      shop_pic: shopInfo.logo,
       categories:[]
     }
-
-    // 菜品目录
-    let categories = [], categoriesObjTemp = {}
-
-    categories = requestMenuData.list.map(categoryItem => { 
+    let categories = [];
+    categories =categoryList.map(categoryItem => { 
       let categoryData = {
         name: "",
         foods:[]
       };
-      categoryData.name = categoryItem.sellGroupTitle;
-      categoryData.foods =  categoryItem.dishesList.reduce((res,goodItem) => { 
-        if (goodItem && goodItem.dishesInfo) {
+      categoryData.name = categoryItem.name;
+      categoryData.foods =categoryItem.products.reduce((res, goodItem) => {
+        if (goodItem) { 
           let foodData = {
-            name:goodItem.dishesInfo.goodsName || "",
-            picUrl: goodItem.dishesInfo.picUrl || "",
-            price:goodItem.dishesInfo.salePrice || "",
-            unit: goodItem.dishesInfo.unit || "份",
+            name:goodItem.name || "",
+            picUrl: goodItem.image.indexOf("http")!=-1 ? goodItem.image : "",
+            price:goodItem.price || "",
+            unit: goodItem.unit || "份",
             categoryName: categoryData.name,
             props:[],
           };
-          if (foodData.picUrl=="https://image-c.weimobwmc.com/gateway/9814f02ac368480abd38ae3c2bb8ff7a.jpg?o2oApiId=10000") {
-            foodData.picUrl=""
-          }
-
-
-          foodData.categoryName = categoryData.name
+          goodItem.categoryName = categoryData.name;
           foodData.props = formatFoodProps(goodItem)
           res.push(foodData)
         }
@@ -121,8 +119,6 @@ async function genImgsAndExcel() {
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
 
-
-
   // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
     genImgs(merchantInfo,outputDir);
@@ -130,7 +126,8 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
     // genWord(merchantInfo, outputDir)
-    genSpecificationsWord(merchantInfo, outputDir,menuSetting)
+    genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    // genFeieExcelAll(merchantInfo, outputDir, menuSetting)
   }
 }
 

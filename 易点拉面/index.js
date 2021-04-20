@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genFeieExcelAll} = require("../utils/index")
 
 
 
@@ -156,7 +156,8 @@ async function genImgsAndExcel() {
     
   } else {
     // genWord(merchantInfo, outputDir, menuSetting)
-    genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
   }
 }
 

@@ -175,6 +175,7 @@ menuSetting = {
 
 
 
+// 飞蛾模式的菜品excel导出
 async function genExcelAll(merchantInfo, outputDir,menuSetting) { 
   let { categories, shopName } = merchantInfo;
   let shopDir = path.join(outputDir, formatFileName(shopName));
@@ -281,6 +282,223 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
 }
 
 
+// 生成飞蛾模式的excel 
+async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) { 
+  let { categories, shopName } = merchantInfo;
+  let { propsGroupSort} = menuSetting 
+  let shopDir = path.join(outputDir, formatFileName(shopName));
+  let title = ["商品名称","菜品分类","标准单位","规格类别","规格","价格","做法类别","做法","加料"];
+  let foodsImgsDir = path.join(shopDir, "imgs");
+  mkdirSync(foodsImgsDir)
+  let excelData = []; //默认添加一套数据作为是否有属性的分割线
+  let allPropObj = {};
+  let noImgUrls = {};
+
+  // 下载所有菜品的图片,用于菜品的批量单导入
+  categories.forEach(async categoryItem => {
+    categoryItem.foods.forEach(async foodItem => {
+      // TODO
+
+      let url = foodItem.picUrl
+      let imgName= foodItem.name
+      if (url) {
+        let ext = url.slice(url.lastIndexOf("."));
+        // let ext=".jpeg"
+        // if (bigImage) {//阿里云模式下下载大图
+        //   url = url.slice(0, -3) + "2048";
+        // } 
+        try {
+         request( encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+        } catch (err) {
+          noImgUrls[imgName] = foodItem.name
+          console.log("保存图片错误", url)
+        }
+      } else { 
+        noImgUrls[imgName] = foodItem.name
+      }
+    })
+  })
+
+   // 处理没有爬取到的图片
+   dishesImgMatch(noImgUrls,shopDir);
+   genBeizhuText({noImgUrls, shopDir,mode:"feie"})
+
+  // 调整属性组的顺序
+  categories.forEach(categoryItem => {
+    categoryItem.foods.forEach(foodItem => {
+      handleFoodProps(foodItem,menuSetting)
+    })
+  })
+
+
+  
+  let allPropItemsSort = {} //存放所有属性组内部属性的相对排序
+  // 采用插入排序获取所有属性组内部属性的相对顺序,然后放在表格第一位保持顺序的一致
+  categories.forEach(categoryItem => {
+    categoryItem.foods.forEach(foodItem => {
+      foodItem.props.forEach((propItem) => {
+        if (!allPropItemsSort[propItem.name]) {
+          allPropItemsSort[propItem.name] = propItem.values.map(i => { return i.price != 0 ? `${i.value}:${i.price}` : `${i.value}` });
+        } else {
+          
+          let oldSort = allPropItemsSort[propItem.name],appendIndex=0;
+          propItem.values.forEach(i => {
+            let str = i.price != 0 ? `${i.value}:${i.price}` : `${i.value}`;
+            if (oldSort.indexOf(str) == -1) {//不在排序队列中则添加进去,
+              oldSort.splice(appendIndex+1,0,str)
+            } else {//更新添加顺序
+              appendIndex = oldSort.indexOf(str)
+            }
+          })
+        }
+      })
+    })
+  })
+
+  let propSortData = {
+    foodName: "属性顺序",
+    foodCategoryName: "",
+    foodUnit: "",
+    foodSpecificationType: "",
+    foodSpecification: "",
+    foodPrice:"",
+    foodPracticeType:[],
+    foodPractice: [],
+    foodFeeding:""
+    
+  }
+
+  for (propGroupName in allPropItemsSort) {
+    let propItemNames = allPropItemsSort[propGroupName]
+    // 根据菜单配置生成不同属性组内部的属性
+    for (key in menuSetting) {
+      let val = menuSetting[key]
+      if (val.indexOf(propGroupName) != -1) {
+        if (key == "specifications") {//此属性值处理为规格
+          propSortData.foodSpecificationType = propGroupName;
+          propSortData.foodSpecification = propItemNames.join("/");
+        } else if (key == "practice") {//处理做法
+          propSortData.foodPracticeType.push(propGroupName);
+          propSortData.foodPractice.push(propItemNames.join("/"))
+        } else if (key == "feeding") {//处理加料
+          propSortData.foodFeeding = propItemNames.join("/")
+        }
+        break;
+      }
+    }
+  }
+  
+
+  let propGroupSortArr = new Array(propsGroupSort.length),propsSortArr = new Array(propsGroupSort.length);
+  if (propsGroupSort && propsGroupSort.length > 0) {
+    propSortData.foodPracticeType.forEach((item, itemIndex) => {
+      let index = propsGroupSort.indexOf(item);
+      if (index != -1) {
+        propGroupSortArr[index] = propSortData.foodPracticeType[itemIndex]
+        propsSortArr[index] = propSortData.foodPractice[itemIndex]
+      }
+    })
+    propGroupSortArr = propGroupSortArr.filter(item => !!item);
+    propsSortArr = propsSortArr.filter(item => !!item);
+
+    propSortData.foodPracticeType = propGroupSortArr.join(",")
+    propSortData.foodPractice = propsSortArr.join(",")
+  } else {
+    propSortData.foodPracticeType = propSortData.foodPracticeType.join(",")
+    propSortData.foodPractice =  propSortData.foodPractice.join(",")
+  }
+
+
+ 
+  
+
+
+  categories.forEach(categoryItem => {
+    categoryItem.foods.forEach(foodItem => {
+      let foodName = foodItem.name,
+        foodDefaultCategory = "默认",
+        foodCategoryName = foodItem.categoryName,
+        foodUnit = foodItem.unit,
+        foodSpecificationType = "",
+        foodSpecification = "",
+        foodPrice = parseFloat(foodItem.price).toFixed(2),
+        foodPracticeType = [],
+        foodPractice = [],
+        foodFeeding = [],
+        foodRemarks = [];
+
+      foodItem.props && foodItem.props.forEach(propItem => {
+        let propItemName = propItem.name;
+        allPropObj[propItemName] = 1;
+        let propVales = propItem.values;
+
+        for (key in menuSetting) {
+          let val = menuSetting[key]
+          if (val.indexOf(propItemName) != -1) {
+            if (key == "specifications") {//此属性值处理为规格
+              // 规格菜需要导入多个
+              foodSpecificationType = propItemName;
+              foodSpecification = propVales.map(i => {
+                return i.price !=0 ? `${i.value}:${i.price}` : `${i.value}`
+              }).join("/")
+              
+            } else if (key == "practice") {//处理做法
+
+              foodPracticeType.push(propItemName);
+              foodPractice.push(propVales.map(i => {
+                 return i.price !=0 ? `${i.value}:${i.price}` : `${i.value}`
+              }).join("/"))
+
+            } else if (key == "feeding") {//处理加料
+              foodFeeding = propVales.map(i => {
+                if (i.value.indexOf("/")!=-1) {
+                  console.error(`${i.propName}组--${i.value}--包含 / 非法字符`);
+                  return;
+                } 
+                return i.price !=0 ? `${i.value}:${i.price}` : `${i.value}`
+              })
+            }
+            break;
+          }
+        }
+        // console.log("foodPracticeType---",foodPracticeType)
+      })
+      
+      foodPracticeType = foodPracticeType.join(",");
+      foodPractice = foodPractice.join(",");
+      foodFeeding = foodFeeding.join("/");
+      
+      let foodExcelData = [
+        foodName,
+        foodCategoryName,
+        foodUnit,
+        "",
+        "",
+        foodPrice || 0,
+        foodPracticeType,
+        foodPractice,
+        foodFeeding,
+        ]
+      
+      foodItem.props.length == 0 ? excelData.unshift(foodExcelData) :  excelData.push(foodExcelData)
+    })
+  })
+
+  console.log(Object.values(propSortData));
+  excelData.unshift(Object.values(propSortData))
+    
+  let buffer = xlsx.build([
+    {
+        name:'sheet1',
+        data:[title].concat(excelData)
+    }
+  ]);
+  fs.writeFileSync(path.join(shopDir, `${shopName}-客如云菜品导入(包含规格,属性,加料,备注信息).xlsx`), buffer, { 'flag': 'w' });
+  fs.writeFileSync(path.join(shopDir, "所有菜品属性名称.txt"),"所有菜品属性名称:"+Object.keys(allPropObj).join(","))
+}
+
+
+
 // 飞蛾模式生成word 
 async function genWord(merchantInfo, outputDir) {
   
@@ -365,7 +583,7 @@ let menuSettingDefault = { //到处的菜品属性归为规格,备注,加料,做
 
 let propsGroupArr = [];//存放所有的属性组
 async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
-  let { propsGroupSort,propsSort} = menuSetting
+  let { propsGroupSort,propsSort} = menuSetting //提取属性组合属性的顺序
   let props = foodItem.props;
   for (let k = 0; k < props.length; k++) {
     let propName = props[k].name,propVals = props[k].values
@@ -407,7 +625,6 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
   tempPropsGroup = tempPropsGroup.filter(item => { 
     return !!item
   })
-
   foodItem.props = tempPropsGroup;
 }
 
@@ -511,13 +728,9 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
       pObj_c.addText("")
     }
   }
-
-
   // 处理没有爬取到的图片
   // dishesImgMatch(noImgUrls,shopDir);
   genBeizhuText({noImgUrls, shopDir,mode:"feie"})
-  
-
   var out = fs.createWriteStream(path.join(shopDir,"菜品(已处理规格菜).doc"));
   docx.generate(out)
 }
@@ -589,6 +802,7 @@ module.exports = {
   formatFileName,
   genExcel,
   genExcelAll,
+  genFeieExcelAll,
   genImgs,
   genWord,
   genSpecificationsWord,

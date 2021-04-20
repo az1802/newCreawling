@@ -1,18 +1,18 @@
 
 const fs = require("fs");
 const path = require("path");
+const requestMenuJson = require("./merchantInfo.json");
+let merchantMenuInfo = requestMenuJson.Data;
+
+let shopInfo = {
+  name: "厨心",
+  logo:""
+}
+let categoryList =  merchantMenuInfo.DishTypeList
+let foodList = merchantMenuInfo.DishList
+
 const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
-
-const outputDir = path.join(__dirname, "merchantInfos")
-const requestMenuJson = require("./merchantInfo.json");
-
-let merchantMenuInfo = requestMenuJson.data;
-let shopeInfo = {
-  shopName: "湘食湘聚",
-  shop_pic:""
-}
-let categoryList = merchantMenuInfo.list
 
 const exportMode = "keruyun"
 // const exportMode = "feie"
@@ -20,16 +20,25 @@ const exportMode = "keruyun"
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-   
+    "猪头牛油",
+    "饮品例汤",
+    "煎蛋"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    
+    "猪头牛油",
+    "饮品例汤",
+    "煎蛋"
   ],
   propsSort: {
   }
 }
+
+
+
+const outputDir = path.join(__dirname, "merchantInfos")
+
 
 // 打印日志到test.json 文件夹
 async function logInfo(info,fileName="test") { 
@@ -45,8 +54,42 @@ async function getMerchantInfo() {
 
 let propsGroupArr=[];
 
-function formatFoodProps(foodItem) {
-  return [];
+function formatFoodProps(foodItem) { 
+  let ZuoFa = foodItem.ZuoFa || [];
+  let propsRes = [];
+  
+
+
+
+  // 处理做法
+  let zuofaTemp = {},zuofaProps=[]
+  ZuoFa.forEach(groupItem => {
+
+    if (zuofaTemp[groupItem.TypeName]) {
+      zuofaTemp[groupItem.TypeName].push(groupItem)
+    } else {
+      zuofaTemp[groupItem.TypeName]=[groupItem]
+    }
+  })
+
+  for (let name in zuofaTemp) {
+    let groupTemp = {}
+    groupTemp.name = name;
+    addPropsGroupArr(propsGroupArr, name)
+    groupTemp.values = zuofaTemp[name].map( propItem=> { 
+      return {
+        value: propItem.Name,
+        price: propItem.Price,
+        propName:groupTemp.name,
+        isMul:true
+      }
+    })
+    zuofaProps.push(groupTemp)
+  }
+
+  propsRes.push(...zuofaProps)
+
+  return propsRes;
   
 }
 // 爬取的数据中进行信息提取
@@ -56,36 +99,41 @@ async function  handleRequestData(requestMenuData) {
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: shopeInfo.shopName,
-      shop_pic: shopeInfo.shop_pic,
+      shopName: shopInfo.name,
+      shop_pic: shopInfo.logo,
       categories:[]
     }
 
     // 菜品目录
     let categories = [], categoriesObjTemp = {}
 
-    categories = requestMenuData.list.map(categoryItem => { 
+    foodList.forEach((foodItem) => { 
+      let categoryId = foodItem.DishTypeUID;
+      if (categoriesObjTemp[categoryId]) {
+        categoriesObjTemp[categoryId].push(JSON.parse(JSON.stringify(foodItem)))
+      } else { 
+        categoriesObjTemp[categoryId] = [JSON.parse(JSON.stringify(foodItem))]
+      } 
+    })
+
+    categories =categoryList.map(categoryItem => { 
       let categoryData = {
         name: "",
         foods:[]
       };
-      categoryData.name = categoryItem.sellGroupTitle;
-      categoryData.foods =  categoryItem.dishesList.reduce((res,goodItem) => { 
-        if (goodItem && goodItem.dishesInfo) {
+      categoryData.name = categoryItem.TypeName;
+      let categoryId = categoryItem.TypeUID;
+      categoryData.foods = categoriesObjTemp[categoryId] && categoriesObjTemp[categoryId].reduce((res, goodItem) => {
+        if (goodItem) { 
           let foodData = {
-            name:goodItem.dishesInfo.goodsName || "",
-            picUrl: goodItem.dishesInfo.picUrl || "",
-            price:goodItem.dishesInfo.salePrice || "",
-            unit: goodItem.dishesInfo.unit || "份",
+            name:goodItem.DishName || "",
+            picUrl: goodItem.DishImg ? `http://image.caimomo.com/${goodItem.DishImg}`  : "",
+            price:goodItem.DishPrice || "",
+            unit: goodItem.DishUnitName || "份",
             categoryName: categoryData.name,
             props:[],
           };
-          if (foodData.picUrl=="https://image-c.weimobwmc.com/gateway/9814f02ac368480abd38ae3c2bb8ff7a.jpg?o2oApiId=10000") {
-            foodData.picUrl=""
-          }
-
-
-          foodData.categoryName = categoryData.name
+          goodItem.categoryName = categoryData.name;
           foodData.props = formatFoodProps(goodItem)
           res.push(foodData)
         }
@@ -133,6 +181,5 @@ async function genImgsAndExcel() {
     genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 }
-
 
 genImgsAndExcel();

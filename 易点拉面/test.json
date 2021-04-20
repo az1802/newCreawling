@@ -19,49 +19,49 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -95,11 +95,51 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎鸡蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -122,46 +162,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎鸡蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
 								}
 							]
 						}
@@ -175,11 +175,58 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -202,53 +249,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
 								}
 							]
 						}
@@ -262,6 +262,65 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "辣度",
 							"values": [
 								{
@@ -277,65 +336,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
 								}
 							]
 						}
@@ -355,35 +355,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -417,6 +417,65 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "辣度",
 							"values": [
 								{
@@ -432,65 +491,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
 								}
 							]
 						}
@@ -504,11 +504,58 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -531,53 +578,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
 								}
 							]
 						}
@@ -597,42 +597,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -642,7 +642,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -682,7 +682,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -696,42 +696,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -745,18 +745,6 @@
 					"unit": "份",
 					"categoryName": "面食",
 					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
 						{
 							"name": "辣度",
 							"values": [
@@ -783,42 +771,54 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -839,42 +839,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -884,7 +884,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -901,65 +901,6 @@
 					"categoryName": "面食",
 					"props": [
 						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "辣度",
 							"values": [
 								{
@@ -975,6 +916,65 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
 								}
 							]
 						}
@@ -994,42 +994,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1039,7 +1039,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1062,42 +1062,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1107,7 +1107,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1124,59 +1124,59 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -1198,42 +1198,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1243,7 +1243,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1264,7 +1264,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1278,42 +1278,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1334,42 +1334,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1379,7 +1379,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1396,6 +1396,65 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "辣度",
 							"values": [
 								{
@@ -1411,65 +1470,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
 								}
 							]
 						}
@@ -1483,6 +1483,65 @@
 					"categoryName": "面食",
 					"props": [
 						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "辣度",
 							"values": [
 								{
@@ -1498,65 +1557,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
 								}
 							]
 						}
@@ -1576,42 +1576,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1621,7 +1621,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1637,6 +1637,18 @@
 					"unit": "份",
 					"categoryName": "面食",
 					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -1663,53 +1675,41 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -1731,42 +1731,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1776,7 +1776,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1812,42 +1812,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1857,7 +1857,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -1874,60 +1874,60 @@
 					"categoryName": "盖面",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -1942,60 +1942,60 @@
 					"categoryName": "盖面",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2016,42 +2016,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2061,7 +2061,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2084,42 +2084,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2129,7 +2129,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2146,59 +2146,59 @@
 					"categoryName": "盖面",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -2218,7 +2218,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2232,42 +2232,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2288,42 +2288,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2333,7 +2333,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2356,42 +2356,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2401,7 +2401,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2424,42 +2424,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2469,7 +2469,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2492,42 +2492,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2537,7 +2537,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2560,42 +2560,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2605,7 +2605,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2628,42 +2628,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2673,7 +2673,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2696,42 +2696,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2741,7 +2741,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2758,59 +2758,59 @@
 					"categoryName": "盖面",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -2832,42 +2832,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -2877,7 +2877,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -2899,52 +2899,52 @@
 					"categoryName": "盖饭",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -2966,35 +2966,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3004,7 +3004,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3027,35 +3027,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3065,7 +3065,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3088,35 +3088,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3126,7 +3126,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3149,35 +3149,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3187,7 +3187,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3210,35 +3210,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3248,7 +3248,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3265,53 +3265,53 @@
 					"categoryName": "盖饭",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3332,35 +3332,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3370,7 +3370,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3393,35 +3393,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3431,7 +3431,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3454,35 +3454,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3492,7 +3492,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3515,35 +3515,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3553,7 +3553,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3570,52 +3570,52 @@
 					"categoryName": "盖饭",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -3637,35 +3637,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3675,7 +3675,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3698,35 +3698,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3736,7 +3736,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3759,35 +3759,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3797,7 +3797,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3820,35 +3820,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3858,7 +3858,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -3888,53 +3888,53 @@
 					"categoryName": "炒饭",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3955,35 +3955,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -3993,7 +3993,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4016,35 +4016,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4054,7 +4054,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4071,52 +4071,52 @@
 					"categoryName": "炒饭",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -4143,35 +4143,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4181,7 +4181,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4198,53 +4198,53 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4259,52 +4259,52 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -4324,7 +4324,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4338,35 +4338,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4385,7 +4385,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4399,35 +4399,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4446,7 +4446,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4460,35 +4460,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4503,53 +4503,53 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4564,53 +4564,53 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4629,7 +4629,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4643,35 +4643,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4690,7 +4690,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4704,35 +4704,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4751,7 +4751,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4765,35 +4765,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4812,7 +4812,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4826,35 +4826,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4873,7 +4873,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4887,35 +4887,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4934,7 +4934,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -4948,35 +4948,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -4991,53 +4991,53 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5056,7 +5056,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5070,35 +5070,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5113,52 +5113,52 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -5178,7 +5178,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5192,35 +5192,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5239,7 +5239,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5253,35 +5253,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5296,52 +5296,52 @@
 					"categoryName": "炒菜",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
 									"type": "",
 									"isMul": 1
 								}
@@ -5366,7 +5366,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5380,35 +5380,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5427,7 +5427,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5441,35 +5441,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5488,7 +5488,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5502,35 +5502,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5549,7 +5549,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5563,35 +5563,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5610,7 +5610,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5624,35 +5624,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5672,6 +5672,65 @@
 					"categoryName": "汤类",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "肉夹馍",
+									"price": "9",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "6",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "优质肉夹馍",
+									"price": "15",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "加牛肉",
+									"price": "12",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								},
+								{
+									"value": "油条",
+									"price": "2.50",
+									"propName": "小吃",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "辣度",
 							"values": [
 								{
@@ -5687,65 +5746,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "小吃",
-							"values": [
-								{
-									"value": "肉夹馍",
-									"price": "9",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "葱油饼",
-									"price": "6",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "2",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "优质肉夹馍",
-									"price": "15",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "加牛肉",
-									"price": "12",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
-								},
-								{
-									"value": "油条",
-									"price": "2.50",
-									"propName": "小吃",
-									"type": "supplyCondiment",
-									"isMul": 1
 								}
 							]
 						}
@@ -5759,48 +5759,60 @@
 					"categoryName": "汤类",
 					"props": [
 						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"type": "",
+									"isMul": 1
+								}
+							]
+						},
+						{
 							"name": "小吃",
 							"values": [
 								{
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5821,18 +5833,6 @@
 									"propName": "辣度",
 									"type": "",
 									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "打包",
-									"type": "",
-									"isMul": 1
 								}
 							]
 						}
@@ -5850,7 +5850,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5864,42 +5864,42 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "油条",
 									"price": "2.50",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5923,7 +5923,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -5937,35 +5937,35 @@
 									"value": "肉夹馍",
 									"price": "9",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "葱油饼",
 									"price": "6",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "煎蛋",
 									"price": "2",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "优质肉夹馍",
 									"price": "15",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								},
 								{
 									"value": "加牛肉",
 									"price": "12",
 									"propName": "小吃",
-									"type": "supplyCondiment",
+									"type": "",
 									"isMul": 1
 								}
 							]
@@ -5992,7 +5992,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -6013,7 +6013,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -6034,7 +6034,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
@@ -6055,7 +6055,7 @@
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
+									"price": "1",
 									"propName": "打包",
 									"type": "",
 									"isMul": 1
