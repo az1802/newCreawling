@@ -1,0 +1,1617 @@
+{
+	"shopName": "捞厨好面(TCL国际店)",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "热销",
+			"foods": [
+				{
+					"name": "客家三及第汤+特色捞面（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/43728f04a597e111f4d261cca3d8d63d169455.jpg",
+					"price": 26.98,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+客家腌面（ 套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/22d44b0ebc55325dc30d7da3943a9279162396.jpg",
+					"price": 26.88,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌三及第汤粉",
+					"picUrl": "http://p0.meituan.net/wmproduct/6ae33d2df3e2dbad9ee37c64ee8aa706124203.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+米饭限时特价",
+					"picUrl": "http://p1.meituan.net/wmproduct/ac6504653ed7f2722e36d337b1d0e413146806.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "客家酱肉笋干捞面+饮品",
+					"picUrl": "http://p0.meituan.net/wmproduct/a2b586d9fef654c91df7a52f1df1507311279383.jpg",
+					"price": 20.68,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "笋干捞面",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "折扣",
+			"foods": [
+				{
+					"name": "客家三及第汤+客家腌面（ 套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/22d44b0ebc55325dc30d7da3943a9279162396.jpg",
+					"price": 26.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "实惠套餐客家腌面+卤蛋+饮品",
+					"picUrl": "http://p1.meituan.net/wmproduct/46532e3162a00bc60066144e2096fc8d419372.jpg",
+					"price": 21.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "客家酱肉笋干捞面+饮品",
+					"picUrl": "http://p0.meituan.net/wmproduct/a2b586d9fef654c91df7a52f1df1507311279383.jpg",
+					"price": 20.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "笋干捞面",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家秘制卤肉煲+汤+青菜+香米饭(套餐)",
+					"picUrl": "http://p0.meituan.net/wmproduct/5d9967774781c4170f2d42cd7e8fdeb2154011.jpg",
+					"price": 31.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "客家鲜蔬猪肉丸汤+特色捞米粉（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/ab3ce6f381678316deb688dcd2baf76a166638.jpg",
+					"price": 26.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家萝卜牛腩煲+汤+青菜+香米饭（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/2051b52a02a79ef537996e469fde7fe2153810.jpg",
+					"price": 38.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "特色客家酿豆腐煲+汤+青菜+香米饭（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/9958e04616578302b092fcc5157cb609162845.jpg",
+					"price": 29.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "卤肉捞面+招牌三及第汤",
+					"picUrl": "http://p1.meituan.net/wmproduct/2156ce261d5348dfdb69fb032557443d266943.jpg",
+					"price": 32.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜蔬猪肉丸汤+客家腌米粉",
+					"picUrl": "http://p0.meituan.net/wmproduct/719997da821885547449f41b4bfb16cb161150.jpg",
+					"price": 23.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+特色捞面（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/43728f04a597e111f4d261cca3d8d63d169455.jpg",
+					"price": 26.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家鲜蔬猪肉丸汤+川香捞米粉（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/cee90deb25ee4341bd8cd85a0a24f961169423.jpg",
+					"price": 28.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+客家川香捞面（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/6abe9eeed41962cda350234f65bbde71172941.jpg",
+					"price": 28.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱肉笋干捞米粉+招牌三及第汤",
+					"picUrl": "http://p0.meituan.net/wmproduct/20289fbac8fa71a42cd88315534339af264859.jpg",
+					"price": 29.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "面粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+米饭限时特价",
+					"picUrl": "http://p1.meituan.net/wmproduct/ac6504653ed7f2722e36d337b1d0e413146806.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "牛腩捞米粉+招牌三及第汤",
+					"picUrl": "http://p0.meituan.net/wmproduct/005e8301eb8749cb888226bd80edf4c7272311.jpg",
+					"price": 33.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "客家三及第汤+特色米粉（套餐）",
+					"picUrl": "http://p1.meituan.net/wmproduct/d0b0b6141769cd7fc28f6421f978fc48330002.jpg",
+					"price": 25.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "粉面",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香牛腩汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/5f17f48665d83ddfff6d6dce87b8f3cb146331.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "河粉米粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手撕盐焗鸡饭+汤+青菜+香米饭(套餐)",
+					"picUrl": "http://p1.meituan.net/wmproduct/26d0797cddb4cfb02663922d27b63dc6154963.jpg",
+					"price": 25.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "猪手汤粉面",
+					"picUrl": "http://p1.meituan.net/wmproduct/9f6d479db96dacbec855faaec70cef82144918.jpg",
+					"price": 21.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌三及第汤粉",
+					"picUrl": "http://p0.meituan.net/wmproduct/6ae33d2df3e2dbad9ee37c64ee8aa706124203.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜蔬猪肉丸汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/90bc9ac2be77890ac892c42527ad83d4125342.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/2b12f36f22fb2ce25f6a6df0edb64494128020.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "河粉米粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/4d9d27e1a45ee497f29b67e7de1c3731136841.jpg",
+					"price": 21.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "必选餐具🥡",
+			"foods": [
+				{
+					"name": "无需餐具",
+					"picUrl": "http://p1.meituan.net/xianfu/9e80178a9958695a81face6e61157f20458752.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "必选餐具🥡",
+					"props": []
+				},
+				{
+					"name": "需要餐具",
+					"picUrl": "http://p0.meituan.net/wmproduct/fb07c99b8f62919fa89c1e8228f01e0e30026.jpg",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "必选餐具🥡",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "特价❤️超值套餐",
+			"foods": [
+				{
+					"name": "客家三及第汤+客家腌面（ 套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/22d44b0ebc55325dc30d7da3943a9279162396.jpg",
+					"price": 26.88,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜蔬猪肉丸汤+客家腌米粉",
+					"picUrl": "http://p0.meituan.net/wmproduct/719997da821885547449f41b4bfb16cb161150.jpg",
+					"price": 23.98,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家鲜蔬猪肉丸汤+川香捞米粉（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/cee90deb25ee4341bd8cd85a0a24f961169423.jpg",
+					"price": 28.98,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+客家川香捞面（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/6abe9eeed41962cda350234f65bbde71172941.jpg",
+					"price": 28.98,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家三及第汤+特色捞面（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/43728f04a597e111f4d261cca3d8d63d169455.jpg",
+					"price": 26.98,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家鲜蔬猪肉丸汤+特色捞米粉（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/ab3ce6f381678316deb688dcd2baf76a166638.jpg",
+					"price": 26.88,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉捞面+招牌三及第汤",
+					"picUrl": "http://p1.meituan.net/wmproduct/2156ce261d5348dfdb69fb032557443d266943.jpg",
+					"price": 32.68,
+					"unit": "份",
+					"categoryName": "特价❤️超值套餐",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色🍝爽滑捞面",
+			"foods": [
+				{
+					"name": "客家特色捞面",
+					"picUrl": "http://p1.meituan.net/wmproduct/647ead2ae8d9032ed59ad7cf4029fdf2160861.jpg",
+					"price": 18.8,
+					"unit": "份",
+					"categoryName": "特色🍝爽滑捞面",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特惠套餐🥤+饮品",
+			"foods": [
+				{
+					"name": "实惠套餐特色捞面+饮品",
+					"picUrl": "http://p1.meituan.net/wmproduct/ebe2d4137569fc3f2562450e2141850b385338.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "特惠套餐🥤+饮品",
+					"props": [
+						{
+							"name": "米粉",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "实惠套餐客家腌面+卤蛋+饮品",
+					"picUrl": "http://p1.meituan.net/wmproduct/46532e3162a00bc60066144e2096fc8d419372.jpg",
+					"price": 21.68,
+					"unit": "份",
+					"categoryName": "特惠套餐🥤+饮品",
+					"props": []
+				},
+				{
+					"name": "川香捞面+饮品",
+					"picUrl": "http://p1.meituan.net/wmproduct/d6d73e51e91cdd5bc9feda4643e8aac4444321.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "特惠套餐🥤+饮品",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "客家酱肉笋干捞面+饮品",
+					"picUrl": "http://p0.meituan.net/wmproduct/a2b586d9fef654c91df7a52f1df1507311279383.jpg",
+					"price": 20.68,
+					"unit": "份",
+					"categoryName": "特惠套餐🥤+饮品",
+					"props": [
+						{
+							"name": "笋干捞面",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "笋干捞面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川香捞面+饮料",
+					"picUrl": "http://p0.meituan.net/wmproduct/c80da3b3bce126222a59bef8eaf8246e655204.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "特惠套餐🥤+饮品",
+					"props": [
+						{
+							"name": "面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "鲜香🍜浓郁汤粉",
+			"foods": [
+				{
+					"name": "招牌三及第汤粉",
+					"picUrl": "http://p0.meituan.net/wmproduct/6ae33d2df3e2dbad9ee37c64ee8aa706124203.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "鲜香🍜浓郁汤粉",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/4d9d27e1a45ee497f29b67e7de1c3731136841.jpg",
+					"price": 21.88,
+					"unit": "份",
+					"categoryName": "鲜香🍜浓郁汤粉",
+					"props": []
+				},
+				{
+					"name": "五香牛腩汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/5f17f48665d83ddfff6d6dce87b8f3cb146331.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "鲜香🍜浓郁汤粉",
+					"props": [
+						{
+							"name": "河粉米粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/2b12f36f22fb2ce25f6a6df0edb64494128020.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "鲜香🍜浓郁汤粉",
+					"props": [
+						{
+							"name": "河粉米粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "河粉米粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜蔬猪肉丸汤粉面",
+					"picUrl": "http://p0.meituan.net/wmproduct/90bc9ac2be77890ac892c42527ad83d4125342.jpg",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "鲜香🍜浓郁汤粉",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪手汤粉面",
+					"picUrl": "http://p1.meituan.net/wmproduct/9f6d479db96dacbec855faaec70cef82144918.jpg",
+					"price": 21.9,
+					"unit": "份",
+					"categoryName": "鲜香🍜浓郁汤粉",
+					"props": [
+						{
+							"name": "米粉河粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "米粉河粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "💥夏日新品",
+			"foods": [
+				{
+					"name": "客家三及第汤+特色米粉（套餐）",
+					"picUrl": "http://p1.meituan.net/wmproduct/d0b0b6141769cd7fc28f6421f978fc48330002.jpg",
+					"price": 25.68,
+					"unit": "份",
+					"categoryName": "💥夏日新品",
+					"props": [
+						{
+							"name": "粉面",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩捞米粉+招牌三及第汤",
+					"picUrl": "http://p0.meituan.net/wmproduct/005e8301eb8749cb888226bd80edf4c7272311.jpg",
+					"price": 33.68,
+					"unit": "份",
+					"categoryName": "💥夏日新品",
+					"props": []
+				},
+				{
+					"name": "客家三及第汤+米饭限时特价",
+					"picUrl": "http://p1.meituan.net/wmproduct/ac6504653ed7f2722e36d337b1d0e413146806.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "💥夏日新品",
+					"props": []
+				},
+				{
+					"name": "酱肉笋干捞米粉+招牌三及第汤",
+					"picUrl": "http://p0.meituan.net/wmproduct/20289fbac8fa71a42cd88315534339af264859.jpg",
+					"price": 29.68,
+					"unit": "份",
+					"categoryName": "💥夏日新品",
+					"props": [
+						{
+							"name": "面粉",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "面粉",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "面粉",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "面粉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "双椒肉沫捞面+饮品",
+					"picUrl": "http://p0.meituan.net/wmproduct/a29f21030601d9b568123667170325a080190.jpg",
+					"price": 36.88,
+					"unit": "份",
+					"categoryName": "💥夏日新品",
+					"props": [
+						{
+							"name": "粉面",
+							"values": [
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "土豪加量",
+			"foods": [
+				{
+					"name": "米饭加量",
+					"picUrl": "http://p0.meituan.net/xianfu/ff851c1c78879e09cfc399e58829e2d5299008.jpg",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "土豪加量",
+					"props": []
+				},
+				{
+					"name": "面／粉加量",
+					"picUrl": "http://p1.meituan.net/xianfu/afcf4e86931b277ed6abafd12748142e417792.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "土豪加量",
+					"props": []
+				},
+				{
+					"name": "粉＼面加量",
+					"picUrl": "http://p1.meituan.net/xianfu/afcf4e86931b277ed6abafd12748142e417792.jpg",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "土豪加量",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "现煮🍵营养鲜汤",
+			"foods": [
+				{
+					"name": "客家三及第汤",
+					"picUrl": "http://p0.meituan.net/wmproduct/7a5b3384ecff7871d2b1ff8da17b8094296994.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "现煮🍵营养鲜汤",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "鲜香🍚营养米饭",
+			"foods": [
+				{
+					"name": "手撕盐焗鸡饭+汤+青菜+香米饭(套餐)",
+					"picUrl": "http://p1.meituan.net/wmproduct/26d0797cddb4cfb02663922d27b63dc6154963.jpg",
+					"price": 25.88,
+					"unit": "份",
+					"categoryName": "鲜香🍚营养米饭",
+					"props": []
+				},
+				{
+					"name": "客家秘制卤肉煲+汤+青菜+香米饭(套餐)",
+					"picUrl": "http://p0.meituan.net/wmproduct/5d9967774781c4170f2d42cd7e8fdeb2154011.jpg",
+					"price": 31.98,
+					"unit": "份",
+					"categoryName": "鲜香🍚营养米饭",
+					"props": []
+				},
+				{
+					"name": "客家萝卜牛腩煲+汤+青菜+香米饭（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/2051b52a02a79ef537996e469fde7fe2153810.jpg",
+					"price": 38.88,
+					"unit": "份",
+					"categoryName": "鲜香🍚营养米饭",
+					"props": []
+				},
+				{
+					"name": "特色客家酿豆腐煲+汤+青菜+香米饭（套餐）",
+					"picUrl": "http://p0.meituan.net/wmproduct/9958e04616578302b092fcc5157cb609162845.jpg",
+					"price": 29.88,
+					"unit": "份",
+					"categoryName": "鲜香🍚营养米饭",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "精致开胃🥟小吃",
+			"foods": [
+				{
+					"name": "阿婆泡蒜",
+					"picUrl": "http://p0.meituan.net/wmproduct/663b2dd0c9f00b58ca8f40392137cf2d93453.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "精致开胃🥟小吃",
+					"props": []
+				},
+				{
+					"name": "特色卤蛋（2个）",
+					"picUrl": "http://p0.meituan.net/wmproduct/02ab2d65ead326f02ac99e1251b275aa127347.jpg",
+					"price": 6.7,
+					"unit": "份",
+					"categoryName": "精致开胃🥟小吃",
+					"props": []
+				},
+				{
+					"name": "白灼菜心",
+					"picUrl": "http://p0.meituan.net/wmproduct/6c6ce700b5b837b4991d1956b2e023ce356089.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "精致开胃🥟小吃",
+					"props": []
+				},
+				{
+					"name": "客家五香豆干",
+					"picUrl": "http://p1.meituan.net/wmproduct/bb4a76d16c9292448494d1f83bc5c646289082.jpg",
+					"price": 9.8,
+					"unit": "份",
+					"categoryName": "精致开胃🥟小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "冰爽🥥饮品豆花",
+			"foods": [
+				{
+					"name": "绿豆沙",
+					"picUrl": "http://p0.meituan.net/wmproduct/e7b6a8b7af181805eda959d542b4bb4e300279.jpg",
+					"price": 8.8,
+					"unit": "份",
+					"categoryName": "冰爽🥥饮品豆花",
+					"props": []
+				},
+				{
+					"name": "红枣雪耳糖水",
+					"picUrl": "http://p0.meituan.net/wmproduct/ada54b775768856ab00e9c43ddab88be83696.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "冰爽🥥饮品豆花",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "自制酱料",
+			"foods": [
+				{
+					"name": "酸辣酱",
+					"picUrl": "http://p1.meituan.net/wmproduct/ec2beb6de5b88d2504775511c6624146119214.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "自制酱料",
+					"props": []
+				},
+				{
+					"name": "红油辣椒酱",
+					"picUrl": "http://p1.meituan.net/wmproduct/ad773c7c17590704270644232995fef8123057.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "自制酱料",
+					"props": []
+				},
+				{
+					"name": "剁椒",
+					"picUrl": "http://p0.meituan.net/wmproduct/c073198cc6006014e47b2bb356658d42117364.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "自制酱料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "品牌展示",
+			"foods": [
+				{
+					"name": "网红店",
+					"picUrl": "http://p0.meituan.net/wmproduct/7656924ee4c82c30f0044df9cc0ecb8b603765.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌展示",
+					"props": []
+				},
+				{
+					"name": "明档展示",
+					"picUrl": "http://p1.meituan.net/wmproductwm/73ff5cd811184392c6bd216cf30a151c720323.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌展示",
+					"props": []
+				},
+				{
+					"name": "大厅展示",
+					"picUrl": "http://p0.meituan.net/wmproductwm/604ab5433e5f25b0e65ce641bd434f9f564900.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌展示",
+					"props": []
+				},
+				{
+					"name": "品牌展示",
+					"picUrl": "http://p0.meituan.net/wmproduct/ef3e9ec605f46e3122025719b86e7766145070.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌展示",
+					"props": []
+				}
+			]
+		}
+	]
+}

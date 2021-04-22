@@ -39,7 +39,6 @@ async function requestUrl(url,) {
     request.get({
       url: url,
     }, (err, res, body) => { 
-        // console.log("body---",body)
         resolve(err ? {} : JSON.parse(body))
     })
   })
@@ -116,7 +115,6 @@ async function genImgs(merchantInfo,outputDir) {
     foods.forEach(foodItem => {
       let imgUrl = foodItem.picUrl;
       let imgName = formatFileName(foodItem.name) + ".jpg"
-      // console.log("imgUrl--",imgUrl)
       if (imgUrl) {
         try {
           request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
@@ -202,7 +200,7 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
         foodUnit = foodItem.unit,
         foodSpecificationType = "",
         foodSpecification = "",
-        foodPrice = parseFloat(foodItem.price).toFixed(2),
+        foodPrice = parseFloat(foodItem.price || 0).toFixed(2),
         foodPracticeType = [],
         foodPractice = [],
         foodFeeding = [],
@@ -231,7 +229,6 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
             break;
           }
         }
-        // console.log("foodPracticeType---",foodPracticeType)
       })
       
       foodPracticeType = foodPracticeType.join(",");
@@ -302,7 +299,8 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
       let url = foodItem.picUrl
       let imgName= foodItem.name
       if (url) {
-        let ext = url.slice(url.lastIndexOf("."));
+        let ext =  url.slice(url.lastIndexOf("."));
+        ext= ".jpg"
         // let ext=".jpeg"
         // if (bigImage) {//阿里云模式下下载大图
         //   url = url.slice(0, -3) + "2048";
@@ -461,7 +459,6 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
             break;
           }
         }
-        // console.log("foodPracticeType---",foodPracticeType)
       })
       
       foodPracticeType = foodPracticeType.join(",");
@@ -472,8 +469,8 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         foodName,
         foodCategoryName,
         foodUnit,
-        "",
-        "",
+        foodSpecificationType,
+        foodSpecification,
         foodPrice || 0,
         foodPracticeType,
         foodPractice,
@@ -484,7 +481,6 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     })
   })
 
-  console.log(Object.values(propSortData));
   excelData.unshift(Object.values(propSortData))
     
   let buffer = xlsx.build([
@@ -600,7 +596,6 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
       for (let i = 0; i < propValues.length;i++) { 
         let propIndex = propNameSort.indexOf(propValues[i].value);//属性不在排序数组里
         if (propIndex == -1) {
-          console.log(propNameSort,propValues[i])
           console.error(`${propName}属性排序错误`)
         } else { 
           tempPropsSort[propIndex] = propValues[i];
@@ -615,7 +610,6 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
   let tempPropsGroup = new Array(propsGroupSort.length)
   for (let i = 0; i < props.length;i++) { 
     let groupIndex = propsGroupSort.indexOf(props[i].name);
-    // console.log("groupIndex---",groupIndex)
     if (groupIndex == -1) {
       console.error(`${props[i].name}不在所有的属性组中---${foodItem.name}`)
     } else { 
@@ -636,7 +630,6 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
   let { specifications ,bigImage} = menuSetting
-  console.log("specifications---",specifications)
   mkdirSync(foodsImgsDir)
   let noImgUrls = {}
   for (let i = 0; i < categories.length; i++) {
@@ -649,7 +642,6 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
     //处理菜品的规格,添加多份菜品
     // if (specifications && specifications.length > 0) { 
       for (let k = 0; k < foods.length; k++) { 
-        // console.log(k,foods.length)
         foods[k]._imgIndex = imgIndex++;
         let foodTemp =JSON.parse(JSON.stringify(foods[k]));
         let addFoodNum = 0; 
@@ -662,15 +654,12 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
           if (specifications.indexOf(props[m].name) != -1) {//属性中包含规格属性 
             props[m].values.forEach((val) => {
               let addFoodItem = JSON.parse(JSON.stringify(foodTemp))
-              // console.log(foodTemp.name)
               let valTemp = JSON.parse(JSON.stringify(val));
               valTemp.type = "SPECIFICATION"
               valTemp.price = 0
               addFoodItem.props[m].values = [valTemp];
-              // console.log("val.price------before",addFoodItem.price,val.price)
 
               addFoodItem.price = parseFloat(addFoodItem.price) + parseFloat(val.price)
-              // console.log("val.price------after",addFoodItem.price)
               foods.splice((k + (addFoodNum++)), 0, addFoodItem);
             })
           } else {
@@ -681,15 +670,10 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
           foods.splice(k + addFoodNum, 1);
           k = k + addFoodNum - 1;
         }
-        // console.log(addFoodNum)
       }
 
-      // console.log()
-    // }
     
-    // console.log(foods.length)
     for (let j = 0; j < foods.length; j++) {
-      // console.log("j-----",foods[j].name)
       let foodItem = foods[j];
       // 菜品图片与imgIndex对应生成图片
       let imgName = foodItem._imgIndex;
