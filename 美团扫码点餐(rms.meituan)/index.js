@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
 
 
 
@@ -14,7 +14,7 @@ const exportMode = "keruyun"
 
 
 
-let merchantAllData =  require("./tempData.json");
+let merchantAllData =  require("./merchantInfo.json");
 merchantAllData = merchantAllData.data
 let requestShopData =merchantAllData.shopInfo
 let requestMenuData = merchantAllData.dishCategories
@@ -29,16 +29,20 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "酱料",
-    "甜度",
-    "飲料"
+    "赠",
+    "主食选择",
+    "熟度",
+    "鸡蛋单面双面",
+    "酱汁选择"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "酱料",
-    "甜度",
-    "飲料"
+    "赠",
+    "主食选择",
+    "熟度",
+    "鸡蛋单面双面",
+    "酱汁选择"
   ],
 }
 
@@ -137,9 +141,14 @@ async function  handleRequestData(requestShopData,requestMenuData) {
       categoryData.foods = categoryItem.spuIds.reduce((res, foodItem) => {
         foodItem = allsSuIds[foodItem]
         if (foodItem) { 
+
+
+          let picUrl = foodItem.detailPicUrls[0] || "";
+          picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0","")
+
           let foodData = {
             name:foodItem.spuName.trim() || "",
-            picUrl: foodItem.detailPicUrls[0] || "",
+            picUrl: picUrl|| "",
             price:foodItem.originalPrice || "",
             unit: foodItem.unit || "份",
             categoryName: categoryData.name,
@@ -183,8 +192,9 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genWord(merchantInfo, outputDir)
-    genSpecificationsWord(merchantInfo, outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+    // genWord(merchantInfo, outputDir)
+    // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 
   

@@ -11,6 +11,14 @@ var docx = officegen('docx');//word
 const axios = require("axios")
 const DishMatchUrl = "https://test.shilai.zhiyi.cn/staff_assist/merchant/dish/fuzzy_match?dishName="
 
+
+async function sleep() {
+  return new Promise((resolve, reject) => {
+    setTimeout(resolve,3000)
+  })
+}
+
+
 // 获取目录下的文件
 async function getFiles(dirName) { 
   var dirs = [];
@@ -294,19 +302,19 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   // 下载所有菜品的图片,用于菜品的批量单导入
   categories.forEach(async categoryItem => {
     categoryItem.foods.forEach(async foodItem => {
-      // TODO
 
       let url = foodItem.picUrl
       let imgName= foodItem.name
       if (url) {
         let ext =  url.slice(url.lastIndexOf("."));
-        ext= ".jpg"
-        // let ext=".jpeg"
+        // ext= ".jpg" 
+        // ext=".jpeg"
+        // ext = ".png"
         // if (bigImage) {//阿里云模式下下载大图
-        //   url = url.slice(0, -3) + "2048";
+        //   url = url.slice(0, -3) + "2048";a
         // } 
         try {
-         request( encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)));
         } catch (err) {
           noImgUrls[imgName] = foodItem.name
           console.log("保存图片错误", url)

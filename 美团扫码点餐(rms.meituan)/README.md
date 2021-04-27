@@ -10,4 +10,6 @@
 https://rms.meituan.com/diancan/web/menu?shopId=600192572
 
 
+https://rms.meituan.com/diancan/api/menuHead?mtShopId=600211819
+
 数据在js文件中查找之后复制到tempData 去除外层包裹之后运行脚本即可
