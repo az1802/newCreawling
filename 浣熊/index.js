@@ -8,7 +8,7 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 
-const shopId = 20277
+const shopId = 17902
 const exportMode = "keruyun"
 // const exportMode = "feie"
 const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
@@ -26,16 +26,22 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice:[
-    "打包",
-    "其他",
-    "饮料",
+    "口味",
+    "加菜",
+    "赠送饮料",
+    "要求",
+    "送小菜",
+    "加料"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "打包",
-    "其他",
-    "饮料",
+    "口味",
+    "加菜",
+    "赠送饮料",
+    "要求",
+    "送小菜",
+    "加料"
    
   ],
   propsSort: {

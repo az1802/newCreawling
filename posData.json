@@ -1,0 +1,128 @@
+accountOpeAddr: []
+accountOpening: "中信银行"
+accountOpeningCd: "302"
+alipayDefault: "0.25"
+allMCCList: [{label: "生活百货", value: "生活百货",…}, {label: "商业及生活服务", value: "商业及生活服务",…},…]
+0: {label: "生活百货", value: "生活百货",…}
+1: {label: "商业及生活服务", value: "商业及生活服务",…}
+2: {label: "专业销售", value: "专业销售", children: [{label: "船舶及配件销售", value: "5551", children: null},…]}
+3: {label: "校园服务", value: "校园服务", children: [{label: "校园直连(高校类)", value: "3006", children: null},…]}
+4: {label: "航旅交通", value: "航旅交通",…}
+5: {label: "专业服务", value: "专业服务", children: [{label: "函授学校（成人教育）", value: "8241", children: null},…]}
+6: {label: "网络虚拟", value: "网络虚拟",…}
+bankCardFrontId: "8628bd557b404ddaa592600cdbeeb26a"
+bankCardFrontPic: "https://osscdn.suixingpay.com/0/2/32MDJhYjIyYWZOdk5kTTJheDIwMjFfMDRfMjhfMTFfNTZfNjQxMzYyNDMyNGIzNGUwYThhNDJkODFmNmFkNTNiYWMyYU9vcGVuQVBJX2J1Y2tldDJhYjE.jpg"
+bankCardPreAuthorization: null
+blueOceanRateDefault: "0.2"
+businessClassifyArr: []
+businessLicenseId: "0c6e413e1d404a14a23339b3d95e458c"
+businessLicensePic: "https://osscdn.suixingpay.com/0/2/32MDJhYjIyYWZOdk5kTTJheDIwMjFfMDRfMjhfMTFfNTRfMjc1NjY1ZjIxOWE4NDMzMmIxZjhmODZkOTFkYjYzYTMyYU9vcGVuQVBJX2J1Y2tldDJhYjE.jpg"
+bussinessType: "01"
+cloudPayRate: "0.3"
+collegesRateDefault: "0.0"
+creditCardRate: "0.54"
+debitCardAmount: "18.75"
+debitCardRate: "0.44"
+defaultCloudPayRate: "0.3"
+defaultCloudPayRateCredit: "0.3"
+defaultCloudPayRateDebit: "0.3"
+defaultCreditCardRate: "0.54"
+defaultDebitCardAmount: "18.75"
+defaultDebitCardRate: "0.44"
+disabledFields: {settlementPerName: true, accountOpeAddr: true}
+accountOpeAddr: true
+settlementPerName: true
+downThousandDebitDefault: "0.25"
+downThousandDefault: "0.25"
+draftId: ""
+draftType: "0"
+identityTyp: "00"
+independentModel: "00"
+isSxf: false
+jxAlipayDefault: "1.0"
+jxDownThousandDebitDefault: "1.0"
+jxDownThousandDefault: "1.0"
+jxMaxAlipayRate: "10.0"
+jxMaxContractMoney: 9999
+jxMaxDebitDownThousand: "10.0"
+jxMaxDebitUpThousand: "10.0"
+jxMaxDownThousand: "10.0"
+jxMaxUpThousand: "10.0"
+jxMaxWechatRate: "10.0"
+jxMinAlipayRate: "0.23"
+jxMinDebitDownThousand: "0.23"
+jxMinDebitUpThousand: "0.55"
+jxMinDownThousand: "0.23"
+jxMinUpThousand: "0.55"
+jxMinWechatRate: "0.23"
+jxUpThouandDebitDefault: "1.0"
+jxUpThouandDefault: "1.0"
+jxWechatDefault: "1.0"
+legalPersonLicenseType: "00"
+legalPersonName: "林斌"
+legalPersonRangeTime: []
+maxAlipayRate: "1.0"
+maxBlueOceanRate: "1.0"
+maxCloudPayRate: "1.0"
+maxCloudPayRateCredit: "1.0"
+maxCloudPayRateDebit: "1.0"
+maxCollegesRate: null
+maxContractMoney: 18.75
+maxCreditCardRate: "1.0"
+maxDebitCardAmount: "无上限"
+maxDebitCardRate: "1.0"
+maxDebitDownThousand: "1.0"
+maxDebitUpThousand: "1.0"
+maxDownThousand: "1.0"
+maxOasisRate: null
+maxTeachTrainRate: null
+maxUpThousand: "1.0"
+maxWechatRate: "1.0"
+mccPics: []
+merIntoChannel: "0"
+merchantClassifyArr: ["生活百货", "商业及生活服务", "专业销售", "校园服务", "航旅交通", "专业服务", "网络虚拟"]
+merchantFlagType: "00"
+merchantType: "00"
+minAlipayRate: "0.25"
+minBlueOceanRate: "0.2"
+minCloudPayRate: "0.3"
+minCloudPayRateCredit: "0.3"
+minCloudPayRateDebit: "0.3"
+minCollegesRate: null
+minCreditCardRate: "0.535"
+minDebitCardAmount: "18.75"
+minDebitCardRate: "0.435"
+minDebitDownThousand: "0.25"
+minDebitUpThousand: "0.535"
+minDownThousand: "0.25"
+minOasisRate: null
+minTeachTrainRate: null
+minUpThousand: "0.535"
+minWechatRate: "0.25"
+oasisRateDefault: "0.2"
+opeAddr: []
+opeAddrArr: []
+prePays: ["qrCodePreAuthorization", "bankCardPreAuthorization"]
+providerLicense: "00"
+qrCodePreAuthorization: null
+qrcodeDownThousand: "0.25"
+qrcodeRateAlipay: "0.25"
+qrcodeRateWechat: "0.25"
+qrcodeUpThousand: "0.54"
+qualificationType: "03"
+registAddressAreaNm: null
+registCode: "440300205703995"
+registName: "深圳市鑫道餐饮管理有限公司福田分公司"
+settlementAccount: "6217710302368022"
+settlementPerName: "林斌"
+settlementPerType: "00"
+settlementType: "01"
+showBranBank: false
+teachTrainDefaultRate: null
+unifiedSocialCreditCode: "91440300MA5FCABG3L"
+upThouandDebitDefault: "0.54"
+upThouandDefault: "0.54"
+validRangeTime: ["2018-10-25T16:00:00.000Z", "2999-12-30T16:00:00.000Z"]
+validStartTimeLicense: "2018-10-25T16:00:00.000Z"
+validTimeLicense: "2999-12-30T16:00:00.000Z"
+wechatDefault: "0.25"
