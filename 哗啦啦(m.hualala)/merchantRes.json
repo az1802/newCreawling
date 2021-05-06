@@ -3,12 +3,190 @@
 	"shop_pic": "",
 	"categories": [
 		{
+			"name": "招牌狮头卤鹅",
+			"foods": [
+				{
+					"name": "鹅翅",
+					"picUrl": "",
+					"price": "35.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅掌",
+					"picUrl": "",
+					"price": "35.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅头",
+					"picUrl": "",
+					"price": "38.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "金牌粉肝",
+					"picUrl": "",
+					"price": "98.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅脖",
+					"picUrl": "",
+					"price": "38.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "醇香鹅肝",
+					"picUrl": "",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅肠",
+					"picUrl": "",
+					"price": "38.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅肠头",
+					"picUrl": "",
+					"price": "28.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "卤水豆干",
+					"picUrl": "",
+					"price": "12.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅心",
+					"picUrl": "",
+					"price": "18.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅蛋",
+					"picUrl": "",
+					"price": "15.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅血",
+					"picUrl": "",
+					"price": "8.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅肉",
+					"picUrl": "",
+					"price": "48.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "鹅胗",
+					"picUrl": "",
+					"price": "29.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "半个粉肝",
+					"picUrl": "",
+					"price": "58.00",
+					"unit": "份",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "白切粉肠",
+					"picUrl": "",
+					"price": "28.00",
+					"unit": "例",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				},
+				{
+					"name": "白切粉肠中",
+					"picUrl": "",
+					"price": "45.00",
+					"unit": "中",
+					"categoryName": "招牌狮头卤鹅",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "食家之选",
+			"foods": [
+				{
+					"name": "狮头鹅头连脖子",
+					"picUrl": "",
+					"price": "68.00",
+					"unit": "份",
+					"categoryName": "食家之选",
+					"props": []
+				},
+				{
+					"name": "狮头鹅三珍",
+					"picUrl": "",
+					"price": "98.00",
+					"unit": "份",
+					"categoryName": "食家之选",
+					"props": []
+				},
+				{
+					"name": "狮头鹅五珍",
+					"picUrl": "",
+					"price": "138.00",
+					"unit": "份",
+					"categoryName": "食家之选",
+					"props": []
+				},
+				{
+					"name": "狮头鹅八珍",
+					"picUrl": "",
+					"price": "198.00",
+					"unit": "份",
+					"categoryName": "食家之选",
+					"props": []
+				}
+			]
+		},
+		{
 			"name": "新鲜出炉",
 			"foods": [
 				{
-					"name": "4分1鹅下庄后腿",
+					"name": "正宗狮头鹅全鹅",
 					"picUrl": "",
-					"price": 10,
+					"price": "598.00",
 					"unit": "份",
 					"categoryName": "新鲜出炉",
 					"props": []
@@ -16,15 +194,15 @@
 				{
 					"name": "4分1鹅上庄前腿",
 					"picUrl": "",
-					"price": 4,
+					"price": "98.00",
 					"unit": "份",
 					"categoryName": "新鲜出炉",
 					"props": []
 				},
 				{
-					"name": "正宗狮头鹅全鹅",
+					"name": "4分1鹅下庄后腿",
 					"picUrl": "",
-					"price": 1,
+					"price": "98.00",
 					"unit": "份",
 					"categoryName": "新鲜出炉",
 					"props": []
@@ -32,7 +210,15 @@
 				{
 					"name": "正宗狮头鹅半只",
 					"picUrl": "",
-					"price": 4,
+					"price": "188.00",
+					"unit": "份",
+					"categoryName": "新鲜出炉",
+					"props": []
+				},
+				{
+					"name": "正宗狮头鹅整鹅",
+					"picUrl": "",
+					"price": "398.00",
 					"unit": "份",
 					"categoryName": "新鲜出炉",
 					"props": []
@@ -43,97 +229,9 @@
 			"name": "地道一人食",
 			"foods": [
 				{
-					"name": "三拼饭 肉 胗 肠",
-					"picUrl": "",
-					"price": 60,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
 					"name": "元气鹅肉饭",
 					"picUrl": "",
-					"price": 1185,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅肝双拼饭",
-					"picUrl": "",
-					"price": 248,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅肠头双拼饭",
-					"picUrl": "",
-					"price": 94,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "潮式卤肉饭1",
-					"picUrl": "",
-					"price": 78,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅心双拼饭",
-					"picUrl": "",
-					"price": 85,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": " ",
-					"picUrl": "",
-					"price": "",
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "三拼饭 肉 胗 肝",
-					"picUrl": "",
-					"price": 71,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "三拼饭 肉 胗 脖",
-					"picUrl": "",
-					"price": 77,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅头双拼饭",
-					"picUrl": "",
-					"price": 59,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉卤肉双拼饭",
-					"picUrl": "",
-					"price": 254,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "普通鹅肝饭",
-					"picUrl": "",
-					"price": 16,
+					"price": "32.00",
 					"unit": "份",
 					"categoryName": "地道一人食",
 					"props": []
@@ -141,15 +239,7 @@
 				{
 					"name": "劲爽鹅脖饭",
 					"picUrl": "",
-					"price": 56,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "商务套餐A",
-					"picUrl": "",
-					"price": 247,
+					"price": "30.00",
 					"unit": "份",
 					"categoryName": "地道一人食",
 					"props": []
@@ -157,15 +247,7 @@
 				{
 					"name": "鹅肉鹅脖双拼饭",
 					"picUrl": "",
-					"price": 161,
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅胗双拼饭",
-					"picUrl": "",
-					"price": 182,
+					"price": "35.00",
 					"unit": "份",
 					"categoryName": "地道一人食",
 					"props": []
@@ -173,192 +255,89 @@
 				{
 					"name": "老饕鹅肝饭",
 					"picUrl": "",
-					"price": 18,
+					"price": "39.00",
 					"unit": "份",
 					"categoryName": "地道一人食",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "酒水饮料",
-			"foods": [
-				{
-					"name": "加多宝",
-					"picUrl": "",
-					"price": 38,
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
 				},
 				{
-					"name": "农夫山泉",
+					"name": "三拼饭 肉 胗 脖",
 					"picUrl": "",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "海南椰子汁",
-					"picUrl": "",
-					"price": 43,
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "可乐",
-					"picUrl": "",
-					"price": 33,
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "",
-					"price": 15,
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "食家之选",
-			"foods": [
-				{
-					"name": "狮头鹅三珍",
-					"picUrl": "",
-					"price": 27,
+					"price": "42.00",
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "经典双人套餐",
+					"name": "鹅肉鹅头双拼饭",
 					"picUrl": "",
-					"price": 74,
+					"price": "35.00",
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "经典四人套餐",
+					"name": "鹅肉鹅肠头双拼饭",
 					"picUrl": "",
-					"price": 40,
+					"price": "38.00",
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "狮头鹅八珍",
+					"name": "鹅肉鹅肝双拼饭",
 					"picUrl": "",
-					"price": 3,
+					"price": "35.00",
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "狮头鹅五珍",
+					"name": "鹅肉鹅心双拼饭",
 					"picUrl": "",
-					"price": 24,
+					"price": "35.00",
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "狮头鹅头连脖子",
+					"name": "普通鹅肝饭",
 					"picUrl": "",
-					"price": 3,
+					"price": "30.00",
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": " ",
+					"name": "鹅肉卤肉双拼饭",
 					"picUrl": "",
-					"price": "",
+					"price": "35.00",
 					"unit": "份",
-					"categoryName": "食家之选",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "其他",
-			"foods": [
-				{
-					"name": "经典四人套餐",
-					"picUrl": "",
-					"price": 71,
-					"unit": "位",
-					"categoryName": "其他",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "纸巾",
+					"name": "鹅肉鹅胗双拼饭",
 					"picUrl": "",
-					"price": 5,
-					"unit": "包",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": " ",
-					"picUrl": "",
-					"price": "",
+					"price": "35.00",
 					"unit": "份",
-					"categoryName": "其他",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "经典双人套餐",
+					"name": "三拼饭 肉 胗 肝",
 					"picUrl": "",
-					"price": 138,
-					"unit": "位",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": " ",
-					"picUrl": "",
-					"price": "",
-					"unit": "位",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "经典双人套餐",
-					"picUrl": "",
-					"price": 74,
+					"price": "39.00",
 					"unit": "份",
-					"categoryName": "其他",
+					"categoryName": "地道一人食",
 					"props": []
 				},
 				{
-					"name": "茶位费",
+					"name": "三拼饭 肉 胗 肠",
 					"picUrl": "",
-					"price": 3806,
-					"unit": "位",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "精选时蔬",
-					"picUrl": "",
-					"price": 3,
+					"price": "39.00",
 					"unit": "份",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "经典四人套餐",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "其他",
+					"categoryName": "地道一人食",
 					"props": []
 				}
 			]
@@ -367,17 +346,9 @@
 			"name": "地道时蔬",
 			"foods": [
 				{
-					"name": "方鱼炒芥蓝",
-					"picUrl": "",
-					"price": 42,
-					"unit": "份",
-					"categoryName": "地道时蔬",
-					"props": []
-				},
-				{
 					"name": "空心菜拌豆酱",
 					"picUrl": "",
-					"price": 56,
+					"price": "22.00",
 					"unit": "份",
 					"categoryName": "地道时蔬",
 					"props": []
@@ -385,134 +356,17 @@
 				{
 					"name": "蒜蓉娃娃菜",
 					"picUrl": "",
-					"price": 49,
+					"price": "22.00",
 					"unit": "份",
 					"categoryName": "地道时蔬",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "招牌狮头卤鹅",
-			"foods": [
-				{
-					"name": "鹅头",
-					"picUrl": "",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
 				},
 				{
-					"name": "金牌粉肝",
+					"name": "方鱼炒芥蓝",
 					"picUrl": "",
-					"price": 10,
+					"price": "25.00",
 					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "半个粉肝",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅翅",
-					"picUrl": "",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅蛋",
-					"picUrl": "",
-					"price": 24,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅血",
-					"picUrl": "",
-					"price": 50,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅掌",
-					"picUrl": "",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅肠",
-					"picUrl": "",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "醇香鹅肝",
-					"picUrl": "",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅心",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "卤水豆干",
-					"picUrl": "",
-					"price": 49,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅肠头",
-					"picUrl": "",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅脖",
-					"picUrl": "",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅肉",
-					"picUrl": "",
-					"price": 122,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅胗",
-					"picUrl": "",
-					"price": 46,
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
+					"categoryName": "地道时蔬",
 					"props": []
 				}
 			]
@@ -521,33 +375,17 @@
 			"name": "潮汕地道小吃",
 			"foods": [
 				{
-					"name": "手工虾饼",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "潮汕地道小吃",
-					"props": []
-				},
-				{
-					"name": "潮汕手工粿肉",
-					"picUrl": "",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "潮汕地道小吃",
-					"props": []
-				},
-				{
 					"name": "菜头粿(萝卜糕)",
 					"picUrl": "",
-					"price": 4,
+					"price": "18.00",
 					"unit": "份",
 					"categoryName": "潮汕地道小吃",
 					"props": []
 				},
 				{
-					"name": "经典双人套餐",
+					"name": "手工虾饼",
 					"picUrl": "",
-					"price": 148,
+					"price": "18.00",
 					"unit": "份",
 					"categoryName": "潮汕地道小吃",
 					"props": []
@@ -555,23 +393,15 @@
 				{
 					"name": "鼠壳粿",
 					"picUrl": "",
-					"price": 12,
+					"price": "18.00",
 					"unit": "份",
 					"categoryName": "潮汕地道小吃",
 					"props": []
 				},
 				{
-					"name": " ",
+					"name": "潮汕手工粿肉",
 					"picUrl": "",
-					"price": "",
-					"unit": "份",
-					"categoryName": "潮汕地道小吃",
-					"props": []
-				},
-				{
-					"name": "经典四人套餐",
-					"picUrl": "",
-					"price": 80,
+					"price": "22.00",
 					"unit": "份",
 					"categoryName": "潮汕地道小吃",
 					"props": []
@@ -579,62 +409,17 @@
 				{
 					"name": "红桃粿",
 					"picUrl": "",
-					"price": 8,
+					"price": "12.00",
 					"unit": "个",
 					"categoryName": "潮汕地道小吃",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "米中劳斯莱斯",
-			"foods": [
-				{
-					"name": "清汤粿条",
-					"picUrl": "",
-					"price": 27,
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
-					"props": []
 				},
 				{
-					"name": " ",
+					"name": "糯米莲藕",
 					"picUrl": "",
-					"price": "",
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
-					"props": []
-				},
-				{
-					"name": "经典四人套餐",
-					"picUrl": "",
-					"price": 80,
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
-					"props": []
-				},
-				{
-					"name": "鲜米饭",
-					"picUrl": "",
-					"price": 423,
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
-					"props": []
-				},
-				{
-					"name": "牛肉丸粿条汤",
-					"picUrl": "",
-					"price": 53,
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
-					"props": []
-				},
-				{
-					"name": "经典双人套餐",
-					"picUrl": "",
-					"price": 148,
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
+					"price": "28.00",
+					"unit": "份",
+					"categoryName": "潮汕地道小吃",
 					"props": []
 				}
 			]
@@ -643,17 +428,9 @@
 			"name": "炖足三小时",
 			"foods": [
 				{
-					"name": "苦瓜排骨汤",
+					"name": "乌鸡石斛汤",
 					"picUrl": "",
-					"price": 59,
-					"unit": "盅",
-					"categoryName": "炖足三小时",
-					"props": []
-				},
-				{
-					"name": "经典四人套餐",
-					"picUrl": "",
-					"price": 80,
+					"price": "18.00",
 					"unit": "盅",
 					"categoryName": "炖足三小时",
 					"props": []
@@ -661,41 +438,160 @@
 				{
 					"name": "石橄榄排骨汤",
 					"picUrl": "",
-					"price": 75,
+					"price": "18.00",
 					"unit": "盅",
 					"categoryName": "炖足三小时",
 					"props": []
 				},
 				{
-					"name": "乌鸡石斛汤",
+					"name": "苦瓜排骨汤",
 					"picUrl": "",
-					"price": 60,
+					"price": "18.00",
 					"unit": "盅",
 					"categoryName": "炖足三小时",
 					"props": []
-				},
+				}
+			]
+		},
+		{
+			"name": "米中劳斯莱斯",
+			"foods": [
 				{
-					"name": "商务套餐A",
+					"name": "潮汕白粥",
 					"picUrl": "",
-					"price": 247,
-					"unit": "盅",
-					"categoryName": "炖足三小时",
+					"price": "3.00",
+					"unit": "碗",
+					"categoryName": "米中劳斯莱斯",
 					"props": []
 				},
 				{
-					"name": "经典双人套餐",
+					"name": "清汤粿条",
 					"picUrl": "",
-					"price": 148,
-					"unit": "盅",
-					"categoryName": "炖足三小时",
+					"price": "8.00",
+					"unit": "碗",
+					"categoryName": "米中劳斯莱斯",
 					"props": []
 				},
 				{
-					"name": " ",
+					"name": "鲜米饭",
 					"picUrl": "",
-					"price": "",
-					"unit": "盅",
-					"categoryName": "炖足三小时",
+					"price": "3.00",
+					"unit": "碗",
+					"categoryName": "米中劳斯莱斯",
+					"props": []
+				},
+				{
+					"name": "牛肉丸粿条汤",
+					"picUrl": "",
+					"price": "28.00",
+					"unit": "碗",
+					"categoryName": "米中劳斯莱斯",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "酒水饮料",
+			"foods": [
+				{
+					"name": "百威啤酒",
+					"picUrl": "",
+					"price": "10.00",
+					"unit": "瓶",
+					"categoryName": "酒水饮料",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "",
+					"price": "5.00",
+					"unit": "罐",
+					"categoryName": "酒水饮料",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "",
+					"price": "5.00",
+					"unit": "罐",
+					"categoryName": "酒水饮料",
+					"props": []
+				},
+				{
+					"name": "农夫山泉",
+					"picUrl": "",
+					"price": "5.00",
+					"unit": "瓶",
+					"categoryName": "酒水饮料",
+					"props": []
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "",
+					"price": "7.00",
+					"unit": "罐",
+					"categoryName": "酒水饮料",
+					"props": []
+				},
+				{
+					"name": "海南椰子汁",
+					"picUrl": "",
+					"price": "6.00",
+					"unit": "罐",
+					"categoryName": "酒水饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "其他",
+			"foods": [
+				{
+					"name": "纸巾",
+					"picUrl": "",
+					"price": "1.00",
+					"unit": "包",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "打包盒",
+					"picUrl": "",
+					"price": "1.00",
+					"unit": "个",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "茶位费",
+					"picUrl": "",
+					"price": "0.00",
+					"unit": "位",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "精选时蔬",
+					"picUrl": "",
+					"price": "0.00",
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "打包盒大",
+					"picUrl": "",
+					"price": "2.00",
+					"unit": "个",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "蒜泥醋",
+					"picUrl": "",
+					"price": "0.50",
+					"unit": "盒",
+					"categoryName": "其他",
 					"props": []
 				}
 			]
@@ -704,25 +600,9 @@
 			"name": "套餐系列",
 			"foods": [
 				{
-					"name": " ",
-					"picUrl": "",
-					"price": "",
-					"unit": "套",
-					"categoryName": "套餐系列",
-					"props": []
-				},
-				{
-					"name": "商务套餐A",
-					"picUrl": "",
-					"price": 247,
-					"unit": "套",
-					"categoryName": "套餐系列",
-					"props": []
-				},
-				{
 					"name": "经典双人套餐",
 					"picUrl": "",
-					"price": 74,
+					"price": "138.00",
 					"unit": "套",
 					"categoryName": "套餐系列",
 					"props": []
@@ -730,22 +610,17 @@
 				{
 					"name": "经典四人套餐",
 					"picUrl": "",
-					"price": 20,
+					"price": "298.00",
 					"unit": "套",
 					"categoryName": "套餐系列",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "消费项目",
-			"foods": [
+				},
 				{
-					"name": "消费项目",
+					"name": "商务套餐A",
 					"picUrl": "",
-					"price": 1,
-					"unit": "笔",
-					"categoryName": "消费项目",
+					"price": "45.00",
+					"unit": "套",
+					"categoryName": "套餐系列",
 					"props": []
 				}
 			]
@@ -756,15 +631,7 @@
 				{
 					"name": "爽口酸菜煲",
 					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "香煎黄花鱼",
-					"picUrl": "",
-					"price": 15,
+					"price": "28.00",
 					"unit": "份",
 					"categoryName": "经典潮味",
 					"props": []
@@ -772,7 +639,7 @@
 				{
 					"name": "春菜排骨煲",
 					"picUrl": "",
-					"price": 23,
+					"price": "32.00",
 					"unit": "份",
 					"categoryName": "经典潮味",
 					"props": []
@@ -780,15 +647,15 @@
 				{
 					"name": "椒盐九肚鱼",
 					"picUrl": "",
-					"price": 12,
+					"price": "48.00",
 					"unit": "份",
 					"categoryName": "经典潮味",
 					"props": []
 				},
 				{
-					"name": "潮汕蚝仔烙",
+					"name": "香煎黄花鱼",
 					"picUrl": "",
-					"price": 48,
+					"price": "48.00",
 					"unit": "份",
 					"categoryName": "经典潮味",
 					"props": []
@@ -796,15 +663,7 @@
 				{
 					"name": "菜脯煎蛋",
 					"picUrl": "",
-					"price": 55,
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "苦瓜腩肉煲",
-					"picUrl": "",
-					"price": 4,
+					"price": "25.00",
 					"unit": "份",
 					"categoryName": "经典潮味",
 					"props": []
@@ -812,7 +671,31 @@
 				{
 					"name": "白菜肉皮煲",
 					"picUrl": "",
-					"price": 3,
+					"price": "38.00",
+					"unit": "份",
+					"categoryName": "经典潮味",
+					"props": []
+				},
+				{
+					"name": "苦瓜腩肉煲",
+					"picUrl": "",
+					"price": "38.00",
+					"unit": "份",
+					"categoryName": "经典潮味",
+					"props": []
+				},
+				{
+					"name": "潮汕蚝仔烙",
+					"picUrl": "",
+					"price": "38.00",
+					"unit": "份",
+					"categoryName": "经典潮味",
+					"props": []
+				},
+				{
+					"name": "椒盐茶树菇",
+					"picUrl": "",
+					"price": "36.00",
 					"unit": "份",
 					"categoryName": "经典潮味",
 					"props": []
@@ -823,17 +706,17 @@
 			"name": "特色凉拌菜",
 			"foods": [
 				{
-					"name": "香辣薄荷拌牛腱",
+					"name": "香辣无骨鸭掌",
 					"picUrl": "",
-					"price": 28,
+					"price": "32.00",
 					"unit": "份",
 					"categoryName": "特色凉拌菜",
 					"props": []
 				},
 				{
-					"name": "香辣无骨鸭掌",
+					"name": "香辣薄荷拌牛腱",
 					"picUrl": "",
-					"price": 17,
+					"price": "36.00",
 					"unit": "份",
 					"categoryName": "特色凉拌菜",
 					"props": []
@@ -841,7 +724,7 @@
 				{
 					"name": "凉拌青瓜",
 					"picUrl": "",
-					"price": 34,
+					"price": "18.00",
 					"unit": "份",
 					"categoryName": "特色凉拌菜",
 					"props": []

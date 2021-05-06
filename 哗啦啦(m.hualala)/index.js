@@ -2,9 +2,8 @@
 const fs = require("fs");
 const path = require("path");
 const requestMenuJson = require("./merchantInfo.json");
-let merchantMenuInfo = requestMenuJson.sale30Num;
-merchantMenuInfo = JSON.parse(merchantMenuInfo);
-let merchantShopInfo = requestMenuJson.shopBaseInfo;
+let merchantMenuInfo = requestMenuJson.records;
+let merchantShopInfo = requestMenuJson.info;
 
 let shopInfo = {
   name: merchantShopInfo.shopName,
@@ -70,7 +69,7 @@ async function  handleRequestData(requestMenuData) {
     }
     let categories = [], categoryObj = {};
     foodList.forEach(foodItem => {
-      let categoryName = foodItem.foodCategory
+      let categoryName = foodItem.foodCategoryName || foodItem.foodOnlineCategoryName
       if (!categoryObj[categoryName]) {
         categoryObj[categoryName] = {
           name: categoryName,
@@ -81,8 +80,8 @@ async function  handleRequestData(requestMenuData) {
       categoryObj[categoryName].foods.push({
         name:foodItem.foodName || "",
         picUrl: "",
-        price:foodItem.saleNum || "",
-        unit: foodItem.foodUnit || "份",
+        price:foodItem.price || "",
+        unit: foodItem.unit || "份",
         categoryName: categoryName,
         props:[],
       })
