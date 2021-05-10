@@ -9,11 +9,14 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 const shopId = "372546e43f394617ba29f2a286ac6576"
+const shopRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/`
+const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${shopId}?mealType=EAT_IN`
+
+
 const exportMode = "keruyun"
 // const exportMode = "feie"
 
-const shopRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/`
-const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${shopId}?mealType=EAT_IN`
+
 
 let { data:requestShopData} = require("./shopData.json");
 let { data:requestMenuData} = require("./menuData.json");
@@ -24,21 +27,17 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:["规格"],//规格
+  specifications:[],//规格
   practice: [
-    "就餐类型",
-    "固定菜",
-    "部位",
-    "口味"
+    "用餐",
+    "粉类",
+    "加料"
 ],//做法
-  feeding:["加料"],
+  feeding:[],
   remarks: [],//备注
   propsGroupSort: [
-    "就餐类型",
-    "固定菜",
-    "部位",
-    "规格",
-    "口味",
+    "用餐",
+    "粉类",
     "加料"
   ],
   propsSort: {

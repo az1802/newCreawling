@@ -1,450 +1,64 @@
 {
-	"shopName": "烧鹅侠（石湾榴苑店）",
-	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/82da59b9-f323-44fe-9bb1-e2687395a978_tmp_a5055e79505bd12b046a067269abc1f9.jpg",
+	"shopName": "炒码记",
+	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/239ec3f7-a0cc-4790-8c59-d7ab89d5e897_tmp_25706340161ed89c1d0621d6b5946647.jpg",
 	"categories": [
 		{
-			"name": "固定菜饭类",
+			"name": "干捞/汤粉",
 			"foods": [
 				{
-					"name": "脆皮烧鸭饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-12.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "驰名咸香鸡饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-10.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "清远白切鸡饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-27.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "清远鼓油鸡饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-28.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "招牌手撕鸡饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-35.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "黯然叉烧饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-5.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "八戒猪耳饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-6.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "蜜汁鸡亦饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-25.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "卤水拼盘饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-24.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "蜜汁排骨饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-26.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "化皮烧肉饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-16.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "黄金鸡肶饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-40.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "咸香鸡肶饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-40.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "一品鸭肶饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-33.png",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "固定菜饭类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "金牌烧鹅饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-21.png",
+					"name": "大厨黄牛肉粉（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-319.png",
 					"price": 28,
 					"unit": "份",
-					"categoryName": "固定菜饭类",
+					"categoryName": "干捞/汤粉",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
 									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
 								},
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -456,25 +70,59 @@
 					]
 				},
 				{
-					"name": "至尊烧鹅肶饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-36.png",
-					"price": 35,
+					"name": "王牌衡东油豆腐粉（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/DD7239C0BE604C9BAE1EC72B53BDB662.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "固定菜饭类",
+					"categoryName": "干捞/汤粉",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
 									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
 								},
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -486,418 +134,478 @@
 					]
 				},
 				{
-					"name": "烧鹅拼排骨饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-4.png",
+					"name": "酸菜小笋卤牛肉粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/90ce7eed34884781b7caa733a4a41d6d.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "青椒焖猪肚粉（微微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-287.png",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "螺丝椒小炒土猪肉粉（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-31.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "香辣临武鸭杂粉（中辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-63.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "湘西土匪鸭粉（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-95.png",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "春鲜肉丝粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-191.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "湘西外婆菜肉末粉（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-351.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "干捞/汤粉",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "粉类",
+							"values": [
+								{
+									"value": "干捞",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								},
+								{
+									"value": "汤粉",
+									"price": 0,
+									"propName": "粉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "加粉",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "五常香米饭",
+			"foods": [
+				{
+					"name": "大厨黄牛肉饭（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-639.png",
 					"price": 30,
 					"unit": "份",
-					"categoryName": "固定菜饭类",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
 									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
 								},
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "自选双拼（三拼）",
-			"foods": [
-				{
-					"name": "烧味自选双拼饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-1.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "自选双拼（三拼）",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "拼烧鸭",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼白切鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼鼓油鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼咸香鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼手撕鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼叉烧",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼烧肉",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧味自选三拼饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-2.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "自选双拼（三拼）",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "拼烧鸭",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼白切鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼鼓油鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼咸香鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼手撕鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼叉烧",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼烧肉",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鹅自选双拼饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-1.png",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "自选双拼（三拼）",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "固定菜",
-							"values": [
-								{
-									"value": "烧鹅",
-									"price": 0,
-									"propName": "固定菜",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "拼烧鸭",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼白切鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼鼓油鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼咸香鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼手撕鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼叉烧",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼烧肉",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鹅三拼饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-2.png",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "自选双拼（三拼）",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "固定菜",
-							"values": [
-								{
-									"value": "烧鹅",
-									"price": 0,
-									"propName": "固定菜",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "拼烧鸭",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼白切鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼鼓油鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼咸香鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼手撕鸡",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼叉烧",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								},
-								{
-									"value": "拼烧肉",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true,
-									"type": "supplyCondiment"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "外带斩料",
-			"foods": [
-				{
-					"name": "明炉烧鸭/斤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-41.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "免费打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "部位",
-							"values": [
-								{
-									"value": "上庄鸭翅部位",
-									"price": 0,
-									"propName": "部位",
-									"isMul": true
-								},
-								{
-									"value": "下庄鸭腿部位",
-									"price": 0,
-									"propName": "部位",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -909,303 +617,25 @@
 					]
 				},
 				{
-					"name": "清远鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-42.png",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半只",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "白切",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "豉油",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "咸香",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "清远鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-42.png",
-					"price": 46,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "免费打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "整只",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "白切",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "豉油",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "咸香",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "走地鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-43.png",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半只",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "白切",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "豉油",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "咸香",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "走地鸡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-43.png",
-					"price": 56,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "免费打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "整只",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "白切",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "豉油",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "咸香",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "金牌烧鹅/斤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-44.png",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "免费打包",
-									"price": 0,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "部位",
-							"values": [
-								{
-									"value": "上庄鹅翅部位",
-									"price": 0,
-									"propName": "部位",
-									"isMul": true
-								},
-								{
-									"value": "下庄鹅腿部位",
-									"price": 0,
-									"propName": "部位",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "蜜汁叉烧",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-45.png",
+					"name": "王牌衡东油豆腐饭（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/C418037E53CC44679A416D29D2A50DB9.jpg",
 					"price": 24,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半斤",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1217,65 +647,25 @@
 					]
 				},
 				{
-					"name": "蜜汁叉烧",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-45.png",
-					"price": 48,
+					"name": "酸菜小笋卤牛肉饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/51e93e59eb0842479c3625567b743136.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "一斤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "脆皮烧肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-46.png",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
+								},
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半斤",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1287,65 +677,25 @@
 					]
 				},
 				{
-					"name": "脆皮烧肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-46.png",
-					"price": 58,
+					"name": "青椒猪肚饭（微微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-575.png",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "一斤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "蜜汁排骨",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-47.png",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "外带斩料",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
+								},
 								{
 									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半斤",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1357,30 +707,25 @@
 					]
 				},
 				{
-					"name": "蜜汁排骨",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-47.png",
-					"price": 58,
+					"name": "螺丝椒小炒土猪肉饭（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-383.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
+								},
 								{
-									"value": "一斤",
+									"value": "打包",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1392,30 +737,25 @@
 					]
 				},
 				{
-					"name": "卤水鹅掌亦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-48.png",
-					"price": 15,
+					"name": "香辣临武鸭杂饭（中辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-479.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
+								},
 								{
-									"value": "约4两/盒",
+									"value": "打包",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1427,30 +767,25 @@
 					]
 				},
 				{
-					"name": "美味鸭掌亦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-49.png",
-					"price": 8,
+					"name": "湘西土匪鸭饭（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-511.png",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
+								},
 								{
-									"value": "约4两/盒",
+									"value": "打包",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1462,30 +797,25 @@
 					]
 				},
 				{
-					"name": "鸭下巴",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-50.png",
-					"price": 8,
+					"name": "春鲜肉丝饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-671.png",
+					"price": 24,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "五常香米饭",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
+								},
 								{
-									"value": "约4两/盒",
+									"value": "打包",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1497,30 +827,60 @@
 					]
 				},
 				{
-					"name": "凤爪",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-51.png",
+					"name": "湘西外婆菜肉末饭（微辣）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-703.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "五常香米饭",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色小吃",
+			"foods": [
+				{
+					"name": "馋嘴小酥肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-767.jpg",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "特色小吃",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "规格",
-							"values": [
+								},
 								{
-									"value": "约4两/盒",
+									"value": "打包",
 									"price": 0,
-									"propName": "规格",
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1532,19 +892,60 @@
 					]
 				},
 				{
-					"name": "卤水鸭肾/只",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-53.png",
-					"price": 5,
+					"name": "葱油粑粑（1个）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3ee86b5cac324e0886c784dd73e0334a.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "特色小吃",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮品/汤",
+			"foods": [
+				{
+					"name": "自制绿豆沙",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-1026.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品/汤",
+					"props": [
+						{
+							"name": "用餐",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
@@ -1556,23 +957,47 @@
 					]
 				},
 				{
-					"name": "蜜汁鸡翅/只",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5379f4522c344975a9309d0ac57ea4d5-55.png",
-					"price": 8,
+					"name": "桂花酸梅汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1604457929174-1031.jpg",
+					"price": 6,
 					"unit": "份",
-					"categoryName": "外带斩料",
+					"categoryName": "饮品/汤",
 					"props": [
 						{
-							"name": "就餐类型",
+							"name": "用餐",
 							"values": [
 								{
-									"value": "免费打包",
+									"value": "堂食",
 									"price": 0,
-									"propName": "就餐类型",
+									"propName": "用餐",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "用餐",
 									"isMul": true
 								}
 							]
 						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "❤️温馨提示❤️",
+			"foods": [
+				{
+					"name": "本店米粉标准量为湿粉约280克，五常香米饭约300克。",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5ee6d9822f754f41a3f5ec6324a62799.jpg",
+					"price": 888,
+					"unit": "份",
+					"categoryName": "❤️温馨提示❤️",
+					"props": [
 						{
 							"name": "加料",
 							"values": []

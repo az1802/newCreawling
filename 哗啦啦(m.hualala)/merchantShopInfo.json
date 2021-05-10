@@ -1,0 +1,37 @@
+{
+	"code": "000",
+	"rc": "000",
+	"message": "执行成功",
+	"traceID": "600f312e7ee47873",
+	"data": {
+		"qrCodeInfo": {
+			"maxPerson": 20,
+			"qrValue": "26",
+			"minPerson": 1,
+			"qrType": "2"
+		},
+		"shopInfo": {
+			"lng": "113.945206",
+			"multiBill": 0,
+			"scanInPage": 0,
+			"shopName": "木马勺悦方广场店",
+			"supportCombinationOrder": false,
+			"operationMode": 1,
+			"supportEmpeAssessment": false,
+			"allowPayInEmptyTable": 0,
+			"supportEmpeReward": false,
+			"dinnerServiceType": 1,
+			"payBeforeCommit": true,
+			"imageUrl": "http://res.hualala.com/group3/M01/53/B8/wKgVw1v1HAzGnHUSACJch_fUXTE43.jpeg",
+			"limit": false,
+			"national": 0,
+			"online": true,
+			"preorderFlag": 0,
+			"lat": "22.581319",
+			"supportEmpeRecommend": false
+		},
+		"groupID": "49087",
+		"shopID": "76090238"
+	},
+	"records": null
+}

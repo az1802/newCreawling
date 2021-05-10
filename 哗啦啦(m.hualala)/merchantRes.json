@@ -1,732 +1,1102 @@
 {
-	"shopName": "壹只卤鹅",
-	"shop_pic": "",
+	"shopName": "木马勺悦方广场店",
+	"shop_pic": "http://res.hualala.com/group3/M01/53/B8/wKgVw1v1HAzGnHUSACJch_fUXTE43.jpeg",
 	"categories": [
 		{
-			"name": "招牌狮头卤鹅",
+			"name": "买一  送一",
 			"foods": [
 				{
-					"name": "鹅翅",
-					"picUrl": "",
-					"price": "35.00",
+					"name": "红糖水果冰粉",
+					"picUrl": "http://res.hualala.com/basicdoc/201cd623-e203-4fc2-a1ce-f0e0abeabbe3.jpg",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
+					"categoryName": "买一  送一",
 					"props": []
 				},
 				{
-					"name": "鹅掌",
-					"picUrl": "",
-					"price": "35.00",
+					"name": "椰奶水果冰粉",
+					"picUrl": "http://res.hualala.com/basicdoc/d80ba33f-762b-4919-915a-12cafe3d9997.jpg",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅头",
-					"picUrl": "",
-					"price": "38.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "金牌粉肝",
-					"picUrl": "",
-					"price": "98.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅脖",
-					"picUrl": "",
-					"price": "38.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "醇香鹅肝",
-					"picUrl": "",
-					"price": "18.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅肠",
-					"picUrl": "",
-					"price": "38.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅肠头",
-					"picUrl": "",
-					"price": "28.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "卤水豆干",
-					"picUrl": "",
-					"price": "12.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅心",
-					"picUrl": "",
-					"price": "18.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅蛋",
-					"picUrl": "",
-					"price": "15.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅血",
-					"picUrl": "",
-					"price": "8.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅肉",
-					"picUrl": "",
-					"price": "48.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "鹅胗",
-					"picUrl": "",
-					"price": "29.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "半个粉肝",
-					"picUrl": "",
-					"price": "58.00",
-					"unit": "份",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "白切粉肠",
-					"picUrl": "",
-					"price": "28.00",
-					"unit": "例",
-					"categoryName": "招牌狮头卤鹅",
-					"props": []
-				},
-				{
-					"name": "白切粉肠中",
-					"picUrl": "",
-					"price": "45.00",
-					"unit": "中",
-					"categoryName": "招牌狮头卤鹅",
+					"categoryName": "买一  送一",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "食家之选",
+			"name": "八大必点",
 			"foods": [
 				{
-					"name": "狮头鹅头连脖子",
-					"picUrl": "",
-					"price": "68.00",
+					"name": "腊汁hai猪肉夹馍   肉香馍脆，这一口两千年",
+					"picUrl": "http://res.hualala.com/basicdoc/1f3cd6d5-3dcd-47b5-9624-de8ba9fcc2f2.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "八大必点",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "个(免香菜尖椒)",
+									"price": 13,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "个(带香菜尖椒)",
+									"price": 13,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "切成2块",
+							"values": [
+								{
+									"value": "切成2块",
+									"propName": "切成2块",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "切成4块",
+							"values": [
+								{
+									"value": "切成4块",
+									"propName": "切成4块",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "传统油泼biangbiang面",
+					"picUrl": "http://res.hualala.com/basicdoc/72b7cc2a-c2f8-41e2-89bf-f68fd8600cfc.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "八大必点",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "带蒜",
+									"price": 23,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 23,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 24.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 26.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "岐山臊子手擀面 一碗可以把汤喝光的臊子面",
+					"picUrl": "http://res.hualala.com/basicdoc/99f00095-d450-47dd-ad73-3e54a97ee39b.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "八大必点",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 25,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元",
+									"price": 26.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 28.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大盘鸡",
+					"picUrl": "http://res.hualala.com/basicdoc/a06ee814-695d-4854-a723-3aa559afab8a.jpeg",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "八大必点",
 					"props": []
 				},
 				{
-					"name": "狮头鹅三珍",
-					"picUrl": "",
-					"price": "98.00",
+					"name": "老坛酸菜鱼",
+					"picUrl": "http://res.hualala.com/basicdoc/fadb05b7-b236-4f6a-aae6-d879b0490f95.jpeg",
+					"price": 68,
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "八大必点",
 					"props": []
 				},
 				{
-					"name": "狮头鹅五珍",
-					"picUrl": "",
-					"price": "138.00",
+					"name": "羊杂汤",
+					"picUrl": "http://res.hualala.com/basicdoc/bb9ace92-68fb-4e49-b948-ce33d4c6b94e.png",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "八大必点",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 16,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "大份",
+									"price": 36,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大刀凉皮   陕西人的骄傲，中华名小吃",
+					"picUrl": "http://res.hualala.com/basicdoc/4a821fa9-8590-4c2c-8b8b-f08aa722c98c.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "八大必点",
 					"props": []
 				},
 				{
-					"name": "狮头鹅八珍",
-					"picUrl": "",
-					"price": "198.00",
+					"name": "回味羊肉泡馍     西安人都爱咥的羊肉泡",
+					"picUrl": "http://res.hualala.com/basicdoc/2a555c85-bf8c-472a-b7b1-f23ef0640e5d.jpg",
+					"price": 39,
 					"unit": "份",
-					"categoryName": "食家之选",
+					"categoryName": "八大必点",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "新鲜出炉",
+			"name": "超值套餐",
 			"foods": [
 				{
-					"name": "正宗狮头鹅全鹅",
-					"picUrl": "",
-					"price": "598.00",
+					"name": "臊子面套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/ead3d1d4-36a0-4f1e-9a66-838b0d920c22.jpeg",
+					"price": 42,
 					"unit": "份",
-					"categoryName": "新鲜出炉",
+					"categoryName": "超值套餐",
 					"props": []
 				},
 				{
-					"name": "4分1鹅上庄前腿",
-					"picUrl": "",
-					"price": "98.00",
+					"name": "油泼面套餐（油泼面+芥菜+酸梅汤）",
+					"picUrl": "http://res.hualala.com/basicdoc/41ea9c4a-406a-483e-85e5-c136a0251251.jpg",
+					"price": 41,
 					"unit": "份",
-					"categoryName": "新鲜出炉",
+					"categoryName": "超值套餐",
 					"props": []
 				},
 				{
-					"name": "4分1鹅下庄后腿",
-					"picUrl": "",
-					"price": "98.00",
+					"name": "三秦套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/8bed2716-cb8d-4f58-ad9f-d418db0e3df3.jpeg",
+					"price": 35,
 					"unit": "份",
-					"categoryName": "新鲜出炉",
+					"categoryName": "超值套餐",
 					"props": []
 				},
 				{
-					"name": "正宗狮头鹅半只",
-					"picUrl": "",
-					"price": "188.00",
+					"name": "大盘鸡饭套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/51ed581c-02a2-4a31-a161-13eec6f3c3d4.jpg",
+					"price": 45,
 					"unit": "份",
-					"categoryName": "新鲜出炉",
-					"props": []
-				},
-				{
-					"name": "正宗狮头鹅整鹅",
-					"picUrl": "",
-					"price": "398.00",
-					"unit": "份",
-					"categoryName": "新鲜出炉",
+					"categoryName": "超值套餐",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "地道一人食",
+			"name": "新品推荐",
 			"foods": [
 				{
-					"name": "元气鹅肉饭",
-					"picUrl": "",
-					"price": "32.00",
+					"name": "白菜猪肉饺",
+					"picUrl": "http://res.hualala.com/basicdoc/baac4100-9fa9-476e-b248-dc7a173ed712.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "劲爽鹅脖饭",
-					"picUrl": "",
-					"price": "30.00",
+					"name": "猪肉小笼包",
+					"picUrl": "http://res.hualala.com/basicdoc/c6e283d5-a59d-472f-b241-a9b5867c0b3d.jpeg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "鹅肉鹅脖双拼饭",
-					"picUrl": "",
-					"price": "35.00",
+					"name": "芹菜猪肉饺",
+					"picUrl": "http://res.hualala.com/basicdoc/4eaebfd4-21cf-4ebb-b16f-0fcf03947cfb.jpeg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "老饕鹅肝饭",
-					"picUrl": "",
-					"price": "39.00",
+					"name": "手抓羊小腿",
+					"picUrl": "http://res.hualala.com/basicdoc/b7741a57-3bae-4d25-829c-8f20632ab88e.jpg",
+					"price": 36,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "三拼饭 肉 胗 脖",
-					"picUrl": "",
-					"price": "42.00",
+					"name": "白皮面",
+					"picUrl": "http://res.hualala.com/basicdoc/3bdc0ba0-401c-4212-9df3-26ba483e3a05.jpeg",
+					"price": 6,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "鹅肉鹅头双拼饭",
-					"picUrl": "",
-					"price": "35.00",
+					"name": "烤鸡脆骨",
+					"picUrl": "http://res.hualala.com/basicdoc/c523b6ff-a7a4-48bf-b6f5-a0b17fae3fee.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "鹅肉鹅肠头双拼饭",
-					"picUrl": "",
-					"price": "38.00",
+					"name": "烤羊排",
+					"picUrl": "http://res.hualala.com/basicdoc/85a1926b-a38b-42be-9298-fe9dae14c700.jpg",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				},
 				{
-					"name": "鹅肉鹅肝双拼饭",
-					"picUrl": "",
-					"price": "35.00",
+					"name": "烤羊腰",
+					"picUrl": "http://res.hualala.com/basicdoc/60b9d931-b447-4f0e-9510-c5b21c86c05a.jpg",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅心双拼饭",
-					"picUrl": "",
-					"price": "35.00",
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "普通鹅肝饭",
-					"picUrl": "",
-					"price": "30.00",
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉卤肉双拼饭",
-					"picUrl": "",
-					"price": "35.00",
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "鹅肉鹅胗双拼饭",
-					"picUrl": "",
-					"price": "35.00",
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "三拼饭 肉 胗 肝",
-					"picUrl": "",
-					"price": "39.00",
-					"unit": "份",
-					"categoryName": "地道一人食",
-					"props": []
-				},
-				{
-					"name": "三拼饭 肉 胗 肠",
-					"picUrl": "",
-					"price": "39.00",
-					"unit": "份",
-					"categoryName": "地道一人食",
+					"categoryName": "新品推荐",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "地道时蔬",
+			"name": "西北牛羊肉",
 			"foods": [
 				{
-					"name": "空心菜拌豆酱",
-					"picUrl": "",
-					"price": "22.00",
+					"name": "现烤羊肉串  正宗的横山羊肉，手工串烤更美味",
+					"picUrl": "http://res.hualala.com/basicdoc/98365d39-4cb7-420f-97cd-c5cc0f794c5c.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "地道时蔬",
+					"categoryName": "西北牛羊肉",
 					"props": []
 				},
 				{
-					"name": "蒜蓉娃娃菜",
-					"picUrl": "",
-					"price": "22.00",
+					"name": "酱骨架",
+					"picUrl": "http://res.hualala.com/basicdoc/21ae2c74-2dcf-40c6-85fc-c7f8a12c1972.png",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "地道时蔬",
+					"categoryName": "西北牛羊肉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "/块",
+									"price": 16,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "/斤",
+									"price": 36,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手抓羊排。",
+					"picUrl": "http://res.hualala.com/basicdoc/beaf1edc-e922-4389-8b70-f9f9dbd6fc30.jpeg",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "西北牛羊肉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "/半斤",
+									"price": 58,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "/斤",
+									"price": 128,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱牛肉",
+					"picUrl": "http://res.hualala.com/basicdoc/84135bf5-4542-477b-b4f0-0459d3009e51.png",
+					"price": 33,
+					"unit": "份",
+					"categoryName": "西北牛羊肉",
 					"props": []
 				},
 				{
-					"name": "方鱼炒芥蓝",
-					"picUrl": "",
-					"price": "25.00",
+					"name": "香辣羊蝎子",
+					"picUrl": "http://res.hualala.com/basicdoc/d9a26216-06e9-4d21-b78a-249c78de18ec.jpg",
+					"price": 68,
 					"unit": "份",
-					"categoryName": "地道时蔬",
+					"categoryName": "西北牛羊肉",
+					"props": []
+				},
+				{
+					"name": "香拌草原羊肉",
+					"picUrl": "http://res.hualala.com/basicdoc/5ec1cd1e-6a71-46f2-95d6-0bf087ffce09.jpeg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "西北牛羊肉",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "潮汕地道小吃",
+			"name": "木马勺手工面",
 			"foods": [
 				{
-					"name": "菜头粿(萝卜糕)",
-					"picUrl": "",
-					"price": "18.00",
+					"name": "岐山臊子面",
+					"picUrl": "http://res.hualala.com/basicdoc/5b4ab8af-4b98-492b-b74b-79a10e337f79.jpeg",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "潮汕地道小吃",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 25,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 26.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 28.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "传统油泼面",
+					"picUrl": "http://res.hualala.com/basicdoc/f6cbfed0-7f07-4abc-a0f8-05a96aae495e.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 23,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 24.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 26.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄软骨手擀面",
+					"picUrl": "http://res.hualala.com/basicdoc/5b82e6fa-75f1-4d5f-a38e-374d422a6531.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 28,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 29.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 31.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秦丰炸酱面",
+					"picUrl": "http://res.hualala.com/basicdoc/beb533bc-0c47-4072-90a3-906242a04978.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 25,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 26.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 28.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "二合一油泼biangbiang面  陕西八大怪，面条像裤带",
+					"picUrl": "http://res.hualala.com/basicdoc/d1cacd4e-ed49-4f7e-8507-4687ee0eff0a.png",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 29,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 32.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 30.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉油泼biangbiang面",
+					"picUrl": "http://res.hualala.com/basicdoc/e527351f-b284-4e5f-9cb0-66d297d44bbd.jpg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 36,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 37.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 39.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制羊杂面",
+					"picUrl": "http://res.hualala.com/basicdoc/093d54c7-0db5-4c4a-b41f-3bb2848bb5ea.jpeg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 32,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 33.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 35.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "臊子干捞手擀面",
+					"picUrl": "http://res.hualala.com/basicdoc/e51efa2a-615e-42cd-bda6-0423884ece33.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 25,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋/份",
+									"price": 26.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 28.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "关中牛肉手擀面",
+					"picUrl": "http://res.hualala.com/basicdoc/6bd5b3c2-8406-4c65-95ba-23f57ce5d00f.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 32,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 35.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 33.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "中辣",
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "关中烩麻食",
+					"picUrl": "http://res.hualala.com/basicdoc/841275d5-3033-4647-96e6-e05a1d16706b.png",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
 					"props": []
 				},
 				{
-					"name": "手工虾饼",
-					"picUrl": "",
-					"price": "18.00",
+					"name": "番茄鸡蛋面",
+					"picUrl": "http://res.hualala.com/basicdoc/5dede2fa-4cc6-42a4-9303-a8448090dfed.png",
+					"price": 23,
 					"unit": "份",
-					"categoryName": "潮汕地道小吃",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "手擀面",
+									"price": 23,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 26.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 24.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "油泼手擀面",
+					"picUrl": "http://res.hualala.com/basicdoc/92b88244-e8fb-4889-b44f-a3f5a6fdecb4.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "木马勺手工面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 23,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "卤蛋+1.5元/个",
+									"price": 24.5,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汤+3.99元/杯",
+									"price": 26.99,
+									"propName": "规格",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "木马勺小吃",
+			"foods": [
+				{
+					"name": "孜然羊肉夹馍",
+					"picUrl": "http://res.hualala.com/basicdoc/ec7731d6-339d-4ada-aeda-ad5d33bbb51e.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
 					"props": []
 				},
 				{
-					"name": "鼠壳粿",
-					"picUrl": "",
-					"price": "18.00",
+					"name": "孜然羊肉卷饼",
+					"picUrl": "http://res.hualala.com/basicdoc/c3b662c5-ad12-4476-ad19-904e85ab99bd.png",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "潮汕地道小吃",
+					"categoryName": "木马勺小吃",
 					"props": []
 				},
 				{
-					"name": "潮汕手工粿肉",
-					"picUrl": "",
-					"price": "22.00",
+					"name": "麦香菠菜饼",
+					"picUrl": "http://res.hualala.com/basicdoc/dddef472-ba66-4b5f-9c87-f3d72982dd6e.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "潮汕地道小吃",
+					"categoryName": "木马勺小吃",
 					"props": []
 				},
 				{
-					"name": "红桃粿",
-					"picUrl": "",
-					"price": "12.00",
-					"unit": "个",
-					"categoryName": "潮汕地道小吃",
+					"name": "手撕葱花饼",
+					"picUrl": "http://res.hualala.com/basicdoc/829b3ec5-c92b-429b-9636-08302f2f3121.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
 					"props": []
 				},
 				{
-					"name": "糯米莲藕",
-					"picUrl": "",
-					"price": "28.00",
+					"name": "西安烤面筋",
+					"picUrl": "http://res.hualala.com/basicdoc/af731618-cad2-49e4-94fe-d201d4b8b0e9.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "潮汕地道小吃",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "香烤鸡翅",
+					"picUrl": "http://res.hualala.com/basicdoc/10d8317b-2002-4bb4-a69d-777354b72344.jpg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "潼关馍",
+					"picUrl": "http://res.hualala.com/basicdoc/05d2366c-dc27-4ccf-84f0-361bc811843c.jpeg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "传统手工香辣豆腐脑",
+					"picUrl": "http://res.hualala.com/basicdoc/2952ee5f-980a-4071-9928-32c137c7e8da.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "传统手工香甜豆腐脑",
+					"picUrl": "http://res.hualala.com/basicdoc/f9013602-093c-4390-83d9-c6a5bddcde57.JPG",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "小米发糕",
+					"picUrl": "http://res.hualala.com/basicdoc/38d9f085-f074-4e13-93a2-16efdd4586b3.png",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "卤鸡蛋",
+					"picUrl": "http://res.hualala.com/basicdoc/3286594b-386f-4e41-ad6c-45a618507219.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
+					"props": []
+				},
+				{
+					"name": "开胃爽口泡菜",
+					"picUrl": "http://res.hualala.com/basicdoc/b3a8b7e7-24f5-44db-a00c-e67ed99d011a.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "木马勺小吃",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "炖足三小时",
+			"name": "木马勺凉菜",
 			"foods": [
 				{
-					"name": "乌鸡石斛汤",
-					"picUrl": "",
-					"price": "18.00",
-					"unit": "盅",
-					"categoryName": "炖足三小时",
+					"name": "芥菜黄豆",
+					"picUrl": "http://res.hualala.com/basicdoc/4859cdf2-9158-4235-b65f-4d1d06a8b29f.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "木马勺凉菜",
 					"props": []
 				},
 				{
-					"name": "石橄榄排骨汤",
-					"picUrl": "",
-					"price": "18.00",
-					"unit": "盅",
-					"categoryName": "炖足三小时",
+					"name": "炝拌豆腐丝",
+					"picUrl": "http://res.hualala.com/basicdoc/0be06882-67cc-4631-9516-7cf6156867da.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "木马勺凉菜",
 					"props": []
 				},
 				{
-					"name": "苦瓜排骨汤",
-					"picUrl": "",
-					"price": "18.00",
-					"unit": "盅",
-					"categoryName": "炖足三小时",
+					"name": "欠拍的黄瓜",
+					"picUrl": "http://res.hualala.com/basicdoc/a600a076-da22-4a0a-8970-c70814350409.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "木马勺凉菜",
+					"props": []
+				},
+				{
+					"name": "拌云耳",
+					"picUrl": "http://res.hualala.com/basicdoc/4f4b0602-816f-4d5a-83e2-1ae50fe0c46d.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "木马勺凉菜",
+					"props": []
+				},
+				{
+					"name": "水煮花生",
+					"picUrl": "http://res.hualala.com/basicdoc/f0f15886-5ef7-4d1a-8949-e594910b7a49.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "木马勺凉菜",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "米中劳斯莱斯",
+			"name": "粥、饮品",
 			"foods": [
 				{
-					"name": "潮汕白粥",
-					"picUrl": "",
-					"price": "3.00",
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
+					"name": "八宝粥",
+					"picUrl": "http://res.hualala.com/basicdoc/83b88520-6542-4452-a16b-f10a87531da8.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "粥、饮品",
 					"props": []
 				},
 				{
-					"name": "清汤粿条",
-					"picUrl": "",
-					"price": "8.00",
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
+					"name": "冰峰",
+					"picUrl": "http://res.hualala.com/basicdoc/e66d75c9-32bd-4fb8-b3ff-23ba5ddc89ca.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "粥、饮品",
 					"props": []
 				},
 				{
-					"name": "鲜米饭",
-					"picUrl": "",
-					"price": "3.00",
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
+					"name": "小米南瓜粥",
+					"picUrl": "http://res.hualala.com/basicdoc/5f58f4d2-389c-4bb0-a695-c838db3eee85.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "粥、饮品",
 					"props": []
 				},
 				{
-					"name": "牛肉丸粿条汤",
-					"picUrl": "",
-					"price": "28.00",
-					"unit": "碗",
-					"categoryName": "米中劳斯莱斯",
+					"name": "汉斯小木屋",
+					"picUrl": "http://res.hualala.com/basicdoc/a7bba743-2fd8-45df-ab05-3382a90e2832.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "粥、饮品",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "酒水饮料",
-			"foods": [
+				},
+				{
+					"name": "自制酸梅汁",
+					"picUrl": "http://res.hualala.com/basicdoc/9724f876-5786-42e0-8e4c-eca8dc162e54.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "粥、饮品",
+					"props": []
+				},
 				{
 					"name": "百威啤酒",
-					"picUrl": "",
-					"price": "10.00",
-					"unit": "瓶",
-					"categoryName": "酒水饮料",
+					"picUrl": "http://res.hualala.com/basicdoc/ae2d1253-d476-433b-a75d-fbc31dc05b91.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "粥、饮品",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "http://res.hualala.com/basicdoc/ce6a7d4a-5016-4454-b273-5d2ede843dc7.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "粥、饮品",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "http://res.hualala.com/basicdoc/67cd9887-9676-4a40-9b90-fcefc3f41d2e.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "粥、饮品",
 					"props": []
 				},
 				{
 					"name": "雪碧",
-					"picUrl": "",
-					"price": "5.00",
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "可乐",
-					"picUrl": "",
-					"price": "5.00",
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "农夫山泉",
-					"picUrl": "",
-					"price": "5.00",
-					"unit": "瓶",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "加多宝",
-					"picUrl": "",
-					"price": "7.00",
-					"unit": "罐",
-					"categoryName": "酒水饮料",
-					"props": []
-				},
-				{
-					"name": "海南椰子汁",
-					"picUrl": "",
-					"price": "6.00",
-					"unit": "罐",
-					"categoryName": "酒水饮料",
+					"picUrl": "http://res.hualala.com/basicdoc/e7e9cd59-2b4c-44c0-9976-74a31cfc0cd8.jpg",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "粥、饮品",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "其他",
+			"name": "米饭专区",
 			"foods": [
 				{
-					"name": "纸巾",
-					"picUrl": "",
-					"price": "1.00",
-					"unit": "包",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "打包盒",
-					"picUrl": "",
-					"price": "1.00",
-					"unit": "个",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "茶位费",
-					"picUrl": "",
-					"price": "0.00",
-					"unit": "位",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "精选时蔬",
-					"picUrl": "",
-					"price": "0.00",
+					"name": "米饭.",
+					"picUrl": "http://res.hualala.com/basicdoc/02e3b5ec-2b27-4215-9273-d304db091224.png",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "其他",
+					"categoryName": "米饭专区",
 					"props": []
 				},
 				{
-					"name": "打包盒大",
-					"picUrl": "",
-					"price": "2.00",
-					"unit": "个",
-					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "蒜泥醋",
-					"picUrl": "",
-					"price": "0.50",
-					"unit": "盒",
-					"categoryName": "其他",
+					"name": "大盘鸡饭1",
+					"picUrl": "http://res.hualala.com/basicdoc/68711a29-5c90-4c13-a7d9-4287e15acacb.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "米饭专区",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "套餐系列",
+			"name": "宝宝套餐",
 			"foods": [
 				{
-					"name": "经典双人套餐",
-					"picUrl": "",
-					"price": "138.00",
-					"unit": "套",
-					"categoryName": "套餐系列",
-					"props": []
-				},
-				{
-					"name": "经典四人套餐",
-					"picUrl": "",
-					"price": "298.00",
-					"unit": "套",
-					"categoryName": "套餐系列",
-					"props": []
-				},
-				{
-					"name": "商务套餐A",
-					"picUrl": "",
-					"price": "45.00",
-					"unit": "套",
-					"categoryName": "套餐系列",
+					"name": "儿童套餐（限时抢购）",
+					"picUrl": "http://res.hualala.com/group3/M00/5E/F9/wKgVwlvyGdm5DNRxAAeXzXVyOB4034.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "宝宝套餐",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "经典潮味",
+			"name": "其它",
 			"foods": [
 				{
-					"name": "爽口酸菜煲",
-					"picUrl": "",
-					"price": "28.00",
+					"name": "打包餐盒费（小）",
+					"picUrl": "http://res.hualala.com/group2/M00/04/6A/wKgVT1oBL4e8q4fXAANlA_z0N6s275.jpg",
+					"price": 1,
 					"unit": "份",
-					"categoryName": "经典潮味",
+					"categoryName": "其它",
 					"props": []
 				},
 				{
-					"name": "春菜排骨煲",
-					"picUrl": "",
-					"price": "32.00",
+					"name": "打包盒（大）",
+					"picUrl": "http://res.hualala.com/group2/M01/24/85/wKgVSloBL5OiA606AANlA_z0N6s727.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "椒盐九肚鱼",
-					"picUrl": "",
-					"price": "48.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "香煎黄花鱼",
-					"picUrl": "",
-					"price": "48.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "菜脯煎蛋",
-					"picUrl": "",
-					"price": "25.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "白菜肉皮煲",
-					"picUrl": "",
-					"price": "38.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "苦瓜腩肉煲",
-					"picUrl": "",
-					"price": "38.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "潮汕蚝仔烙",
-					"picUrl": "",
-					"price": "38.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				},
-				{
-					"name": "椒盐茶树菇",
-					"picUrl": "",
-					"price": "36.00",
-					"unit": "份",
-					"categoryName": "经典潮味",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "特色凉拌菜",
-			"foods": [
-				{
-					"name": "香辣无骨鸭掌",
-					"picUrl": "",
-					"price": "32.00",
-					"unit": "份",
-					"categoryName": "特色凉拌菜",
-					"props": []
-				},
-				{
-					"name": "香辣薄荷拌牛腱",
-					"picUrl": "",
-					"price": "36.00",
-					"unit": "份",
-					"categoryName": "特色凉拌菜",
-					"props": []
-				},
-				{
-					"name": "凉拌青瓜",
-					"picUrl": "",
-					"price": "18.00",
-					"unit": "份",
-					"categoryName": "特色凉拌菜",
+					"categoryName": "其它",
 					"props": []
 				}
 			]
