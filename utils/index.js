@@ -301,6 +301,9 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
   // 下载所有菜品的图片,用于菜品的批量单导入
   categories.forEach(async categoryItem => {
+    if (!categoryItem) {
+      return;
+    }
     categoryItem.foods.forEach(async foodItem => {
 
       let url = foodItem.picUrl
@@ -331,6 +334,9 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
   // 调整属性组的顺序
   categories.forEach(categoryItem => {
+    if (!categoryItem) { 
+      return;
+    }
     categoryItem.foods.forEach(foodItem => {
       handleFoodProps(foodItem,menuSetting)
     })
@@ -341,6 +347,9 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   let allPropItemsSort = {} //存放所有属性组内部属性的相对排序
   // 采用插入排序获取所有属性组内部属性的相对顺序,然后放在表格第一位保持顺序的一致
   categories.forEach(categoryItem => {
+    if(!categoryItem){
+      return;
+    }
     categoryItem.foods.forEach(foodItem => {
       foodItem.props.forEach((propItem) => {
         if (!allPropItemsSort[propItem.name]) {
@@ -415,11 +424,11 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   }
 
 
- 
-  
-
 
   categories.forEach(categoryItem => {
+    if (!categoryItem) {
+      return;
+    }
     categoryItem.foods.forEach(foodItem => {
       let foodName = foodItem.name,
         foodDefaultCategory = "默认",

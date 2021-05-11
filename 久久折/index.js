@@ -2,15 +2,17 @@ const fs = require("fs");
 const { resolve } = require("path");
 const path = require("path");
 const request = require('request')
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord,genFeieExcelAll} = require("../utils/index")
 const defaultImgUrl = "https://shouqianba-customer.oss-cn-hangzhou.aliyuncs.com/jjz/processedPhoto5/ca06311f-796e-4889-8db4-dfb2f1a43ad1"
 
 
-const exportMode = "keruyun"
-const findJsonLen = 14
+// const exportMode = "keruyun"
+const exportMode = "feie"
+const findJsonLen = 16
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let merchantInfo = require("./shopData.json")
+merchantInfo = merchantInfo.data
 let categories = merchantInfo.categories
 let categoryObj = {}
 let shopName = merchantInfo.name
@@ -23,28 +25,51 @@ async function handleCategories() {
 }
 
 
+// 处理规格属性部分
 function handleFoodPropGroup(foodDetail) {
+  let res = []
   let specs = foodDetail.specs || {};
-  if (Object.keys(specs).length==0) {
-    return [];
-  }
-  let propGroup = {
-    name: specs.title,
-    values:[]
-  }
-
-  addPropsGroupArr(propsGroupArr,propGroup.name)
-
-  propGroup.values = specs.options && specs.options.map(optionItem => {
-    return {
-      "value": optionItem.name,
-      "price": parseFloat(optionItem.price)/100,
-      "propName": propGroup.name,
-      "isMul": true
+  if (Object.keys(specs).length != 0) {
+    let propGroup = {
+      name: specs.title,
+      values:[]
     }
+  
+    addPropsGroupArr(propsGroupArr,propGroup.name)
+  
+    propGroup.values = specs.options && specs.options.map(optionItem => {
+      return {
+        "value": optionItem.name,
+        "price": parseFloat(optionItem.price)/100,
+        "propName": propGroup.name,
+        "isMul": false
+      }
+    })
+  
+    res.push(propGroup)
+  }
+
+
+  let attributes = foodDetail.attributes || [];
+
+  attributes.forEach(attrGroup => {
+    // console.log( foodDetail.item.name,attrGroup.title)
+    addPropsGroupArr(propsGroupArr, attrGroup.title);
+    let propGroupTemp = {
+      name: attrGroup.title,
+      values:[],
+    }
+    propGroupTemp.values = attrGroup.options && attrGroup.options.map(optionItem => {
+      return {
+        "value": optionItem.name,
+        "propName": attrGroup.title,
+        "isMul": !!attrGroup.multiple
+      }
+    })
+    res.push(propGroupTemp)
   })
 
-  return propGroup.name == "规格" ? [propGroup] : []
+  return res;
 
 }
 
@@ -55,6 +80,7 @@ async function genMenuFoods() {
   for (let i = 0; i < findJsonLen; i++) { 
     let filePath = path.join(__dirname, "dataJson", "find" + (i==0 ? "" : i));
     let records = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.records;
+
     // console.log(records)
     records.forEach(record => {
       let foodTemp = {
@@ -68,10 +94,13 @@ async function genMenuFoods() {
     })
   }
 
+
+
   let categoryData = {};
 
   allFoods.forEach(foodItem => {
     let { categoryId, categoryName } = foodItem;
+
     if (!categoryData[categoryId]) {
       categoryData[categoryId] = {
         id: categoryId,
@@ -82,6 +111,7 @@ async function genMenuFoods() {
     let foods = categoryData[categoryId].foods;
 
     let foodDetail = foodItem.foodDetail;
+    // console.log( foodDetail.item.name)
     foods.push({
       id: foodDetail.item.id,
       name: foodDetail.item.name,
@@ -93,13 +123,14 @@ async function genMenuFoods() {
     })
   })
 
-
-
   let categoryArr = []
+ 
   categories.forEach(categoryItem => {
-    categoryArr.push(categoryData[categoryItem.id])
+    
+    (categoryData[categoryItem.id])&&categoryArr.push(categoryData[categoryItem.id])
   })
 
+  logInfo(categoryArr,"categoryArr")
   return categoryArr;
 
 }
@@ -117,18 +148,37 @@ async function exists(pathStr) {
 
 let tempObj = {}
 
-
-
-
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[
-   "规格"
+  practice: [
+    "饮料",
+    "酱需要分开吗",
+    "汉堡需要切开",
+    "汉堡要切开吗",
+    "意面",
+    "蛋糕",
+    "冷热",
+    "糖分",
+    "口味",
+    "可选择",
+    "酱料",
+    "型号"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "规格"
+    "饮料",
+    "酱需要分开吗",
+    "汉堡需要切开",
+    "汉堡要切开吗",
+    "意面",
+    "蛋糕",
+    "冷热",
+    "糖分",
+    "口味",
+    "可选择",
+    "酱料",
+    "型号"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -171,8 +221,9 @@ async function genExcelAndWord(){
     genExcelAll(merchantInfo, outputDir, menuSetting);
     
   } else {
-    genWord(merchantInfo, outputDir, menuSetting)
-    genSpecificationsWord(merchantInfo,outputDir,menuSetting)
+    // genWord(merchantInfo, outputDir, menuSetting)
+    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 
 }

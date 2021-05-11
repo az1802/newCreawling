@@ -1,1031 +1,2245 @@
 {
-	"shopName": "99度酸菜鱼深圳科技路店",
+	"shopName": "老友记主题广州店",
 	"shop_pic": "",
 	"categories": [
 		{
-			"id": "81f36e77-848c-4578-a9e4-b7348d405177",
-			"name": "美味金汤米饭套餐",
+			"id": "ebcd60a5-cd2a-4e66-81f9-bff150335f00",
+			"name": "精选午市优惠套餐",
 			"foods": [
 				{
-					"id": "9786931c-9ec1-41fa-8158-189e18526ce9",
-					"name": "无刺金汤酸菜鱼+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/80e494cf94a985b0330f18a82a44f3a7.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 18,
+					"id": "5c148e1f-0202-430d-a981-22a52764b3ef",
+					"name": "(轻食推介)煎三文鱼沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ab2ee802d6a3aef0b5654fe8354d6f56.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 55,
 					"unit": "份",
 					"props": [
 						{
-							"name": "规格",
+							"name": "饮料",
 							"values": [
 								{
-									"value": "单",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "5e5cd12f-d98d-4472-aeaa-67a336c48d81",
-					"name": "经典金汤酸菜鸡+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8ceccde1135f47d338c026047150c0fa.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 17,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "d1ea846e-e703-49cf-aa11-c10167afd165",
-					"name": "招牌泡椒田鸡+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f9fae073d782c75c617d94ce3c8e5221.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 25,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "7f84b91b-e1f5-48e7-a40f-4ea93352a3f9",
-					"name": "老坛酸菜黑鱼片+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/becb230e30d3b5313ef06afe66c75757.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "3c5aa187-4e6e-441b-9fb4-0a790ee153c5",
-					"name": "老坛酸菜肉片+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/55751e83e7fdd4a1235341a29a8c1345.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "60957357-f4bc-4aa4-a72b-af11733c4f93",
-					"name": "酸爽金针菇肉片+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/55751e83e7fdd4a1235341a29a8c1345.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "4a7eff0d-523a-4a63-8fa2-9e2c6118399f",
-					"name": "金汤酸菜鱼片+肉片+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b6ac0da72d61800f75eefbc28b6a9074.jpg",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 19,
-					"unit": "份",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "单",
-									"price": 19,
-									"propName": "规格",
-									"isMul": true
+									"value": "热蜂蜜柚子茶",
+									"propName": "饮料",
+									"isMul": false
 								},
 								{
-									"value": "双人份",
-									"price": 37,
-									"propName": "规格",
-									"isMul": true
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "f42c710d-bc0f-4bb2-8c06-468b050bbe52",
-					"name": "老坛酸菜黑鱼片双人份+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b4d1c0b3ed4264b981d0d31bc43d99fd.jpg",
-					"categoryName": "美味金汤米饭套餐",
+					"id": "3ccc25ac-279b-459e-8a2e-a0ce0532ae59",
+					"name": "(轻食推介)鸡排果蔬沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/67274725937fc164d3cf3042bee843f9.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 42,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热蜂蜜柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "酱需要分开吗",
+							"values": [
+								{
+									"value": "油醋汁",
+									"propName": "酱需要分开吗",
+									"isMul": false
+								},
+								{
+									"value": "千到酱",
+									"propName": "酱需要分开吗",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "59186110-4c34-43c6-bf5d-748bf35cc121",
+					"name": "日式肥牛配饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d9a702c3aa63a0176affc7bc596948f9.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热蜂蜜柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "8499e18d-e4f4-4c5a-b3cb-c9ad9c7b13fc",
+					"name": "咖喱鸡排配饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/89baaedbab481c76a9d2372e5325a23a.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "7bdce8f3-5304-43e3-a7ac-0c18048c5a70",
+					"name": "咖喱鸡翅配饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/678fd61d49dee8c6d6c92792f3bf3abb.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "8c9683a1-8cc8-4fc9-b5be-303aeb04eb8a",
+					"name": "香烤凤梨牛肉汉堡+薯条+饮品",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/31fb52aa901203bafcb3cab7b96748b6.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 59,
+					"unit": "份",
+					"props": [
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "冻柠檬茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柠檬茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "f1f370d6-15a4-412b-9606-d29dfffb2274",
+					"name": "花生酱超牛汉堡+薯条+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/144236e05ceafbaca1b21d746d1f764e.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汉堡要切开吗",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡要切开吗",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡要切开吗",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡要切开吗",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "904d2ca2-8a18-4b48-b01e-72e060fe7780",
+					"name": "老友记经典汉堡+薯条+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/144236e05ceafbaca1b21d746d1f764e.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "97750ee4-6196-4a89-af08-73a0f31b62c1",
+					"name": "薯饼牛肉汉堡+薯条+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/62a3abe550083286f9fc84a7dd6675e5.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "0c1aad72-d5bb-400c-a5ee-70c3091d0c2a",
+					"name": "香辣鸡排汉堡+薯条+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d417dbb469227574230e1885c7c9cc40.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汉堡要切开吗",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡要切开吗",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡要切开吗",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡要切开吗",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "30678081-805e-46ba-9348-5dbb8900b11a",
+					"name": "牛油果牛肉汉堡+薯条+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ee20e5a74fb5319d55bbaddc74d58917.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 59,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "4d663b56-18f2-48ee-bc77-4d9aaedbe329",
+					"name": "竹炭黑安格斯汉堡+薯条+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7544cac8237e6e5037ef6106eb78629a.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "25a80e9f-22d4-4226-87ec-4c55432cff65",
+					"name": "菠萝海鲜炒饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/dcbdc940eeda2dc7e65f0d558bf3202a.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "3d4daa8d-6c00-4f58-a44a-7e6903056401",
+					"name": "宫保鸡丁炒饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8b2e45b65da8a2626f351882405f7289.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "7720a97d-99eb-4ff6-b414-cc48a31847e6",
+					"name": "鳗鱼炒饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7be1461778825a33f14803b15bee4645.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "7380c789-6098-4eea-92f7-86e0e08b0711",
+					"name": "培根蘑菇炒饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f02ffb6486785e7c15132832c581189d.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "82e43a85-3d8d-4a5d-8cdb-869c1e2bcdb9",
+					"name": "黑椒牛肉粒炒饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f2886ae9eb7bd17c8796db3a84caf097.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 42,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "fdd399df-2c8a-48b1-a409-dd9838701a84",
+					"name": "德国香肠黑松露炒饭+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/576e117590222904069b8a2166da1152.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "aebd9269-e877-46db-a100-443493ad55c6",
+					"name": "意式肉酱面+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/18bec9479c38c7597b8b3417b0b1ccb3.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "1a66bb01-7931-4884-b6d1-7e225c204517",
+					"name": "黑椒牛柳意面+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/936c4f192b2720cc7ce0c7d8d2afa1c3.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "c02d15a8-8387-464b-9840-5a3030b2e0b5",
+					"name": "奶油蘑菇意面+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e71b35d5951120de6114d83db840c06a.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "3b9712b7-e63c-4f02-b190-b9f71cf4cc2d",
+					"name": "鸡肉菠菜面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0deb8d385998d2642d976d6bec1d0e94.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 42,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "004d5ba9-20ac-4550-9608-4e4f840b0427",
+					"name": "培根鸡蛋酱意面+饮料",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a7332cfa900662196187c8f89d58cc81.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 39,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热蜂蜜柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "600ab300-cb8f-4353-bd9d-1427d4beb542",
+					"name": "黑椒鸡排配面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5affa20265920fff54f03cc9a6db4324.jpg",
+					"categoryName": "精选午市优惠套餐",
+					"price": 45,
+					"unit": "份",
+					"props": [
+						{
+							"name": "意面",
+							"values": [
+								{
+									"value": "奶油面",
+									"price": 45,
+									"propName": "意面",
+									"isMul": false
+								},
+								{
+									"value": "肉酱面",
+									"price": 45,
+									"propName": "意面",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "可乐",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "雪碧",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "热蜂蜜柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "冰茉莉柚子茶",
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "8c5f9e77-650b-42f2-821b-0a235daca06e",
+			"name": "Rachel的甜下午茶",
+			"foods": [
+				{
+					"id": "4a105981-688c-4548-ab5e-83ba8fa34391",
+					"name": "谢绝自带饮料食品",
+					"picUrl": null,
+					"categoryName": "Rachel的甜下午茶",
+					"price": 77777,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "9dc4a295-9f2c-4872-b99b-d2ce846fbb7a",
+					"name": "Rachel的甜下午茶套餐",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c55feeb993a9b70af3dcae8da331c44d.jpg,http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b58ddf7eaaa7691e7b20735b329d33a2.jpg",
+					"categoryName": "Rachel的甜下午茶",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "美式咖啡",
+									"price": 49,
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "原味拿铁",
+									"price": 49,
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "英式早餐茶",
+									"price": 49,
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "伯爵红茶",
+									"price": 49,
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "香草拿铁",
+									"price": 49,
+									"propName": "饮料",
+									"isMul": false
+								},
+								{
+									"value": "巧克力燕麦",
+									"price": 49,
+									"propName": "饮料",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "蛋糕",
+							"values": [
+								{
+									"value": "奶酪蛋糕",
+									"propName": "蛋糕",
+									"isMul": false
+								},
+								{
+									"value": "树莓蛋糕",
+									"propName": "蛋糕",
+									"isMul": false
+								},
+								{
+									"value": "胡萝卜蛋糕",
+									"propName": "蛋糕",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "9c0bcafe-3de3-4a87-9c8e-e707db89b677",
+			"name": "精酿BEER（醉酒莫妮卡）",
+			"foods": [
+				{
+					"id": "b2f49272-0675-4569-9847-d28ce094dfb7",
+					"name": "迷失海岸花生酱牛奶啤酒",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1c1876d6405aba1cfac2b5c8f70e8ec3.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 45,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "6451103d-cbc4-44ba-b2c6-2b9694f56acf",
+					"name": "内华达淡色艾尔",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/291ccdb57b6cd223a185ce9c7e38ed5b.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 45,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "a1710481-e259-47bb-b75c-dfb59a496043",
+					"name": "莱福金啤",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bbaf3e705fdb8ced917a3de5df0820f5.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 29,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "8ed8fbdc-afdb-44b0-abd1-fe6afae949ba",
+					"name": "深粉象",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fc42abdd3c75ef0fb148a49a0fec2e8f.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
 					"price": 39,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "a708351c-8fcb-4ee0-ba7d-330de2e9a896",
-					"name": "招牌泡椒田鸡双人份+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/4b8a32c5cf74a06b8bf36911e4342020.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 49,
+					"id": "1c0b2429-a212-4aa9-b0c4-243d82718e07",
+					"name": "林德曼莓果味",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c5d14a45d17f0178148adcce58a12a6c.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 32,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "a800b8df-f48c-4c93-9057-860a7e03a1ed",
-					"name": "无刺金汤酸菜鱼双人份+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b4d1c0b3ed4264b981d0d31bc43d99fd.jpg",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 35,
+					"id": "b20eabd5-d160-4545-ba17-663a1a503389",
+					"name": "林德曼桃子味",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8b05dd00cc50f9e4daeb7a98ee761ca5.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 32,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "9786931c-9ec1-41fa-8158-189e18526ce9",
-					"name": "无刺金汤酸菜鱼+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/80e494cf94a985b0330f18a82a44f3a7.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 18,
-					"unit": "份",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "单",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "5e5cd12f-d98d-4472-aeaa-67a336c48d81",
-					"name": "经典金汤酸菜鸡+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8ceccde1135f47d338c026047150c0fa.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 17,
+					"id": "2baf6d02-0397-4a57-a390-4c2df4932772",
+					"name": "福佳白",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f27a2f58813cd7aeaa4f23cf1b8778d0.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 29,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "d1ea846e-e703-49cf-aa11-c10167afd165",
-					"name": "招牌泡椒田鸡+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f9fae073d782c75c617d94ce3c8e5221.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 25,
+					"id": "e6bea927-345b-4d3f-a1b0-2fbb4ea55392",
+					"name": "罗斯福10号",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d3ae731181bdeb3b67395a8b3ead76c9.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 45,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "7f84b91b-e1f5-48e7-a40f-4ea93352a3f9",
-					"name": "老坛酸菜黑鱼片+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/becb230e30d3b5313ef06afe66c75757.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "3c5aa187-4e6e-441b-9fb4-0a790ee153c5",
-					"name": "老坛酸菜肉片+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/55751e83e7fdd4a1235341a29a8c1345.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "60957357-f4bc-4aa4-a72b-af11733c4f93",
-					"name": "酸爽金针菇肉片+米饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/55751e83e7fdd4a1235341a29a8c1345.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "4a7eff0d-523a-4a63-8fa2-9e2c6118399f",
-					"name": "金汤酸菜鱼片+肉片+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b6ac0da72d61800f75eefbc28b6a9074.jpg",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 19,
-					"unit": "份",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "单",
-									"price": 19,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "双人份",
-									"price": 37,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "f42c710d-bc0f-4bb2-8c06-468b050bbe52",
-					"name": "老坛酸菜黑鱼片双人份+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b4d1c0b3ed4264b981d0d31bc43d99fd.jpg",
-					"categoryName": "美味金汤米饭套餐",
+					"id": "f7751e6d-c2eb-4050-a032-77cf96363dba",
+					"name": "自酿小麦啤酒",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c388228016776a6a8fe99ab4e319f702.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
 					"price": 39,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "a708351c-8fcb-4ee0-ba7d-330de2e9a896",
-					"name": "招牌泡椒田鸡双人份+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/4b8a32c5cf74a06b8bf36911e4342020.png",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 49,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "a800b8df-f48c-4c93-9057-860a7e03a1ed",
-					"name": "无刺金汤酸菜鱼双人份+米饭",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b4d1c0b3ed4264b981d0d31bc43d99fd.jpg",
-					"categoryName": "美味金汤米饭套餐",
-					"price": 35,
+					"id": "3d690621-00cb-47f5-a539-fab06c8b6706",
+					"name": "自酿美式ipa",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b8020017260ea66eec6c6df8fa50ef6c.jpg",
+					"categoryName": "精酿BEER（醉酒莫妮卡）",
+					"price": 39,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "600de4ed-1a86-4a24-af31-dbd9e893c273",
-			"name": "水煮系列米饭套餐（辣）",
+			"id": "c3b6070c-5c38-4f48-a32d-e99dfb43a010",
+			"name": "意式咖啡COffee（甘瑟吧台）",
 			"foods": [
 				{
-					"id": "b9d90032-5113-4108-84ae-1cd04a57858e",
-					"name": "经典水煮酸菜鸡+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8ceccde1135f47d338c026047150c0fa.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 17,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "fafb2d46-0979-46b9-b2ed-c1d65be06dd9",
-					"name": "双人份酸爽金针菇肉片+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 39,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "86ec1856-5457-4c77-afae-a2e10b2d42bd",
-					"name": "招牌水煮田鸡+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3856dd58408b66b2b65f7092e87c7c89.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 25,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "af556bfb-6cc2-4de2-adc9-fd036ba59c56",
-					"name": "双人份老坛酸菜肉片+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 39,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "bc03270a-de29-4fa5-a440-787eb9b76b95",
-					"name": "水煮黑鱼片+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/becb230e30d3b5313ef06afe66c75757.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "32fe84d5-510d-414f-a163-11d75aad7fa3",
-					"name": "秘制无刺水煮鱼片+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/096cd156fa06da627b1173bd95292cfb.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 18,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "ddfb1250-6adb-4944-8380-b90c2344f4ad",
-					"name": "双人份无刺金汤酸菜鱼+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
+					"id": "7ca92ee0-48c7-4912-bc06-1c614bec726c",
+					"name": "冰滴（哥伦比亚）",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/cc299d94bca771d9b2dcbe31cf88a6f6.png",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
 					"price": 35,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "89b59846-4427-43ba-a8a4-ffe5962288b6",
-					"name": "双人份招牌泡椒田鸡+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 49,
+					"id": "0988a7cf-57b8-45a1-8356-60ce3eb71611",
+					"name": "香草拿铁",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7f1d76ec56e0000bba3589bb0b70076f.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 30,
 					"unit": "份",
-					"props": []
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "7400b31c-4028-40d9-89f6-83d35c9472ff",
-					"name": "招牌水煮肉片+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b5c991264acc22dc4b2350576126345a.jpg",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "fcac8b9f-3889-483a-af2b-9ce028768048",
-					"name": "双人份老坛酸菜黑鱼片+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 39,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "b9d90032-5113-4108-84ae-1cd04a57858e",
-					"name": "经典水煮酸菜鸡+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8ceccde1135f47d338c026047150c0fa.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 17,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "fafb2d46-0979-46b9-b2ed-c1d65be06dd9",
-					"name": "双人份酸爽金针菇肉片+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 39,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "86ec1856-5457-4c77-afae-a2e10b2d42bd",
-					"name": "招牌水煮田鸡+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3856dd58408b66b2b65f7092e87c7c89.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 25,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "af556bfb-6cc2-4de2-adc9-fd036ba59c56",
-					"name": "双人份老坛酸菜肉片+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 39,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "bc03270a-de29-4fa5-a440-787eb9b76b95",
-					"name": "水煮黑鱼片+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/becb230e30d3b5313ef06afe66c75757.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "32fe84d5-510d-414f-a163-11d75aad7fa3",
-					"name": "秘制无刺水煮鱼片+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/096cd156fa06da627b1173bd95292cfb.png",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 18,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "ddfb1250-6adb-4944-8380-b90c2344f4ad",
-					"name": "双人份无刺金汤酸菜鱼+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 35,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "89b59846-4427-43ba-a8a4-ffe5962288b6",
-					"name": "双人份招牌泡椒田鸡+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 49,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "7400b31c-4028-40d9-89f6-83d35c9472ff",
-					"name": "招牌水煮肉片+米饭（辣）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b5c991264acc22dc4b2350576126345a.jpg",
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 20,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "fcac8b9f-3889-483a-af2b-9ce028768048",
-					"name": "双人份老坛酸菜黑鱼片+米饭",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 39,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "dbf95d73-c5e6-409b-9e62-1caa06b5d169",
-					"name": "双人份经典金汤酸菜鸡",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
+					"id": "479e54a9-4d70-4999-bb76-ec6483a5c29e",
+					"name": "香草冰淇淋咖啡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0635b00cf577cb0c0a2f2360bb7a4aa4.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
 					"price": 33,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "926da129-ea40-4a52-80c7-b0d74f8ba57a",
-					"name": "水煮双拼(肉片+鱼片)",
-					"picUrl": null,
-					"categoryName": "水煮系列米饭套餐（辣）",
-					"price": 19,
+					"id": "a07ace57-2a7a-40f6-a547-c42b2dc66928",
+					"name": "卡布奇诺",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1f63ff5a969f16ee5065968da7acfbc7.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 30,
+					"unit": "份",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "82f65527-b6a6-4bb9-90d6-489f2c62ae65",
+					"name": "摩卡Mocha",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1f63ff5a969f16ee5065968da7acfbc7.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 33,
+					"unit": "份",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "a41a8d6d-35a0-4de5-8e0f-ea52e6b13ae8",
+					"name": "焦糖玛奇朵",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1f63ff5a969f16ee5065968da7acfbc7.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 33,
+					"unit": "份",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "71759a55-c047-4042-974e-e1ff8fae6172",
+					"name": "焦糖拿铁",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1f63ff5a969f16ee5065968da7acfbc7.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 30,
 					"unit": "份",
 					"props": []
+				},
+				{
+					"id": "65f49562-a57f-42b5-a49a-a4f3abc91c63",
+					"name": "榛果拿铁",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1f63ff5a969f16ee5065968da7acfbc7.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 30,
+					"unit": "份",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "c51d9428-1f16-4d35-818f-293bafca7a78",
+					"name": "原味拿铁",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1f63ff5a969f16ee5065968da7acfbc7.jpg",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 30,
+					"unit": "份",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "0eb9fc38-23a2-4ed9-8ac9-878b2caedb6d",
+					"name": "美式咖啡Americano",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/cc299d94bca771d9b2dcbe31cf88a6f6.png",
+					"categoryName": "意式咖啡COffee（甘瑟吧台）",
+					"price": 28,
+					"unit": "份",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"propName": "冷热",
+									"isMul": false
+								},
+								{
+									"value": "冷",
+									"propName": "冷热",
+									"isMul": false
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"id": "f5129cf0-c863-41af-a927-03e9489ff36a",
-			"name": "豪华双拼系列",
+			"id": "108f3983-93a3-4573-ab18-acc37dee92fc",
+			"name": "果茶/苏打TEA/SODA（昌德勒的冷）",
 			"foods": [
 				{
-					"id": "de46f134-8d32-49ef-9e13-0e1dd09bbec0",
-					"name": "金汤肥牛卷+肉片+米饭",
-					"picUrl": null,
-					"categoryName": "豪华双拼系列",
+					"id": "e322b99d-231d-4c05-97ea-8bae5eb63e78",
+					"name": "青柚芦荟绿研茶（茉莉花茶低）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ca50190bebe014c372c717fea0e055b8.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 29,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "c51114cc-dd2a-4174-8c6c-c9e54a4d9c66",
+					"name": "冻百香果四季春茶（四季春茶底）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ffc5204e8f2d61e7e750954009bd9c7.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 29,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "3b93aaf6-d29e-47c6-a0dc-f2e89b7fa4b5",
+					"name": "冻柠檬茶(港柠)",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6a0573cf50913dec155fa68c7ef88731.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 29,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "cd1fb3ce-997e-4b02-9069-fbfaaa2c7a4d",
+					"name": "蓝莓苏打（菲比水果苏打）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9039a6f3e1e980446dba0d78a2c87469.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 30,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "6dc5943f-7072-499a-81ad-73e55e978421",
+					"name": "草莓苏打（菲比水果苏打）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3bd1453bdd91f37e3cd986b4ac55f839.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 30,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "8aae005f-17bb-4832-ba3d-1ca5d848c6e3",
+					"name": "冻柠乐",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/098edf22dfd69a8578edf30f60009e48.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 28,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "ee123bcb-bb60-4837-8c11-c6d13e3c1d8e",
+					"name": "冰鲜奶雪顶燕麦椰冻",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ba3b2d46a59b61450d03260ea2425d84.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 30,
+					"unit": "份",
+					"props": [
+						{
+							"name": "糖分",
+							"values": [
+								{
+									"value": "加糖",
+									"propName": "糖分",
+									"isMul": false
+								},
+								{
+									"value": "无糖",
+									"propName": "糖分",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "7101ef4b-9b21-4a6f-bd8c-2b3a75bde405",
+					"name": "雪山芒果  草莓沙冰（配雪糕）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0f579221e5bfc942db2c62be96a2601a.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 33,
+					"unit": "份",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "雪山草莓",
+									"price": 33,
+									"propName": "口味",
+									"isMul": false
+								},
+								{
+									"value": "雪山芒果",
+									"price": 33,
+									"propName": "口味",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "fbc96ee5-4d31-47fa-a133-435a184024f3",
+					"name": "牛油果奶昔",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/be67ba85bdb343ac9e8a0468678bd2c8.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 35,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "944863ac-e1f3-40d7-8846-821f9b9119c0",
+					"name": "泰象苏打水(瓶装)",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d92a272f1a4a70ff934bcb08482ffad3.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 18,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "347465c3-b19a-4ac8-b43f-fe83718caf41",
+					"name": "圣培露（瓶装）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/aa4595e01b3540af53f5bcccf44bb8b0.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
 					"price": 22,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "d8cd80b8-5e7d-4e4c-b11a-b680fae40d55",
-					"name": "水煮肥牛卷+鱼片+米饭",
-					"picUrl": null,
-					"categoryName": "豪华双拼系列",
-					"price": 21,
+					"id": "f0b9d117-4f0a-42b8-87c0-7d2116eef210",
+					"name": "英式早餐茶",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5865bab950497a79cdf0f6ea74596403.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 28,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "b138cad3-7065-44f1-8a3d-01a38c96d16b",
-					"name": "水煮鸡肉+鱼片+米饭",
-					"picUrl": null,
-					"categoryName": "豪华双拼系列",
-					"price": 18,
+					"id": "2f7185ec-34ce-4a15-9c3c-b2cc71a9c110",
+					"name": "伯爵红茶",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/71cad42a45cfc6aa263856ef14320969.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 28,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "99fc4bca-6acf-489d-988d-0cfd2bc7dcdb",
-					"name": "水煮肉片+肥牛卷+米饭",
-					"picUrl": null,
-					"categoryName": "豪华双拼系列",
-					"price": 22,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "48e84b87-3f90-4b10-81a4-1e3c4c545f74",
-					"name": "无刺金汤酸菜鱼片+肥牛卷+米饭",
-					"picUrl": null,
-					"categoryName": "豪华双拼系列",
-					"price": 21,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "18e0e168-df30-4f3d-adf8-43114b8d889e",
-					"name": "无刺金汤酸菜鱼片+鸡肉+米饭",
-					"picUrl": null,
-					"categoryName": "豪华双拼系列",
-					"price": 18,
+					"id": "d4fd638c-a653-4e0f-a200-477179cc988f",
+					"name": "蜂蜜柚子茶",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/eebb17c85085119b0891d25ebac9cce2.jpg",
+					"categoryName": "果茶/苏打TEA/SODA（昌德勒的冷）",
+					"price": 28,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "cfb909e8-a2bb-4200-aba2-8c1ff780f207",
-			"name": "火锅便当米饭套餐",
+			"id": "1fd7b389-a7b4-4288-a457-8300ac94f2c7",
+			"name": "巧克力CHOCOLATE",
 			"foods": [
 				{
-					"id": "bff6fe05-4e2d-4cf1-859b-21e903694721",
-					"name": "麻辣肥牛火锅+米饭",
-					"picUrl": null,
-					"categoryName": "火锅便当米饭套餐",
-					"price": 23,
+					"id": "b20f4240-2f16-459e-9b38-bb79625c60b1",
+					"name": "热燕麦鲜奶",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9fa1c6fbd3e649939ca7e4b8ad7ef157.jpg",
+					"categoryName": "巧克力CHOCOLATE",
+					"price": 25,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "bad35b89-c8ec-4d40-8302-24a49f86dd42",
+					"name": "奶油巧克力",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/79c8c827653a6b3f8c9ba623f392bcca.jpg",
+					"categoryName": "巧克力CHOCOLATE",
+					"price": 30,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "f407291a-a29e-439c-b0f8-99bebcaad304",
+					"name": "传统巧克力",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/79c8c827653a6b3f8c9ba623f392bcca.jpg",
+					"categoryName": "巧克力CHOCOLATE",
+					"price": 30,
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "bce45c69-66d5-4b79-b0a6-9c5e76d42d97",
+			"name": "蛋糕Cake（瑞秋的甜美）",
+			"foods": [
+				{
+					"id": "444e4a09-9e60-4224-8527-4f4aee1eb922",
+					"name": "树莓蛋糕Raspberry cake",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c55feeb993a9b70af3dcae8da331c44d.jpg",
+					"categoryName": "蛋糕Cake（瑞秋的甜美）",
+					"price": 32,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "69da0ef2-ad70-482e-8dcf-8ac5f378702b",
+					"name": "胡萝卜蛋糕",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6e6f52747e638e5e3dcf3efe1c6ffdb4.jpg",
+					"categoryName": "蛋糕Cake（瑞秋的甜美）",
+					"price": 25,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "2c4b7e6d-e6ca-45fb-bec6-bb5641f4c5a7",
+					"name": "奶酪蛋糕cheese cake",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d1501d3f398650b96093462ab44d40c8.jpg",
+					"categoryName": "蛋糕Cake（瑞秋的甜美）",
+					"price": 25,
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "9204b47d-3c0c-4cfe-88e7-f151e63fb376",
+			"name": "招牌美式汉堡Burger",
+			"foods": [
+				{
+					"id": "214915d8-6a08-4f75-b2e6-1967c573438a",
+					"name": "法国鹅肝牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a271eb9f366a11b90b4be7089c913468.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 79,
 					"unit": "份",
 					"props": [
 						{
-							"name": "规格",
+							"name": "汉堡需要切开",
 							"values": [
 								{
-									"value": "单",
-									"price": 23,
-									"propName": "规格",
-									"isMul": true
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								},
 								{
-									"value": "双人份",
-									"price": 45,
-									"propName": "规格",
-									"isMul": true
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "f377564c-07dd-4b41-8fca-264a9618fdcf",
-					"name": "金汤肥牛火锅+米饭",
-					"picUrl": null,
-					"categoryName": "火锅便当米饭套餐",
-					"price": 23,
+					"id": "2a0f4b54-1842-48b9-b585-c98e69e18953",
+					"name": "竹炭安格斯牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0dadfae92d8c36438ea99ec5249d7132.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 46,
 					"unit": "份",
 					"props": [
 						{
-							"name": "规格",
+							"name": "汉堡需要切开",
 							"values": [
 								{
-									"value": "单",
-									"price": 23,
-									"propName": "规格",
-									"isMul": true
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								},
 								{
-									"value": "双人份",
-									"price": 45,
-									"propName": "规格",
-									"isMul": true
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "4f0982de-1f69-4934-98af-8a13cdf868e7",
-					"name": "精品牛杂火锅+米饭",
-					"picUrl": null,
-					"categoryName": "火锅便当米饭套餐",
-					"price": 23,
+					"id": "65633c49-6009-45ae-9fff-2ff99adfd848",
+					"name": "香辣鸡排汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b099752adf6fc0744b4328646d3565ac.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 49,
 					"unit": "份",
 					"props": [
 						{
-							"name": "规格",
+							"name": "汉堡需要切开",
 							"values": [
 								{
-									"value": "单",
-									"price": 23,
-									"propName": "规格",
-									"isMul": true
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								},
 								{
-									"value": "双人份",
-									"price": 45,
-									"propName": "规格",
-									"isMul": true
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "f92c880c-06ec-4d40-bebc-5c269e1acc65",
-					"name": "麻辣全素火锅+米饭",
-					"picUrl": null,
-					"categoryName": "火锅便当米饭套餐",
-					"price": 15,
+					"id": "888bd04f-d746-460f-86de-f193bac03238",
+					"name": "黄金薯饼牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/28e303967783153334ff3a6c5a1daa91.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 49,
 					"unit": "份",
 					"props": [
 						{
-							"name": "规格",
+							"name": "汉堡需要切开",
 							"values": [
 								{
-									"value": "单",
-									"price": 15,
-									"propName": "规格",
-									"isMul": true
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "4ec0779d-b8a8-454a-8a34-8be937af9034",
-					"name": "麻辣鸭血+米饭",
-					"picUrl": null,
-					"categoryName": "火锅便当米饭套餐",
-					"price": 17,
+					"id": "001b0c28-a65f-4a2c-acb9-598f0b0b1a6b",
+					"name": "老友记经典汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/172e9d57e4bec653450e724a5c28fe0e.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 49,
 					"unit": "份",
 					"props": [
 						{
-							"name": "规格",
+							"name": "汉堡需要切开",
 							"values": [
 								{
-									"value": "单",
-									"price": 17,
-									"propName": "规格",
-									"isMul": true
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "b25be437-d949-41e1-ae60-7aea0623128d",
-					"name": "牛杂汤+饭",
-					"picUrl": null,
-					"categoryName": "火锅便当米饭套餐",
-					"price": 18,
+					"id": "8badf3ed-1e27-4208-ba20-b8ac7d1d99e9",
+					"name": "牛油果精品牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/31829d7bb2e64cb2daf9b435d5c58bbd.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 59,
+					"unit": "份",
+					"props": [
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "801238ce-7647-4923-bf03-04ff6291a377",
+					"name": "花生酱牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e5e81d9ee909b6dee69aff4d25bae1d8.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 49,
+					"unit": "份",
+					"props": [
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "02b3ee57-a51e-40e5-8a4b-09c512cab2f0",
+					"name": "BFF迷你汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/72121f69e34a1463eeaccd93eeee4fc2.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 59,
+					"unit": "份",
+					"props": [
+						{
+							"name": "可选择",
+							"values": [
+								{
+									"value": "双牛肉",
+									"price": 59,
+									"propName": "可选择",
+									"isMul": false
+								},
+								{
+									"value": "牛肉与炸鸡",
+									"price": 59,
+									"propName": "可选择",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "991e0952-9784-495a-940f-9f99196e92e4",
+					"name": "joey双层牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5db8398ab3818373811fa7af6df341a7.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 69,
+					"unit": "份",
+					"props": [
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "f697a44c-0996-4380-b422-81e7ee588bb6",
+					"name": "香烤凤梨牛肉汉堡",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/31fb52aa901203bafcb3cab7b96748b6.jpg",
+					"categoryName": "招牌美式汉堡Burger",
+					"price": 59,
+					"unit": "份",
+					"props": [
+						{
+							"name": "汉堡需要切开",
+							"values": [
+								{
+									"value": "切二",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "正常不切",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								},
+								{
+									"value": "切四",
+									"propName": "汉堡需要切开",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "233e536b-5067-4c07-9a2e-8e7d6c15c031",
+			"name": "意大利面PASTA",
+			"foods": [
+				{
+					"id": "f3dbbdd8-86c3-4819-8d4f-633dc592a0ec",
+					"name": "蘑菇青酱意面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/deb684883e6ddc0018bafa94d7335d1c.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 39,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "900f8c30-f0fa-4a4f-b5e8-b2c8421b994a",
+					"name": "黑椒牛柳意粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a7b72caf7fda40a11bc53b717f23a3e0.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 39,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "805da0d1-f986-4387-9edc-36bf5445ea08",
+					"name": "罗勒叶海鲜意面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/dde072f81c3a16e473cec86d31c860e6.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 49,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "91804110-1d67-4e88-9ab1-1ceaba9685e4",
+					"name": "奶油蘑菇意面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/24a68e9d0343ad9833d7af3fc9e8e55f.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 39,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "aea48fd4-a6c0-4b21-9b50-0e73721a0e18",
+					"name": "鸡蛋酱培根意面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a7332cfa900662196187c8f89d58cc81.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 39,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "0843b7cd-1d42-474e-ae5f-87217230723c",
+					"name": "鸡肉菠菜面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0deb8d385998d2642d976d6bec1d0e94.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 42,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "1d0c836c-7dc0-4781-8f61-b82bc6b753c4",
+					"name": "意式肉酱意面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/18bec9479c38c7597b8b3417b0b1ccb3.jpg",
+					"categoryName": "意大利面PASTA",
+					"price": 39,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "adde2b82-0de5-4dcf-a80e-e996abae9dc0",
-			"name": "海带面/豆腐面/牛肉面/面板",
+			"id": "c52b9719-0dd6-430a-8369-ba5e65a7146a",
+			"name": "薄皮披萨（PIZZA）",
 			"foods": [
 				{
-					"id": "6dc1f5d1-f905-4d32-8d47-ed22d06ed5c0",
-					"name": "骨汤面（辣度备注）",
-					"picUrl": null,
-					"categoryName": "海带面/豆腐面/牛肉面/面板",
-					"price": 13,
+					"id": "16ea6793-a942-4fb5-a031-506a8a5ae388",
+					"name": "榴莲披萨",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8fe0479ad71f2bb85c7619d0fbff0688.jpg",
+					"categoryName": "薄皮披萨（PIZZA）",
+					"price": 55,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "750e6a1e-25fa-4cbe-b738-b6db93196635",
-					"name": "豆腐面碱面（辣度备注）",
-					"picUrl": null,
-					"categoryName": "海带面/豆腐面/牛肉面/面板",
-					"price": 16,
+					"id": "950aaab9-aea6-4bc9-b88f-3cd92788f891",
+					"name": "青酱牛油果蘑菇披萨",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/60b98faa6892c0bdee6138339936222d.jpg",
+					"categoryName": "薄皮披萨（PIZZA）",
+					"price": 55,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "5d6c6e25-0dbe-4c17-9011-5f240cb083c0",
-					"name": "牛杂面碱面（辣度备注）",
-					"picUrl": null,
-					"categoryName": "海带面/豆腐面/牛肉面/面板",
-					"price": 20,
+					"id": "7dc73d32-b1dc-467e-90b8-35b78beb671e",
+					"name": "德国香肠披萨",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4cf73c0c453d8dd6b102071696a09256.jpg",
+					"categoryName": "薄皮披萨（PIZZA）",
+					"price": 55,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "4edafc63-fe67-4e2a-8d29-5302d1c3435d",
-					"name": "海带面(碱面版)",
-					"picUrl": null,
-					"categoryName": "海带面/豆腐面/牛肉面/面板",
-					"price": 16,
+					"id": "b5b05c12-0b23-4b29-8f36-3eb6f17084a3",
+					"name": "烟熏鸡肉披萨",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ba06e821e2029439a5ea8b79d622819c.jpg",
+					"categoryName": "薄皮披萨（PIZZA）",
+					"price": 55,
+					"unit": "份",
+					"props": []
+				},
+				{
+					"id": "a7b314cb-c5db-4cea-8ac5-9167080f082e",
+					"name": "玛格丽特披萨(素)",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fdefa6a0ab0250865cbef6db7e01056e.jpg",
+					"categoryName": "薄皮披萨（PIZZA）",
+					"price": 49,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "2c4f95e4-e139-4bdb-8ea7-6edb34003321",
-			"name": "土豪加料",
+			"id": "214e981b-6ca2-4cd7-9428-57044d6ad791",
+			"name": "沙拉SALAD（菲比爱绿色）",
 			"foods": [
 				{
-					"id": "ce8d4bde-0e7a-40e9-8ac0-47d5ecbcd186",
-					"name": "加面一份",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 3,
+					"id": "3a248017-7f06-4eda-910c-f8f866602f9a",
+					"name": "三文鱼排沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/eebd13259c10e65dc03b392c0b893eea.jpg",
+					"categoryName": "沙拉SALAD（菲比爱绿色）",
+					"price": 55,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "321239a2-aa03-46fb-9f7b-a26f21147b44",
-					"name": "金针菇",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 3,
+					"id": "78f97e16-4599-4aef-b6e0-a57d0f8a0bd4",
+					"name": "水果沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/cf542bae82f7dae51ea22053fc9423e5.jpg",
+					"categoryName": "沙拉SALAD（菲比爱绿色）",
+					"price": 39,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "6bdff2fc-6328-4077-a793-cfd80adbe809",
-					"name": "加豆芽一份",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 3,
+					"id": "2c59a67d-7035-44e5-8c70-f87c3ef0132b",
+					"name": "香煎鸡排果蔬沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/abd6f9eb2ea40d08e8c1561dd580d916.jpg",
+					"categoryName": "沙拉SALAD（菲比爱绿色）",
+					"price": 45,
+					"unit": "份",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "油醋汁",
+									"propName": "酱料",
+									"isMul": false
+								},
+								{
+									"value": "千岛酱",
+									"propName": "酱料",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "008a123c-3078-4c51-bdc0-92fd4a43442d",
+					"name": "凯撒沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1dc7ebbd3379ec8685738ea6f13d2fa8.jpg",
+					"categoryName": "沙拉SALAD（菲比爱绿色）",
+					"price": 39,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "4f84d758-2aeb-4476-815f-f9274215466d",
-					"name": "加豆腐一份",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 3,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "a044dc64-d95e-4c5b-85b5-f6db4529beef",
-					"name": "加肥牛卷一份",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 9,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "eada41de-1919-48a7-914e-1817c3831991",
-					"name": "加海带一份",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 3,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "17d76bb3-27ca-4cc0-b838-2d39b075b44e",
-					"name": "精品牛杂一份",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "428b8129-f321-40e0-8b11-e8ff3f437f17",
-					"name": "手打肉片",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "e54067c7-94c5-4216-a67a-01c45c55e3c1",
-					"name": "黑鱼片",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "248b3115-c72f-4b3e-909f-c75625c1c6d5",
-					"name": "鸡排肉",
-					"picUrl": null,
-					"categoryName": "土豪加料",
-					"price": 6,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "e8206215-297f-45a4-a291-f327e7d282e8",
-					"name": "无刺鱼片",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/ae7912b2c8ba6adf3d0ec9b6a07f30db.jpg",
-					"categoryName": "土豪加料",
-					"price": 7,
+					"id": "a5ef1d22-a09c-4c7a-84e3-21bbc32ee06c",
+					"name": "考博沙拉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8eabad26234a313220de8b9cbe0a6007.jpg",
+					"categoryName": "沙拉SALAD（菲比爱绿色）",
+					"price": 52,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "b388c77b-153e-4c7d-b068-5fa696b7228e",
-			"name": "特色小吃",
+			"id": "99ce1f3b-c6f4-42ca-a08e-8b6c6f5b2a41",
+			"name": "（小吃SNAcks）joey不分享",
 			"foods": [
 				{
-					"id": "c5b53807-45db-4a48-9a10-341bd9738ad9",
-					"name": "金针菇",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 3,
+					"id": "133ed046-a5a7-4c0a-8b4a-9be9db2d5d83",
+					"name": "凤尾虾",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2dac3b7575fcf1f259a23ad2c3524df9.jpg",
+					"categoryName": "（小吃SNAcks）joey不分享",
+					"price": 29,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "49fc3079-9f8c-4115-82ea-79160442402f",
-					"name": "安井牛肉丸",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 5,
+					"id": "9054ba0d-7339-4fe5-b708-f7a84ab36883",
+					"name": "小吃拼盘",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/90d9611b7eb2bbab1ce558b2cc60684d.jpg",
+					"categoryName": "（小吃SNAcks）joey不分享",
+					"price": 52,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "f76c11ec-0648-448c-9af1-749f15596eef",
-					"name": "嫩鸭血",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 3,
+					"id": "22a5ee55-0221-482e-a1f6-90fe13179045",
+					"name": "炸鸡中翅（6个）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/326d9d4282987cba0dee2260ca96ad33.jpg",
+					"categoryName": "（小吃SNAcks）joey不分享",
+					"price": 29,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "15aa9346-4b2b-46c1-af61-7b2c3b45da88",
-					"name": "鸡排肉",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 7,
+					"id": "b842a561-ba0d-4a61-b560-546ff286b407",
+					"name": "炸鱿鱼圈",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/25a792718c05965c30a6ccd952970504.jpg",
+					"categoryName": "（小吃SNAcks）joey不分享",
+					"price": 29,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "36c9718a-934c-48c8-938c-e00febfffd0b",
-					"name": "精品牛杂",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "3e572a47-ba67-4e57-b2c5-fb003ca50226",
-					"name": "手打肉片",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "df2752aa-d6ea-4302-975b-f8f838505197",
-					"name": "特级巴沙鱼片",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 7,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "f42618ce-e002-4573-948d-2a013b595c57",
-					"name": "黑鱼片",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "d3920e0e-cdf3-4e29-a982-f8cc10448b89",
-					"name": "田鸡",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 8,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "2837a762-b16a-4dbf-abc5-cc5d94789b38",
-					"name": "肥牛卷",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 9,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "9f864879-ef50-45c8-bedb-9d4c00763b12",
-					"name": "嫩豆腐",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 3,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "fbe94f49-035f-4469-9728-911fdb01223b",
-					"name": "豆皮",
-					"picUrl": null,
-					"categoryName": "特色小吃",
-					"price": 3,
+					"id": "94db1750-85ce-40f5-8aac-cdb28710094d",
+					"name": "炸宽薯条",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3524c7b054399863ad1dd19d7eea1156.jpg",
+					"categoryName": "（小吃SNAcks）joey不分享",
+					"price": 28,
 					"unit": "份",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "dbe3ee2e-0db9-491d-a051-e8dbea171d0b",
-			"name": "饮料类",
+			"id": "75298304-d85c-41f8-9e83-4498e46235ee",
+			"name": "老友记周边",
 			"foods": [
 				{
-					"id": "c357e496-87a6-46f3-b5fa-8ea71b9ca7ca",
-					"name": "矿泉水",
-					"picUrl": null,
-					"categoryName": "饮料类",
-					"price": 2,
+					"id": "3c1f3263-f042-464e-abe4-83ce178d1ece",
+					"name": "苹果主题手机壳",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/72146c142f2f08ab9cb5eb9103fff10d.jpg,http://wosai-open.oss-cn-hangzhou.aliyuncs.com/36bb7f12f49e134b196e875c7ad540e7.jpg,http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6a7fb1f372468684ac01ecd0313e9f18.jpg",
+					"categoryName": "老友记周边",
+					"price": 13.14,
+					"unit": "份",
+					"props": [
+						{
+							"name": "型号",
+							"values": [
+								{
+									"value": "6p",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "7p",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "11max",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "11pro",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "11",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "12max",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "12pro",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "x  xs",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "XR",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "Xmax",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "6s6G",
+									"propName": "型号",
+									"isMul": false
+								},
+								{
+									"value": "7G8G",
+									"propName": "型号",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "e793d756-f784-4dac-b6ee-fae3de306fb4",
+					"name": "马克杯",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/dc9ebf41e958529aaa7ebb45163cca53.jpg",
+					"categoryName": "老友记周边",
+					"price": 39,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "09c87df4-73fb-4f60-80aa-75c205fe0896",
-					"name": "王老吉",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/a7d69c2d427b613365e9aa2b64d20acc.png",
-					"categoryName": "饮料类",
-					"price": 4,
+					"id": "cf7fee10-41b3-490a-b059-4d62fe683210",
+					"name": "帆布袋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8cf49aa131e550a655a3d5e28088f7dc.jpg",
+					"categoryName": "老友记周边",
+					"price": 55,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "1cd399c9-530e-4c41-b1d9-1aa233f488b1",
-					"name": "康师傅冰红茶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6b91551dd7e44ad9f5ff1f6d9a173054.jpg",
-					"categoryName": "饮料类",
-					"price": 2,
+					"id": "93b5025a-8ab5-47b6-b7e3-4ba99c20a367",
+					"name": "帽子friends",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f0b9184b3a996f8ca015e931e356a9c5.jpg",
+					"categoryName": "老友记周边",
+					"price": 49,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "5939c9dd-2c91-4c33-a0b5-c4ee21a7a863",
-					"name": "维他奶瓶装原味",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/737fb7dd7ce1bdff9786035b934d7342.jpg",
-					"categoryName": "饮料类",
-					"price": 3,
+					"id": "efb371a8-5fab-4505-abcf-c534932cfac1",
+					"name": "cp马克杯",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/99842b21ec6cf3a38bcf628f32521fae.jpg",
+					"categoryName": "老友记周边",
+					"price": 49,
 					"unit": "份",
 					"props": []
 				},
 				{
-					"id": "7168f340-689f-4875-b738-41fe1cc30d49",
-					"name": "维他柠檬茶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/539c971a1c42c153951d350b7c900e01.jpg",
-					"categoryName": "饮料类",
-					"price": 4.5,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "635dc8b4-b006-4100-adcb-0c9b8e8f9c7e",
-					"name": "维他奶/原味豆奶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2cef9c306008b97476b5b53bed359ac6.jpg",
-					"categoryName": "饮料类",
-					"price": 3.5,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "9121c547-893d-4c3c-b030-95d475946191",
-					"name": "可口可乐/大瓶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/849c2690633fa59eaa7146c023b2e5e0.jpg",
-					"categoryName": "饮料类",
-					"price": 3.5,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "982a1e87-61d1-4db5-9660-5900c20e417b",
-					"name": "可囗可乐/小瓶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b5933663dd7adb0ba548052bc6ec0751.jpg",
-					"categoryName": "饮料类",
-					"price": 2.5,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "f43f2976-37b1-4c82-bc79-0f159b50667b",
-					"name": "芬达/小瓶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ca817a14c239ac12eb2d0eb74cae5a86.jpg",
-					"categoryName": "饮料类",
-					"price": 2.5,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "5896322e-c153-4ebd-83db-20835e109f47",
-					"name": "雪碧/小瓶",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5bb9a5b9908b610944d5f3482d60e3a6.jpg",
-					"categoryName": "饮料类",
-					"price": 2.5,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"id": "cf2d5ca4-f8fa-4b1e-b2e3-825aa201efda",
-			"name": "酒水类",
-			"foods": [
-				{
-					"id": "d4907a5b-41dd-4e27-bfa0-084953f47b7d",
-					"name": "雪花纯生",
-					"picUrl": null,
-					"categoryName": "酒水类",
-					"price": 5,
-					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "44b2f975-08f5-4bbc-bd7d-df2bb4226511",
-					"name": "勇闯天涯",
-					"picUrl": null,
-					"categoryName": "酒水类",
-					"price": 5,
+					"id": "5b63e397-4f57-4919-8de0-2ca0f36b6d92",
+					"name": "老友记同款马克杯",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/afb13dffa31bcf8682749d29a5321b02.jpg",
+					"categoryName": "老友记周边",
+					"price": 59,
 					"unit": "份",
 					"props": []
 				}

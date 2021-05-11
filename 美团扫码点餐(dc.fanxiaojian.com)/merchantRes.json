@@ -1,2655 +1,76 @@
 {
-	"shopName": "永興茶餐厅",
-	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1662349",
+	"shopName": "隆门客栈·西北小吃手工面",
+	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1637097",
 	"categories": [
-		{
-			"name": "饭类",
-			"foods": [
-				{
-					"name": "咖喱猪扒饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/4f691d52fba448c5a2a28c75ac7e2d33.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咖喱鸡扒饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/08edde6de96c4501884c9ae971da208e.jpg@600w_450h_1e_1c_1l",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咖喱牛肉饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/501dbf14edb740f594dbe4215b0ec03d.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咖喱虾饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/964677b2b7274794982dd35d908db207.jpg@600w_450h_1e_1c_1l",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "滑蛋牛肉饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/4fbd91c41ef24a849fb58798daa2e53a.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧滑蛋饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/c38467b71bef4d5b95711517032936d3.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/fba2a5d7e6004f069b7985545c293402.jpg@600w_450h_1e_1c_1l",
-					"price": "4.0",
-					"unit": "碗",
-					"categoryName": "饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "汤丁-捞丁-通粉",
-			"foods": [
-				{
-					"name": "黑椒猪扒汤丁-捞丁-通粉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/4e952526e0db412b9c5068c52fd72c40.jpg@600w_450h_1e_1c_1l",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "番茄浓汤底",
-							"values": [
-								{
-									"value": "原味汤底",
-									"price": 0,
-									"propName": "番茄浓汤底",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "汤丁-捞丁-通粉",
-							"values": [
-								{
-									"value": "汤丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "捞丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "通粉",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑椒鸡扒汤丁-捞丁-通粉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/afb4c5f8bf934c5eaafe4e04b0000c90.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "汤丁-捞丁-通粉",
-							"values": [
-								{
-									"value": "汤丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "捞丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "通粉",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "风味牛杂汤丁-捞丁-通粉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/4aa2f46860084108a61b178bacbf9e23.jpg@600w_450h_1e_1c_1l",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "番茄浓汤底",
-							"values": [
-								{
-									"value": "原味汤底",
-									"price": 0,
-									"propName": "番茄浓汤底",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "汤丁-捞丁-通粉",
-							"values": [
-								{
-									"value": "汤丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "捞丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "通粉",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金酸汤鲜牛肉面(酸辣口味)",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/0f0cee471cc449eeaa468c886d165dbd.jpg@600w_450h_1e_1c_1l",
-					"price": "26.0",
-					"unit": "碗",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芝士波波肠蛋汤丁-通粉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/a2e2afc5291045c4a8426bce16821ad6.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "番茄浓汤底",
-							"values": [
-								{
-									"value": "原味汤底",
-									"price": 0,
-									"propName": "番茄浓汤底",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "汤丁-捞丁-通粉",
-							"values": [
-								{
-									"value": "汤丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "通粉",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肠仔蛋汤丁-通粉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/5ddf80652efa4624b5150af1bd10f4a7.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "汤丁-捞丁-通粉",
-							"values": [
-								{
-									"value": "汤丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "通粉",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "餐蛋汤丁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/e7631af5effc4470b820cdac7e4ebdd6.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "碗",
-					"categoryName": "汤丁-捞丁-通粉",
-					"props": [
-						{
-							"name": "番茄浓汤底",
-							"values": [
-								{
-									"value": "原味汤底",
-									"price": 0,
-									"propName": "番茄浓汤底",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "汤丁-捞丁-通粉",
-							"values": [
-								{
-									"value": "汤丁",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								},
-								{
-									"value": "通粉",
-									"price": 0,
-									"propName": "汤丁-捞丁-通粉",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "东南亚风味",
-			"foods": [
-				{
-					"name": "至尊冬阴功海鲜汤",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/032fe4c2c592458d9f96f7d1f8fcbc84.jpg@600w_450h_1e_1c_1l",
-					"price": "45.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌冬阴功海鲜汤面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/c16c82437d474184880976c63324b1ef.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱虾捞丁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/88188a03b683424fa2808483c0cd9ae1.jpg@600w_450h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱鱼蛋捞丁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/a01c1e2401364831a8e7ec9986e314d7.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱猪扒捞丁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/3a447f5bcd3642b2991b41fa19e478cb.jpg@600w_450h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱鸡扒捞丁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/cc870d6d3d9d43648ec49444d2f63be9.jpg@600w_450h_1e_1c_1l",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱牛肉捞丁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/58dbf8f82f884e0186428fad58ba2c71.jpg@600w_450h_1e_1c_1l",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "长洲咖喱超大鱼蛋",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/3f068ab8c4be42c1b7ff504e998912bc.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱三宝（鱼蛋-鱼豆腐-炸面筋）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/e76b665b4ab049ed87bcd9b9616e7bcf.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泰皇咖喱鱼蛋",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/0cab14ec57c447eba860867bd031bc67.jpg@600w_450h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "东南亚风味",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "招牌面包",
-			"foods": [
-				{
-					"name": "大满足鸡扒芝士蛋菠萝包",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/807861c679b64c32ae3369f48e16421e.png@600w_450h_1e_1c_1l",
-					"price": "23.0",
-					"unit": "个",
-					"categoryName": "招牌面包",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "大满足猪扒芝士蛋菠萝包",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/90bb3b4825d7460fb371edece7291ee0.png@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "个",
-					"categoryName": "招牌面包",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "大满足餐肉芝士蛋菠萝包",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/143fde1e3018477aa3cde3c406380c53.jpg@600w_450h_1e_1c_1l",
-					"price": "23.0",
-					"unit": "个",
-					"categoryName": "招牌面包",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌菠萝油",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/da501d9eb2a44698bb2e8d0da17d5452.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "个",
-					"categoryName": "招牌面包",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "西多士",
-			"foods": [
-				{
-					"name": "泥石流爆奶华",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/14fe1a903b694b6281a8a7a80aa571ae.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "西多士",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肠仔滑蛋（配多士）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/780626b75a2e443db0d810b38c53b652.jpg@600w_450h_1e_1c_1l",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "西多士",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "一口西多士",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/5ed644b90c954688b8e1a9c750e73f73.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "西多士",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "奶酱厚多士",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/ac14464603f746909653bcab7d919a99.jpg@600w_450h_1e_1c_1l",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "西多士",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "港式饮品",
-			"foods": [
-				{
-					"name": "倒灌泰豆红豆冰沙",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/48ad8fab8d52403faf88db0658c94a72.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌混搭双柠茶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/f626f0f7813a4267b56fc2ab8bb2cc40.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式柠檬茶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/0fb22dd1b78445f282eac115d21343fc.jpg@600w_450h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "热饮",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌港式丝袜奶茶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/e4311418f9f84ba58ee3e8d3f677ec1f.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "热饮",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香浓咖啡",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/09/928d2a729779436993dc41415e8a51b9.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "热饮",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茶走",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/b2e7ca67854c4bab93df657e85be389f.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "热饮",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬利宾纳",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/09/1724d94cc0b44cd9b869d999e673c775.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸柠七",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/09/80c7bcd9f231440cb3adc7c7c69d507f.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬可乐",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/20b63ayI.jpg@200w_150h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "阿华田",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/b40c96a019fb43bf9bc53ffe985fb3b8.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "热饮",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式鸳鸯",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/7bdbcd702ebd4cf3b2bb5454b096b544.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "热饮",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "醒目金桔柠檬茶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/48741e80e7694172b09693704b2c211b.jpeg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "清爽百香果茶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/b3eaa03e30504609a141527a131d6c1e.jpeg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "杯",
-					"categoryName": "港式饮品",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "招牌小吃",
-			"foods": [
-				{
-					"name": "小吃拼盘（鱼蛋-盐酥鸡米-混酱肠粉-肠仔）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/4bd06d04a05e443ea7e2f876cd082105.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "脆皮鸡中翅(2块)",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/4ef471ba6c2c4202b5c05a6dfdb553fb.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "盐酥鸡米花",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/160776b2a30f4453be5057af5400b3b4.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "甘梅地瓜条",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/379b52yI.jpg@200w_150h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炸波浪薯条",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/a765d9c233674ff8b6fd30013eacca90.jpg@600w_450h_1e_1c_1l",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芝士波波肠",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/hotel/1662349/4bc00c3f4f3945368bce54e81761cb69.jpg@600w_450h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "岭南风味萝卜牛杂",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/e281de386d244b52883ca975575cf40e.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "岭南风味净牛杂",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/0a2d5843ec2f44b3b981e02b7414f9fb.jpg@600w_450h_1e_1c_1l",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鱼肉烧卖",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/uVxlxDMD.jpg@200w_150h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "混酱肠粉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/3b454f0782d044a9a0d02e00a64d1620.jpg@600w_450h_1e_1c_1l",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "油菜",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/60af110338b343bcb39ee056225c3acf.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "招牌小吃",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "网红甜品",
-			"foods": [
-				{
-					"name": "椰汁雪糕红豆冰",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/82f877ca61cf4745aada4be612e7fd49.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "杯",
-					"categoryName": "网红甜品",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "奥利奥伴雪糕",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/d04e4d1aca33448781480497dc040a93.jpg@600w_450h_1e_1c_1l",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "网红甜品",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红豆伴雪糕",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/6ecb4985e7d34b50960690131963ac8d.jpg@600w_450h_1e_1c_1l",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "网红甜品",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "永兴大满贯",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/e34da050eef94377b54482d01a9ab956.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "网红甜品",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "暖",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "网红糖水捞火锅",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/ec7949442a3941208f32bb48b0df560e.jpg@600w_450h_1e_1c_1l",
-					"price": "38.0",
-					"unit": "份",
-					"categoryName": "网红甜品",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "桃胶牛奶（芒果-红豆）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/02/74f55884ca2941489225ed6a6b05b72b.jpg@600w_450h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "网红甜品",
-					"props": [
-						{
-							"name": "红豆-芒果",
-							"values": [
-								{
-									"value": "红豆",
-									"price": 0,
-									"propName": "红豆-芒果",
-									"isMul": true
-								},
-								{
-									"value": "芒果",
-									"price": 0,
-									"propName": "红豆-芒果",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "雪燕桃胶",
-			"foods": [
-				{
-					"name": "养颜雪燕桃胶牛奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/c0fd8be778f84d16943611f35d3d593a.jpg@600w_450h_1e_1c_1l",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "雪燕桃胶",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "养颜雪燕牛奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/2240787470864cde8c4a557ac7c99ebc.jpg@600w_450h_1e_1c_1l",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "雪燕桃胶",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "养颜雪燕红豆牛奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/0d1d9a7d5c654024b1ec11488f0b8ccc.jpg@600w_450h_1e_1c_1l",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "雪燕桃胶",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "养颜桃胶牛奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/2fdda8bcbfe548eda6cdc75d96924f2b.jpg@600w_450h_1e_1c_1l",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "雪燕桃胶",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "养颜雪燕芒果牛奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/hotel/1662349/27de41585a944a409260f1fa23b575f1.jpg@600w_450h_1e_1c_1l",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "雪燕桃胶",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "西米露",
-			"foods": [
-				{
-					"name": "椰汁西米露",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/hotel/1662349/5e5f8709a915478aa5098d29913da6e7.jpg@600w_450h_1e_1c_1l",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "西米露",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "椰汁芒果西米露",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/hotel/1662349/e029802afa50494d9d486afcf3532151.jpg@600w_450h_1e_1c_1l",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "西米露",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "椰汁红豆西米露",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/01/hotel/1662349/26515ac95feb4ddc82d9b34ae15f3727.jpg@600w_450h_1e_1c_1l",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "西米露",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "打包",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
 		{
 			"name": "套餐",
 			"foods": [
 				{
-					"name": "下午茶套餐A+B+C",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/16e9e83970a74abb8ece7dc76040b2be.jpg@600w_450h_1e_1c_1l",
-					"price": "45.0",
+					"name": "超值套餐一（立省5元）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/77ee99c1ed764ba48872136bba22eb5b.jpg@600w_450h_1e_1c_1l",
+					"price": "29.9",
 					"unit": "份",
 					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "招牌面包",
+							"name": "招牌手工面",
 							"values": [
 								{
-									"value": "大满足鸡扒芝士蛋菠萝包",
+									"value": "一碗手工牛肉面",
 									"price": 23,
-									"propName": "招牌面包",
+									"propName": "招牌手工面",
 									"isMul": false
 								},
 								{
-									"value": "大满足餐肉芝士蛋菠萝包",
+									"value": "番茄鸡蛋拌面",
 									"price": 23,
-									"propName": "招牌面包",
-									"isMul": false
-								},
-								{
-									"value": "金酸汤鲜牛肉面(酸辣口味)",
-									"price": 26,
-									"propName": "招牌面包",
-									"isMul": false
-								},
-								{
-									"value": "黑椒鸡扒汤丁-捞丁-通粉",
-									"price": 25,
-									"propName": "招牌面包",
+									"propName": "招牌手工面",
 									"isMul": false
 								}
 							]
 						},
 						{
-							"name": "招牌小吃",
+							"name": "客栈小菜",
 							"values": [
 								{
-									"value": "甘梅地瓜条",
-									"price": 18,
-									"propName": "招牌小吃",
+									"value": "凉拌土豆丝",
+									"price": 6,
+									"propName": "客栈小菜",
 									"isMul": false
 								},
 								{
-									"value": "炸波浪薯条",
-									"price": 13,
-									"propName": "招牌小吃",
+									"value": "黄瓜拌面筋",
+									"price": 6,
+									"propName": "客栈小菜",
 									"isMul": false
 								},
 								{
-									"value": "泰皇咖喱鱼蛋",
-									"price": 16,
-									"propName": "招牌小吃",
+									"value": "风味泡菜",
+									"price": 6,
+									"propName": "客栈小菜",
 									"isMul": false
 								},
 								{
-									"value": "盐酥鸡米花",
-									"price": 18,
-									"propName": "招牌小吃",
+									"value": "爽口酸萝卜",
+									"price": 6,
+									"propName": "客栈小菜",
 									"isMul": false
 								}
 							]
 						},
 						{
-							"name": "港式饮品",
+							"name": "自家饮品",
 							"values": [
 								{
-									"value": "招牌港式丝袜奶茶",
-									"price": 18,
-									"propName": "港式饮品",
+									"value": "百事可乐",
+									"price": 6,
+									"propName": "自家饮品",
 									"isMul": false
 								},
 								{
-									"value": "港式柠檬茶",
-									"price": 16,
-									"propName": "港式饮品",
-									"isMul": false
-								},
-								{
-									"value": "香浓咖啡",
-									"price": 18,
-									"propName": "港式饮品",
-									"isMul": false
-								},
-								{
-									"value": "柠檬利宾纳",
-									"price": 20,
-									"propName": "港式饮品",
+									"value": "雪碧",
+									"price": 6,
+									"propName": "自家饮品",
 									"isMul": false
 								}
 							]
@@ -2657,66 +78,53 @@
 					]
 				},
 				{
-					"name": "下午茶套餐B+C",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/b14a173db8df410ea46a9142528a4069.jpg@600w_450h_1e_1c_1l",
-					"price": "25.0",
+					"name": "超值套餐二（立省10元）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/a7ab868bcc5f4634a6b8cdf1dad57cd8.jpg@600w_450h_1e_1c_1l",
+					"price": "39.9",
 					"unit": "份",
 					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "招牌小吃",
+							"name": "招牌手工面",
 							"values": [
 								{
-									"value": "甘梅地瓜条",
-									"price": 18,
-									"propName": "招牌小吃",
-									"isMul": false
-								},
-								{
-									"value": "炸波浪薯条",
-									"price": 13,
-									"propName": "招牌小吃",
-									"isMul": false
-								},
-								{
-									"value": "泰皇咖喱鱼蛋",
-									"price": 16,
-									"propName": "招牌小吃",
-									"isMul": false
-								},
-								{
-									"value": "盐酥鸡米花",
-									"price": 18,
-									"propName": "招牌小吃",
+									"value": "大盘鸡拌面",
+									"price": 27,
+									"propName": "招牌手工面",
 									"isMul": false
 								}
 							]
 						},
 						{
-							"name": "港式饮品",
+							"name": "汤粥",
 							"values": [
 								{
-									"value": "招牌港式丝袜奶茶",
-									"price": 18,
-									"propName": "港式饮品",
+									"value": "现熬羊杂汤",
+									"price": 17,
+									"propName": "汤粥",
 									"isMul": false
 								},
 								{
-									"value": "港式柠檬茶",
-									"price": 16,
-									"propName": "港式饮品",
+									"value": "玉米鸡块汤",
+									"price": 15,
+									"propName": "汤粥",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "客栈小菜",
+							"values": [
+								{
+									"value": "海带丝拌豆腐皮",
+									"price": 8,
+									"propName": "客栈小菜",
 									"isMul": false
 								},
 								{
-									"value": "香浓咖啡",
-									"price": 18,
-									"propName": "港式饮品",
-									"isMul": false
-								},
-								{
-									"value": "柠檬利宾纳",
-									"price": 20,
-									"propName": "港式饮品",
+									"value": "凉拌脆木耳",
+									"price": 8,
+									"propName": "客栈小菜",
 									"isMul": false
 								}
 							]
@@ -2724,66 +132,264 @@
 					]
 				},
 				{
-					"name": "下午茶套餐A+C",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/03/f3571743216543df8090e3a1113f7517.jpg@600w_450h_1e_1c_1l",
-					"price": "33.0",
+					"name": "超值套餐三（立省6元）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/a1994bb609784162a094b0fcafc5da75.jpg@600w_450h_1e_1c_1l",
+					"price": "29.9",
 					"unit": "份",
 					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "招牌面包",
+							"name": "西北小吃",
 							"values": [
 								{
-									"value": "大满足鸡扒芝士蛋菠萝包",
-									"price": 23,
-									"propName": "招牌面包",
+									"value": "西北手工凉皮",
+									"price": 17,
+									"propName": "西北小吃",
 									"isMul": false
 								},
 								{
-									"value": "大满足餐肉芝士蛋菠萝包",
-									"price": 23,
-									"propName": "招牌面包",
-									"isMul": false
-								},
-								{
-									"value": "黑椒鸡扒汤丁-捞丁-通粉",
-									"price": 25,
-									"propName": "招牌面包",
-									"isMul": false
-								},
-								{
-									"value": "金酸汤鲜牛肉面(酸辣口味)",
-									"price": 26,
-									"propName": "招牌面包",
+									"value": "孜然肉夹馍",
+									"price": 12,
+									"propName": "西北小吃",
 									"isMul": false
 								}
 							]
 						},
 						{
-							"name": "港式饮品",
+							"name": "自家饮品",
 							"values": [
 								{
-									"value": "招牌港式丝袜奶茶",
-									"price": 18,
-									"propName": "港式饮品",
+									"value": "百事可乐",
+									"price": 6,
+									"propName": "自家饮品",
 									"isMul": false
 								},
 								{
-									"value": "港式柠檬茶",
-									"price": 16,
-									"propName": "港式饮品",
+									"value": "雪碧",
+									"price": 6,
+									"propName": "自家饮品",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "超值套餐四(立省7元)",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/b3215e9217a747f09d610bab7cd08d4e.jpg@600w_450h_1e_1c_1l",
+					"price": "33.9",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "招牌手工面",
+							"values": [
+								{
+									"value": "老坛酸菜牛肉面",
+									"price": 26,
+									"propName": "招牌手工面",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "客栈小菜",
+							"values": [
+								{
+									"value": "海带丝拌豆腐皮",
+									"price": 8,
+									"propName": "客栈小菜",
 									"isMul": false
 								},
 								{
-									"value": "香浓咖啡",
-									"price": 18,
-									"propName": "港式饮品",
+									"value": "凉拌脆木耳",
+									"price": 8,
+									"propName": "客栈小菜",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "自家饮品",
+							"values": [
+								{
+									"value": "百事可乐",
+									"price": 6,
+									"propName": "自家饮品",
 									"isMul": false
 								},
 								{
-									"value": "柠檬利宾纳",
-									"price": 20,
-									"propName": "港式饮品",
+									"value": "雪碧",
+									"price": 6,
+									"propName": "自家饮品",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "超值套餐五（立省4元）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/35a9c2faf14746ae844c767cefd3f95b.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "汤粥",
+							"values": [
+								{
+									"value": "五谷杂粮粥",
+									"price": 8,
+									"propName": "汤粥",
+									"isMul": false
+								},
+								{
+									"value": "金瓜小米粥",
+									"price": 8,
+									"propName": "汤粥",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "客栈小菜",
+							"values": [
+								{
+									"value": "凉拌土豆丝",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								},
+								{
+									"value": "黄瓜拌面筋",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								},
+								{
+									"value": "风味泡菜",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								},
+								{
+									"value": "爽口酸萝卜",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "西北小吃",
+							"values": [
+								{
+									"value": "杂粮青稞餠(个)",
+									"price": 5,
+									"propName": "西北小吃",
+									"isMul": false
+								},
+								{
+									"value": "回民小油香(个)",
+									"price": 5,
+									"propName": "西北小吃",
+									"isMul": false
+								},
+								{
+									"value": "玉米饼(个）",
+									"price": 5,
+									"propName": "西北小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "超值双人套餐（立省12元）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/a6596536930a44989dcde0f811d36596.jpg@600w_450h_1e_1c_1l",
+					"price": "66.9",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "招牌手工面",
+							"values": [
+								{
+									"value": "一碗手工牛肉面",
+									"price": 23,
+									"propName": "招牌手工面",
+									"isMul": false
+								},
+								{
+									"value": "鲜烤羊肉串(2串)",
+									"price": 10,
+									"propName": "招牌手工面",
+									"isMul": false
+								},
+								{
+									"value": "土豆牛腩拌面",
+									"price": 27,
+									"propName": "招牌手工面",
+									"isMul": false
+								},
+								{
+									"value": "西北烤面筋",
+									"price": 5,
+									"propName": "招牌手工面",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "客栈小菜",
+							"values": [
+								{
+									"value": "爽口酸萝卜",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								},
+								{
+									"value": "凉拌土豆丝",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								},
+								{
+									"value": "黄瓜拌面筋",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								},
+								{
+									"value": "风味泡菜",
+									"price": 6,
+									"propName": "客栈小菜",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "西北小吃",
+							"values": [
+								{
+									"value": "杂粮青稞餠(个)",
+									"price": 5,
+									"propName": "西北小吃",
+									"isMul": false
+								},
+								{
+									"value": "回民小油香(个)",
+									"price": 5,
+									"propName": "西北小吃",
+									"isMul": false
+								},
+								{
+									"value": "玉米饼(个）",
+									"price": 5,
+									"propName": "西北小吃",
 									"isMul": false
 								}
 							]
@@ -2793,22 +399,34 @@
 			]
 		},
 		{
-			"name": "其他",
+			"name": "招牌手工面",
 			"foods": [
 				{
-					"name": "打包餐盒",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/3e6c8dfc59b54a1496d8e227360b0748.jpg@600w_450h_1e_1c_1l",
-					"price": "1.0",
-					"unit": "个",
-					"categoryName": "其他",
+					"name": "手工刀削面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/b2c8c8f392be4eee94dee98146c40462.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
 					"props": [
 						{
-							"name": "打包",
+							"name": "默认分类",
 							"values": [
 								{
-									"value": "堂食",
+									"value": "少辣",
 									"price": 0,
-									"propName": "打包",
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
 									"isMul": true
 								}
 							]
@@ -2816,25 +434,511 @@
 					]
 				},
 				{
-					"name": "纸巾",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/06/077a16bb59ff485084060b51a6393158.jpg@600w_450h_1e_1c_1l",
-					"price": "1.0",
-					"unit": "包",
-					"categoryName": "其他",
+					"name": "蒜苔炒肉拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/450e08dce9d141d491e6b1c521c67605.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
 					"props": [
 						{
-							"name": "打包",
+							"name": "默认分类",
 							"values": [
 								{
-									"value": "堂食",
+									"value": "正常",
 									"price": 0,
-									"propName": "打包",
+									"propName": "默认分类",
 									"isMul": true
 								},
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "打包",
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇滑鸡拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/7bc8cec4fc2846fd86d4c81a2b4c4cb6.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆牛腩拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/b4f8c25be42348b9bfbfec0f568ac284.jpg@600w_450h_1e_1c_1l",
+					"price": "27.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "优质凉拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/5491198361d842aaa7ddd0143513783f.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄鸡蛋拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/18b24735a915462d802d7d08e32dc4e4.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一碗手工牛肉面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/4e47563a070443189046ff162a59fd57.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大盘鸡拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/749c77d44eed421e8c99b0d3480aa5b9.jpg@600w_450h_1e_1c_1l",
+					"price": "27.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌大片牛肉面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/129f426d164b4b9093519dd1eef38ce1.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "滋滋的油泼面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/3fb9474a82a848128ddb629e4c398e6c.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉水饺",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/a905bcd2c0e849ecb4764a063c995fcc.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": []
+				},
+				{
+					"name": "羊肉泡馍",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9d6c643c92a54aeba5dc18564fa5547b.jpg@600w_450h_1e_1c_1l",
+					"price": "29.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": []
+				},
+				{
+					"name": "老坛酸菜牛肉面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/5d178d1a637e4826b9648401e6fb3864.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老栈红烧牛腩面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/c958de16e63c475587f44262f949389a.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "草本番茄鸡蛋面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/638577fc6c564d6091f0af51d5548639.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸汤臊子面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/e9b37ef2fb2b480bb8b7f1531e36a743.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉拌面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/1091d7a1eedb44d2bdefdfddc2d6165f.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": []
+				},
+				{
+					"name": "手工炒面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/fb435ffb71db4fbba5edd947777eec2b.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": []
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/e2b65fe52058438391b05d1960bbb5c5.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": []
+				},
+				{
+					"name": "酸汤手工面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/5567beac385541e48bdbaca996fee319.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工面",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少面",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加面",
+									"price": 0,
+									"propName": "默认分类",
 									"isMul": true
 								}
 							]
@@ -2844,11 +948,601 @@
 			]
 		},
 		{
-			"name": "下午茶套餐",
-			"foods": []
+			"name": "招牌手工粉",
+			"foods": [
+				{
+					"name": "红烧牛腩粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/f6b9da48c33e4c40a5c770d65a460e32.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "招牌手工粉",
+					"props": []
+				},
+				{
+					"name": "酸汤麻辣粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9a59003ce7be4f3f8a8fa6b6e2639c1e.jpg@600w_450h_1e_1c_1l",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "招牌手工粉",
+					"props": []
+				}
+			]
 		},
 		{
-			"name": "白凉粉",
+			"name": "精美快餐",
+			"foods": [
+				{
+					"name": "孜然肉夹馍",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/44659fa78610436ca55381bbfc55a362.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "个",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/c727313f9a734fe7a0b59f8a5743c0f4.jpg@600w_450h_1e_1c_1l",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "土豆牛腩饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/c3e6df2cd7cd46ec9d94a6bb69e7a14f.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "蒜苔炒肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/c970ddabb8bf4825be371d2d7d9762fe.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "香菇滑鸡饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/2fb8b753f0fa40219487543fe63f6bc6.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "回锅牛肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/d971078e69b743fa980d60731b2b4e09.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "大盘鸡饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/543e88863cd74b98bd22215d6c30750b.jpg@600w_450h_1e_1c_1l",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				},
+				{
+					"name": "香干牛肉饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/7280e6eb93674437a7f2bc3bd3b420a2.jpg@600w_450h_1e_1c_1l",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "精美快餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "客栈小菜",
+			"foods": [
+				{
+					"name": "海带丝拌豆腐皮",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/5dd029fa63c9490b9984f5d7815b1a92.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "凉拌脆木耳",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/c28df65ad25a401589f8bc8edf726c84.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "鲜拌秋葵",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/f3b8278d3f454fb9906845e20f847511.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "凉拌土豆丝",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/6cab7e3e9c4545b69282ab78634b2592.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "客栈二两牛肉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/15fc2d5511fd4465b246a94c5fbbfc56.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "西北凉粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/0f0f02a9348f4053af7331a0e3eb4071.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "西北手工凉皮",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9ddcf2ca14974d66b381f2fd8f84592d.jpg@600w_450h_1e_1c_1l",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "风味泡菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/d12aa47973664f3ba728c73d7632f2bc.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "鲜拌芥兰苗",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/2f2eebce8530425b9aa927d7ff10f409.jpg@600w_450h_1e_1c_1l",
+					"price": "13.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "黄瓜拌面筋",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/e65c0bde9b6d4220abde00f3e7cb04ce.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "爽口酸萝卜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/370c8186aa5542e1b66d476e8c06ec52.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "酸辣蕨根粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/3aa34bb678e14132a7cefe75b0877c8a.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				},
+				{
+					"name": "麻辣口水鸡",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/d4dc2134e65748bd9c7c1c9b95233994.jpg@600w_450h_1e_1c_1l",
+					"price": "19.0",
+					"unit": "份",
+					"categoryName": "客栈小菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "汤粥",
+			"foods": [
+				{
+					"name": "五谷杂粮粥",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9fab79ba12fc4156b2f1e8814345105e.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "汤粥",
+					"props": []
+				},
+				{
+					"name": "现熬羊杂汤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/b9cc576e08074a48b36dfb67bf5cb8f9.jpg@600w_450h_1e_1c_1l",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "汤粥",
+					"props": []
+				},
+				{
+					"name": "金瓜小米粥",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/7eba9fec6e4c4892a1e2b88734224dca.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "汤粥",
+					"props": []
+				},
+				{
+					"name": "玉米鸡块汤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/ea4a17cc0f6548549247464eab67b6db.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "汤粥",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "自家饮品",
+			"foods": [
+				{
+					"name": "红枸杞植物气泡饮料",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/05/478d901e59684dd881362af91d4e2e76.jpg@600w_450h_1e_1c_1l",
+					"price": "7.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "黑枸杞植物气泡饮料",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/05/8b6998d2fca44d389b5e843d1717746e.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/e4649597e28d4ea8becc86d19f570d03.jpg@600w_450h_1e_1c_1l",
+					"price": "7.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "酸梅汤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/14c5de70a1594babaa0e9fb85c9d1d03.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/d4585a4cfba247a3b45f308a80ee1a05.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/deaedd0449214dc49743c3b6efe1bfdb.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/e12f1125e0434f35819162dcc8a67904.jpg@600w_450h_1e_1c_1l",
+					"price": "3.0",
+					"unit": "瓶",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "西安冰峰",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/bd0af658ec054a0e89c322602ccc94c5.jpg@600w_450h_1e_1c_1l",
+					"price": "7.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "青稞甜醅",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/c8b9db66b31d4b88af07ad721004126d.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "份",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "野生沙棘汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9a845039ce534ea9ad0040c28e32da98.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "瓶",
+					"categoryName": "自家饮品",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/88b825a7803d4567ba54a466d93a665e.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "自家饮品",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "西北小吃",
+			"foods": [
+				{
+					"name": "烤羊排",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/05/2bd5a6e934c141788c222b6f76a455e0.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "串",
+					"categoryName": "西北小吃",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤香肉夹馍",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/6a609195c04849a5a4bb048e6cd9fa6f.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "回民小油香(个)",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/840513fe9ee74d949781dba132e6d7c4.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "个",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "新疆火坑烤馕饼",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9fa3137248be4452a110f85462aefc4d.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "杂粮青稞餠(个)",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/e721e5d30bda444fa420388106b90964.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "个",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "泡椒凤爪3个",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/04/4b6d7bfb3dd8428c9e091b9e7a8fca7f.jpg@600w_450h_1e_1c_1l",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "现烤羊腰",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/9396b12102e34dd8ad4b7ab56aafa96e.jpg@600w_450h_1e_1c_1l",
+					"price": "23.0",
+					"unit": "串",
+					"categoryName": "西北小吃",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "竹签羊肉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/459b32cc032c4ea5bbb2db45df0d8dcc.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "老酸奶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/21a7eb719ab148fda5f8ae85d4fbcf68.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "西北烤面筋",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/590d346da1a24e1bb1f5203d39291708.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "串",
+					"categoryName": "西北小吃",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜烤羊肉串(2串)",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/cbb38fbc15f24036a64b27835ce0a930.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉卷",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/90f0c3fb3d614dcb9c955deb4769d031.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "个",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "玉米饼(个）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/24a4ff2585e549488ed0bf62ff9f60c3.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "素春卷",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/4dfa10515fda41f1b1a0d5ddcb982eb2.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "个",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "西域烤包子(个)",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/f8ba368bd8ef44b5bd3a28cb1543b576.jpg@600w_450h_1e_1c_1l",
+					"price": "7.0",
+					"unit": "个",
+					"categoryName": "西北小吃",
+					"props": []
+				},
+				{
+					"name": "鸡胗串（2串）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/12/hotel/1637097/aaf8e0231518438bb5fa4e775bc22309.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "西北小吃",
+					"props": [
+						{
+							"name": "默认分类",
+							"values": [
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								},
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "默认分类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "杂项",
 			"foods": []
 		}
 	]

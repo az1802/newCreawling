@@ -10,34 +10,28 @@ let foodList = merchantMenuInfo.foodList
 const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
-// const exportMode = "keruyun"
-const exportMode = "feie"
+const exportMode = "keruyun"
+// const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "打包",
-    "番茄浓汤底",
-    "汤丁-捞丁-通粉",
-    "冷热",
-    "做法",
-    "红豆-芒果",
-    "招牌面包",
-    "招牌小吃",
-    "港式饮品"
+    "招牌手工面",
+    "客栈小菜",
+    "自家饮品",
+    "汤粥",
+    "西北小吃",
+    "默认分类"
   ],//做法
   feeding:[ ],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "打包",
-    "番茄浓汤底",
-    "汤丁-捞丁-通粉",
-    "冷热",
-    "做法",
-    "红豆-芒果",
-    "招牌面包",
-    "招牌小吃",
-    "港式饮品"
+    "招牌手工面",
+    "客栈小菜",
+    "自家饮品",
+    "汤粥",
+    "西北小吃",
+    "默认分类"
   ],
   propsSort: {
   }
