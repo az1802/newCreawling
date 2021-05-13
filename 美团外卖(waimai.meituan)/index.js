@@ -5,10 +5,10 @@ const requestMenuJson = require("./merchantInfo.js");
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: "包嘻嘻",
+  name: "卤班肉匠",
   logo:""
 }
-let categoryList =  merchantMenuInfo.food_spu_tags
+let categoryList = merchantMenuInfo.food_spu_tags
 
 const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
@@ -19,44 +19,14 @@ const exportMode = "keruyun"
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "份量",
-    "口味",
-    "配菜",
-    "选扒",
-    "温度",
-    "甜度",
-    "风味选择",
-    "配汁",
-    "选香肠",
-    "加奶",
-    "主食选择",
-    "冰块",
-    "分类",
-    "奶茶甜度",
-    "奶茶温度",
-    "柠茶温度",
-    "柠茶甜度"
+    "选择",
+    "辣度"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "份量",
-    "口味",
-    "配菜",
-    "选扒",
-    "温度",
-    "甜度",
-    "风味选择",
-    "配汁",
-    "选香肠",
-    "加奶",
-    "主食选择",
-    "冰块",
-    "分类",
-    "奶茶甜度",
-    "奶茶温度",
-    "柠茶温度",
-    "柠茶甜度"
+    "选择",
+    "辣度"
   ],
   propsSort: {
   }
@@ -185,8 +155,6 @@ async function genImgsAndExcel() {
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
-
-
 
   // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {

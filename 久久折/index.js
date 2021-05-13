@@ -40,7 +40,7 @@ function handleFoodPropGroup(foodDetail) {
     propGroup.values = specs.options && specs.options.map(optionItem => {
       return {
         "value": optionItem.name,
-        "price": parseFloat(optionItem.price)/100,
+        "price": parseFloat(optionItem.price)/100 || 0,
         "propName": propGroup.name,
         "isMul": false
       }
@@ -63,7 +63,8 @@ function handleFoodPropGroup(foodDetail) {
       return {
         "value": optionItem.name,
         "propName": attrGroup.title,
-        "isMul": !!attrGroup.multiple
+        "isMul": !!attrGroup.multiple,
+        "price":0
       }
     })
     res.push(propGroupTemp)
@@ -84,7 +85,7 @@ async function genMenuFoods() {
     // console.log(records)
     records.forEach(record => {
       let foodTemp = {
-        name: record.item.name,
+        name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
         imgUrl: record.item.photo_url || defaultImgUrl,
         categoryName: categoryObj[record.item.category_id],
         categoryId:record.item.category_id,
@@ -94,6 +95,7 @@ async function genMenuFoods() {
     })
   }
 
+  logInfo(allFoods,"allFoods")
 
 
   let categoryData = {};
@@ -114,10 +116,10 @@ async function genMenuFoods() {
     // console.log( foodDetail.item.name)
     foods.push({
       id: foodDetail.item.id,
-      name: foodDetail.item.name,
+      name:foodDetail.item.name + (!!foodDetail.item.description ? `(${foodDetail.item.description})` : ""),
       picUrl: foodDetail.item.photo_url,
       categoryName: categoryName,
-      price: parseFloat(foodDetail.item.price)/100,
+      price: parseFloat(foodDetail.item.price)/100 || 0,
       unit: "份",
       props:handleFoodPropGroup(foodDetail),
     })

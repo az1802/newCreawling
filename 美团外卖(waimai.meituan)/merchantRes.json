@@ -1,22 +1,634 @@
 {
-	"shopName": "捞厨好面(TCL国际店)",
+	"shopName": "卤班肉匠",
 	"shop_pic": "",
 	"categories": [
+		{
+			"name": "快乐干饭",
+			"foods": [
+				{
+					"name": "新店冲量活动立减2元♥5个星星♥再返3元",
+					"picUrl": "http://p0.meituan.net/wmproduct/7e2450e387b48d7599b90aab0ea0acfa163030.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤蛋（单点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/023c54bf9e6b232b6b4f3be9c05bd3f5488733.png",
+					"price": 1.5,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "38克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【福利】香炸美味鱼蛋（1个）",
+					"picUrl": "http://p0.meituan.net/wmproduct/7806415ad4faf0d87e681666c6a7885f793882.png",
+					"price": 0.28,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "收♥藏+0.1元购❤️盲盒饮料一瓶♥",
+					"picUrl": "http://p1.meituan.net/wmproduct/a58a8aae722222a3e082c138134f295b966300.png",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "任选一款",
+							"values": [
+								{
+									"value": "可乐",
+									"price": 0,
+									"propName": "任选一款",
+									"isMul": true
+								},
+								{
+									"value": "冰红茶",
+									"price": 0,
+									"propName": "任选一款",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【限量】小酥肉+奥尔良鸡扒+卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/555942bea4aea23e41b10ae962b7c76c1057994.png",
+					"price": 15.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "⭐帅哥美女都喜欢点⭐",
+					"picUrl": "http://p0.meituan.net/wmproduct/cb6efdf52ce41b7bb3b9710dd457c182918420.png",
+					"price": 0.09,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【霸王餐】秘制卤肉拌饭+黑椒鸡排+卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "炸鸡扒+时蔬+卤蛋+泰国香米",
+					"picUrl": "http://p0.meituan.net/xianfu/f1712da7798e7fdbb82817c57d53b14b389807.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香饭要多点",
+					"picUrl": "http://p0.meituan.net/wmproduct/d137b97bd9210e3eca191b80b1233650909299.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【至尊】香炸迷你小鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/d5ad57a2e5ffcdfe515e7387e6de4f54785561.png",
+					"price": 2.98,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【特色双拼】秘制手撕鸡拌饭+小酥肉+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/cb41ebe13fb4084c96689b3777424c751047251.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【牛油拌饭】卤香牛腩+卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/e61d1c18f20936f74e9663e80e0508271048585.png",
+					"price": 21.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【美味】黑椒鸡排+手撕鸡+荷包蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3e84a09a364fdc6ed1b603db4d6e17aa198769.jpg",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【可口】黑椒鸡排+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/86f592df1410c7633df3258bf0511c121061875.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "奥尔良鸡扒+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/xianfu/8e16a59a0a52ef39482b8a0832591353353618.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【牛气冲天】卤香牛油拌饭+卤蛋+香肠+时蔬+香米️",
+					"picUrl": "http://p1.meituan.net/wmproduct/3445301c08654cd28f1ca844514c8022112472.jpg",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香肠一根（单点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/0224cc6d858a313062256493cf35a7be146000.jpg",
+					"price": 1.5,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "80克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【贵族】秘制卤肉拌饭+秘制卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/72b0644f7cf8af048a30755656c4de291103400.png",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【招牌】秘制手撕鸡拌饭+香肠+卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/36c0cebe4b14044b7badaf4a7dc7f5161073306.png",
+					"price": 15.88,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": []
+				},
+				{
+					"name": "香喷喷的白米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/bc4f79595625abf6fc7af0d5b5bc0411143257.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "快乐干饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "热销",
+			"foods": [
+				{
+					"name": "收♥藏+0.1元购❤️盲盒饮料一瓶♥",
+					"picUrl": "http://p1.meituan.net/wmproduct/a58a8aae722222a3e082c138134f295b966300.png",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "任选一款",
+							"values": [
+								{
+									"value": "可乐",
+									"price": 0,
+									"propName": "任选一款",
+									"isMul": true
+								},
+								{
+									"value": "冰红茶",
+									"price": 0,
+									"propName": "任选一款",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【招牌】秘制手撕鸡拌饭+香肠+卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/36c0cebe4b14044b7badaf4a7dc7f5161073306.png",
+					"price": 15.88,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "⭐帅哥美女都喜欢点⭐",
+					"picUrl": "http://p0.meituan.net/wmproduct/cb6efdf52ce41b7bb3b9710dd457c182918420.png",
+					"price": 0.09,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【霸王餐】秘制卤肉拌饭+黑椒鸡排+卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【至尊】香炸迷你小鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/d5ad57a2e5ffcdfe515e7387e6de4f54785561.png",
+					"price": 2.98,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【牛油拌饭】卤香牛腩+卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/e61d1c18f20936f74e9663e80e0508271048585.png",
+					"price": 21.88,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【限量】小酥肉+奥尔良鸡扒+卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/555942bea4aea23e41b10ae962b7c76c1057994.png",
+					"price": 15.88,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "元气荷包蛋（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/0ba0fb80cbdb315385d660364c14a025962320.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "30克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香脆小酥肉（加到主食里）",
+					"picUrl": "http://p1.meituan.net/wmproduct/ff715abe6c5aa9ed5d929e73c08f9d5d1010174.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤手撕鸡（加到主食里）",
+					"picUrl": "http://p0.meituan.net/wmproduct/45708977802cf9aecabd2459a1636066921574.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
 		{
 			"name": "折扣",
 			"foods": [
 				{
-					"name": "港式冰火菠萝油（热销珠三角）",
-					"picUrl": "http://p0.meituan.net/wmproduct/b2b04523773ec6018ed6489515b29b3c131259.jpg",
-					"price": 4.99,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "招牌港式西多士（4块）",
-					"picUrl": "http://p0.meituan.net/wmproduct/d86b867a95decc3231ea93a135ad898e271521.jpg",
-					"price": 10.8,
+					"name": "炸鸡扒+时蔬+卤蛋+泰国香米",
+					"picUrl": "http://p0.meituan.net/xianfu/f1712da7798e7fdbb82817c57d53b14b389807.jpg",
+					"price": 16.8,
 					"unit": "份",
 					"categoryName": "折扣",
 					"props": [
@@ -24,2478 +636,451 @@
 							"name": "份量",
 							"values": [
 								{
-									"value": "4块",
+									"value": "1人份",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
 								}
 							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "牛油味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "花生味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
 						}
 					]
 				},
 				{
-					"name": "菠萝（鸡扒/猪扒）堡",
-					"picUrl": "http://p0.meituan.net/wmproduct/dfbe2fda10af58e2f8b22f4e9e672793317183.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式丝袜奶茶（冷/热）",
-					"picUrl": "http://p0.meituan.net/wmproduct/fee0acc8dcb2d88c7eae388307e35c60214811.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "大澳门（猪扒/鸡扒）包",
-					"picUrl": "http://p0.meituan.net/wmproduct/c177c1edf73374097157e27bf84d209b234390.jpg",
-					"price": 12.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "加青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "加番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不配菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜柠百香果",
-					"picUrl": "http://p0.meituan.net/wmproduct/b2fcd320c35a7f3f2c10cc0cf0b78a4448246.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "去冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典黑砖奶茶（热/冷）",
-					"picUrl": "http://p0.meituan.net/wmproduct/f60ffb728b483fbffaa7aa6b05340534180976.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式红柠茶（700ml）",
-					"picUrl": "http://p0.meituan.net/wmproduct/a927297c3ede796597165e66d0c0514d148392.jpg",
-					"price": 8.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉菌菇饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/4c6a41058e3465ebfb7f6a69a30dc37b982529.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "奶茶包满罐（大杯多料）",
-					"picUrl": "http://p1.meituan.net/wmproduct/a1d24766008086835cf6dbc746ed952c183575.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "公司三明治（4块）",
-					"picUrl": "http://p0.meituan.net/wmproduct/19c9540f7c2817d35de136a5b0e540d8287931.jpg",
-					"price": 14.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "鲜奶烧仙草（足料大杯）",
-					"picUrl": "http://p0.meituan.net/wmproduct/3d71b5d730618b6e59ebf67c2cbc0b4380377.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "风味中式奶绿",
-					"picUrl": "http://p0.meituan.net/wmproduct/9ac19c756f999a25374c2b14b13bb12b63161.jpg",
-					"price": 13.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "风味选择",
-							"values": [
-								{
-									"value": "仙草+爆红豆",
-									"price": 0,
-									"propName": "风味选择",
-									"isMul": true
-								},
-								{
-									"value": "寒天+珍珠",
-									"price": 0,
-									"propName": "风味选择",
-									"isMul": true
-								},
-								{
-									"value": "寒天+椰果",
-									"price": 0,
-									"propName": "风味选择",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "去冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梅菜鱼腩饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/9802032de3ef5791a839fe9e2a5c82171016583.jpg",
-					"price": 16.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "香煎鸡扒饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/67f8de6d8558db9f196ffb84fef76890380904.jpg",
-					"price": 18.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "配汁",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "黑椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "台湾珍珠奶茶（冷/热）",
-					"picUrl": "http://p1.meituan.net/wmproduct/2202df34fab0f9c2b9bb20fa0ffd1ca6205390.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "一嘻西多士（6块）",
-					"picUrl": "http://p0.meituan.net/wmproduct/433b01865feefab9219d188ca205933a205021.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "面豉五花肉饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/13268d3ec404a4d6259a5c2ca6a496b4472823.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "美式（热狗/黑椒）包",
-					"picUrl": "http://p0.meituan.net/wmproduct/cd9bcc74a06fcf2345e63e93c6c3cdff235264.jpg",
-					"price": 7.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "选香肠",
-							"values": [
-								{
-									"value": "夹热狗肠",
-									"price": 0,
-									"propName": "选香肠",
-									"isMul": true
-								},
-								{
-									"value": "夹黑椒肠",
-									"price": 0,
-									"propName": "选香肠",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式（鸡扒/猪扒）公仔面",
-					"picUrl": "http://p0.meituan.net/wmproduct/83617488aa7a98abf7f2ebd87748b5c1363499.jpg",
-					"price": 18.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧滑蛋饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/e4e3a0df58566b2cace173effb0ecf88352350.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "香煎猪扒饭（配靓汤）",
-					"picUrl": "http://p1.meituan.net/wmproduct/c8d2f693ef17136889d85bc8025f301a375910.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "配汁",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "黑椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茉莉柠檬绿茶（大杯）",
-					"picUrl": "http://p0.meituan.net/wmproduct/ba206546dd17803e354c2acaa80d6a3488352.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "去冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爆龙珠奶茶（热/冷）",
-					"picUrl": "http://p0.meituan.net/wmproduct/99fc1249ab883498ee7633d97cf642be288679.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典美式咖啡（热 /冰）",
-					"picUrl": "http://p0.meituan.net/wmproduct/8f51d9cc0cb469ba9a7406a9f62f1ec9290718.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "配糖包",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "不配糖包",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加奶",
-							"values": [
-								{
-									"value": "配奶球",
-									"price": 0,
-									"propName": "加奶",
-									"isMul": true
-								},
-								{
-									"value": "不配奶球",
-									"price": 0,
-									"propName": "加奶",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "（鸡扒/猪扒）汤米粉",
-					"picUrl": "http://p1.meituan.net/wmproduct/d101f5c96f9ff18b0db69ffb29551548228713.jpg",
-					"price": 17.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "辣味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梅菜鲜肉饼饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/600af028c1af271789f8cd668164872e297176.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "牛腩汤米粉/面",
-					"picUrl": "http://p0.meituan.net/wmproduct/f72ca2b8bb51bd747efdeb4b281e5a6d158387.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "主食选择",
-							"values": [
-								{
-									"value": "配米粉",
-									"price": 0,
-									"propName": "主食选择",
-									"isMul": true
-								},
-								{
-									"value": "配面",
-									"price": 0,
-									"propName": "主食选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄金炸薯条（大份）",
-					"picUrl": "http://p0.meituan.net/wmproduct/95cff8ae50fb4d110523976426d367fc269765.jpg",
-					"price": 10.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "嘻三鲜汤米粉",
-					"picUrl": "http://p0.meituan.net/wmproduct/7c2e82c98c7f32c87a9e7747f490aea6365026.jpg",
-					"price": 15.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "辣味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "包大五味鸭肶饭（配靓汤）",
-					"picUrl": "http://p1.meituan.net/wmproduct/387240fe8ee836eae8d5485a7e619fc3377779.jpg",
-					"price": 18.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "海鲜咖喱鸡饭（配靓汤）",
-					"picUrl": "http://p1.meituan.net/wmproduct/ec0f876c3428df1fccc831e9543fc109260071.jpg",
-					"price": 22.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "薯仔牛腩饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/ffffa651b5746d711504871c4e8e2cc41884452.png",
-					"price": 22.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "奥尔良烤翅（3只）",
-					"picUrl": "http://p0.meituan.net/wmproduct/b29c1ce388a6cfba77ea732ebf5d8c0a219772.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "咖喱牛肉饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/3351664afb2be221704d07232e686fee276691.jpg",
-					"price": 23.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "四海咖喱鱼蛋（6粒）",
-					"picUrl": "http://p0.meituan.net/wmproduct/03ca9a656ee89b298f8418946695a5d7202173.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "手工奶香曲奇饼（罐装）",
-					"picUrl": "http://p0.meituan.net/wmproduct/afe100c4316a1580aa804b186197b644195800.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "茄子肉丝饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/17647515d5f6c473a7581c94367b877e306000.jpg",
-					"price": 13.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "豉汁排骨饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/e89044a2bdf45865ea79daddbad9a483374522.jpg",
-					"price": 23.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "番茄滑蛋饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/2974e3f215a480c45f25ed8fea91a4e3173089.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "手工鲜肉云吞",
-					"picUrl": "http://p1.meituan.net/wmproduct/dbcf9599b1fbed1fa5cca7fa68ecd85e138987.jpg",
-					"price": 13.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "金鱿肉饼饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/56cb1987b51fd856fcd1f592fadae5ac995308.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "回锅肉饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/724f7813f15d6bb00bd0fa89d319d0fc176171.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "霸气五彩炒饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/20db6ceb883b9f5f1ea52f88ca010940163634.jpg",
-					"price": 11.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "手工奶香吐司（方型1袋）",
-					"picUrl": "http://p1.meituan.net/wmproduct/8472f2d6c554259fe14f938a063f6d88205354.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "收藏∥店铺（点击右上角⭐️）送产品1份（只送1份）",
-					"picUrl": "http://p0.meituan.net/wmproduct/596c37365d9e782cacba5660235c67c534991.jpg",
-					"price": 0.01,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "黑椒肠",
-					"picUrl": "http://p1.meituan.net/wmproduct/d8a2b8f6a933a45effbb3f84869fbb6c338890.jpg",
-					"price": 3.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "热狗肠",
-					"picUrl": "http://p1.meituan.net/wmproduct/9337736ebb11d7d33bd25393cca5b1d8311304.jpg",
-					"price": 3.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "（鸡扒/猪扒）三明治（4块）",
-					"picUrl": "http://p1.meituan.net/wmproduct/49039a99e8a3c4fed67eb413418d6f95302362.jpg",
-					"price": 17.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酥脆鸡米花",
-					"picUrl": "http://p1.meituan.net/wmproduct/1b930ee417a10b9c943d2ffe56984d4f300730.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "酥炸鲜肉云吞（8个）",
-					"picUrl": "http://p0.meituan.net/wmproduct/d5fcc85df65986131f85865f220218fb141044.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "配汁",
-							"values": [
-								{
-									"value": "甜酸汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "番茄酱",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "辣椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香煎鲜肉韭菜饺（6个）",
-					"picUrl": "http://p0.meituan.net/wmproduct/ac181bddb9079e16cff8c1d390420f0f156721.jpg",
-					"price": 11.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "配汁",
-							"values": [
-								{
-									"value": "甜酸汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "辣椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "蕃茄汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠乐/柠七",
-					"picUrl": "http://p0.meituan.net/wmproduct/2ffc9ed83589f4a5ebc1d5f925dbe4f1213150.jpg",
-					"price": 6.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "冰块",
-							"values": [
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "分类",
-							"values": [
-								{
-									"value": "柠七",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								},
-								{
-									"value": "柠乐",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸柠七/咸柠乐",
-					"picUrl": "http://p0.meituan.net/wmproduct/7606e27bf811e12d3eec0d2c775f8742215212.jpg",
-					"price": 6.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "冰块",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "分类",
-							"values": [
-								{
-									"value": "咸柠七",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								},
-								{
-									"value": "咸柠乐",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "百香果益菌多（700ml）",
-					"picUrl": "http://p0.meituan.net/wmproduct/37edefa43263c673aac242f7f46aa476201030.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典金桔柠檬",
-					"picUrl": "http://p0.meituan.net/wmproduct/995c1e49bce55f05eb3ab65aa6991db9117589.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "台式姜母奶（热）",
-					"picUrl": "http://p0.meituan.net/wmproduct/590fe48e2fbeaf39a304a44f8a4605b9172870.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": []
-				},
-				{
-					"name": "3Q百香果茶（700ml）",
-					"picUrl": "http://p1.meituan.net/wmproduct/5769edd95e80df5b7d13a5bd5e2efbb354293.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "正常糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "韩式柚子茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/530d9586c5d57d8e6354906f127e843373561.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "B4(2个迷你菠萝油+鱼蛋+珍珠奶茶)",
-					"picUrl": "http://p0.meituan.net/wmproduct/96ddfe1f617e9a12d742775981835593121021.jpg",
-					"price": 22.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "奶茶甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "奶茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "奶茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "奶茶甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "奶茶温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "B2(丝袜奶茶+大澳门猪扒包)",
-					"picUrl": "http://p0.meituan.net/wmproduct/305d734bde4a11d846bc7c836337e27b263463.jpg",
-					"price": 22.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "奶茶温度",
-							"values": [
-								{
-									"value": "常规",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "B1(冰火菠萝油+丝袜奶茶)",
-					"picUrl": "http://p1.meituan.net/wmproduct/61ebfc1f55682d2a16a23a266a0ecf68226439.jpg",
+					"name": "奥尔良鸡扒+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/xianfu/8e16a59a0a52ef39482b8a0832591353353618.jpg",
 					"price": 16.8,
 					"unit": "份",
 					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "奶茶温度",
-							"values": [
-								{
-									"value": "常规",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "B3(美式热狗包+大杯港式红柠茶)",
-					"picUrl": "http://p1.meituan.net/wmproduct/08dfdb30396d03a372fc3e61e86908e5229855.jpg",
-					"price": 17.3,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "柠茶温度",
-							"values": [
-								{
-									"value": "常规",
-									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "柠茶甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "走糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "🍱精品🍜饭面",
-			"foods": [
-				{
-					"name": "收藏∥店铺（点击右上角⭐️）送产品1份（只送1份）",
-					"picUrl": "http://p0.meituan.net/wmproduct/596c37365d9e782cacba5660235c67c534991.jpg",
-					"price": 0.01,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "霸气五彩炒饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/20db6ceb883b9f5f1ea52f88ca010940163634.jpg",
-					"price": 11.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "回锅肉饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/724f7813f15d6bb00bd0fa89d319d0fc176171.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "金鱿肉饼饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/56cb1987b51fd856fcd1f592fadae5ac995308.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "番茄滑蛋饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/2974e3f215a480c45f25ed8fea91a4e3173089.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "茄子肉丝饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/17647515d5f6c473a7581c94367b877e306000.jpg",
-					"price": 13.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "包大五味鸭肶饭（配靓汤）",
-					"picUrl": "http://p1.meituan.net/wmproduct/387240fe8ee836eae8d5485a7e619fc3377779.jpg",
-					"price": 18.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "面豉五花肉饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/13268d3ec404a4d6259a5c2ca6a496b4472823.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "梅菜鱼腩饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/9802032de3ef5791a839fe9e2a5c82171016583.jpg",
-					"price": 16.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "牛肉菌菇饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/4c6a41058e3465ebfb7f6a69a30dc37b982529.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "海鲜咖喱鸡饭（配靓汤）",
-					"picUrl": "http://p1.meituan.net/wmproduct/ec0f876c3428df1fccc831e9543fc109260071.jpg",
-					"price": 22.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "手工鲜肉云吞",
-					"picUrl": "http://p1.meituan.net/wmproduct/dbcf9599b1fbed1fa5cca7fa68ecd85e138987.jpg",
-					"price": 13.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "嘻三鲜汤米粉",
-					"picUrl": "http://p0.meituan.net/wmproduct/7c2e82c98c7f32c87a9e7747f490aea6365026.jpg",
-					"price": 15.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "辣味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛腩汤米粉/面",
-					"picUrl": "http://p0.meituan.net/wmproduct/f72ca2b8bb51bd747efdeb4b281e5a6d158387.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": [
-						{
-							"name": "主食选择",
-							"values": [
-								{
-									"value": "配米粉",
-									"price": 0,
-									"propName": "主食选择",
-									"isMul": true
-								},
-								{
-									"value": "配面",
-									"price": 0,
-									"propName": "主食选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "（鸡扒/猪扒）汤米粉",
-					"picUrl": "http://p1.meituan.net/wmproduct/d101f5c96f9ff18b0db69ffb29551548228713.jpg",
-					"price": 17.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "辣味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式（鸡扒/猪扒）公仔面",
-					"picUrl": "http://p0.meituan.net/wmproduct/83617488aa7a98abf7f2ebd87748b5c1363499.jpg",
-					"price": 18.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梅菜鲜肉饼饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/600af028c1af271789f8cd668164872e297176.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "香煎猪扒饭（配靓汤）",
-					"picUrl": "http://p1.meituan.net/wmproduct/c8d2f693ef17136889d85bc8025f301a375910.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": [
-						{
-							"name": "配汁",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "黑椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "薯仔牛腩饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/ffffa651b5746d711504871c4e8e2cc41884452.png",
-					"price": 22.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "香煎鸡扒饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/67f8de6d8558db9f196ffb84fef76890380904.jpg",
-					"price": 18.8,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": [
-						{
-							"name": "配汁",
-							"values": [
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "黑椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "印度咖喱",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧滑蛋饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/e4e3a0df58566b2cace173effb0ecf88352350.jpg",
-					"price": 19.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "豉汁排骨饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/e89044a2bdf45865ea79daddbad9a483374522.jpg",
-					"price": 23.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				},
-				{
-					"name": "咖喱牛肉饭（配靓汤）",
-					"picUrl": "http://p0.meituan.net/wmproduct/3351664afb2be221704d07232e686fee276691.jpg",
-					"price": 23.3,
-					"unit": "份",
-					"categoryName": "🍱精品🍜饭面",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "招牌🏆菠萝包🏅",
-			"foods": [
-				{
-					"name": "港式冰火菠萝油（热销珠三角）",
-					"picUrl": "http://p0.meituan.net/wmproduct/b2b04523773ec6018ed6489515b29b3c131259.jpg",
-					"price": 4.99,
-					"unit": "份",
-					"categoryName": "招牌🏆菠萝包🏅",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "🍔汉堡🍞面包",
-			"foods": [
-				{
-					"name": "大澳门（猪扒/鸡扒）包",
-					"picUrl": "http://p0.meituan.net/wmproduct/c177c1edf73374097157e27bf84d209b234390.jpg",
-					"price": 12.8,
-					"unit": "份",
-					"categoryName": "🍔汉堡🍞面包",
-					"props": [
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "加青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "加番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不配菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "菠萝（鸡扒/猪扒）堡",
-					"picUrl": "http://p0.meituan.net/wmproduct/dfbe2fda10af58e2f8b22f4e9e672793317183.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "🍔汉堡🍞面包",
-					"props": [
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "选扒",
-							"values": [
-								{
-									"value": "鸡扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "美式（热狗/黑椒）包",
-					"picUrl": "http://p0.meituan.net/wmproduct/cd9bcc74a06fcf2345e63e93c6c3cdff235264.jpg",
-					"price": 7.3,
-					"unit": "份",
-					"categoryName": "🍔汉堡🍞面包",
-					"props": [
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "选香肠",
-							"values": [
-								{
-									"value": "夹热狗肠",
-									"price": 0,
-									"propName": "选香肠",
-									"isMul": true
-								},
-								{
-									"value": "夹黑椒肠",
-									"price": 0,
-									"propName": "选香肠",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手工奶香吐司（方型1袋）",
-					"picUrl": "http://p1.meituan.net/wmproduct/8472f2d6c554259fe14f938a063f6d88205354.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "🍔汉堡🍞面包",
-					"props": []
-				},
-				{
-					"name": "手工奶香曲奇饼（罐装）",
-					"picUrl": "http://p0.meituan.net/wmproduct/afe100c4316a1580aa804b186197b644195800.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "🍔汉堡🍞面包",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "精品🍗小吃🍟",
-			"foods": [
-				{
-					"name": "招牌港式西多士（4块）",
-					"picUrl": "http://p0.meituan.net/wmproduct/d86b867a95decc3231ea93a135ad898e271521.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "4块",
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（团餐）秘制卤肉拌饭+秘制卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 14.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "（团餐）秘制手撕鸡+秘制卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/72b0644f7cf8af048a30755656c4de291103400.png",
+					"price": 14.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/3c6c2443909946999216e5bc29af4272679713.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "250毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "http://p0.meituan.net/wmproduct/4596378cbd356863a3b89f3b516d7a9d641837.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "300毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "http://p1.meituan.net/wmproduct/184bc0243bc40e595155a7e0ed6b82fb595663.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒鸡排+卤蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3e84a09a364fdc6ed1b603db4d6e17aa198769.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "黑椒鸡排+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3e84a09a364fdc6ed1b603db4d6e17aa198769.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/a4b09f0edfa61fb3d6b9aea78a47d71c1069590.png",
+					"price": 18.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+黑椒鸡排+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/c852dcc89554a07d8d9344fcb2600d4f1080055.png",
+					"price": 19.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+鸡柳+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec9ca96a7a4e1077bdfdae0334567a01196747.jpg",
+					"price": 17.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec9ca96a7a4e1077bdfdae0334567a01196747.jpg",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/17bddfc792fe3e99b52f68fad060ebaa1113965.png",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+手撕鸡+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+黑椒鸡排+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+卤蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川香鸡柳（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec5ac59c04171b9ddcbcc33b5650013d820777.png",
+					"price": 3.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "88克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒鸡排（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c19c3a98189a2fea9d1dae56b9352bbd1024919.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉一份（加到主食里）",
+					"picUrl": "http://p0.meituan.net/wmproduct/2021d2fcf80a3b58466a0e3bea861c72800281.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤手撕鸡（加到主食里）",
+					"picUrl": "http://p0.meituan.net/wmproduct/45708977802cf9aecabd2459a1636066921574.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香脆小酥肉（加到主食里）",
+					"picUrl": "http://p1.meituan.net/wmproduct/ff715abe6c5aa9ed5d929e73c08f9d5d1010174.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "元气荷包蛋（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/0ba0fb80cbdb315385d660364c14a025962320.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "30克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤蛋（单点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/023c54bf9e6b232b6b4f3be9c05bd3f5488733.png",
+					"price": 1.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "38克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "收♥藏+0.1元购❤️盲盒饮料一瓶♥",
+					"picUrl": "http://p1.meituan.net/wmproduct/a58a8aae722222a3e082c138134f295b966300.png",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -2503,18 +1088,18 @@
 							]
 						},
 						{
-							"name": "口味",
+							"name": "任选一款",
 							"values": [
 								{
-									"value": "牛油味",
+									"value": "可乐",
 									"price": 0,
-									"propName": "口味",
+									"propName": "任选一款",
 									"isMul": true
 								},
 								{
-									"value": "花生味",
+									"value": "冰红茶",
 									"price": 0,
-									"propName": "口味",
+									"propName": "任选一款",
 									"isMul": true
 								}
 							]
@@ -2522,31 +1107,19 @@
 					]
 				},
 				{
-					"name": "香煎鲜肉韭菜饺（6个）",
-					"picUrl": "http://p0.meituan.net/wmproduct/ac181bddb9079e16cff8c1d390420f0f156721.jpg",
-					"price": 11.8,
+					"name": "（双拼套餐）秘制手撕鸡+黑椒鸡排+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/6f95c6a5c10bb525f58089cb73949706195849.jpg",
+					"price": 18.88,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
 					"props": [
 						{
-							"name": "配汁",
+							"name": "份量",
 							"values": [
 								{
-									"value": "甜酸汁",
+									"value": "888克",
 									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "辣椒汁",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "蕃茄汁",
-									"price": 0,
-									"propName": "配汁",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -2554,39 +1127,167 @@
 					]
 				},
 				{
-					"name": "一嘻西多士（6块）",
-					"picUrl": "http://p0.meituan.net/wmproduct/433b01865feefab9219d188ca205933a205021.jpg",
-					"price": 9.9,
+					"name": "（双拼套餐）秘制卤肉拌饭+手撕鸡+鸡柳+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/85ce2a018a6de54234e528f6d05bf1701111241.png",
+					"price": 19.88,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（大满足套餐）秘制卤肉拌饭+手撕鸡+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（双拼套餐）秘制卤肉拌饭+小酥肉+荷包蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（卤肉套餐）秘制卤肉拌饭+香肠+荷包蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（小资套餐）秘制手撕鸡+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec9ca96a7a4e1077bdfdae0334567a01196747.jpg",
+					"price": 24.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "(双人套餐3)秘制卤肉拌饭+香脆小酥肉+任选2份+超值肉多",
+					"picUrl": "http://p0.meituan.net/wmproduct/0e12db98a5e4914eaf4b8b20ee7c5861215033.jpg",
+					"price": 33.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "《双拼》秘制卤肉拌饭+小酥肉+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "🔥(双人套餐)秘制卤肉拌饭+秘制手撕鸡+任选2份+超值肉多",
+					"picUrl": "http://p0.meituan.net/wmproduct/0e12db98a5e4914eaf4b8b20ee7c5861215033.jpg",
+					"price": 32.88,
+					"unit": "份",
+					"categoryName": "折扣",
 					"props": []
 				},
 				{
-					"name": "酥炸鲜肉云吞（8个）",
-					"picUrl": "http://p0.meituan.net/wmproduct/d5fcc85df65986131f85865f220218fb141044.jpg",
-					"price": 12.3,
+					"name": "(双人套餐2)秘制手撕鸡拌饭+香脆小酥肉+任选2份+超值肉多",
+					"picUrl": "http://p1.meituan.net/wmproduct/04cf3194a7ef64eb697ec9dc724f5b51205201.jpg",
+					"price": 33.88,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
 					"props": [
 						{
-							"name": "配汁",
+							"name": "份量",
 							"values": [
 								{
-									"value": "甜酸汁",
+									"value": "888克",
 									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "番茄酱",
-									"price": 0,
-									"propName": "配汁",
-									"isMul": true
-								},
-								{
-									"value": "辣椒汁",
-									"price": 0,
-									"propName": "配汁",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -2594,1082 +1295,303 @@
 					]
 				},
 				{
-					"name": "公司三明治（4块）",
-					"picUrl": "http://p0.meituan.net/wmproduct/19c9540f7c2817d35de136a5b0e540d8287931.jpg",
-					"price": 14.3,
+					"name": "【牛转钱坤】卤香牛油拌饭+黑椒鸡排+卤蛋+香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/0cde1cc84b854513d3972bf1a3e80012111270.jpg",
+					"price": 22.88,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "《双拼》香脆小酥肉+黑椒鸡排+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/69fe624ac7717697187603e995bc56311050625.png",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "《双拼》秘制卤肉拌饭+手撕鸡+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "折扣",
 					"props": []
 				},
 				{
-					"name": "奥尔良烤翅（3只）",
-					"picUrl": "http://p0.meituan.net/wmproduct/b29c1ce388a6cfba77ea732ebf5d8c0a219772.jpg",
-					"price": 12.3,
+					"name": "《双拼》秘制手撕鸡+黑椒鸡排+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/6f95c6a5c10bb525f58089cb73949706195849.jpg",
+					"price": 18.88,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
 					"props": []
 				},
 				{
-					"name": "黄金炸薯条（大份）",
-					"picUrl": "http://p0.meituan.net/wmproduct/95cff8ae50fb4d110523976426d367fc269765.jpg",
-					"price": 10.3,
+					"name": "香喷喷的白米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/bc4f79595625abf6fc7af0d5b5bc0411143257.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【限量】小酥肉+奥尔良鸡扒+卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/555942bea4aea23e41b10ae962b7c76c1057994.png",
+					"price": 15.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【贵族】秘制卤肉拌饭+秘制卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/72b0644f7cf8af048a30755656c4de291103400.png",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香肠一根（单点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/0224cc6d858a313062256493cf35a7be146000.jpg",
+					"price": 1.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "80克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【牛气冲天】卤香牛油拌饭+卤蛋+香肠+时蔬+香米️",
+					"picUrl": "http://p1.meituan.net/wmproduct/3445301c08654cd28f1ca844514c8022112472.jpg",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【可口】黑椒鸡排+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/86f592df1410c7633df3258bf0511c121061875.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【美味】黑椒鸡排+手撕鸡+荷包蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3e84a09a364fdc6ed1b603db4d6e17aa198769.jpg",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【牛油拌饭】卤香牛腩+卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/e61d1c18f20936f74e9663e80e0508271048585.png",
+					"price": 21.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【特色双拼】秘制手撕鸡拌饭+小酥肉+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/cb41ebe13fb4084c96689b3777424c751047251.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【至尊】香炸迷你小鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/d5ad57a2e5ffcdfe515e7387e6de4f54785561.png",
+					"price": 2.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【霸王餐】秘制卤肉拌饭+黑椒鸡排+卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 17.88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【招牌】秘制手撕鸡拌饭+香肠+卤蛋+时蔬+泰国香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/36c0cebe4b14044b7badaf4a7dc7f5161073306.png",
+					"price": 15.88,
+					"unit": "份",
+					"categoryName": "折扣",
 					"props": []
 				},
 				{
-					"name": "酥脆鸡米花",
-					"picUrl": "http://p1.meituan.net/wmproduct/1b930ee417a10b9c943d2ffe56984d4f300730.jpg",
-					"price": 10.8,
+					"name": "⭐帅哥美女都喜欢点⭐",
+					"picUrl": "http://p0.meituan.net/wmproduct/cb6efdf52ce41b7bb3b9710dd457c182918420.png",
+					"price": 0.09,
 					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
-					"props": []
-				},
-				{
-					"name": "（鸡扒/猪扒）三明治（4块）",
-					"picUrl": "http://p1.meituan.net/wmproduct/49039a99e8a3c4fed67eb413418d6f95302362.jpg",
-					"price": 17.3,
-					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
+					"categoryName": "折扣",
 					"props": [
 						{
-							"name": "选扒",
+							"name": "份量",
 							"values": [
 								{
-									"value": "鸡扒",
+									"value": "1人份",
 									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								},
-								{
-									"value": "猪扒",
-									"price": 0,
-									"propName": "选扒",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "四海咖喱鱼蛋（6粒）",
-					"picUrl": "http://p0.meituan.net/wmproduct/03ca9a656ee89b298f8418946695a5d7202173.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
-					"props": []
-				},
-				{
-					"name": "热狗肠",
-					"picUrl": "http://p1.meituan.net/wmproduct/9337736ebb11d7d33bd25393cca5b1d8311304.jpg",
-					"price": 3.8,
-					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
-					"props": []
-				},
-				{
-					"name": "黑椒肠",
-					"picUrl": "http://p1.meituan.net/wmproduct/d8a2b8f6a933a45effbb3f84869fbb6c338890.jpg",
-					"price": 3.8,
-					"unit": "份",
-					"categoryName": "精品🍗小吃🍟",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "🥤奶茶🍹果茶",
-			"foods": [
-				{
-					"name": "韩式柚子茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/530d9586c5d57d8e6354906f127e843373561.jpg",
-					"price": 6.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3Q百香果茶（700ml）",
-					"picUrl": "http://p1.meituan.net/wmproduct/5769edd95e80df5b7d13a5bd5e2efbb354293.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "正常糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "风味中式奶绿",
-					"picUrl": "http://p0.meituan.net/wmproduct/9ac19c756f999a25374c2b14b13bb12b63161.jpg",
-					"price": 13.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "风味选择",
-							"values": [
-								{
-									"value": "仙草+爆红豆",
-									"price": 0,
-									"propName": "风味选择",
-									"isMul": true
-								},
-								{
-									"value": "寒天+珍珠",
-									"price": 0,
-									"propName": "风味选择",
-									"isMul": true
-								},
-								{
-									"value": "寒天+椰果",
-									"price": 0,
-									"propName": "风味选择",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "去冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "四季紫薯鲜奶（温热）",
-					"picUrl": "http://p1.meituan.net/wmproduct/a69bf48e79160f3c352f3257ebf29abe96282.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式红柠茶（700ml）",
-					"picUrl": "http://p0.meituan.net/wmproduct/a927297c3ede796597165e66d0c0514d148392.jpg",
-					"price": 8.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茉莉柠檬绿茶（大杯）",
-					"picUrl": "http://p0.meituan.net/wmproduct/ba206546dd17803e354c2acaa80d6a3488352.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "去冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "台湾珍珠奶茶（冷/热）",
-					"picUrl": "http://p1.meituan.net/wmproduct/2202df34fab0f9c2b9bb20fa0ffd1ca6205390.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式丝袜奶茶（冷/热）",
-					"picUrl": "http://p0.meituan.net/wmproduct/fee0acc8dcb2d88c7eae388307e35c60214811.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "台式姜母奶（热）",
-					"picUrl": "http://p0.meituan.net/wmproduct/590fe48e2fbeaf39a304a44f8a4605b9172870.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": []
-				},
-				{
-					"name": "鲜奶烧仙草（足料大杯）",
-					"picUrl": "http://p0.meituan.net/wmproduct/3d71b5d730618b6e59ebf67c2cbc0b4380377.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": []
-				},
-				{
-					"name": "奶茶包满罐（大杯多料）",
-					"picUrl": "http://p1.meituan.net/wmproduct/a1d24766008086835cf6dbc746ed952c183575.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典黑砖奶茶（热/冷）",
-					"picUrl": "http://p0.meituan.net/wmproduct/f60ffb728b483fbffaa7aa6b05340534180976.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "百香果益菌多（700ml）",
-					"picUrl": "http://p0.meituan.net/wmproduct/37edefa43263c673aac242f7f46aa476201030.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "常规糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常规冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典金桔柠檬",
-					"picUrl": "http://p0.meituan.net/wmproduct/995c1e49bce55f05eb3ab65aa6991db9117589.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜柠百香果",
-					"picUrl": "http://p0.meituan.net/wmproduct/b2fcd320c35a7f3f2c10cc0cf0b78a4448246.jpg",
-					"price": 10.8,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "去冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爆龙珠奶茶（热/冷）",
-					"picUrl": "http://p0.meituan.net/wmproduct/99fc1249ab883498ee7633d97cf642be288679.jpg",
-					"price": 12.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "标准糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典美式咖啡（热 /冰）",
-					"picUrl": "http://p0.meituan.net/wmproduct/8f51d9cc0cb469ba9a7406a9f62f1ec9290718.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "标准冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "配糖包",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "不配糖包",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加奶",
-							"values": [
-								{
-									"value": "配奶球",
-									"price": 0,
-									"propName": "加奶",
-									"isMul": true
-								},
-								{
-									"value": "不配奶球",
-									"price": 0,
-									"propName": "加奶",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸柠七/咸柠乐",
-					"picUrl": "http://p0.meituan.net/wmproduct/7606e27bf811e12d3eec0d2c775f8742215212.jpg",
-					"price": 6.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "冰块",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "分类",
-							"values": [
-								{
-									"value": "咸柠七",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								},
-								{
-									"value": "咸柠乐",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠乐/柠七",
-					"picUrl": "http://p0.meituan.net/wmproduct/2ffc9ed83589f4a5ebc1d5f925dbe4f1213150.jpg",
-					"price": 6.3,
-					"unit": "份",
-					"categoryName": "🥤奶茶🍹果茶",
-					"props": [
-						{
-							"name": "冰块",
-							"values": [
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冰块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "分类",
-							"values": [
-								{
-									"value": "柠七",
-									"price": 0,
-									"propName": "分类",
-									"isMul": true
-								},
-								{
-									"value": "柠乐",
-									"price": 0,
-									"propName": "分类",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -3679,92 +1601,76 @@
 			]
 		},
 		{
-			"name": "惊嘻🥂套餐🍮",
+			"name": "第二份半价",
 			"foods": [
 				{
-					"name": "B3(美式热狗包+大杯港式红柠茶)",
-					"picUrl": "http://p1.meituan.net/wmproduct/08dfdb30396d03a372fc3e61e86908e5229855.jpg",
-					"price": 17.3,
+					"name": "【福利】香炸美味鱼蛋（1个）",
+					"picUrl": "http://p0.meituan.net/wmproduct/7806415ad4faf0d87e681666c6a7885f793882.png",
+					"price": 0.28,
 					"unit": "份",
-					"categoryName": "惊嘻🥂套餐🍮",
+					"categoryName": "第二份半价",
 					"props": [
 						{
-							"name": "柠茶温度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "常规",
+									"value": "1人份",
 									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "柠茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "柠茶温度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "买赠",
+			"foods": [
+				{
+					"name": "香脆鸡排+卤蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/9c3d40bab5ec4042c93d13846931c5a11022424.png",
+					"price": 41,
+					"unit": "份",
+					"categoryName": "买赠",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "双拼套餐",
+			"foods": [
+				{
+					"name": "《双拼》秘制卤肉拌饭+手撕鸡+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "双拼套餐",
+					"props": []
+				},
+				{
+					"name": "《双拼》秘制手撕鸡+黑椒鸡排+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/6f95c6a5c10bb525f58089cb73949706195849.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "双拼套餐",
+					"props": []
+				},
+				{
+					"name": "《双拼》香脆小酥肉+黑椒鸡排+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/69fe624ac7717697187603e995bc56311050625.png",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "双拼套餐",
+					"props": [
 						{
-							"name": "柠茶甜度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "常规糖",
+									"value": "888克",
 									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "走糖",
-									"price": 0,
-									"propName": "柠茶甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -3772,66 +1678,19 @@
 					]
 				},
 				{
-					"name": "B2(丝袜奶茶+大澳门猪扒包)",
-					"picUrl": "http://p0.meituan.net/wmproduct/305d734bde4a11d846bc7c836337e27b263463.jpg",
-					"price": 22.3,
+					"name": "《双拼》秘制卤肉拌饭+小酥肉+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
 					"unit": "份",
-					"categoryName": "惊嘻🥂套餐🍮",
+					"categoryName": "双拼套餐",
 					"props": [
 						{
-							"name": "奶茶温度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "常规",
+									"value": "888克",
 									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配菜",
-							"values": [
-								{
-									"value": "青瓜",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "番茄",
-									"price": 0,
-									"propName": "配菜",
-									"isMul": true
-								},
-								{
-									"value": "不要菜",
-									"price": 0,
-									"propName": "配菜",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -3839,43 +1698,392 @@
 					]
 				},
 				{
-					"name": "B1(冰火菠萝油+丝袜奶茶)",
-					"picUrl": "http://p1.meituan.net/wmproduct/61ebfc1f55682d2a16a23a266a0ecf68226439.jpg",
+					"name": "【牛转钱坤】卤香牛油拌饭+黑椒鸡排+卤蛋+香米️",
+					"picUrl": "http://p0.meituan.net/wmproduct/0cde1cc84b854513d3972bf1a3e80012111270.jpg",
+					"price": 22.88,
+					"unit": "份",
+					"categoryName": "双拼套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "双人套餐",
+			"foods": [
+				{
+					"name": "🔥(双人套餐)秘制卤肉拌饭+秘制手撕鸡+任选2份+超值肉多",
+					"picUrl": "http://p0.meituan.net/wmproduct/0e12db98a5e4914eaf4b8b20ee7c5861215033.jpg",
+					"price": 32.88,
+					"unit": "份",
+					"categoryName": "双人套餐",
+					"props": []
+				},
+				{
+					"name": "(双人套餐2)秘制手撕鸡拌饭+香脆小酥肉+任选2份+超值肉多",
+					"picUrl": "http://p1.meituan.net/wmproduct/04cf3194a7ef64eb697ec9dc724f5b51205201.jpg",
+					"price": 33.88,
+					"unit": "份",
+					"categoryName": "双人套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "(双人套餐3)秘制卤肉拌饭+香脆小酥肉+任选2份+超值肉多",
+					"picUrl": "http://p0.meituan.net/wmproduct/0e12db98a5e4914eaf4b8b20ee7c5861215033.jpg",
+					"price": 33.88,
+					"unit": "份",
+					"categoryName": "双人套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "贵族专享",
+			"foods": [
+				{
+					"name": "（小资套餐）秘制手撕鸡+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec9ca96a7a4e1077bdfdae0334567a01196747.jpg",
+					"price": 24.88,
+					"unit": "份",
+					"categoryName": "贵族专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（双拼套餐）秘制卤肉拌饭+小酥肉+荷包蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "贵族专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（双拼套餐）秘制手撕鸡+黑椒鸡排+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/6f95c6a5c10bb525f58089cb73949706195849.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "贵族专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（双拼套餐）秘制卤肉拌饭+手撕鸡+鸡柳+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/85ce2a018a6de54234e528f6d05bf1701111241.png",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "贵族专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（大满足套餐）秘制卤肉拌饭+手撕鸡+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 18.88,
+					"unit": "份",
+					"categoryName": "贵族专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "（卤肉套餐）秘制卤肉拌饭+香肠+荷包蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "贵族专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "秘制卤肉饭",
+			"foods": [
+				{
+					"name": "秘制卤肉拌饭+卤蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "秘制卤肉饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+黑椒鸡排+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "秘制卤肉饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+手撕鸡+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/754c774666cd338022d509164f2b754f217916.jpg",
+					"price": 19.88,
+					"unit": "份",
+					"categoryName": "秘制卤肉饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉拌饭+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/17bddfc792fe3e99b52f68fad060ebaa1113965.png",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "秘制卤肉饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "秘制手撕鸡",
+			"foods": [
+				{
+					"name": "秘制手撕鸡+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec9ca96a7a4e1077bdfdae0334567a01196747.jpg",
+					"price": 16.88,
+					"unit": "份",
+					"categoryName": "秘制手撕鸡",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+鸡柳+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec9ca96a7a4e1077bdfdae0334567a01196747.jpg",
+					"price": 17.8,
+					"unit": "份",
+					"categoryName": "秘制手撕鸡",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+黑椒鸡排+香肠+时蔬+泰国香米",
+					"picUrl": "http://p1.meituan.net/wmproduct/c852dcc89554a07d8d9344fcb2600d4f1080055.png",
+					"price": 19.8,
+					"unit": "份",
+					"categoryName": "秘制手撕鸡",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制手撕鸡+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/a4b09f0edfa61fb3d6b9aea78a47d71c1069590.png",
+					"price": 18.8,
+					"unit": "份",
+					"categoryName": "秘制手撕鸡",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "888克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "鸡排套餐",
+			"foods": [
+				{
+					"name": "黑椒鸡排+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3e84a09a364fdc6ed1b603db4d6e17aa198769.jpg",
 					"price": 16.8,
 					"unit": "份",
-					"categoryName": "惊嘻🥂套餐🍮",
+					"categoryName": "鸡排套餐",
 					"props": [
 						{
-							"name": "奶茶温度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "常规",
+									"value": "888克",
 									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "飞冰",
-									"price": 0,
-									"propName": "奶茶温度",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "奶茶温度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -3883,66 +2091,374 @@
 					]
 				},
 				{
-					"name": "B4(2个迷你菠萝油+鱼蛋+珍珠奶茶)",
-					"picUrl": "http://p0.meituan.net/wmproduct/96ddfe1f617e9a12d742775981835593121021.jpg",
-					"price": 22.8,
+					"name": "黑椒鸡排+卤蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3e84a09a364fdc6ed1b603db4d6e17aa198769.jpg",
+					"price": 16.8,
 					"unit": "份",
-					"categoryName": "惊嘻🥂套餐🍮",
+					"categoryName": "鸡排套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "满减专享",
+			"foods": [
+				{
+					"name": "香脆鸡排+荷包蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/9680f7fb927607b264ffdc49e62aa5e91037988.png",
+					"price": 39.9,
+					"unit": "份",
+					"categoryName": "满减专享",
 					"props": [
 						{
-							"name": "奶茶甜度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "常规糖",
+									"value": "888克",
 									"price": 0,
-									"propName": "奶茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "奶茶甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "奶茶甜度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "香脆鸡排+小酥肉+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/c7673f524ad5a2faaf4774bf098a133b1036824.png",
+					"price": 39.9,
+					"unit": "份",
+					"categoryName": "满减专享",
+					"props": [
 						{
-							"name": "奶茶温度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "常规冰",
+									"value": "888克",
 									"price": 0,
-									"propName": "奶茶温度",
+									"propName": "份量",
 									"isMul": true
-								},
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香脆鸡排+卤蛋+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/9c3d40bab5ec4042c93d13846931c5a11022424.png",
+					"price": 41,
+					"unit": "份",
+					"categoryName": "满减专享",
+					"props": []
+				},
+				{
+					"name": "香脆鸡排+手撕鸡+香肠+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/3b84b415408038412749af0a699e50671047794.png",
+					"price": 40.9,
+					"unit": "份",
+					"categoryName": "满减专享",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
 								{
-									"value": "少冰",
+									"value": "888克",
 									"price": 0,
-									"propName": "奶茶温度",
+									"propName": "份量",
 									"isMul": true
-								},
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "加料区《单点不送》",
+			"foods": [
+				{
+					"name": "元气荷包蛋（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/0ba0fb80cbdb315385d660364c14a025962320.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "加料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
 								{
-									"value": "多冰",
+									"value": "30克",
 									"price": 0,
-									"propName": "奶茶温度",
+									"propName": "份量",
 									"isMul": true
-								},
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香脆小酥肉（加到主食里）",
+					"picUrl": "http://p1.meituan.net/wmproduct/ff715abe6c5aa9ed5d929e73c08f9d5d1010174.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "加料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
 								{
-									"value": "飞冰",
+									"value": "100克",
 									"price": 0,
-									"propName": "奶茶温度",
+									"propName": "份量",
 									"isMul": true
-								},
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤手撕鸡（加到主食里）",
+					"picUrl": "http://p0.meituan.net/wmproduct/45708977802cf9aecabd2459a1636066921574.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "加料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
 								{
-									"value": "热",
+									"value": "100克",
 									"price": 0,
-									"propName": "奶茶温度",
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制卤肉一份（加到主食里）",
+					"picUrl": "http://p0.meituan.net/wmproduct/2021d2fcf80a3b58466a0e3bea861c72800281.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "加料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒鸡排（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c19c3a98189a2fea9d1dae56b9352bbd1024919.png",
+					"price": 7.8,
+					"unit": "份",
+					"categoryName": "加料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川香鸡柳（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/ec5ac59c04171b9ddcbcc33b5650013d820777.png",
+					"price": 3.9,
+					"unit": "份",
+					"categoryName": "加料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "88克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮料区《单点不送》",
+			"foods": [
+				{
+					"name": "雪碧",
+					"picUrl": "http://p1.meituan.net/wmproduct/184bc0243bc40e595155a7e0ed6b82fb595663.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "http://p0.meituan.net/wmproduct/4596378cbd356863a3b89f3b516d7a9d641837.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "300毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/3c6c2443909946999216e5bc29af4272679713.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料区《单点不送》",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "250毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酱料区",
+			"foods": [
+				{
+					"name": "微辣（每份餐限点一份，多点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/75e372b56afb0df04b6abdbb3cdd6c941151354.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "酱料区",
+					"props": []
+				},
+				{
+					"name": "中辣（每份餐限点一份，多点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/75e372b56afb0df04b6abdbb3cdd6c941151354.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "酱料区",
+					"props": []
+				},
+				{
+					"name": "特辣（每份餐限点一份，多点不送）",
+					"picUrl": "http://p1.meituan.net/wmproduct/75e372b56afb0df04b6abdbb3cdd6c941151354.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "酱料区",
+					"props": []
+				},
+				{
+					"name": "海天陈醋（每份餐限点一份，多点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/e6d0252e34f154dfd2a6ca4cee7da522796002.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "酱料区",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "（品牌）服务区",
+			"foods": [
+				{
+					"name": "（品牌）品质服务（精选食材）",
+					"picUrl": "http://p0.meituan.net/wmproduct/ced9686bc16a9f8978bb65bcf1457d6442865.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "（品牌）服务区",
+					"props": []
+				},
+				{
+					"name": "招♥商合作伙伴：4009927773",
+					"picUrl": "http://p0.meituan.net/wmproduct/ced9686bc16a9f8978bb65bcf1457d6442865.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "（品牌）服务区",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "（团餐）优惠订购",
+			"foods": [
+				{
+					"name": "（团餐）秘制手撕鸡+秘制卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/72b0644f7cf8af048a30755656c4de291103400.png",
+					"price": 14.8,
+					"unit": "份",
+					"categoryName": "（团餐）优惠订购",
+					"props": []
+				},
+				{
+					"name": "（团餐）秘制卤肉拌饭+秘制卤蛋+时蔬+泰国香米",
+					"picUrl": "http://p0.meituan.net/wmproduct/7db4dde11b79f6cf24d133e48b9bb9281100782.png",
+					"price": 14.8,
+					"unit": "份",
+					"categoryName": "（团餐）优惠订购",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小主别滑了到底了",
+			"foods": [
+				{
+					"name": "都到底了就下个单呗",
+					"picUrl": "http://p1.meituan.net/wmproduct/5a7dc4cd52b1805aa70320970fa8417a1361568.png",
+					"price": "",
+					"unit": "份",
+					"categoryName": "小主别滑了到底了",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
 									"isMul": true
 								}
 							]

@@ -1,7 +1,7 @@
 {
   "data": {
-      "address": "深圳市南山区储能大厦负一层21号",
-      "bannerMode": "BANNER_FANPIAO_SNAP_UP",
+      "address": "佛山市南海区大沥镇黄岐建设大道33号万益广场",
+      "bannerMode": "BANNER_FANPIAO",
       "comboMealOnly": false,
       "disableBuyFanpiao": false,
       "disableCouponPackageRefund": false,
@@ -36,7 +36,7 @@
       "enableSelfPickUp": false,
       "enableShilaiMemberCardPay": false,
       "enableShilaiMemberCardRecharge": false,
-      "enableShilaiPromotionSplash": true,
+      "enableShilaiPromotionSplash": false,
       "enableShowSoldOutDishes": false,
       "enableShowTimeLimitSale": false,
       "enableTakeAway": false,
@@ -45,27 +45,27 @@
       "fanpiaoSalesBoostFactor": 1,
       "groupDiningCount": 0,
       "imageUrls": [
-          "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/06b2f7c9-3d22-4c3d-8fe6-01d203ecd5bb_tmp_32e1acb59a01664727945fb0e0b3c6b5.jpg"
+          "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1abde9d2-7b07-469d-bd97-7a27d6d906c6_tmp_4ea62b788bcf17630f801b6354c7507dba5df087e93fd148.jpg"
       ],
       "lat": 0,
       "lng": 0,
-      "logoUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/239ec3f7-a0cc-4790-8c59-d7ab89d5e897_tmp_25706340161ed89c1d0621d6b5946647.jpg",
-      "merchantId": "ebfebb2b644646edb98bb95a6bf2ee2a",
-      "merchantName": "炒码记",
-      "name": "炒码记",
+      "logoUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6d04df51-0e81-4610-bac9-808cb568ed69_tmp_e2e595a47d6ae97a8bae7fe8ee09191479b2de4e03a6c51e.jpg",
+      "merchantId": "769470b653f6423099731f987c3a9867",
+      "merchantName": "牛牛卤(万益广场)",
+      "name": "牛牛卤(万益广场)",
       "noDiscountTimeRanges": "",
       "opening": true,
-      "openingHoursDesc": "00:00-00:00",
+      "openingHoursDesc": "10:00-23:00",
       "packageBoxType": "LADDER",
       "payType": "PAY_FIRST",
-      "phone": "",
+      "phone": "15818811325",
       "recentlyOrderId": "",
       "recentlyPaidOrderId": "",
       "recommendedFoodPhotoUrls": [],
       "splashCouponCategoryId": "",
       "splashImageUrl": "",
-      "splashMode": "FANPIAO_SNAP_UP",
-      "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/69e29e03-1d00-4856-a824-849607b4a58d_tmp_850d88a907dd9720c8a1b5d56e5ea4ce.jpg",
+      "splashMode": "FANPIAO",
+      "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/54de08c1-8c00-4d22-9abc-10d7ecb9bc12_tmp_bc2d9097ea4aa435f5bb698db83d0b092870568a3a8a9dda.jpg",
       "storeId": ""
   }
 }

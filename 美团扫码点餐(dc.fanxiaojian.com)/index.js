@@ -10,28 +10,18 @@ let foodList = merchantMenuInfo.foodList
 const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications:[	"规格"],//规格
   practice: [
-    "招牌手工面",
-    "客栈小菜",
-    "自家饮品",
-    "汤粥",
-    "西北小吃",
-    "默认分类"
+  
   ],//做法
   feeding:[ ],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "招牌手工面",
-    "客栈小菜",
-    "自家饮品",
-    "汤粥",
-    "西北小吃",
-    "默认分类"
+    "规格"
   ],
   propsSort: {
   }
@@ -185,6 +175,7 @@ async function  handleRequestData(requestMenuData) {
             categoryName: categoryItem.dishesTypeName,
             props:[],
           };
+          foodData.picUrl = foodData.picUrl&&(foodData.picUrl.slice(0,foodData.picUrl.indexOf(".jpg")) + ".jpg")
           goodItem.categoryName = categoryItem.dishesTypeName;
           foodData.props = formatFoodProps(goodItem)
           res.push(foodData)

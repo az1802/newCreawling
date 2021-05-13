@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll} = require("../utils/index")
 
 
 
@@ -13,8 +13,8 @@ const shopRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/`
 const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${shopId}?mealType=EAT_IN`
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 
 
@@ -29,16 +29,15 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "用餐",
-    "粉类",
-    "加料"
+    "加料",
+    "备注",
+
 ],//做法
   feeding:[],
   remarks: [],//备注
   propsGroupSort: [
-    "用餐",
-    "粉类",
-    "加料"
+    "加料",
+    "备注",
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -155,6 +154,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
             categoryName:  categoryItem.category.name,
             props:[],
           };
+          foodData.name =   foodData.name.replace(/\//ig,"-")
           foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }
@@ -196,7 +196,8 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
     // genWord(merchantInfo, outputDir)
-    genSpecificationsWord(merchantInfo,outputDir,menuSetting)
+    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 
 }

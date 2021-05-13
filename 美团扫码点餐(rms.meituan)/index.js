@@ -9,8 +9,8 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 
 
 
-const exportMode = "keruyun"
-  // const exportMode = "feie"
+// const exportMode = "keruyun"
+  const exportMode = "feie"
 
 
 
@@ -29,26 +29,18 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "赠",
-    "主食选择",
-    "熟度",
-    "鸡蛋单面双面",
-    "酱汁选择"
+    "辣度",
+    "主食"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "赠",
-    "主食选择",
-    "熟度",
-    "鸡蛋单面双面",
-    "酱汁选择"
+    "辣度",
+    "主食"
   ],
 }
 
 let propsGroupArr = [];
-
-
 
 // 打印日志到test.json 文件夹
 async function logInfo(info,fileName="test.json") { 
@@ -58,7 +50,6 @@ async function logInfo(info,fileName="test.json") {
 // 获取原始数据
 async function getMerchantInfo() { 
   let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
-  await logInfo(merchantInfo, "merchantRes")
   return merchantInfo;
 }
 
@@ -179,6 +170,7 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
+    await logInfo(merchantInfo, "merchantRes")
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
@@ -192,9 +184,10 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+    
     // genWord(merchantInfo, outputDir)
     // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 
   

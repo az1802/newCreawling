@@ -353,7 +353,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     categoryItem.foods.forEach(foodItem => {
       foodItem.props.forEach((propItem) => {
         if (!allPropItemsSort[propItem.name]) {
-          allPropItemsSort[propItem.name] = propItem.values.map(i => { return i.price != 0 ? `${i.value}:${i.price}` : `${i.value}` });
+          allPropItemsSort[propItem.name] = propItem.values.map(i => { return i.price&&i.price != 0 ? `${i.value}:${i.price}` : `${i.value}` });
         } else {
           
           let oldSort = allPropItemsSort[propItem.name],appendIndex=0;
