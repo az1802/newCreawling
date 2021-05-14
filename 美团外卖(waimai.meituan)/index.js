@@ -5,28 +5,100 @@ const requestMenuJson = require("./merchantInfo.js");
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: "卤班肉匠",
+  name: "OKTea",
   logo:""
 }
 let categoryList = merchantMenuInfo.food_spu_tags
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll} = require("../utils/index")
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "选择",
-    "辣度"
+    "份量",
+    "冰量",
+    "茶底",
+    "加料",
+    "品类2",
+    "甜度",
+    "糖量",
+    "配料",
+    "饮品",
+    "小料分量",
+    "品种选择",
+    "配料选择",
+    "做法",
+    "柠檬渣",
+    "额外加料管饱",
+    "口味",
+    "八选三①",
+    "八选三②",
+    "八选三③",
+    "酱料",
+    "温度",
+    "小吃选择",
+    "小吃1",
+    "小吃2",
+    "小吃3",
+    "小吃4",
+    "小吃",
+    "面",
+    "加料1",
+    "加料2",
+    "配酱",
+    "甜度x牛奶带甜味",
+    "小料份量",
+    "配料4选1",
+    "加料3",
+    "甜度（牛奶有甜味）",
+    "甜度x牛奶带甜",
+    "饮品加料选择"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "选择",
-    "辣度"
+    "份量",
+    "冰量",
+    "茶底",
+    "加料",
+    "品类2",
+    "甜度",
+    "糖量",
+    "配料",
+    "饮品",
+    "小料分量",
+    "品种选择",
+    "配料选择",
+    "做法",
+    "柠檬渣",
+    "额外加料管饱",
+    "口味",
+    "八选三①",
+    "八选三②",
+    "八选三③",
+    "酱料",
+    "温度",
+    "小吃选择",
+    "小吃1",
+    "小吃2",
+    "小吃3",
+    "小吃4",
+    "小吃",
+    "面",
+    "加料1",
+    "加料2",
+    "配酱",
+    "甜度x牛奶带甜味",
+    "小料份量",
+    "配料4选1",
+    "加料3",
+    "甜度（牛奶有甜味）",
+    "甜度x牛奶带甜",
+    "饮品加料选择"
   ],
   propsSort: {
   }
@@ -121,6 +193,7 @@ async function  handleRequestData(requestMenuData) {
             props:[],
           };
           goodItem.categoryName = categoryData.name;
+          foodData.name = foodData.name.replace && foodData.name.replace(/\//ig, "-") || foodData.name;
           foodData.props = formatFoodProps(goodItem)
           res.push(foodData)
         }
@@ -163,7 +236,9 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
     // genWord(merchantInfo, outputDir)
-    genSpecificationsWord(merchantInfo, outputDir,menuSetting)
+    // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+
   }
 }
 

@@ -27,17 +27,33 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications:["规格"],//规格
   practice: [
-    "加料",
+    "就餐类型",
+    "熟度",
+    "双拼配料任选（1）",
+    "双拼配料任选（2）",
     "备注",
-
+    "做法",
+    "菜类",
+    "默认",
+    "温度",
+    "种类"
 ],//做法
   feeding:[],
   remarks: [],//备注
   propsGroupSort: [
-    "加料",
+    "就餐类型",
+    "熟度",
+    "双拼配料任选（1）",
+    "双拼配料任选（2）",
     "备注",
+    "做法",
+    "菜类",
+    "默认",
+    "规格",
+    "温度",
+    "种类"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -147,14 +163,17 @@ async function  handleRequestData(requestShopData,requestMenuData) {
       categoryData.foods = categoryItem.dishList.reduce((res,foodItem) => { 
         if (foodItem) { 
           let foodData = {
-            name:foodItem.name || "",
+            name:(foodItem.name || ""),
             picUrl: foodItem.image || foodItem.thumbImage || "",
             price:(parseFloat(foodItem.price)/100) || "",
             unit: foodItem.unit || "份",
             categoryName:  categoryItem.category.name,
             props:[],
           };
-          foodData.name =   foodData.name.replace(/\//ig,"-")
+          if (!foodData.name.trim().replaceAll){
+            console.log(foodData.name)
+          }
+          foodData.name =   foodData.name.trim().replaceAll(/\//ig,"-")
           foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }

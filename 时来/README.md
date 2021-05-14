@@ -11,7 +11,7 @@
 
 
 菜品目录信息 (替换商户id即可)
-https://shilai.zhiyi.cn/v2-38/merchant/dish_catalog/769470b653f6423099731f987c3a9867?mealType=EAT_IN
+https://shilai.zhiyi.cn/v2-38/merchant/dish_catalog/0876bab11b91459c989d4e4ff4c38f14?mealType=EAT_IN
 
 商户信息(替换商户id即可)
-https://shilai.zhiyi.cn/v2-38/merchant/769470b653f6423099731f987c3a9867
+https://shilai.zhiyi.cn/v2-38/merchant/0876bab11b91459c989d4e4ff4c38f14
