@@ -1,32 +1,31 @@
 
 const fs = require("fs");
 const path = require("path");
-const requestMenuJson = require("./merchantInfo.js");
-let merchantMenuInfo = requestMenuJson;
-
+const requestMenuJson = require("./merchantInfo.json");
+let merchantMenuInfo = requestMenuJson.goods_list;
+let metchantShopInfo = requestMenuJson.storeInfo;
+let baseUrl = "http://zhyx-images.eingdong.com/"
 let shopInfo = {
-  name: "粤喜车仔面",
-  logo:""
+  name: new String(metchantShopInfo.name),
+  logo:baseUrl + new String(metchantShopInfo.store_img_url),
 }
-let categoryList = merchantMenuInfo.food_spu_tags
+let categoryList =  merchantMenuInfo
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "口味",
-    "份量"
+   
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "口味",
-    "份量"
+   
   ],
   propsSort: {
   }
@@ -51,47 +50,15 @@ async function getMerchantInfo() {
 
 let propsGroupArr=[];
 
-
-
-/**
- * {
- * name:"",
- * values:[
- *  {
- *    value: propItem.Name,
-      price: propItem.Price,
-      propName:groupTemp.name,
-      isMul:true
- *  }
- * ]
- * }
- */
 function formatFoodProps(foodItem) { 
-  let {attrs=[]} = foodItem
+ 
   let propsRes = [];
-
-  attrs.forEach(attrGroupItem => {
-  
-    let groupTemp = {
-      name: attrGroupItem.name,
-      values: attrGroupItem.values.map(item => {
-        return {
-          value: item.value,
-          price: 0,
-          propName:attrGroupItem.name,
-          isMul:true
-        }
-      })
-    }
-    addPropsGroupArr(propsGroupArr,groupTemp.name)
-    propsRes.push(groupTemp)
-  })
-
   return propsRes;
+  
 }
 // 爬取的数据中进行信息提取
 async function  handleRequestData(requestMenuData) {
-  
+
   try {
     // 商户信息
     let merchantInfo = {
@@ -99,29 +66,24 @@ async function  handleRequestData(requestMenuData) {
       shop_pic: shopInfo.logo,
       categories:[]
     }
-
-    // 菜品目录
     let categories = [];
-
-
-    categories = categoryList.map(categoryItem => { 
+    categories =categoryList.map(categoryItem => { 
       let categoryData = {
         name: "",
         foods:[]
       };
-      categoryData.name = categoryItem.name;
-      categoryData.foods = categoryItem.spus.reduce((res, goodItem) => {
+      categoryData.name = new String(categoryItem.title);
+      categoryData.foods =categoryItem.list.reduce((res, goodItem) => {
         if (goodItem) { 
           let foodData = {
-            name:goodItem.name || "",
-            picUrl: goodItem.picture || "",
-            price:goodItem.min_price || "",
-            unit: "份",
+            name:new String(goodItem.name || ""),
+            picUrl: goodItem.img_url ? goodItem.img_site+goodItem.img_url : (goodItem.img_url_thumb || ""  ),
+            price:goodItem.price || "",
+            unit: goodItem.unit || "份",
             categoryName: categoryData.name,
             props:[],
           };
           goodItem.categoryName = categoryData.name;
-          foodData.name = foodData.name.replace && foodData.name.replace(/\//ig, "-") || foodData.name;
           foodData.props = formatFoodProps(goodItem)
           res.push(foodData)
         }
@@ -164,10 +126,10 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
     // genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
-    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
-
+    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
   }
 }
+
 
 genImgsAndExcel();

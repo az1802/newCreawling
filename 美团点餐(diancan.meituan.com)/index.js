@@ -8,8 +8,8 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 
-// const exportMode = "keruyun"
-const exportMode = "feie"
+const exportMode = "keruyun"
+// const exportMode = "feie"
 
 
 
@@ -25,19 +25,21 @@ const { isRegExp } = require("util");
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
-  practice:[],//做法
+  specifications:[ "规格"],//规格
+  practice: [
+    "甜度",
+    "温度",
+    "忌口",
+  ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-   
+    "甜度",
+    "温度",
+    "忌口",
+    "规格"
   ],
-  propsGroupSort: [
-    "规格",
-    "辣度",
-    "微辣",
-    "加料"
-  ],
+ 
   propsSort: {
   }
 }

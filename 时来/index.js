@@ -13,8 +13,8 @@ const shopRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/`
 const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${shopId}?mealType=EAT_IN`
 
 
-// const exportMode = "keruyun"
-const exportMode = "feie"
+const exportMode = "keruyun"
+// const exportMode = "feie"
 
 
 
@@ -27,33 +27,21 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:["规格"],//规格
+  specifications:[],//规格
   practice: [
-    "就餐类型",
-    "熟度",
-    "双拼配料任选（1）",
-    "双拼配料任选（2）",
-    "备注",
-    "做法",
-    "菜类",
-    "默认",
-    "温度",
-    "种类"
+    "打包",
+    "小吃",
+    "卤菜",
+    "饮料"
 ],//做法
-  feeding:[],
+  feeding:["加料"],
   remarks: [],//备注
   propsGroupSort: [
-    "就餐类型",
-    "熟度",
-    "双拼配料任选（1）",
-    "双拼配料任选（2）",
-    "备注",
-    "做法",
-    "菜类",
-    "默认",
-    "规格",
-    "温度",
-    "种类"
+    "打包",
+    "小吃",
+    "卤菜",
+    "饮料",
+    "加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -152,8 +140,6 @@ async function  handleRequestData(requestShopData,requestMenuData) {
     // 菜品目录
     let categories = []
 
-    
-
     categories = requestMenuData.dishes.map(categoryItem => { 
       let categoryData = {
         name: "",
@@ -170,10 +156,10 @@ async function  handleRequestData(requestShopData,requestMenuData) {
             categoryName:  categoryItem.category.name,
             props:[],
           };
-          if (!foodData.name.trim().replaceAll){
+          if (!foodData.name.trim().replace){
             console.log(foodData.name)
           }
-          foodData.name =   foodData.name.trim().replaceAll(/\//ig,"-")
+          foodData.name =   foodData.name.trim().replace(/\//ig,"-")
           foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }
