@@ -506,7 +506,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         data:[title].concat(excelData)
     }
   ]);
-  fs.writeFileSync(path.join(shopDir, `${shopName}-客如云菜品导入(包含规格,属性,加料,备注信息).xlsx`), buffer, { 'flag': 'w' });
+  fs.writeFileSync(path.join(shopDir, `${shopName}-飞鹅模式菜品导入(包含规格,属性,加料,备注信息).xlsx`), buffer, { 'flag': 'w' });
   fs.writeFileSync(path.join(shopDir, "所有菜品属性名称.txt"),"所有菜品属性名称:"+Object.keys(allPropObj).join(","))
 }
 

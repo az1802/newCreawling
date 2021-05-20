@@ -1,0 +1,45 @@
+{
+	"respCode": "90000",
+	"respDesc": "交易成功",
+	"requestSeqId": "ufvzas91wc",
+	"respSeq": "20210520102075538",
+	"respData": {
+		"goodsGroupDTOList": [{
+			"groupId": "261225705282994176",
+			"groupName": "特色手工鲜粉",
+			"groupSN": "1",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "262409427457933312",
+			"groupName": "手工炖粉/拌粉",
+			"groupSN": "1",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "261593340973678592",
+			"groupName": "现炒码粉",
+			"groupSN": "2",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "261216866991079424",
+			"groupName": "特色手工面",
+			"groupSN": "3",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "261238642924060672",
+			"groupName": "家乡小吃",
+			"groupSN": "4",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "261227680548519936",
+			"groupName": "饮料酒水",
+			"groupSN": "5",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}]
+	}
+}

@@ -1,130 +1,128 @@
+/*
+ * @Author: your name
+ * @Date: 2021-03-09 12:20:00
+ * @LastEditTime: 2021-05-20 10:50:12
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /newCreawling/汇来米扫码点餐/index.js
+ */
 
 const fs = require("fs");
 const path = require("path");
+const requestMenuJson = require("./merchantInfo.json");
+const categoryJson = require("./merchantCategory.json");
+let merchantMenuInfo = requestMenuJson.respData.goodList;
+let goodsList = requestMenuJson.respData.goodsList;
+let categoryList = categoryJson.respData.goodsGroupDTOList;
+console.log(categoryList)
+
+let shopInfo = {
+  name: "村口粉铺深圳南山店",
+  logo:""
+}
+
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll} = require("../utils/index")
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
-
-
-
-
-const shopId = 1000429
 // const exportMode = "keruyun"
 const exportMode = "feie"
-const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
-const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
-let requestShopData = require("./tempInfo/shopData.json");
-let requestMenuData = require("./tempInfo/menuData.json");
-const { isRegExp } = require("util");
-
+let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
+  specifications:[],//规格
+  practice: [
+   
+  ],//做法
+  feeding:[],//加料
+  remarks: [],//备注
+  propsGroupSort: [
+    
+  ],
+  propsSort: {
+  }
+}
 
 
 
 const outputDir = path.join(__dirname, "merchantInfos")
 
-let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
-  practice:[],//做法
-  feeding:[],//加料
-  remarks: [],//备注
-  propsGroupSort: [
-   
-  ],
-}
-
-let propsGroupArr = [];
-
 
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test.json") { 
-  fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
+async function logInfo(info,fileName="test") { 
+  fs.writeFileSync("./"+fileName+".json",JSON.stringify(info,null,'\t'))
 }
 
 // 获取原始数据
 async function getMerchantInfo() { 
-  // let requestShopData = await requestUrl(shopRequestUrl);
-  // logInfo(requestShopData,"shopData")
   // let requestMenuData = await requestUrl(menuRequestUrl);
-  // logInfo(requestShopData, "menuData")
-  let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
-  await logInfo(merchantInfo, "merchantRes")
+  let merchantInfo = await handleRequestData(merchantMenuInfo)
   return merchantInfo;
 }
 
-function formatFoodProps(foodItem,flag) { 
+let propsGroupArr=[];
 
-  return flag ? [
-    {
-      "name": "辣度",
-      "values": [
-        {
-          "value": "不辣",
-          "price": "0",
-          "propName": "辣度",
-          "isMul": 0
-        },
-        {
-          "value": "中辣",
-          "price": "0",
-          "propName": "辣度",
-          "isMul": 0
-        }, {
-          "value": "大辣",
-          "price": "0",
-          "propName": "辣度",
-          "isMul": 0
-        },
-      ]
-    }] : [];
 
+
+/**
+ * {
+ * name:"",
+ * values:[
+ *  {
+ *    value: propItem.Name,
+      price: propItem.Price,
+      propName:groupTemp.name,
+      isMul:true
+ *  }
+ * ]
+ * }
+ */
+function formatFoodProps(foodItem) { 
+  let propsRes = [];
+
+  return propsRes;
 }
 // 爬取的数据中进行信息提取
-async function  handleRequestData(requestShopData,requestMenuData) {
-  // await logInfo(requestMenuData)
+async function  handleRequestData(requestMenuData) {
   
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: requestShopData.shopName,
-      shop_pic: requestShopData.pic_url,
+      shopName: shopInfo.name,
+      shop_pic: shopInfo.logo,
       categories:[]
     }
-
-    // 菜品目录
-    let categories = []
-
-   
-
-    categories = requestMenuData.category.map(categoryItem => { 
-      let categoryData = {
-        name: "",
+    let categoryIdMap = {};
+    // 处理菜品目录映射
+    categoryList.forEach(item => {
+      categoryIdMap[item.groupId] = {
+        name: item.groupName,
         foods:[]
-      };
-      categoryData.name = categoryItem.typeName;
-      categoryData.foods = categoryItem.goods.reduce((res,foodItem) => { 
-        if (foodItem) { 
-          let foodData = {
-            name:foodItem.goodsName || "",
-            picUrl: foodItem.goodsLogo || foodItem.goodsPicture || "",
-            price:foodItem.memberPrice || "",
-            unit: foodItem.unitName || "份",
-            categoryName: categoryItem.typeName,
-            props:[],
-          };
-          foodData.props = formatFoodProps(foodItem,categoryItem.typeName!=="酒水饮品")
-          res.push(foodData)
-        }
-        return res;
-      },[])
-      
-      return categoryData
+      }
     })
 
-    merchantInfo.categories = categories
+    // 菜品目录
+    let categories = [];
+    goodsList.forEach(goodItem => {
+      let categoryId = goodItem.groups[0];
+      let categoryObj = categoryIdMap[categoryId];
+      if (categoryObj) {
+        let foods = categoryObj.foods;
+        foods.push({
+          name:goodItem.goodsName || "",
+          picUrl: goodItem.goodsLogoUrl || "",
+          price:goodItem.goodsPrice || "",
+          unit: "份",
+          categoryName: categoryObj.name,
+          props:[],
+        })
+      }
+    })
+
+
+
+    merchantInfo.categories = Object.values(categoryIdMap);
     return merchantInfo;
   } catch (err) { 
-    console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
+    console.log(err, `格式化转换菜品发生错误`)
   }
 }
 
@@ -138,6 +136,10 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
+  await logInfo(merchantInfo, "merchantRes")
+  await logInfo(propsGroupArr, "propsGroupArr")
+  
+  // return;
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
@@ -149,14 +151,11 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo,outputDir,menuSetting)
+    // genWord(merchantInfo, outputDir)
+    // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+
   }
-
-  
-
 }
-
-
 
 genImgsAndExcel();
