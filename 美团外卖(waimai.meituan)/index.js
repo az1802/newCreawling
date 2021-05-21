@@ -5,7 +5,7 @@ const requestMenuJson = require("./merchantInfo.js");
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: "茶话会奶茶",
+  name: "佰润茶尊",
   logo:""
 }
 let categoryList = merchantMenuInfo.food_spu_tags
@@ -13,32 +13,29 @@ let categoryList = merchantMenuInfo.food_spu_tags
 const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll} = require("../utils/index")
 
 
-// const exportMode = "keruyun"
-const exportMode = "feie"
+const exportMode = "keruyun"
+// const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "份量",
-    "甜度",
-    "冷热",
-    "温度",
-    "辣度",
-    "口味",
-    "味道",
-    "糖度"
+    "糖度",
+	"冷热",
+	"份量",
+	"甜度",
+	"温度",
+	"冷"
   ],//做法
-  feeding:[],//加料
+  feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "份量",
-    "甜度",
+    "糖度",
     "冷热",
+    "份量",
+    "加料",
+    "甜度",
     "温度",
-    "辣度",
-    "口味",
-    "味道",
-    "糖度"
+    "冷"
   ],
   propsSort: {
   }

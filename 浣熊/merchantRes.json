@@ -1,129 +1,30 @@
 {
-	"shopName": "味鲜生黄焖鸡米饭",
-	"shop_pic": "https://www.diandianwaimai.com:9091/dd_op_test/attached/image/20151128/20151128011924-17902-logo.png",
+	"shopName": "五鲜生肥牛饭",
+	"shop_pic": "",
 	"categories": [
 		{
-			"name": "黄焖类",
+			"name": "一碗不平凡的肥牛饭",
 			"foods": [
 				{
-					"name": "黄焖鸡米饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201014133215330695.jpg",
-					"price": "19",
+					"name": "五鲜肥牛饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512150415952100.jpg",
+					"price": "21",
 					"unit": "份",
-					"categoryName": "黄焖类",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "口味",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "不辣",
+									"value": "堂食",
 									"price": "0",
-									"propName": "口味",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -131,772 +32,25 @@
 					]
 				},
 				{
-					"name": "黄焖鸭米饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210106203508049265.jpeg",
-					"price": "20",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖酱大骨",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140613322050.jpg",
-					"price": "23",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "送小菜",
-							"values": [
-								{
-									"value": "凉拌海带丝",
-									"price": "0",
-									"propName": "送小菜",
-									"isMul": 0
-								},
-								{
-									"value": "凉拌木耳",
-									"price": "0",
-									"propName": "送小菜",
-									"isMul": 0
-								},
-								{
-									"value": "凉拌腐竹",
-									"price": "0",
-									"propName": "送小菜",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖牛腩饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191230191737715654.jpeg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖猪脚饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161117113856353397.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖鱼块饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191016181652928788.png",
-					"price": "19",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖茄子饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191016112747815689.png",
+					"name": "芙蓉虾咖喱饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512151224239233.jpg",
 					"price": "17",
 					"unit": "份",
-					"categoryName": "黄焖类",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "口味",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "不辣",
+									"value": "堂食",
 									"price": "0",
-									"propName": "口味",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -904,711 +58,25 @@
 					]
 				},
 				{
-					"name": "黄焖豆腐饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191016180815415346.png",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖土豆饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126141556413773.jpg",
-					"price": "15",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄焖肥牛饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160831093330847514.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "黄焖类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加菜",
-							"values": [
-								{
-									"value": "豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "茄子",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "油豆腐",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "豆皮",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "金针菇",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "土豆",
-									"price": "3",
-									"propName": "加菜",
-									"isMul": 1
-								},
-								{
-									"value": "腐竹",
-									"price": "5",
-									"propName": "加菜",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "炒菜类",
-			"foods": [
-				{
-					"name": "青椒炒肉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200515211255690144.png",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木耳炒肉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190429112859173708.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腐竹炒肉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201012212918054543.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木耳炒鸡块",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210128160537633213.jpg",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒炒蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191025180523081069.png",
+					"name": "金汤柠檬鱼饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512162329701342.jpg",
 					"price": "20",
 					"unit": "份",
-					"categoryName": "炒菜类",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "赠送饮料",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "维他奶",
+									"value": "堂食",
 									"price": "0",
-									"propName": "赠送饮料",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -1616,1188 +84,25 @@
 					]
 				},
 				{
-					"name": "西红柿炒蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200902013059425492.jpg",
-					"price": "20",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "清炒上海青",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170318122914645651.jpg",
-					"price": "15",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "清炒土豆丝",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170517104641188619.png",
-					"price": "15",
-					"unit": "份",
-					"categoryName": "炒菜类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "粉面类",
-			"foods": [
-				{
-					"name": "炒江西米粉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140804836343.jpg",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加火腿肠",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒米线",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191013173631953160.png",
-					"price": "15",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加火腿肠",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒河粉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200922212223599105.jpg",
-					"price": "15",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加火腿肠",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191221191508422670.jpg",
-					"price": "13",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "微辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "中辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								},
-								{
-									"value": "特辣",
-									"price": "0",
-									"propName": "口味",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加火腿肠",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汤江西米粉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140914878290.jpg",
-					"price": "14",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汤米线",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140848387860.jpg",
-					"price": "13",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汤河粉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190712103959048235.jpg",
-					"price": "13",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "加肉",
-									"price": "5",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "加蛋",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "云吞",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170318002808115572.png",
-					"price": "18",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腌粉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140738737613.jpg",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "水饺",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150401/20150401132246-1097739-product_h_pic.png",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "粉面类",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "港式烧腊",
-			"foods": [
-				{
-					"name": "脆皮烧鸭饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200830143650072534.jpeg",
-					"price": "18",
-					"unit": "份",
-					"categoryName": "港式烧腊",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "脆皮叉烧饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140956734255.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "港式烧腊",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜜汁叉烧饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201212170235812732.jpeg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "港式烧腊",
-					"props": [
-						{
-							"name": "赠送饮料",
-							"values": [
-								{
-									"value": "维他奶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "要求",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤肉饭",
+					"name": "台式卤肉饭",
 					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200926110413979450.jpg",
-					"price": "22",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "港式烧腊",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "赠送饮料",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "维他奶",
+									"value": "堂食",
 									"price": "0",
-									"propName": "赠送饮料",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -2805,48 +110,25 @@
 					]
 				},
 				{
-					"name": "脆皮烧鸭拼叉烧饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126141013857267.jpg",
-					"price": "22",
+					"name": "培根虾仁饭+萝卜牛骨汤",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512162400169503.jpg",
+					"price": "20",
 					"unit": "份",
-					"categoryName": "港式烧腊",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "赠送饮料",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "维他奶",
+									"value": "堂食",
 									"price": "0",
-									"propName": "赠送饮料",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -2854,48 +136,25 @@
 					]
 				},
 				{
-					"name": "脆皮烧鸭拼卤肉饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140826981657.jpg",
-					"price": "22",
+					"name": "培根虾仁饭+鱼丸汤",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512151735170291.jpg",
+					"price": "16",
 					"unit": "份",
-					"categoryName": "港式烧腊",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "赠送饮料",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "维他奶",
+									"value": "堂食",
 									"price": "0",
-									"propName": "赠送饮料",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -2903,48 +162,25 @@
 					]
 				},
 				{
-					"name": "叉烧拼卤肉饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160819142143758884.jpg",
-					"price": "23",
+					"name": "鸡排咖喱饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512181747282654.jpeg",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "港式烧腊",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "赠送饮料",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "维他奶",
+									"value": "堂食",
 									"price": "0",
-									"propName": "赠送饮料",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -2952,48 +188,25 @@
 					]
 				},
 				{
-					"name": "烧鸭拼叉烧拼卤肉饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126150751200884.jpg",
-					"price": "35",
+					"name": "椒盐青鱼饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512151432969065.jpg",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "港式烧腊",
+					"categoryName": "一碗不平凡的肥牛饭",
 					"props": [
 						{
-							"name": "赠送饮料",
+							"name": "就餐方式",
 							"values": [
 								{
-									"value": "维他奶",
+									"value": "堂食",
 									"price": "0",
-									"propName": "赠送饮料",
+									"propName": "就餐方式",
 									"isMul": 0
 								},
-								{
-									"value": "碳酸",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "果汁",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								},
-								{
-									"value": "凉茶",
-									"price": "0",
-									"propName": "赠送饮料",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "要求",
-							"values": [
 								{
 									"value": "打包",
 									"price": "1",
-									"propName": "要求",
+									"propName": "就餐方式",
 									"isMul": 0
 								}
 							]
@@ -3001,179 +214,381 @@
 					]
 				},
 				{
-					"name": "隆江猪江饭",
-					"picUrl": "",
-					"price": "26",
+					"name": "脆皮酱鸭饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512151450958859.jpg",
+					"price": "17",
 					"unit": "份",
-					"categoryName": "港式烧腊",
-					"props": []
+					"categoryName": "一碗不平凡的肥牛饭",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒猪排饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512181836697290.jpeg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "一碗不平凡的肥牛饭",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "照烧鸡肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512182101593789.jpeg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "一碗不平凡的肥牛饭",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金汤肥牛饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210521100935546643.jpeg",
+					"price": "21",
+					"unit": "份",
+					"categoryName": "一碗不平凡的肥牛饭",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱香筒骨饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210521101058151186.jpeg",
+					"price": "21",
+					"unit": "份",
+					"categoryName": "一碗不平凡的肥牛饭",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菌王爆爽肉饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512151212431667.jpg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "一碗不平凡的肥牛饭",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "小吃类",
+			"name": "小菜/单点",
 			"foods": [
 				{
-					"name": "卤鸭头",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190621130851166090.png",
-					"price": "8",
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "卤鸭掌",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191021154718312552.png",
-					"price": "5",
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "卤鸭翅",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415215927972583.jpg",
-					"price": "5",
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201029104107860801.jpeg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "咸蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170801100252986090.jpg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190429101018283838.jpg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "蜜汁鸡翅",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126140551327740.jpg",
+					"name": "芙蓉虾",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210521113130477259.jpeg",
 					"price": "10",
 					"unit": "份",
-					"categoryName": "小吃类",
+					"categoryName": "小菜/单点",
 					"props": []
 				},
 				{
-					"name": "小份烧鸭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210128160513923995.jpg",
+					"name": "煎蛋",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210415123434498911.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "脆皮酱鸭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512182309965311.jpeg",
 					"price": "10",
 					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "小份叉烧",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210128160520834794.jpg",
-					"price": "11",
+					"name": "鸡排",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512182345691865.jpeg",
+					"price": "10",
 					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "凉拌类",
-			"foods": [
-				{
-					"name": "凉拌木耳",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190507094158187048.jpg",
-					"price": "7",
-					"unit": "份",
-					"categoryName": "凉拌类",
-					"props": []
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "凉拌腐竹",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201105232049152388.jpg",
+					"name": "黑椒猪排",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191115164127820494.png",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "萝卜牛骨汤",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512162743888872.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼丸汤",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210512152547099598.jpg",
 					"price": "6",
 					"unit": "份",
-					"categoryName": "凉拌类",
-					"props": []
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "凉拌海带丝",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150401/20150401153217-1098080-product_h_pic.png",
-					"price": "6",
+					"name": "青鱼",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201114213140115788.jpeg",
+					"price": "10",
 					"unit": "份",
-					"categoryName": "凉拌类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饮品",
-			"foods": [
-				{
-					"name": "椰汁",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201224121802113113.jpg",
-					"price": "5",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "加多宝",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200818154726486170.jpg",
-					"price": "5",
+					"name": "酱香筒骨",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210521101244174533.jpeg",
+					"price": "12",
 					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200303224154614550.jpg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "可口可乐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150330/20150330111635-1095057-product_h_pic.jpg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "百世可乐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200116191845966309.jpeg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "罐装啤酒",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191218235524707271.png",
-					"price": "5",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
-				},
-				{
-					"name": "瓶装啤酒",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200908105054982103.jpg",
-					"price": "6",
-					"unit": "份",
-					"categoryName": "饮品",
-					"props": []
+					"categoryName": "小菜/单点",
+					"props": [
+						{
+							"name": "就餐方式",
+							"values": [
+								{
+									"value": "堂食",
+									"price": "0",
+									"propName": "就餐方式",
+									"isMul": 0
+								},
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "就餐方式",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				}
 			]
 		}

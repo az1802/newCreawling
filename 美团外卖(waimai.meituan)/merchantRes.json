@@ -1,193 +1,48 @@
 {
-	"shopName": "茶话会奶茶",
+	"shopName": "佰润茶尊",
 	"shop_pic": "",
 	"categories": [
 		{
 			"name": "热销",
 			"foods": [
 				{
-					"name": "杨枝甘露",
-					"picUrl": "http://p0.meituan.net/wmproduct/eafa7982ee52420566f2332e748cb0c7489580.jpg",
-					"price": 13.88,
+					"name": "黄金琥珀珍珠奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/b4a4b2cbacc0a4dc45720d2e25c3821992060.jpg",
+					"price": 13,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
+							"name": "糖度",
 							"values": [
 								{
 									"value": "少糖",
 									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "无糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "半糖",
 									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "多肉葡萄",
-					"picUrl": "http://p0.meituan.net/wmproduct/ca068df88781db5532830aee9385de5c470468.jpg",
-					"price": 16.88,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "多糖",
 									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "全糖",
 									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 草莓奶茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/87be49967b029a31192f45c533298d5d450138.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中杯¥11",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯¥13元",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								}
 							]
@@ -196,18 +51,6 @@
 							"name": "冷热",
 							"values": [
 								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
 									"value": "冰",
 									"price": 0,
 									"propName": "冷热",
@@ -218,101 +61,23 @@
 									"price": 0,
 									"propName": "冷热",
 									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌手摇珍珠奶茶(700cc)",
-					"picUrl": "http://p0.meituan.net/wmproduct/a5bce4ada007e3e8eaf7721a5d29ccbb451727.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
+								},
 								{
-									"value": "招牌珍珠奶茶",
+									"value": "去冰",
 									"price": 0,
-									"propName": "份量",
+									"propName": "冷热",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
 								{
 									"value": "温热",
 									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
+									"propName": "冷热",
 									"isMul": true
 								}
 							]
@@ -320,2772 +85,17 @@
 					]
 				},
 				{
-					"name": "手摇 仙草大满贯",
-					"picUrl": "http://p0.meituan.net/wmproduct/27bb7870cd5a13bb6b3200656841cb9e452709.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【特惠价】生芒果拌椒盐-红糖",
-					"picUrl": "http://p0.meituan.net/wmproduct/2dfef4e12eb133c5ebd8e92591a695e7329638.jpg",
-					"price": 10.6,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛油果奶昔",
-					"picUrl": "http://p0.meituan.net/wmproduct/dcea9aab77fa6bb7eeb64ec0c36ea8c8451256.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "500毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【新品上市】手夹三华李",
-					"picUrl": "http://p0.meituan.net/wmproduct/b3ad52b7e082ad77706f99d737924c86767919.jpg",
-					"price": 12.8,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "210克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "味道",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "味道",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "味道",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【开业特惠价】经典三拼鲜果酸（椒盐味-红糖味）",
-					"picUrl": "http://p1.meituan.net/wmproduct/36c411df92aff11751d221b8a4c16588313649.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "一份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【开业特惠】4拼水果捞（芒果+哈密瓜+草莓+香蕉）",
-					"picUrl": "http://p0.meituan.net/wmproduct/4e7c88088f78cf7b41460472951de771545902.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "400克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "芝士味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "酸奶味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "折扣",
-			"foods": [
-				{
-					"name": "【新品上市】手夹三华李",
-					"picUrl": "http://p0.meituan.net/wmproduct/b3ad52b7e082ad77706f99d737924c86767919.jpg",
-					"price": 12.8,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "210克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "味道",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "味道",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "味道",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【特惠价】生芒果拌椒盐-红糖",
-					"picUrl": "http://p0.meituan.net/wmproduct/2dfef4e12eb133c5ebd8e92591a695e7329638.jpg",
-					"price": 10.6,
-					"unit": "份",
-					"categoryName": "折扣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "正宗广西水果酸嘢",
-			"foods": [
-				{
-					"name": "【必点四拼果酸】珍珠李+生芒果+地菠萝+番石榴",
-					"picUrl": "http://p1.meituan.net/wmproduct/6e060dead263ab6e5e750e325e587cb5331102.jpg",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "正宗广西水果酸嘢",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "450克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "不加糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【新品上市】手夹三华李",
-					"picUrl": "http://p0.meituan.net/wmproduct/b3ad52b7e082ad77706f99d737924c86767919.jpg",
-					"price": 12.8,
-					"unit": "份",
-					"categoryName": "正宗广西水果酸嘢",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "210克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "味道",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "味道",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "味道",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【特惠价】生芒果拌椒盐-红糖",
-					"picUrl": "http://p0.meituan.net/wmproduct/2dfef4e12eb133c5ebd8e92591a695e7329638.jpg",
-					"price": 10.6,
-					"unit": "份",
-					"categoryName": "正宗广西水果酸嘢",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "小份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【开业特惠价】经典三拼鲜果酸（椒盐味-红糖味）",
-					"picUrl": "http://p1.meituan.net/wmproduct/36c411df92aff11751d221b8a4c16588313649.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "正宗广西水果酸嘢",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "一份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "椒盐味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "红糖味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "热卖（店长推荐）",
-			"foods": [
-				{
-					"name": "牛油果奶昔",
-					"picUrl": "http://p0.meituan.net/wmproduct/dcea9aab77fa6bb7eeb64ec0c36ea8c8451256.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "500毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "草莓多多",
-					"picUrl": "http://p1.meituan.net/wmproduct/87e4e1a7374fc5358bffaecd41fbe652541308.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇柠檬红茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/baeab8a0d8b16bc0d3b4cac1fa23843b472120.jpg",
-					"price": 15.88,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "大杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯（去冰）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杨枝甘露",
-					"picUrl": "http://p0.meituan.net/wmproduct/eafa7982ee52420566f2332e748cb0c7489580.jpg",
-					"price": 13.88,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "满分鲜芒果",
-					"picUrl": "http://p0.meituan.net/wmproduct/a065fc6d371efee92ed4133419e7b363188787.jpg",
-					"price": 13.88,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "原创混果茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/69e8349b58dc3383a03df0f568cfcd7c484235.jpg",
-					"price": 16.88,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "多肉葡萄",
-					"picUrl": "http://p0.meituan.net/wmproduct/ca068df88781db5532830aee9385de5c470468.jpg",
-					"price": 16.88,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "抹茶新冰乐",
-					"picUrl": "http://p0.meituan.net/wmproduct/ee00f25f96461a288599c8299f8fc61b471268.jpg",
-					"price": 17.88,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "500毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌手摇珍珠奶茶(700cc)",
-					"picUrl": "http://p0.meituan.net/wmproduct/a5bce4ada007e3e8eaf7721a5d29ccbb451727.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "热卖（店长推荐）",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "招牌珍珠奶茶",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "【水果茶系列】",
-			"foods": [
-				{
-					"name": "【杨枝甘露】",
-					"picUrl": "http://p0.meituan.net/wmproduct/eafa7982ee52420566f2332e748cb0c7489580.jpg",
-					"price": 13.88,
-					"unit": "份",
-					"categoryName": "【水果茶系列】",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【满分鲜芒果】",
-					"picUrl": "http://p0.meituan.net/wmproduct/e6ccce84f6563c2a88d7d581530a1b5f549915.jpg",
-					"price": 14.88,
-					"unit": "份",
-					"categoryName": "【水果茶系列】",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【凤梨百果】",
-					"picUrl": "http://p0.meituan.net/wmproduct/45a01422db0e72dfd1622c3cb8091888511715.jpg",
-					"price": 15.88,
-					"unit": "份",
-					"categoryName": "【水果茶系列】",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【手摇 百果红芭乐】",
-					"picUrl": "http://p1.meituan.net/wmproduct/6d7e1f452bf60b9b1b37fd25d6930fcd447582.jpg",
-					"price": 13.88,
-					"unit": "份",
-					"categoryName": "【水果茶系列】",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【原创混果茶】",
-					"picUrl": "http://p0.meituan.net/wmproduct/69e8349b58dc3383a03df0f568cfcd7c484235.jpg",
-					"price": 16.88,
-					"unit": "份",
-					"categoryName": "【水果茶系列】",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "香醇奶茶系列",
-			"foods": [
-				{
-					"name": "【手摇椰果奶茶】",
-					"picUrl": "http://p0.meituan.net/wmproduct/a0642d722bae8eaa2dedaf02bc929261424285.jpg",
+					"name": "红糖珍珠奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/3b996f7cbc092b02919fa970c3133d1996766.jpg",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "香醇奶茶系列",
+					"categoryName": "热销",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "中杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 草莓奶茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/87be49967b029a31192f45c533298d5d450138.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中杯¥11",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯¥13元",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "【招牌手摇原味奶茶500cc】",
-					"picUrl": "http://p0.meituan.net/wmproduct/9b29d328b7f217e2086d61fe9771c95b423106.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 古早布丁奶茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/e1c8ad4518f0e5ece6da7cb77203f9da509764.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 仙草大满贯",
-					"picUrl": "http://p0.meituan.net/wmproduct/27bb7870cd5a13bb6b3200656841cb9e452709.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 相思红豆奶茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/c6ecce7e9e2bd6e9dfb8f11bfaa61e02451143.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中¥10",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大¥12",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 奶茶三兄弟",
-					"picUrl": "http://p0.meituan.net/waimaidpoipicmining/a82ed766d328dfd28c723cc9652dd40159019.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌波霸珍珠奶茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/a5bce4ada007e3e8eaf7721a5d29ccbb451727.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "（大杯）¥14",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "（大杯）去冰¥15",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇 超禾烤奶",
-					"picUrl": "http://p0.meituan.net/wmproduct/9b29d328b7f217e2086d61fe9771c95b423106.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "香醇奶茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "中杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "大杯（去冰）14.88",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "星冰乐系列",
-			"foods": [
-				{
-					"name": "抹茶星冰乐（500cc）",
-					"picUrl": "http://p0.meituan.net/wmproduct/805ba86d1c10b26f3e975e9ed9edde38217711.jpg",
-					"price": 17.88,
-					"unit": "份",
-					"categoryName": "星冰乐系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "500毫升",
+									"value": "1人份",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -3102,18 +112,6 @@
 									"isMul": true
 								},
 								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "糖度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "糖度",
-									"isMul": true
-								},
-								{
 									"value": "无糖",
 									"price": 0,
 									"propName": "糖度",
@@ -3121,6 +119,185 @@
 								},
 								{
 									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬金桔鲜绿\n(炎夏，鲜桔香柠与荼，冰爽一夏)",
+					"picUrl": "http://p0.meituan.net/business/e829bb234ddf4025f360e532a78ecc3f53873.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "霸气多肉葡萄(约700毫升)",
+					"picUrl": "http://p1.meituan.net/wmproduct/e0278b2cb761fa98e5321ae938cbdccf133011.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "700毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
 									"price": 0,
 									"propName": "糖度",
 									"isMul": true
@@ -3136,33 +313,183 @@
 					]
 				},
 				{
-					"name": "热带芒果星冰乐",
-					"picUrl": "http://p0.meituan.net/xianfu/f26477433043f65c808b1e4f87281468270336.jpg",
-					"price": 14.88,
+					"name": "爆款霸气橙子\n(下午来一杯，精神)",
+					"picUrl": "http://p0.meituan.net/wmproduct/72889eacf93558326135a8be726db804109133.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "星冰乐系列",
+					"categoryName": "热销",
 					"props": [
 						{
 							"name": "甜度",
 							"values": [
 								{
+									"value": "正常",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
 									"value": "少糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
-								},
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
 								{
-									"value": "多糖",
+									"value": "冰",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "冷热",
 									"isMul": true
 								},
 								{
-									"value": "正常甜",
+									"value": "少冰",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "冷热",
 									"isMul": true
 								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原味薯条",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/6f2980a48270c5e99da0a4bed652de75203354.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "阿华田波波冰(约700毫升)",
+					"picUrl": "http://p0.meituan.net/wmproduct/c82cfe56440b8c513ed2f289cc117f3085851.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芒芒爆酸奶(约700毫升)",
+					"picUrl": "http://p1.meituan.net/wmproduct/344565394a5711358accee8a6cf8990060257.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "仙草布丁奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/ca07cdd3b126e752a5d4123e05bac667121883.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
 								{
 									"value": "无糖",
 									"price": 0,
@@ -3170,7 +497,19 @@
 									"isMul": true
 								},
 								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
 									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3186,17 +525,150 @@
 					]
 				},
 				{
-					"name": "鲜草莓星冰乐",
-					"picUrl": "http://p0.meituan.net/wmproduct/dc1ef362e23e49f12979730bd50ecfa9204802.jpg",
-					"price": 17.88,
+					"name": "香酥鸡米粒",
+					"picUrl": "http://p0.meituan.net/xianfu/f96f79c82bdaddf19439c4b38e635ad3454656.jpg",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "星冰乐系列",
+					"categoryName": "热销",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "秋冬新品",
+			"foods": [
+				{
+					"name": "木瓜鲜奶",
+					"picUrl": "http://p0.meituan.net/wmproduct/ced0484f25ff2077b17417e9ccae42b4113537.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "秋冬新品",
 					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "冬季热饮",
+			"foods": [
+				{
+					"name": "阿华田燕麦(约700毫升)",
+					"picUrl": "http://p0.meituan.net/wmproduct/31d82fb7c9b2d87835f7bfecb7dc6339160099.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "冬季热饮",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "甜度",
 							"values": [
 								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
 									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3208,11 +680,72 @@
 									"isMul": true
 								},
 								{
-									"value": "正常甜",
+									"value": "全糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红豆椰奶(约700毫升)",
+					"picUrl": "http://p1.meituan.net/wmproduct/559c40832d9373cd5bab1630d906d247100582.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "冬季热饮",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
 								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
 								{
 									"value": "无糖",
 									"price": 0,
@@ -3220,7 +753,19 @@
 									"isMul": true
 								},
 								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
 									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3238,33 +783,179 @@
 			]
 		},
 		{
-			"name": "暖冬热饮",
+			"name": "新品推介",
 			"foods": [
 				{
-					"name": "超Q麻薯抹茶鲜奶",
-					"picUrl": "http://p1.meituan.net/wmproduct/68072ecb0c265057c8bc8959648c741a453081.jpg",
-					"price": 13.88,
+					"name": "阿华田波波冰(约700毫升)",
+					"picUrl": "http://p0.meituan.net/wmproduct/c82cfe56440b8c513ed2f289cc117f3085851.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "暖冬热饮",
+					"categoryName": "新品推介",
 					"props": [
 						{
-							"name": "份量",
+							"name": "冷热",
 							"values": [
 								{
-									"value": "500毫升",
+									"value": "多冰",
 									"price": 0,
-									"propName": "份量",
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "阿华田黑糖波波冰(约700毫升)",
+					"picUrl": "http://p0.meituan.net/wmproduct/2a95b396518165f6b05142462be5fd0285661.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "温度",
+							"name": "糖度",
 							"values": [
 								{
-									"value": "温热",
+									"value": "无糖",
 									"price": 0,
-									"propName": "温度",
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "草莓爆酸奶(约700毫升)",
+					"picUrl": "http://p0.meituan.net/wmproduct/705a146103c1f7f4f1333eb4fe86590571941.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": []
+				},
+				{
+					"name": "芒芒爆酸奶(约700毫升)",
+					"picUrl": "http://p1.meituan.net/wmproduct/344565394a5711358accee8a6cf8990060257.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑枸杞雪菊爆柠茶(约700毫升)\n(来，就是要这一杯)",
+					"picUrl": "http://p1.meituan.net/wmproduct/ca7db4aac7c9f6c7f92381791662525c116577.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "冷",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷",
 									"isMul": true
 								}
 							]
@@ -3273,7 +964,7 @@
 							"name": "甜度",
 							"values": [
 								{
-									"value": "少糖",
+									"value": "全糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3285,7 +976,7 @@
 									"isMul": true
 								},
 								{
-									"value": "正常甜",
+									"value": "少糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3297,7 +988,7 @@
 									"isMul": true
 								},
 								{
-									"value": "全糖",
+									"value": "无糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3307,17 +998,17 @@
 					]
 				},
 				{
-					"name": "超Q麻薯波波奶茶",
-					"picUrl": "http://p0.meituan.net/scproduct/51d5398e01250788ab08b3f98f653e8b65690.jpg",
-					"price": 13,
+					"name": "霸气多肉葡萄(约700毫升)",
+					"picUrl": "http://p1.meituan.net/wmproduct/e0278b2cb761fa98e5321ae938cbdccf133011.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "暖冬热饮",
+					"categoryName": "新品推介",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "500毫升",
+									"value": "700毫升",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -3327,6 +1018,1610 @@
 						{
 							"name": "冷热",
 							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "云顶葡萄啵啵脆(约700毫升)",
+					"picUrl": "http://p0.meituan.net/wmproduct/c7d0b6681df083ed386ada69cd2827dd131282.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百香芒果养乐多(约700毫升)\n(三者碰撞，美味无限)",
+					"picUrl": "http://p0.meituan.net/wmproduct/5866437c7073fb48c8e380b285964e4435843.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": [
+						{
+							"name": "冷",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜橙养乐多(约700毫升\n(维C与乳酸菌的结合，每个人都要)",
+					"picUrl": "http://p0.meituan.net/wmproduct/4b331e288602065d2c413adbb4287b0796048.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "新品推介",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "鲜果养乐多系列",
+			"foods": [
+				{
+					"name": "百香芒果养乐多(约700毫升)\n(三者碰撞，美味无限)",
+					"picUrl": "http://p0.meituan.net/wmproduct/e3580e075940235f716eb0e190243d4d100637.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜橙养乐多(约700毫升)\n(鲜橙与乳酸菌的结合，谁都要)",
+					"picUrl": "http://p0.meituan.net/wmproduct/4d9ca8db920c435e91f1eea2ed173e55102356.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": [
+						{
+							"name": "冷",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "奇异果养乐多",
+					"picUrl": "http://p1.meituan.net/wmproduct/1997f68bf48d14a60fabea4e791e5c4a81630.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "草莓养乐多",
+					"picUrl": "http://p0.meituan.net/wmproduct/5caee3416e4f36a864b33edfeb6cdf1b82671.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": []
+				},
+				{
+					"name": "番石榴养乐多",
+					"picUrl": "http://p0.meituan.net/wmproduct/3b0279f49eab9037977437a693b5157682104.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百香果养乐多",
+					"picUrl": "http://p1.meituan.net/wmproduct/ac86b017828c3d49ad2a07d0b1fcf0f222682.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜芒果养乐多",
+					"picUrl": "http://p1.meituan.net/wmproduct/d1bb3e40bb1450dbf66569f0b54abccc128621.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": []
+				},
+				{
+					"name": "鲜柠檬养乐多",
+					"picUrl": "http://p1.meituan.net/wmproduct/747606e50bb23b1077f59c5b1ca7ac2a84446.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "鲜果养乐多系列",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "100%原汁水果茶",
+			"foods": [
+				{
+					"name": "爆款霸气橙子\n(下午来一杯，精神)",
+					"picUrl": "http://p0.meituan.net/wmproduct/72889eacf93558326135a8be726db804109133.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番石榴水果茶\n(满口果肉，茶香一流)",
+					"picUrl": "http://p0.meituan.net/wmproduct/b60e4d2091897778e5677e35cc53a9b374440.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "橙芒鲜绿\n(满口留香，身心满足)",
+					"picUrl": "http://p1.meituan.net/wmproduct/509415716a972387a85b1a8f6b123b7593188.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜橙莓莓\n(原汁原味鲜果与茶，霸气十足)",
+					"picUrl": "http://p0.meituan.net/wmproduct/3163ee8a5d888746b305a6fa8938c70e100891.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "冷",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "霸气奇异果鲜茶\n(没别的，就鲜果与茶)",
+					"picUrl": "http://p0.meituan.net/wmproduct/4e69a7c337030c47a48bf8620d06852c84194.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑枸杞雪菊爆柠茶\n(健康提神，来一杯)",
+					"picUrl": "http://p0.meituan.net/wmproduct/27c99ffe913dffe5ff7d249052f4e794118786.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "冷",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬百香果\n(毛尖茉莉与鲜果，有料哦)",
+					"picUrl": "http://p1.meituan.net/wmproduct/17153409adbf1bb8e234d0bbfa7f80fe102722.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬金桔鲜绿\n(炎夏，鲜桔香柠与荼，冰爽一夏)",
+					"picUrl": "http://p0.meituan.net/business/e829bb234ddf4025f360e532a78ecc3f53873.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柚子菊花普洱",
+					"picUrl": "http://p0.meituan.net/wmproduct/c8f0ae441ca07c613238fd2041b3e61866060.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬柚子四季春\n(提神解暑必须来一杯)",
+					"picUrl": "http://p0.meituan.net/wmproduct/8a88fa28226ba1be48710bc2aed263be84871.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菠萝金桔(绿茶)",
+					"picUrl": "http://p1.meituan.net/wmproduct/4268ac6c05f9c5b9c0c9ea5d340ce26a296180.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": []
+				},
+				{
+					"name": "柠檬绿茶",
+					"picUrl": "http://p1.meituan.net/xianfu/e42d9ee629300da1a251551b9c0e1802244786.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "满杯红柚四季春",
+					"picUrl": "http://p0.meituan.net/wmproduct/8ae7f4f5e3bc1e5809e2ca435ed1e402143034.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆款百搭水果茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/8d7239c0561dd48c6292c964a1d73cd8150658.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一颗青柠四季春",
+					"picUrl": "http://p0.meituan.net/wmproduct/e707a17d0690b05b95d66520e8a04223105686.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一颗青柠红玉",
+					"picUrl": "http://p0.meituan.net/wmproduct/c8f0ae441ca07c613238fd2041b3e61866060.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "100%原汁水果茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "传统香醇奶茶",
+			"foods": [
+				{
+					"name": "甘香波霸奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/7885428f78d1e64df9d92da30f68505d128420.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
 								{
 									"value": "温热",
 									"price": 0,
@@ -3342,70 +2637,77 @@
 							]
 						},
 						{
-							"name": "甜度",
+							"name": "糖度",
 							"values": [
 								{
-									"value": "少糖",
+									"value": "无糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
-									"value": "多糖",
+									"value": "少糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "半糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "全糖",
 									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "手摇柠檬茶系列",
-			"foods": [
-				{
-					"name": "手摇金桔柠檬茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/91fe79403e090c2ce0f0dd1cc616d6ad469029.jpg",
-					"price": 15.88,
-					"unit": "份",
-					"categoryName": "手摇柠檬茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
+									"propName": "糖度",
 									"isMul": true
 								}
 							]
 						},
 						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大红袍奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/29f519ae16ae58e93bc13d99cf7f1cf478595.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
 							"name": "冷热",
 							"values": [
 								{
-									"value": "少冰",
+									"value": "冰",
 									"price": 0,
 									"propName": "冷热",
 									"isMul": true
 								},
 								{
-									"value": "冰",
+									"value": "少冰",
 									"price": 0,
 									"propName": "冷热",
 									"isMul": true
@@ -3415,46 +2717,81 @@
 									"price": 0,
 									"propName": "冷热",
 									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "甜度",
+							"name": "糖度",
 							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
 								{
 									"value": "无糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "半糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "全糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -3462,279 +2799,40 @@
 					]
 				},
 				{
-					"name": "手摇柠檬利宾纳",
-					"picUrl": "http://p0.meituan.net/wmproduct/ed43693d430bb6685f47869a54633cac429651.jpg",
-					"price": 13.88,
+					"name": "鸳鸯仙草奶茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/1a35c59687d6e257ba0be655013d37db88452.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "手摇柠檬茶系列",
+					"categoryName": "传统香醇奶茶",
 					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇柠檬绿茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/2513279dfcb76d673a0f7589c3830037515113.jpg",
-					"price": 15.88,
-					"unit": "份",
-					"categoryName": "手摇柠檬茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手摇柠檬百香果",
-					"picUrl": "http://p0.meituan.net/wmproduct/7e9d87a0dd17f1b73e2167862e619386191925.jpg",
-					"price": 15.88,
-					"unit": "份",
-					"categoryName": "手摇柠檬茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌手摇柠檬红茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/baeab8a0d8b16bc0d3b4cac1fa23843b472120.jpg",
-					"price": 15.88,
-					"unit": "份",
-					"categoryName": "手摇柠檬茶系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "温度",
 							"values": [
 								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
 									"value": "少冰",
 									"price": 0,
 									"propName": "温度",
@@ -3758,7 +2856,19 @@
 							"name": "甜度",
 							"values": [
 								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
 									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3770,7 +2880,1020 @@
 									"isMul": true
 								},
 								{
-									"value": "正常甜",
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蜜香奶茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/948888c1bd14a0e1e328453e7f1c4b5294850.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸳鸯精品红茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/d3c4d8dcf9081e7292c9817a49d0f270114069.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "仙草布丁奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/ca07cdd3b126e752a5d4123e05bac667121883.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老港式奶茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/c6e2888135ec913a78bfcfe48455772c110501.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蛋糕琥珀奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/96cf24e22dca1f62d0c9bcaec26693d8111978.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "伯爵奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/34c5dac9c743e602f035fd36fe59957776173.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泰式红奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/8f7fb41e6987018596427f81e1be60d288799.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑糖烤奶",
+					"picUrl": "http://p1.meituan.net/wmproduct/eb94b83712b9770a6b6ba62c9e442adc100142.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "椰果",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄金琥珀珍珠奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/b4a4b2cbacc0a4dc45720d2e25c3821992060.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "布雷珍珠奶茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/f776c488f30860aa67f2d1b1c19a4ae5112125.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "700毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红豆布丁奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/338f0ef31297c608096f6ba126c7902887873.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3783,6 +3906,759 @@
 								},
 								{
 									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红糖珍珠奶茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/3b996f7cbc092b02919fa970c3133d1996766.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "珍珠",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红豆布丁奶绿",
+					"picUrl": "http://p1.meituan.net/wmproduct/5e193cf95a28c786c85df6fbd87be34587523.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "传统香醇奶茶",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "新中式特色风味简餐",
+			"foods": [
+				{
+					"name": "雪花无骨鸡柳",
+					"picUrl": "http://p0.meituan.net/xianfu/7e455d3300948b208349f2ed4abeefb3350790.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "爆浆鸡排",
+					"picUrl": "http://p1.meituan.net/xianfu/4653b9469b8564683d5de3cbd8d2f495300143.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "香酥鸡米粒",
+					"picUrl": "http://p0.meituan.net/xianfu/f96f79c82bdaddf19439c4b38e635ad3454656.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "香辣大鸡排",
+					"picUrl": "http://p0.meituan.net/xianfudwm/efa367757140aed33682c8fcf61ed03b211676.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "芥末大鸡排",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/d5dca12dc6ce35a67606977bfc49e2c2198440.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "原味薯条",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/6f2980a48270c5e99da0a4bed652de75203354.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "特色芝士薯条",
+					"picUrl": "http://p1.meituan.net/wmproductdwm/94a00478d9f4bfca30828a408d5c5081183339.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "芝士大鸡排",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/57c2c4073111ddf920d1617a4389e7ad472657.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				},
+				{
+					"name": "特色芥末薯条",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/e2bb7a24942baee136e28bc3f091ffbe189528.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "新中式特色风味简餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "爆款新中式风味鸡翅",
+			"foods": [
+				{
+					"name": "芥末鸡翅1对",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/1713abd4fcba71225970230a6304d8c8200152.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "爆款新中式风味鸡翅",
+					"props": []
+				},
+				{
+					"name": "芝士鸡翅1对",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/4b1ee328f78f1ffb616335e5e9a021cd180767.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "爆款新中式风味鸡翅",
+					"props": []
+				},
+				{
+					"name": "原味鸡翅",
+					"picUrl": "http://p1.meituan.net/xianfudwm/9fef2a1dfefeccae34ce5a9179d73888112383.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "爆款新中式风味鸡翅",
+					"props": []
+				},
+				{
+					"name": "香辣鸡翅1对",
+					"picUrl": "http://p0.meituan.net/wmproductdwm/c780d175e55dd073ad9dd33468d249a7204092.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "爆款新中式风味鸡翅",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "乐享芝士奶盖",
+			"foods": [
+				{
+					"name": "芝士甘菊茉莉",
+					"picUrl": "http://p0.meituan.net/wmproduct/94d813dc1a6a0699154f1d397f3ff4e819528.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "乐享芝士奶盖",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士玫瑰乌龙",
+					"picUrl": "http://p0.meituan.net/wmproduct/9c064ff4138a680a2909635c9f564e2a27044.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "乐享芝士奶盖",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士野菊普",
+					"picUrl": "http://p0.meituan.net/wmproduct/12bffbdf6748e985171ed2e79359af69122263.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "乐享芝士奶盖",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士海盐四季春",
+					"picUrl": "http://p0.meituan.net/wmproduct/8b9ad3e8b2afe49f840443846e85880d111161.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "乐享芝士奶盖",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士毛尖茉莉",
+					"picUrl": "http://p0.meituan.net/wmproduct/18d3744f9be92e179497e1ef282ce389116387.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "乐享芝士奶盖",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
 									"price": 0,
 									"propName": "甜度",
 									"isMul": true
@@ -3800,258 +4676,224 @@
 			]
 		},
 		{
-			"name": "芝士奶盖系列",
+			"name": "浓香特饮",
 			"foods": [
 				{
-					"name": "多肉葡萄",
-					"picUrl": "http://p0.meituan.net/wmproduct/ca068df88781db5532830aee9385de5c470468.jpg",
-					"price": 16.88,
+					"name": "靖岗抹茶红豆布丁",
+					"picUrl": "http://p0.meituan.net/wmproduct/37354799f6cc28aba02d5d678e74032690223.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "芝士奶盖系列",
+					"categoryName": "浓香特饮",
 					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芝士芒芒",
-					"picUrl": "http://p0.meituan.net/wmproduct/8cc17055e5d6622cbae3798c5b05256b514868.jpg",
-					"price": 16.88,
-					"unit": "份",
-					"categoryName": "芝士奶盖系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芝士莓莓",
-					"picUrl": "http://p0.meituan.net/wmproduct/c0837bb485622b3bdcd37abdb180fb8f462171.jpg",
-					"price": 16.88,
-					"unit": "份",
-					"categoryName": "芝士奶盖系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "鲜果多多系列",
-			"foods": [
-				{
-					"name": "多肉金菠萝",
-					"picUrl": "http://p0.meituan.net/wmproduct/7729bb40200f476857057f28e2321e4e440186.jpg",
-					"price": 14.88,
-					"unit": "份",
-					"categoryName": "鲜果多多系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "冷热",
 							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "靖岗布雷抹茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/2e2df8250ed7fae0bb62338f82b648f290446.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "浓香特饮",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "宇治抹茶",
+					"picUrl": "",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "浓香特饮",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
 								{
 									"value": "少冰",
 									"price": 0,
@@ -4071,87 +4913,55 @@
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "百香果多多",
-					"picUrl": "http://p0.meituan.net/wmproduct/9f2fbdac888c5621d2a05fccbb8b787a478654.jpg",
-					"price": 13.88,
-					"unit": "份",
-					"categoryName": "鲜果多多系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
 						},
 						{
-							"name": "甜度",
+							"name": "糖度",
 							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
 								{
 									"value": "无糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "半糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
 									"isMul": true
 								},
 								{
 									"value": "全糖",
 									"price": 0,
-									"propName": "甜度",
+									"propName": "糖度",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "冷热",
+							"name": "加料",
 							"values": [
 								{
-									"value": "少冰",
+									"value": "珍珠",
 									"price": 0,
-									"propName": "冷热",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "冰",
+									"value": "椰果",
 									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -4159,196 +4969,533 @@
 					]
 				},
 				{
-					"name": "芒果多多",
-					"picUrl": "http://p0.meituan.net/wmproduct/e6ccce84f6563c2a88d7d581530a1b5f549915.jpg",
-					"price": 13.88,
-					"unit": "份",
-					"categoryName": "鲜果多多系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "草莓多多",
-					"picUrl": "http://p1.meituan.net/wmproduct/87e4e1a7374fc5358bffaecd41fbe652541308.jpg",
-					"price": 14.88,
-					"unit": "份",
-					"categoryName": "鲜果多多系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "700毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "正常甜",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "多冰",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "水果捞（酸奶/芝士）",
-			"foods": [
-				{
-					"name": "【开业特惠】4拼水果捞（芒果+哈密瓜+草莓+香蕉）",
-					"picUrl": "http://p0.meituan.net/wmproduct/4e7c88088f78cf7b41460472951de771545902.jpg",
+					"name": "芝士靖岗抹茶",
+					"picUrl": "",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "水果捞（酸奶/芝士）",
+					"categoryName": "浓香特饮",
 					"props": [
 						{
-							"name": "份量",
+							"name": "冷热",
 							"values": [
 								{
-									"value": "400克",
+									"value": "温热",
 									"price": 0,
-									"propName": "份量",
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冷热",
 									"isMul": true
 								}
 							]
 						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "星冰乐",
+			"foods": [
+				{
+					"name": "火龙果冰旋",
+					"picUrl": "http://p0.meituan.net/wmproduct/21c5cbb3ade2c50dde18f9cb0d83d309104361.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "星冰乐",
+					"props": []
+				},
+				{
+					"name": "芒果冰旋",
+					"picUrl": "http://p0.meituan.net/wmproduct/c567ecce027a7bfa1cefcad4a78ed2e367610.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "星冰乐",
+					"props": []
+				},
+				{
+					"name": "靖岗抹茶星冰乐",
+					"picUrl": "http://p0.meituan.net/wmproduct/15af6de5431542821a6f103c8e96c2e989873.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "星冰乐",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "纯茗茶",
+			"foods": [
+				{
+					"name": "桂花乌龙茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/c09a3cd1fe5a312172d85720486e7a36122054.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "纯茗茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋甘菊茉莉",
+					"picUrl": "http://p0.meituan.net/wmproduct/21606b5f32dca9df6f6a511dd8dcadd1113624.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "纯茗茶",
+					"props": []
+				},
+				{
+					"name": "玫瑰乌龙",
+					"picUrl": "http://p0.meituan.net/wmproduct/2857cdba909630310ffbd6b2c00c336c72421.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "纯茗茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "野菊普",
+					"picUrl": "http://p0.meituan.net/wmproduct/fb755b9a14c2fd2ce6aa3d754bc5e1f1120189.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "纯茗茶",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "毛尖茉莉绿茶",
+					"picUrl": "http://p1.meituan.net/wmproduct/9c8292512409d1e366af2f007e7da5ae98605.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "纯茗茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "正常",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "四季春茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/e0981ca3972f3eb9639e38317875adf5102354.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "纯茗茶",
+					"props": [
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "现榨果汁",
+			"foods": [
+				{
+					"name": "火龙果汁\n(排毒，美颜神果)",
+					"picUrl": "http://p0.meituan.net/wmproduct/b81ac81ae6c7907e3f08da3afbbb9ceb116062.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "现榨果汁",
+					"props": []
+				},
+				{
+					"name": "芒果汁\n(美化肌肤，补充抵抗力)",
+					"picUrl": "http://p1.meituan.net/wmproduct/b4dd902bbc6188e9327dec88992d4a39103378.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "现榨果汁",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜橙汁\n(补充维C，霸气十足)",
+					"picUrl": "http://p0.meituan.net/wmproduct/dd2f4489fb452a2c74e674653886279e107786.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "现榨果汁",
+					"props": [
 						{
 							"name": "温度",
 							"values": [
@@ -4357,22 +5504,23 @@
 									"price": 0,
 									"propName": "温度",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
+								},
 								{
-									"value": "芝士味",
+									"value": "冰",
 									"price": 0,
-									"propName": "口味",
+									"propName": "温度",
 									"isMul": true
 								},
 								{
-									"value": "酸奶味",
+									"value": "少冰",
 									"price": 0,
-									"propName": "口味",
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
 									"isMul": true
 								}
 							]
@@ -4382,22 +5530,87 @@
 			]
 		},
 		{
-			"name": "加料区",
+			"name": "芝士鲜果配",
 			"foods": [
 				{
-					"name": "布丁",
-					"picUrl": "http://p0.meituan.net/wmproduct/25f3ee8b9730177ea8255786b3051c0b697518.jpg",
-					"price": 1,
+					"name": "芝士红肉火龙果",
+					"picUrl": "http://p0.meituan.net/wmproduct/17acd6d9373e88e872b59f99f2b6bb6612120.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "芝士鲜果配",
 					"props": [
 						{
-							"name": "份量",
+							"name": "温度",
 							"values": [
 								{
-									"value": "50克",
+									"value": "温热",
 									"price": 0,
-									"propName": "份量",
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
 									"isMul": true
 								}
 							]
@@ -4405,19 +5618,180 @@
 					]
 				},
 				{
-					"name": "红豆",
-					"picUrl": "http://p0.meituan.net/wmproduct/93b1ab143b3852f4df71aec5152e3572690482.jpg",
-					"price": 1,
+					"name": "芝士香芒",
+					"picUrl": "",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "芝士鲜果配",
 					"props": [
 						{
-							"name": "份量",
+							"name": "温度",
 							"values": [
 								{
-									"value": "1克",
+									"value": "温热",
 									"price": 0,
-									"propName": "份量",
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "波波茶系列",
+			"foods": [
+				{
+					"name": "芒果牛乳波波茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/4bba4329e05497443e40df86f1812981260772.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "波波茶系列",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "温热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
 									"isMul": true
 								}
 							]
@@ -4425,19 +5799,90 @@
 					]
 				},
 				{
-					"name": "椰果",
-					"picUrl": "http://p0.meituan.net/wmproduct/453b09294ae7116ec8ea33f091a9055e699875.jpg",
-					"price": 1,
+					"name": "伯爵牛乳波波茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/b56c2bfc823492b6f9525e9098affb1693187.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "波波茶系列",
 					"props": [
 						{
-							"name": "份量",
+							"name": "温度",
 							"values": [
 								{
-									"value": "50克",
+									"value": "温热",
 									"price": 0,
-									"propName": "份量",
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "半糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "甜度",
 									"isMul": true
 								}
 							]
