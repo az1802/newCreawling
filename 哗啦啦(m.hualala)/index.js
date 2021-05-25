@@ -1,16 +1,16 @@
 
 const fs = require("fs");
 const path = require("path");
+const requestShopInfo = require("./merchantShopInfo.json")
 const requestMenuJson = require("./merchantInfo.json");
-let merchantMenuInfo = requestMenuJson.records;
-let merchantShopInfo = requestMenuJson.info;
+let merchantMenuInfo = requestMenuJson.data.foodCategories;
+let merchantShopInfo = requestShopInfo.data.shopInfo;
 
 let shopInfo = {
-  name: merchantShopInfo.shopName,
-  logo:""
+  name:merchantShopInfo.shopName,
+  logo:merchantShopInfo.imageUrl
 }
 let categoryList =  merchantMenuInfo
-let foodList = merchantMenuInfo
 
 const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
@@ -19,14 +19,30 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpeci
 const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications:["规格"],//默认存在规格属性
   practice: [
-  
+    "蛋",
+    "其他",
+    "加辣",
+    "免辣",
+    "不辣",
+    "去冰",
+    "加冰",
+    "加糖",
+    "加卤水"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-   
+    "蛋",
+    "其他",
+    "加辣",
+    "免辣",
+    "不辣",
+    "去冰",
+    "加冰",
+    "加糖",
+    "加卤水"
   ],
   propsSort: {
   }
@@ -54,6 +70,45 @@ let propsGroupArr=[];
 function formatFoodProps(foodItem) { 
  
   let propsRes = [];
+
+  if (foodItem.units.length > 1) { //存在多种规格
+    addPropsGroupArr(propsGroupArr,"规格")
+    propsRes.push({
+      name: "规格",
+      values: foodItem.units.map(propValItem => {
+       
+        return {
+          value: propValItem.unit,
+          price:parseFloat(propValItem.originalPrice || propValItem.price || 0) ,
+          propName:"规格",
+          type: "",
+          isMul:true
+        }
+      })
+    })
+  }
+
+  if (foodItem.foodTastes.length > 0) {
+
+    foodItem.foodTastes.forEach(tastestItem => {
+      addPropsGroupArr(propsGroupArr, tastestItem.desc)
+      propsRes.push({
+        name: tastestItem.desc,
+        values: tastestItem.tasteOption.map(propValItem => {
+          let hasPrice = propValItem.tasteValue.indexOf("@G");
+          // console.log( "hasPrice",hasPrice == -1 ? 0 : propValItem.tasteValue.slice(hasPrice + 2))
+          return {
+            value: hasPrice == -1  ?propValItem.tasteValue  : propValItem.tasteValue.slice(0,hasPrice) ,
+            price: hasPrice == -1 ? 0 : propValItem.tasteValue.slice(hasPrice + 2),
+            propName: tastestItem.desc,
+            type: "",
+            isMul:tastestItem.multi
+          }
+        })
+      })
+    })
+  }
+    
   return propsRes;
   
 }
@@ -68,26 +123,25 @@ async function  handleRequestData(requestMenuData) {
       categories:[]
     }
     let categories = [], categoryObj = {};
-    foodList.forEach(foodItem => {
-      let categoryName = foodItem.foodCategoryName || foodItem.foodOnlineCategoryName
-      if (!categoryObj[categoryName]) {
-        categoryObj[categoryName] = {
-          name: categoryName,
-          foods:[],
-        }
-      }
+    let categoryInfo = categoryList.map(categoryItem => {
 
-      categoryObj[categoryName].foods.push({
-        name:foodItem.foodName || "",
-        picUrl: "",
-        price:foodItem.price || "",
-        unit: foodItem.unit || "份",
-        categoryName: categoryName,
-        props:[],
-      })
+      let categoryName = categoryItem.foodCategoryName
+      return {
+        name:categoryName,
+        foods:categoryItem.foods.map(foodItem => {
+          return {
+            name:foodItem.foodName || "",
+            picUrl: foodItem.imagePath || "",
+            price:parseFloat(foodItem.originPrice || foodItem.price ||""),
+            unit: "份",
+            categoryName: categoryName,
+            props:formatFoodProps(foodItem),
+          }
+        })
+      }
     })
 
-    merchantInfo.categories = Object.values(categoryObj);
+    merchantInfo.categories = categoryInfo
     // await logInfo(merchantInfo)
     return merchantInfo;
   } catch (err) { 

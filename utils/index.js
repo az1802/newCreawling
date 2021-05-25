@@ -436,7 +436,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         foodUnit = foodItem.unit,
         foodSpecificationType = "",
         foodSpecification = "",
-        foodPrice = parseFloat(foodItem.price).toFixed(2),
+        foodPrice = parseFloat(foodItem.price || 0).toFixed(2),
         foodPracticeType = [],
         foodPractice = [],
         foodFeeding = [],

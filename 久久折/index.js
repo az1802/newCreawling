@@ -8,8 +8,26 @@ const defaultImgUrl = "https://shouqianba-customer.oss-cn-hangzhou.aliyuncs.com/
 
 // const exportMode = "keruyun"
 const exportMode = "feie"
-const findJsonLen = 16
+const findJsonLen = 13
 const outputDir = path.join(__dirname, "merchantInfos")
+
+let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
+  specifications:[ "规格"],//规格
+  practice: [
+    "主食",
+    "饮料",
+  ],//做法
+  feeding:[],//加料
+  remarks: [],//备注
+  propsGroupSort: [
+    "主食",
+    "饮料",
+    "规格"
+  ],
+  propsSort: {
+    // "口味":["不辣","微辣","中辣","特辣","麻辣"]
+  }
+}
 
 let merchantInfo = require("./shopData.json")
 merchantInfo = merchantInfo.data
@@ -150,42 +168,7 @@ async function exists(pathStr) {
 
 let tempObj = {}
 
-let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
-  practice: [
-    "饮料",
-    "酱需要分开吗",
-    "汉堡需要切开",
-    "汉堡要切开吗",
-    "意面",
-    "蛋糕",
-    "冷热",
-    "糖分",
-    "口味",
-    "可选择",
-    "酱料",
-    "型号"
-  ],//做法
-  feeding:[],//加料
-  remarks: [],//备注
-  propsGroupSort: [
-    "饮料",
-    "酱需要分开吗",
-    "汉堡需要切开",
-    "汉堡要切开吗",
-    "意面",
-    "蛋糕",
-    "冷热",
-    "糖分",
-    "口味",
-    "可选择",
-    "酱料",
-    "型号"
-  ],
-  propsSort: {
-    // "口味":["不辣","微辣","中辣","特辣","麻辣"]
-  }
-}
+
 
 let propsGroupArr = [];
 
