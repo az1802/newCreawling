@@ -3,13 +3,13 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll} = require("../utils/index")
 
 
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 
 
@@ -27,17 +27,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格"],//规格
   practice: [
-    "甜度",
-    "温度",
-    "忌口",
+    "加料"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "甜度",
-    "温度",
-    "忌口",
-    "规格"
+    "加料"
   ],
  
   propsSort: {
@@ -207,8 +202,7 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    genWord(merchantInfo, outputDir)
-    genSpecificationsWord(merchantInfo,outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
   }
 
 }
