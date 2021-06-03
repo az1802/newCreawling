@@ -15,13 +15,13 @@ const exportMode = "keruyun"
 
 
 let merchantAllData =  require("./merchantInfo.json");
-merchantAllData = merchantAllData.data
-let requestShopData =merchantAllData.shopInfo
-let requestMenuData = merchantAllData.dishCategories
-let allsSuIds = merchantAllData.spuDetail;
+merchantAllData = merchantAllData.data.resultMap.menu.itemGroups;
+let requestShopData = {
+  shopName: "捞厨好面(粉面汤饭夜宵店)",
+  logoUrl:""
+}
+let requestMenuData = merchantAllData
 const { isRegExp } = require("util");
-
-
 
 
 const outputDir = path.join(__dirname, "merchantInfos")
@@ -29,16 +29,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "粉",
-    "辣",
-    "不辣"
+   
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "粉",
-    "辣",
-    "不辣"
+    
   ],
 }
 
@@ -57,53 +53,7 @@ async function getMerchantInfo() {
 
 
 function formatFoodProps(foodItem) {
-  let skuMenuItems = foodItem.skuMenuItems;
-  let methods = foodItem.methods;//普通属性
-  let propGroupName = methods.groupName;
-  let originalPrice = foodItem.originalPrice
-  let res = []
-
-  let skuObj = {
-    name: "规格",
-    values:[]
-  }
-  
-  // 处理规格菜
-  if (skuMenuItems&&skuMenuItems.length>1) {
-    skuMenuItems && skuMenuItems.forEach(propItem => {
-      if (!propItem.specAttrs[0].value) {
-        skuObj.values.push({
-          "value": propItem.specAttrs[0].value,
-          "price": propItem.originalPrice - originalPrice,
-          "propName": "规格",
-          "isMul": true
-        })
-      }
-    })
-    if (skuObj.values.length) {
-      res.push(skuObj)
-      console.log("规格菜----",foodItem.spuName)
-      addPropsGroupArr(propsGroupArr,"规格")
-    }
-  }
-
-  methods.forEach(propItem => {
-    let tempObj = {
-      name: propItem.groupName,
-      values:[]
-    }
-    propItem.items.forEach(item => {
-      tempObj.values.push({
-        "value": item.name.trim(),
-        "price": item.price,
-        "propName": tempObj.name,
-        "isMul": true
-      })
-    })
-    res.push(tempObj)
-
-    addPropsGroupArr(propsGroupArr,tempObj.name)
-  })
+  let res = [];
 
   return res;
 }
@@ -127,32 +77,23 @@ async function  handleRequestData(requestShopData,requestMenuData) {
 
     categories = requestMenuData.map(categoryItem => {
       let categoryData = {
-        name: "",
+        name: categoryItem.name,
         foods:[]
       };
-      categoryData.name = categoryItem.categoryName;
-      let categroySpuIds = []
-      if (categoryItem.spuIds) {
-        categroySpuIds = categoryItem.spuIds;
-      } else {
-        categoryItem.childDishCategories && categoryItem.childDishCategories.forEach(childCategoryItem => {
-          categroySpuIds.push(...(childCategoryItem.spuIds || []));
-        })
-      }
-      
 
-      categoryData.foods =categroySpuIds.reduce((res, foodItem) => {
-        foodItem = allsSuIds[foodItem]
+      categoryData.foods = categoryItem.items.reduce((res, foodItem) => {
+        
+        if (foodItem.groupId == -1) {
+          return res;
+        }
         if (foodItem) {
-
-
-          let picUrl = foodItem.detailPicUrls[0] || "";
-          picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0", "")
-          foodItem.spuName = foodItem.spuName.replace('/',"-")
+          let foodHash = foodItem.imageHash;
+          picUrl = foodHash ? `https://cube.elemecdn.com/${foodHash.slice(0, 1)}/${foodHash.slice(1, 3)}/${foodHash.slice(3)}.jpeg?x-oss-process=image/resize,m_fill,h_1500,w_1500/format,png/quality,q_75` : "";
+          foodItem.name = foodItem.name.replace('/',"-")
           let foodData = {
-            name: foodItem.spuName.trim() || "",
+            name: foodItem.name.trim() || "",
             picUrl: picUrl || "",
-            price: foodItem.originalPrice || "",
+            price: foodItem.price || "",
             unit: foodItem.unit || "份",
             categoryName: categoryData.name,
             props: [],
