@@ -1,43 +1,73 @@
 {
 	"respCode": "90000",
 	"respDesc": "交易成功",
-	"requestSeqId": "ufvzas91wc",
-	"respSeq": "20210520102075538",
+	"requestSeqId": "1zsnxi7xwmw",
+	"respSeq": "20210610160345884",
 	"respData": {
 		"goodsGroupDTOList": [{
-			"groupId": "261225705282994176",
-			"groupName": "特色手工鲜粉",
+			"groupId": "243110494583914496",
+			"groupName": "合集大全",
 			"groupSN": "1",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "262409427457933312",
-			"groupName": "手工炖粉/拌粉",
-			"groupSN": "1",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "261593340973678592",
-			"groupName": "现炒码粉",
+			"groupId": "242214230551953408",
+			"groupName": "螺蛳粉类",
 			"groupSN": "2",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "261216866991079424",
-			"groupName": "特色手工面",
+			"groupId": "242238488988614656",
+			"groupName": "汤粉／面类",
 			"groupSN": "3",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "261238642924060672",
-			"groupName": "家乡小吃",
+			"groupId": "242238622585585664",
+			"groupName": "老友粉类",
 			"groupSN": "4",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "261227680548519936",
-			"groupName": "饮料酒水",
+			"groupId": "242238809005621248",
+			"groupName": "干捞粉类",
 			"groupSN": "5",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "242239023292612608",
+			"groupName": "炒粉类",
+			"groupSN": "6",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "243202147181133824",
+			"groupName": "肉类",
+			"groupSN": "6",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "242239261726212096",
+			"groupName": "小吃类",
+			"groupSN": "7",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "242239405326598144",
+			"groupName": "卤味类",
+			"groupSN": "8",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "242239486788370432",
+			"groupName": "糖水类",
+			"groupSN": "9",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "242239569638457344",
+			"groupName": "饮料类",
+			"groupSN": "10",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}]

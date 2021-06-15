@@ -1,24 +1,24 @@
 {
-	"shopName": "六道一品",
+	"shopName": "小鱼号酸菜鱼米饭(万象店)",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "面包类",
+			"name": "无刺的鱼",
 			"foods": [
 				{
-					"name": "法式香酥菠萝包",
-					"picUrl": "http://p0.meituan.net/wmproduct/62ec8fb9edbe1c015df273467495198a87631.jpg",
-					"price": 10,
+					"name": "柠檬无骨鱼+米饭（加单点更优惠）",
+					"picUrl": "http://p0.meituan.net/wmproduct/a433d13eee6b3ba02eaba2255cf9723677762.jpg",
+					"price": 35.8,
 					"unit": "份",
-					"categoryName": "面包类",
+					"categoryName": "无刺的鱼",
 					"props": [
 						{
-							"name": "菠萝包",
+							"name": "份量",
 							"values": [
 								{
-									"value": "香，",
+									"value": "1人份",
 									"price": 0,
-									"propName": "菠萝包",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -28,62 +28,135 @@
 			]
 		},
 		{
-			"name": "饺子",
+			"name": "花样肉片",
 			"foods": [
 				{
-					"name": "生煎饺子（6个）",
-					"picUrl": "http://p0.meituan.net/waimaidpoipicmining/17d7a4c9e2ca53012281b2168fd1c8d1135872.jpg",
-					"price": 11,
+					"name": "番茄肉片+米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/8209ca604e46de12da425a2fb27cb36e482553.png",
+					"price": 37.8,
 					"unit": "份",
-					"categoryName": "饺子",
+					"categoryName": "花样肉片",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特赞肥牛",
+			"foods": [
+				{
+					"name": "酸菜肥牛+米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/d074bb4c7b893e2311d9c46f3c5e8bfe510247.png",
+					"price": 38.8,
+					"unit": "份",
+					"categoryName": "特赞肥牛",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "鲜活黑鱼",
+			"foods": [
+				{
+					"name": "水煮黑鱼+米饭",
+					"picUrl": "http://p1.meituan.net/wmproduct/1fbf8b42823738c88fbf1882337dd90a433815.png",
+					"price": 38.8,
+					"unit": "份",
+					"categoryName": "鲜活黑鱼",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "鸳鸯双拼",
+			"foods": [
+				{
+					"name": "酸菜双拼+米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/4233cc988edfa6e2ceb50be9971d0e6b512413.png",
+					"price": 38.8,
+					"unit": "份",
+					"categoryName": "鸳鸯双拼",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "美味鸭腱",
+			"foods": [
+				{
+					"name": "水煮鸭腱+米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/a436f115b502a5f066ccd7c3efc944dd94263.jpg",
+					"price": 38.8,
+					"unit": "份",
+					"categoryName": "美味鸭腱",
 					"props": []
-				},
+				}
+			]
+		},
+		{
+			"name": "新品脆鱼",
+			"foods": [
 				{
-					"name": "菌汁灌汤饺",
-					"picUrl": "http://p1.meituan.net/xianfu/e7fe6a64d1f0329188d2af1d32874501353938.jpg",
-					"price": 21,
+					"name": "水煮脆鱼+米饭",
+					"picUrl": "http://p1.meituan.net/wmproduct/b5d766c4364d7f6d20d5b63bbbb2c292447728.png",
+					"price": 43.8,
 					"unit": "份",
-					"categoryName": "饺子",
+					"categoryName": "新品脆鱼",
 					"props": [
 						{
-							"name": "口味",
+							"name": "份量",
 							"values": [
 								{
-									"value": "微辣",
+									"value": "135克",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "韭菜肉饺",
-					"picUrl": "http://p0.meituan.net/wmproduct/679bb345a3a116d2c4d2be92734f543f94408.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饺子",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "口味",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -93,14 +166,64 @@
 			]
 		},
 		{
-			"name": "粉，面",
+			"name": "飘香牛肉",
 			"foods": [
 				{
-					"name": "上汤云吞面",
-					"picUrl": "http://p1.meituan.net/xianfu/a453f1ff1558038b485614fca3610b59220773.jpg",
-					"price": 12,
+					"name": "水煮牛肉+米饭",
+					"picUrl": "http://p1.meituan.net/wmproduct/fb4e4e5bc6b92509877998e3f7eddcaf474965.png",
+					"price": 46.8,
 					"unit": "份",
-					"categoryName": "粉，面",
+					"categoryName": "飘香牛肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "美味三鲜",
+			"foods": [
+				{
+					"name": "番茄三鲜+米饭",
+					"picUrl": "http://p1.meituan.net/wmproduct/3dad0e4ff369e1cf841f3023fc5c49a2479002.png",
+					"price": 49.8,
+					"unit": "份",
+					"categoryName": "美味三鲜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "多人聚餐",
+			"foods": [
+				{
+					"name": "柠檬无骨鱼（不含米饭）",
+					"picUrl": "http://p0.meituan.net/wmproduct/6c3458148cb91cb89f97de89ff052315570248.png",
+					"price": 108,
+					"unit": "份",
+					"categoryName": "多人聚餐",
 					"props": [
 						{
 							"name": "辣度",
@@ -112,33 +235,13 @@
 									"isMul": true
 								},
 								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "菌汁云吞",
-					"picUrl": "http://p0.meituan.net/wmproduct/e61a5639d669dba64e5debe1bbeaa255183762.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "粉，面",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
+									"value": "中辣",
 									"price": 0,
 									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
+									"value": "特辣",
 									"price": 0,
 									"propName": "辣度",
 									"isMul": true
@@ -146,43 +249,26 @@
 							]
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"name": "单点专区",
+			"foods": [
 				{
-					"name": "肉酱捞面",
-					"picUrl": "http://p1.meituan.net/wmproduct/d83d22127815b24e8f166e1ed5d57be165485.jpg",
-					"price": 15,
+					"name": "鱿鱼50g",
+					"picUrl": "http://p1.meituan.net/wmproduct/c98cd112df7bcc4fc02b31a93855c24c357886.png",
+					"price": 12.6,
 					"unit": "份",
-					"categoryName": "粉，面",
-					"props": []
-				},
-				{
-					"name": "肉酱臊子面",
-					"picUrl": "http://p0.meituan.net/xianfu/4763c89713fda6e91b41a908a0938662350540.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "粉，面",
-					"props": []
-				},
-				{
-					"name": "虫草花鸡汤面",
-					"picUrl": "http://p0.meituan.net/xianfu/287029a79ec70bdf725029add449334370881.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉，面",
+					"categoryName": "单点专区",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "微辣",
+									"value": "50克",
 									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
@@ -190,127 +276,62 @@
 					]
 				},
 				{
-					"name": "牛腩净云吞",
-					"picUrl": "http://p0.meituan.net/waimaidpoipicmining/f73f17ee059bbb00e58cb71f7a6d8173151143.jpg",
-					"price": 18,
+					"name": "魔芋结",
+					"picUrl": "http://p0.meituan.net/wmproduct/97fd8440de2b38168edad0960e8e6a7b298374.png",
+					"price": 4.2,
 					"unit": "份",
-					"categoryName": "粉，面",
+					"categoryName": "单点专区",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "微辣",
+									"value": "50克",
 									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"name": "折扣套餐",
+			"foods": [
 				{
-					"name": "牛腩汤米粉",
-					"picUrl": "http://p1.meituan.net/xianfu/8ead8bd658e437feb1f8361464c669ee380745.jpg",
-					"price": 19,
+					"name": "柠檬无骨鱼+米饭",
+					"picUrl": "http://p0.meituan.net/wmproduct/a433d13eee6b3ba02eaba2255cf9723677762.jpg",
+					"price": 35.8,
 					"unit": "份",
-					"categoryName": "粉，面",
+					"categoryName": "折扣套餐",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "菌汁灌汤饺类",
+			"name": "小鱼主食",
 			"foods": [
 				{
-					"name": "菌汁灌汤饺",
-					"picUrl": "http://p0.meituan.net/waimaidpoipicmining/87d3eea4bc017b53b120f3cd0d4681bd99391.jpg",
-					"price": 22,
+					"name": "稻花香米饭1盒",
+					"picUrl": "http://p0.meituan.net/wmproduct/c31962b16f7e465f30e46d2e919cafa949172.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "菌汁灌汤饺类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "灌汤饺（生）",
-			"foods": [
-				{
-					"name": "（生）云吞",
-					"picUrl": "http://p0.meituan.net/wmproduct/d74c18ac55ed59bd686ce92245a7dae076564.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "灌汤饺（生）",
-					"props": []
-				},
-				{
-					"name": "（生）灌汤饺",
-					"picUrl": "http://p1.meituan.net/wmproduct/73fa09f778b0ad7f6ec049d72606fce265827.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "灌汤饺（生）",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒菜，饭类",
-			"foods": [
-				{
-					"name": "梅菜扣肉饭",
-					"picUrl": "http://p0.meituan.net/xianfu/0e51be7dced9000aee5731daf6b1a6ff343675.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "炒菜，饭类",
-					"props": []
-				},
-				{
-					"name": "叉烧滑蛋饭",
-					"picUrl": "http://p0.meituan.net/xianfu/ac9c5e7b2ad22eca9e219ca8eae87bd8312616.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "炒菜，饭类",
-					"props": []
-				},
-				{
-					"name": "土豆肉丝饭",
-					"picUrl": "http://p0.meituan.net/xianfu/954320cf10489213b06c7ad330f3e39f402463.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "炒菜，饭类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒饭类",
-			"foods": [
-				{
-					"name": "牛肉酸菜粒炒饭",
-					"picUrl": "http://p0.meituan.net/xianfu/96b8d0178325a065ea98a1d477eb83b6244710.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "炒饭类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "蒸蒸日上，蒸饭",
-			"foods": [
-				{
-					"name": "梅菜肉饼饭",
-					"picUrl": "http://p0.meituan.net/xianfu/06408a6d7fe16f6bfcad9ff7e08dcc9d422275.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "蒸蒸日上，蒸饭",
-					"props": []
+					"categoryName": "小鱼主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		}

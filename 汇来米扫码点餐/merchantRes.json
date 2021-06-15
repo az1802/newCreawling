@@ -1,249 +1,673 @@
 {
-	"shopName": "村口粉铺深圳南山店",
+	"shopName": "回味柳州螺蛳粉",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "特色手工鲜粉",
-			"foods": [
-				{
-					"name": "鲜土猪肉手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/default_iOS/85a373c6-b2d4-11eb-a964-0242ac120002.jpeg",
-					"price": "19",
-					"unit": "份",
-					"categoryName": "特色手工鲜粉",
-					"props": []
-				},
-				{
-					"name": "肉饼蒸蛋手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/ca37fcde-b39a-11eb-a056-0242ac110004.png",
-					"price": "19",
-					"unit": "份",
-					"categoryName": "特色手工鲜粉",
-					"props": []
-				},
-				{
-					"name": "红烧牛肉手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/1c5cb136-b3b8-11eb-8dbb-0242ac110003.png",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "特色手工鲜粉",
-					"props": []
-				},
-				{
-					"name": "西红柿鸡蛋手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/dd1a022a-b63d-11eb-ad01-0242ac120002.png",
-					"price": "18",
-					"unit": "份",
-					"categoryName": "特色手工鲜粉",
-					"props": []
-				}
-			]
+			"name": "合集大全",
+			"foods": []
 		},
 		{
-			"name": "手工炖粉/拌粉",
+			"name": "螺蛳粉类",
 			"foods": [
 				{
-					"name": "耳尖拌粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/bb508796-b3d0-11eb-8daa-0242ac110003.png",
-					"price": "19",
-					"unit": "份",
-					"categoryName": "手工炖粉/拌粉",
-					"props": []
-				},
-				{
-					"name": "酸汤黑鱼片手工炖粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/83e3c532-b3a0-11eb-ad01-0242ac120002.png",
-					"price": "21",
-					"unit": "份",
-					"categoryName": "手工炖粉/拌粉",
-					"props": []
-				},
-				{
-					"name": "卤牛肉拌粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/d12cd2dc-b3cf-11eb-8daa-0242ac110003.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "手工炖粉/拌粉",
-					"props": []
-				},
-				{
-					"name": "雪花鲜牛腩炖手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/2fc0db72-b39e-11eb-81e1-0242ac110003.png",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "手工炖粉/拌粉",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "现炒码粉",
-			"foods": [
-				{
-					"name": "现炒辣椒炒肉手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/3a7a10f0-b3d1-11eb-9a87-0242ac120002.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "现炒码粉",
-					"props": []
-				},
-				{
-					"name": "现炒新鲜黄牛肉手工粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/5a663fa2-b399-11eb-895e-0242ac110004.png",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "现炒码粉",
-					"props": []
-				},
-				{
-					"name": "现炒酸辣腰花手工码粉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/6703aed4-b399-11eb-a007-0242ac120002.png",
-					"price": "23",
-					"unit": "份",
-					"categoryName": "现炒码粉",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "特色手工面",
-			"foods": [
-				{
-					"name": "雪花牛腩炖手工面",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/7a9fc9cc-b3d1-11eb-8daa-0242ac110003.png",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "特色手工面",
-					"props": []
-				},
-				{
-					"name": "酸汤黑鱼片手工面",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/934c139a-b3d1-11eb-8daa-0242ac110003.png",
-					"price": "21",
-					"unit": "份",
-					"categoryName": "特色手工面",
-					"props": []
-				},
-				{
-					"name": "红烧牛肉手工面",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/default_iOS/c94d181c-b2f6-11eb-a056-0242ac110004.jpeg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "特色手工面",
-					"props": []
-				},
-				{
-					"name": "西红柿鸡蛋手工面",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/5206bb62-b640-11eb-9323-0242ac110004.png",
-					"price": "18",
-					"unit": "份",
-					"categoryName": "特色手工面",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "家乡小吃",
-			"foods": [
-				{
-					"name": "糖油粑粑",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/7c87d83a-b2e4-11eb-8daa-0242ac110003.png",
-					"price": "6",
-					"unit": "份",
-					"categoryName": "家乡小吃",
-					"props": []
-				},
-				{
-					"name": "葱油饼",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/default_iOS/97ea0e6c-b2d6-11eb-ad01-0242ac120002.jpeg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "家乡小吃",
-					"props": []
-				},
-				{
-					"name": "地瓜丸",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/df7147e2-b2e4-11eb-b6f5-0242ac120002.png",
-					"price": "6",
-					"unit": "份",
-					"categoryName": "家乡小吃",
-					"props": []
-				},
-				{
-					"name": "香煎土鸡蛋",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/dcde497e-b2e6-11eb-8dbb-0242ac110003.png",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "家乡小吃",
-					"props": []
-				},
-				{
-					"name": "臭豆腐",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/default_iOS/7cd6f2e8-b2d6-11eb-b41e-0242ac120002.jpeg",
+					"name": "原味螺蛳粉",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/ac96f90a-8a3c-11eb-9f03-0242ac110002.jpg",
 					"price": "8",
 					"unit": "份",
-					"categoryName": "家乡小吃",
+					"categoryName": "螺蛳粉类",
 					"props": []
 				},
 				{
-					"name": "湘卤豆干",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/f776d590-b641-11eb-8daa-0242ac110003.png",
-					"price": "6",
+					"name": "螺蛳粉升级版（配菜自选）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/96d3f7d0-8a5a-11eb-b647-0242ac110002.jpg",
+					"price": "8",
 					"unit": "份",
-					"categoryName": "家乡小吃",
+					"categoryName": "螺蛳粉类",
+					"props": []
+				},
+				{
+					"name": "螺蛳粉+小吃",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/82dabf98-8adc-11eb-a4ba-0242ac110002.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "螺蛳粉类",
+					"props": []
+				},
+				{
+					"name": "螺蛳粉+肉类",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/bfea269c-8ade-11eb-ade8-0242ac110002.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "螺蛳粉类",
+					"props": []
+				},
+				{
+					"name": "螺蛳粉+糖水",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/12e3d0a4-8ae0-11eb-ade8-0242ac110002.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "螺蛳粉类",
+					"props": []
+				},
+				{
+					"name": "螺蛳粉+卤味",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/54c29130-8ae1-11eb-ade8-0242ac110002.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "螺蛳粉类",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "饮料酒水",
+			"name": "汤粉／面类",
 			"foods": [
 				{
-					"name": "王老吉",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/b9e504e4-b3d1-11eb-8dbb-0242ac110003.png",
+					"name": "清汤汤粉或面+自选小吃",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/41ac6dd6-89ac-11eb-8341-0242ac110002.jpg",
 					"price": "6",
 					"unit": "份",
-					"categoryName": "饮料酒水",
+					"categoryName": "汤粉／面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "老友粉类",
+			"foods": [
+				{
+					"name": "老友粉+自选类",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/56e34630-8bb8-11eb-9f03-0242ac110002.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "老友粉类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "干捞粉类",
+			"foods": [
+				{
+					"name": "干捞桂林米粉+自选类",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/dfe18dc8-8bb5-11eb-aaf4-0242ac110002.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "干捞粉类",
 					"props": []
 				},
 				{
-					"name": "酸梅汁",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/e8551bfc-b3d1-11eb-b41e-0242ac120002.png",
-					"price": "6",
+					"name": "杂酱面",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/f4196ad6-8bf6-11eb-aaf4-0242ac110002.jpg",
+					"price": "8",
 					"unit": "份",
-					"categoryName": "饮料酒水",
+					"categoryName": "干捞粉类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "炒粉类",
+			"foods": [
+				{
+					"name": "三丝炒粉或面",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/bfba2540-8b84-11eb-8341-0242ac110002.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "炒粉类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "肉类",
+			"foods": [
+				{
+					"name": "肉类大全",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/928543f4-8bbe-11eb-8341-0242ac110002.jpg",
+					"price": "0",
+					"unit": "份",
+					"categoryName": "肉类",
 					"props": []
 				},
 				{
-					"name": "维他奶瓶装",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/f08b14ac-b3d1-11eb-81e1-0242ac110003.png",
+					"name": "叉烧",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/4e404e90-8bba-11eb-a4ba-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "锅烧",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/797104e2-8bba-11eb-8341-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "牛烧",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/9ce43264-8bba-11eb-ba6e-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "三烧",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/c9ecb9a2-8bba-11eb-8e84-0242ac110002.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "牛腩",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/e7b6c964-8bba-11eb-8e84-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "牛肚",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/fe278aa8-8bba-11eb-8e84-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "猪肚",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/13da6672-8bbb-11eb-9f03-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "一锅全",
+					"picUrl": "https://mcsmer.cloudpnr.com/mcs-h5/imgs/default.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "瘦肉",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/1ead3556-8bbc-11eb-94c8-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "三鲜（猪肝瘦肉猪心）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/5db26564-8bbc-11eb-a8a2-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "黄金鱼丸5粒",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/9fa81fa0-8bbb-11eb-ade8-0242ac110002.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "牛筋丸4粒",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/7e899114-8bbb-11eb-945b-0242ac110002.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "鸭血",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/8ee0322e-8bbc-11eb-9df9-0242ac110002.jpg",
 					"price": "3",
 					"unit": "份",
-					"categoryName": "饮料酒水",
+					"categoryName": "肉类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小吃类",
+			"foods": [
+				{
+					"name": "小吃大全",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/10f29414-8bb3-11eb-ade8-0242ac110002.jpg",
+					"price": "0",
+					"unit": "份",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "可乐",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/2d8aeb1c-b7d7-11eb-a964-0242ac120002.png",
-					"price": "4",
+					"name": "煎蛋（1个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/e8e15624-89a3-11eb-b0e4-0242ac110002.jpg",
+					"price": "2",
 					"unit": "份",
-					"categoryName": "饮料酒水",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "雪碧",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/af7bde78-b3d2-11eb-9e87-0242ac120002.png",
-					"price": "4",
+					"name": "卤蛋（1个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/113af49a-89a4-11eb-b141-0242ac110002.jpg",
+					"price": "2",
 					"unit": "份",
-					"categoryName": "饮料酒水",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "维他奶盒装",
-					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/android/hlm_merchant_pro/4dc6d558-b7d7-11eb-9e87-0242ac120002.png",
+					"name": "鹌鹑蛋（5个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/2bfc3672-89a4-11eb-8341-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "热狗（1条）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/22bd0310-8b21-11eb-97e0-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "豆腐泡（4个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/4b850c20-8b21-11eb-8e84-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "豆腐串（1串）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/b0d29890-8b21-11eb-8e84-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "海带节（5个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/de07a558-8b21-11eb-b0e4-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "金针菇（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/100951f0-8b22-11eb-8341-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "绿豆芽（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/6153fcae-8b22-11eb-b0e4-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "黄豆芽（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/778e1b4e-8b22-11eb-945b-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "娃娃菜（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/9e48ff56-8b22-11eb-b141-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "炸腐竹（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/c36c9554-8b22-11eb-8e84-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "炸花生米（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/00d89140-8b23-11eb-b141-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "黑木耳丝（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/69d46282-8bb9-11eb-a8a2-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "木耳酸笋（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/271967d0-8b23-11eb-ade8-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "开胃小竹笋（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/56079eae-8b23-11eb-a83f-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "酸豆角（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/73a83e14-8b23-11eb-8341-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "空心菜（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/ef140a10-8b23-11eb-ade8-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "生菜（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/3bd8b6ac-8b24-11eb-ade8-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "西洋菜（1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/0b504f36-8b24-11eb-ab4e-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "香麦菜（菜1份）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/e2d2c506-8b24-11eb-a4ba-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "卤味类",
+			"foods": [
+				{
+					"name": "卤味大全",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/cf7f0166-8b49-11eb-97e0-0242ac110002.jpg",
+					"price": "0",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				},
+				{
+					"name": "卤鸡腿（1个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/063bac88-8b25-11eb-94c8-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				},
+				{
+					"name": "卤鸭爪（1个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/2517f666-8b25-11eb-adbb-0242ac110002.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				},
+				{
+					"name": "卤鸭爪（2个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/40885c2e-8b25-11eb-b647-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				},
+				{
+					"name": "卤鸡爪（1个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/85eb7a8a-8b25-11eb-ade8-0242ac110002.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				},
+				{
+					"name": "卤鸡爪（2个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/a00fa224-8b25-11eb-b141-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				},
+				{
+					"name": "卤鸡鸭爪双拼（各1个）",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/f027103a-8b25-11eb-ade8-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "卤味类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "糖水类",
+			"foods": [
+				{
+					"name": "糖水大全",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/3843aede-8b47-11eb-8e84-0242ac110002.jpg",
+					"price": "0",
+					"unit": "份",
+					"categoryName": "糖水类",
+					"props": []
+				},
+				{
+					"name": "桃胶雪燕银耳牛奶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/c7ecf09e-89a4-11eb-94c8-0242ac110002.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "糖水类",
+					"props": []
+				},
+				{
+					"name": "红豆双皮奶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/4d126a9c-8b26-11eb-9707-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "糖水类",
+					"props": []
+				},
+				{
+					"name": "干果红糖冰粉",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/9efb8b36-8b26-11eb-aaf4-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "糖水类",
+					"props": []
+				},
+				{
+					"name": "火龙果冰粉",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/df44dada-8b26-11eb-ade8-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "糖水类",
+					"props": []
+				},
+				{
+					"name": "绿豆沙",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/f7b67e16-8b26-11eb-94c8-0242ac110002.jpg",
 					"price": "4",
 					"unit": "份",
-					"categoryName": "饮料酒水",
+					"categoryName": "糖水类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料类",
+			"foods": [
+				{
+					"name": "饮料大全",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/ae4b8306-8b45-11eb-ade8-0242ac110002.jpg",
+					"price": "0",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "瓶装维他奶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/6e5e5d50-8b49-11eb-b647-0242ac110002.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "盒装维他奶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/5695c900-8b27-11eb-b0e4-0242ac110002.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "盒装维他柠檬茶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/80cc2444-8b27-11eb-ade8-0242ac110002.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "罐装百事可乐",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/0697d0a0-8b28-11eb-8341-0242ac110002.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "罐装加多宝",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/3881c7ba-8b28-11eb-ade8-0242ac110002.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "高罐装可口可乐",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/1f789e38-8b28-11eb-9707-0242ac110002.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "高罐装芬达",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/5a607c28-8b28-11eb-a8a2-0242ac110002.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "高罐装雪碧",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/ceddd4ce-8b28-11eb-8341-0242ac110002.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "中鹏菊花茶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/8850fd08-8b2b-11eb-a8a2-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "中鹏清凉茶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/a90bba1a-8b2b-11eb-8d6b-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "中鹏冬瓜茶",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/fff3507c-8b2b-11eb-ade8-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "瓶装可乐仔",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/91b0f75c-8b2d-11eb-8e84-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "瓶装芬达",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/ad379da0-8b2d-11eb-8e84-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "瓶装雪碧",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/d09ef158-8b2d-11eb-8341-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "农夫山泉（550m l)",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/fbfd669a-8b2d-11eb-8341-0242ac110002.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "高罐装雪花啤酒",
+					"picUrl": "https://jfile.cloudpnr.com/app-e8f8442e-4e68-4a6c-b51b-8ae9647f22be/0df6f910-8b47-11eb-8341-0242ac110002.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "饮料类",
 					"props": []
 				}
 			]
