@@ -1,6 +1,6 @@
 {
   "data": {
-      "address": "深圳市福田区梅林街道梅亭社区安得街5号华府馨居1、2、3、4栋安得街7号地下商业A01",
+      "address": "广东省广州市越秀区新天地街5号204",
       "bannerMode": "BANNER_FANPIAO",
       "comboMealOnly": false,
       "disableBuyFanpiao": false,
@@ -34,7 +34,7 @@
       "enableRemoveRequiredItem": false,
       "enableSelfDiningDiscountPayment": false,
       "enableSelfPickUp": false,
-      "enableShilaiMemberCardPay": true,
+      "enableShilaiMemberCardPay": false,
       "enableShilaiMemberCardRecharge": false,
       "enableShilaiPromotionSplash": false,
       "enableShowSoldOutDishes": false,
@@ -45,28 +45,29 @@
       "fanpiaoSalesBoostFactor": 1,
       "groupDiningCount": 0,
       "imageUrls": [
-          "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3e9f62b9-2d3b-4220-a300-b73d86e5d0b4_tmp_3b07bef0399b95c9c2c0917d1f7971a2.jpg"
+          "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2a8c42ef-8017-4480-8c80-72e6ad07d96e_tmp_b8888f6316009ce9e3fd89ee39f5dc47.jpg"
       ],
       "lat": 0,
       "lng": 0,
-      "logoUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cc2af724-e633-4f81-bc96-ef220b806c15_tmp_ea56df5b440a3707eee7b0faa35f0628.jpg",
-      "merchantId": "054c4a837af54ee89d1d98dc398ef173",
-      "merchantName": "老西北牛肉面（上梅林店）",
-      "merchantSystemMessage": "",
-      "name": "老西北牛肉面（上梅林店）",
+      "logoUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/75e52d98-7094-456d-b62b-ac8eddca4959_tmp_367892ec23e39c37bc6a4026dee2ae90.jpg",
+      "merchantId": "02bf435de3a14c82832b6855290d58ac",
+      "merchantName": "小面·鸡公煲",
+      "name": "小面·鸡公煲",
       "noDiscountTimeRanges": "",
       "opening": true,
-      "openingHoursDesc": "08:00-22:00",
+      "openingHoursDesc": "09:00-21:00",
       "packageBoxType": "LADDER",
       "payType": "PAY_FIRST",
-      "phone": "18526405949",
+      "phone": "13925179713",
       "recentlyOrderId": "",
       "recentlyPaidOrderId": "",
       "recommendedFoodPhotoUrls": [],
       "splashCouponCategoryId": "",
       "splashImageUrl": "",
       "splashMode": "FANPIAO",
-      "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/769013a5-9c8c-4939-be3d-3347e04a5ecd_tmp_3f577be699b97608acbe3976ce953d2b.jpg",
+      "storeCoverPhotoUrls": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/15586bda-6b0f-42da-8673-0ce774316ea8_tmp_76d6c6f7c4c9014924a38d9eb2ddfa6d.jpg",
       "storeId": ""
-  }
+  },
+  "errcode": 0,
+  "errmsg": "success"
 }

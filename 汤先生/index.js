@@ -3,25 +3,17 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll,addPropsGroupArr} = require("../utils/index")
 
-
-
-
-const shopId = "372546e43f394617ba29f2a286ac6576"
-const shopRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/`
-const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${shopId}?mealType=EAT_IN`
 
 
 // const exportMode = "keruyun"
 const exportMode = "feie"
 
-
-
-let { data:requestShopData} = require("./shopData.json");
-let { data:requestMenuData} = require("./menuData.json");
+let { data: requestShopData } = require("./shopData.json");
+let requestMenuData = requestShopData.productCategorys;
+requestShopData = requestShopData.shopInfo
 const { isRegExp } = require("util");
-
 const outputDir = path.join(__dirname, "merchantInfos")
 
 
@@ -29,16 +21,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:["规格"],//规格
   practice: [
-  	"备注",
-	"葱",
-	"辣度"
+  
 ],//做法
-  feeding:["加料"],
+  feeding:[],
   remarks: [],//备注
   propsGroupSort: [
-    "备注",
-    "葱",
-    "辣度",
+  
     "加料",
     "规格"
   ],
@@ -55,9 +43,6 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 //   remarks: [],//备注
 // }
 
-
-
-
 let propsGroupArr = [];
 
 // 打印日志到test.json 文件夹
@@ -67,11 +52,6 @@ async function logInfo(info,fileName="test.json") {
 
 // 获取原始数据
 async function getMerchantInfo() { 
-  // let requestShopData = await requestUrl(shopRequestUrl);
-  // logInfo(requestShopData,"shopData")
-  // let requestMenuData = await requestUrl(menuRequestUrl);
-  // logInfo(requestShopData, "menuData")
-
   let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
   await logInfo(merchantInfo, "merchantRes")
   return merchantInfo;
@@ -79,89 +59,74 @@ async function getMerchantInfo() {
 
 // 处理菜品属性
 function formatFoodProps(foodItem) { 
-  let { propsGroupSort,propsSort } = menuSetting
   
-  let propsRes = [], props = foodItem.attrList;
-  for (let k = 0; k < props.length; k++) { 
-    if (propsGroupArr.indexOf(props[k].groupName)==-1) { 
-      propsGroupArr.push(props[k].groupName);
-    }
-
+  let propsRes = [], skus = foodItem.skus;
+  if (!skus) { return []}
+  if (skus.length > 1) {
     let propTemp = {
-      name: props[k].groupName,
-      values: props[k].attrs.map(propValItem => { 
-        return {
-          value: propValItem.name,
-          price: (parseFloat(propValItem.reprice)/100),
-          propName: props[k].groupName,
-          isMul:true
-        }
-      })
+      name: "规格",
+      values: skus.map(skuItem => ({
+        value: String(skuItem.spec),
+        price: (parseFloat(skuItem.price)/100),
+        propName: "规格",
+        isMul:false
+      }))
     }
+    addPropsGroupArr(propsGroupArr,"规格")
+    
     propsRes.push(propTemp);
-  }
-
-  let supplyCondiments = foodItem.supplyCondiments || [];
-  let condimentTemp = {
-    name: "加料",
-    values: supplyCondiments.map(item => {
-      return {
-        value: item.name,
-        price: (parseFloat(item.marketPrice)/100),
-        propName: "加料",
-        isMul: true,
-        type:"supplyCondiment"
+  } else {
+    let group = skus[0].group;
+    group.forEach(groupItem => {
+      let propTemp = {
+        name: String(groupItem.groupName),
+        values: groupItem.item.forEach(propItem => ({
+          value: String(propItem.productName),
+          price: (parseFloat(propItem.salePrice)/100),
+          propName: String(groupItem.groupName),
+          isMul:true
+        })).filter(item => item.name)
       }
+      addPropsGroupArr(propsGroupArr,propTemp.name)
+      propsRes.push(propTemp);
     })
   }
-  propsRes.push(condimentTemp)
-
 
   return propsRes;
 }
 
 
-
-
-
 // 爬取的数据中进行信息提取
 async function  handleRequestData(requestShopData,requestMenuData) {
-  // await logInfo(requestMenuData)
-  
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: requestShopData.name,
-      shop_pic: requestShopData.logoUrl,
+      shopName: String(requestShopData.shopName),
+      shop_pic: "",
       categories:[]
     }
+    console.log( String(requestShopData.shopName))
 
     // 菜品目录
     let categories = []
 
-    categories = requestMenuData.dishes.map(categoryItem => { 
+    categories = requestMenuData.map(categoryItem => { 
       let categoryData = {
-        name: "",
+        name: String(categoryItem.categoryName),
         foods:[]
       };
-      categoryData.name = categoryItem.category.name;
-      categoryData.foods = categoryItem.dishList.reduce((res,foodItem) => { 
+      categoryData.foods = categoryItem.productList.reduce((res,foodItem) => { 
         if (foodItem) { 
           let foodData = {
-            name:(foodItem.name || ""),
-            picUrl: foodItem.image || foodItem.thumbImage || "",
-            price:(parseFloat(foodItem.price)/100) || "",
+            name:String((foodItem.productName || "")),
+            picUrl: String(foodItem.thumbnailImageUrl || foodItem.descriptionImageUrls[0] || ""),
+            price:(parseFloat(foodItem.sku[0].price)/100) || "",
             unit: foodItem.unit || "份",
-            categoryName:  categoryItem.category.name,
+            categoryName: categoryData.name,
             props:[],
           };
-          let arrTemp = ["酸菜干拌","牛腩干拌"]
-          if (foodData.picUrl.indexOf('jpg')==-1){
-            foodData.picUrl=""
-          }
 
-
-          foodData.name =   foodData.name.trim().replace(/\//ig,"-")
+          foodData.name =foodData.name.trim().replace(/\//ig,"-")
           foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }
@@ -175,7 +140,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
     merchantInfo.categories = categories
     return merchantInfo;
   } catch (err) { 
-    console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
+    console.log(err, `格式化转换菜品发生错误`)
   }
 }
 

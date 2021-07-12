@@ -1,4238 +1,1051 @@
 {
-	"shopName": "一品木桶饭",
-	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1587277",
+	"shopName": "柳螺香柳州螺蛳粉",
+	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1626674",
 	"categories": [
 		{
-			"name": "饮品区",
+			"name": "桂林米粉",
 			"foods": [
 				{
-					"name": "荷包蛋",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/386417.jpg",
-					"price": "2.0",
-					"unit": "个",
-					"categoryName": "饮品区",
+					"name": "全家福",
+					"picUrl": "",
+					"price": "22.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": []
 				},
 				{
-					"name": "雪花纯生",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/07/8e50c21841ba4c3ea64a7024324b40db.jpg",
+					"name": "干捞卤蛋粉",
+					"picUrl": "",
+					"price": "14.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞叉烧粉",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞煎蛋粉",
+					"picUrl": "",
+					"price": "14.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞牛丸粉",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞牛杂粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞牛肉粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞牛肚粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞牛腩粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞素粉",
+					"picUrl": "",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞肥肠粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "干捞锅烧粉",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				},
+				{
+					"name": "桂林米粉",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/795363.jpg",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "配菜小吃",
+			"foods": [
+				{
+					"name": "煎蛋",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8050.jpg",
+					"price": "2.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "卤蛋",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/205205.jpg",
+					"price": "2.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "叉烧",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/2CvHxKb2.jpg",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "热狗",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/820714.jpg",
+					"price": "3.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "牛丸",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/c346cefV.jpg",
 					"price": "5.0",
-					"unit": "瓶",
-					"categoryName": "饮品区",
+					"unit": "份",
+					"categoryName": "配菜小吃",
 					"props": []
 				},
 				{
-					"name": "加多宝",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/09/cd55a5318b824627a7805b510f7c7991.jpg",
+					"name": "牛肉",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/NCvzzd4R.jpg",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "牛肚",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/5b74b6rY.jpg",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "牛腩",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/w6Jl6Ekz.jpg",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "猪脚",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DDzfaytG.jpg",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "肥肠",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/COpD5gXp.jpg",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "腊肠",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/yjRvG6St.jpg",
 					"price": "4.0",
-					"unit": "罐",
-					"categoryName": "饮品区",
+					"unit": "份",
+					"categoryName": "配菜小吃",
 					"props": []
 				},
 				{
-					"name": "维他奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/09/81c05be3531645af8c20b444a3bea673.jpg",
+					"name": "腐竹",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4253e9mN.jpg",
+					"price": "4.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "花生",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/hMW50uOL.jpg",
+					"price": "4.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "螺肉",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/jY5gQ0Nz.jpg",
+					"price": "5.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "豆泡",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/vHIswfaw.jpg",
 					"price": "3.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "豆腐串",
+					"picUrl": "",
+					"price": "3.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "酸笋",
+					"picUrl": "",
+					"price": "4.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "锅烧",
+					"picUrl": "",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "青菜",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/HvNo7gjV.jpg",
+					"price": "4.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "鸡脚",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ZUfdrbiG.jpg",
+					"price": "4.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "鸭脚",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4voTtp3i.jpg",
+					"price": "4.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				},
+				{
+					"name": "鹌鹑蛋",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/OSpu67fy.jpg",
+					"price": "5.0",
+					"unit": "份",
+					"categoryName": "配菜小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "螺蛳粉",
+			"foods": [
+				{
+					"name": "三鲜螺蛳粉",
+					"picUrl": "",
+					"price": "14.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤蛋螺蛳粉",
+					"picUrl": "",
+					"price": "14.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原味螺蛳粉",
+					"picUrl": "",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧螺蛳粉",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛丸螺蛳粉",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂螺蛳粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉螺蛳粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肚螺蛳粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩螺蛳粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚螺蛳粉",
+					"picUrl": "",
+					"price": "23.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠螺蛳粉",
+					"picUrl": "",
+					"price": "17.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆泡螺蛳粉",
+					"picUrl": "",
+					"price": "14.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "锅烧螺蛳粉",
+					"picUrl": "",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡脚螺蛳粉",
+					"picUrl": "",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭脚螺蛳粉",
+					"picUrl": "",
+					"price": "15.0",
+					"unit": "份",
+					"categoryName": "螺蛳粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酒水饮品",
+			"foods": [
+				{
+					"name": "哈尔滨啤酒",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/e41a56yH.jpg",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "青岛纯生",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/arPh76CI.jpg",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "差价",
+					"picUrl": "",
+					"price": "1.0",
+					"unit": "位",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "苏打汽水",
+					"picUrl": "",
+					"price": "2.5",
+					"unit": "罐",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "优酸乳",
+					"picUrl": "",
+					"price": "2.5",
 					"unit": "瓶",
-					"categoryName": "饮品区",
+					"categoryName": "酒水饮品",
 					"props": []
 				},
 				{
-					"name": "雪碧罐装",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/6ed0a2hQ.jpg",
-					"price": "3.0",
-					"unit": "罐",
-					"categoryName": "饮品区",
-					"props": []
-				},
-				{
-					"name": "可乐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/09/f2bbfe0a5fb34f2a95773630753fb26e.jpg",
+					"name": "怡宝矿泉水",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/za4ZgeC9.jpg",
 					"price": "2.0",
 					"unit": "瓶",
-					"categoryName": "饮品区",
+					"categoryName": "酒水饮品",
 					"props": []
 				},
 				{
-					"name": "可乐罐装",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ebe633mB.jpg",
+					"name": "王老吉",
+					"picUrl": "",
+					"price": "4.0",
+					"unit": "瓶",
+					"categoryName": "酒水饮品",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/fec256gX.jpg",
 					"price": "3.0",
-					"unit": "罐",
-					"categoryName": "饮品区",
+					"unit": "瓶",
+					"categoryName": "酒水饮品",
 					"props": []
 				},
 				{
 					"name": "雪碧",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/09/82afc2a383704804a122a3d7f2aacd23.jpg",
-					"price": "2.0",
-					"unit": "瓶",
-					"categoryName": "饮品区",
-					"props": []
-				},
-				{
-					"name": "芬达",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/09/4cc7b4b2268a4de286668dd5e6dc8817.jpg",
-					"price": "2.0",
-					"unit": "瓶",
-					"categoryName": "饮品区",
-					"props": []
-				},
-				{
-					"name": "芬达（罐装）",
-					"picUrl": "",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/de46aeoQ.jpg",
 					"price": "3.0",
-					"unit": "罐",
-					"categoryName": "饮品区",
-					"props": []
-				},
-				{
-					"name": "纯悦矿泉水",
-					"picUrl": "",
-					"price": "2.0",
 					"unit": "瓶",
-					"categoryName": "饮品区",
+					"categoryName": "酒水饮品",
 					"props": []
 				},
 				{
-					"name": "东鹏有柑柠檬茶",
-					"picUrl": "",
+					"name": "维他奶",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/zBrgvamx.jpg",
 					"price": "4.0",
-					"unit": "罐",
-					"categoryName": "饮品区",
+					"unit": "瓶",
+					"categoryName": "酒水饮品",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "11元区",
+			"name": "套餐",
 			"foods": [
 				{
-					"name": "蒜蓉空心菜饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/1fa4b6oH.jpg",
-					"price": "11.0",
-					"unit": "份",
-					"categoryName": "11元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手撕包菜饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/gTOH0PXj.jpg",
-					"price": "11.0",
-					"unit": "份",
-					"categoryName": "11元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜蓉菜心饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/59fc7cqG.jpg",
-					"price": "11.0",
-					"unit": "份",
-					"categoryName": "11元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣大白菜饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/uM8xCPCq.jpg",
-					"price": "11.0",
-					"unit": "份",
-					"categoryName": "11元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣土豆丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/gNuUvFBU.jpg",
-					"price": "11.0",
-					"unit": "份",
-					"categoryName": "11元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "清炒油麦菜饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/WKiD6uV2.jpg",
-					"price": "11.0",
-					"unit": "份",
-					"categoryName": "11元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "12元区",
-			"foods": [
-				{
-					"name": "麻婆豆腐饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/NJ7PJgyw.jpg",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "12元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青瓜火腿饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4edu2lao.jpg",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "12元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "尖椒鸡蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/471efaxR.jpg",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "12元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄鸡蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/bf116dbY.jpg",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "12元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "韭菜炒蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/26cbb3bE.jpg",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "12元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虎皮尖椒饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/RkxervIg.jpg",
-					"price": "12.0",
-					"unit": "份",
-					"categoryName": "12元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "13元区",
-			"foods": [
-				{
-					"name": "外婆菜炒蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/AD3SRxLc.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "洋葱炒蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Q8jI0CSN.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉瓜炒蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/05eb36gP.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茄子肉沫饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/a62391rL.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸菜小笋肉沫饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/0bd3f7gF.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "火腿炒蛋饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ca9648uX.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "玉米肉粒饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2019/09/abae57ca36fb425c8fc8baaa9769833b.jpg",
-					"price": "13.0",
-					"unit": "份",
-					"categoryName": "13元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "14元区",
-			"foods": [
-				{
-					"name": "红烧日本豆腐饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/hZl3j1YW.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "外婆菜炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/GCHRFGw7.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茄子豆角肉沫饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/e6IiX1ok.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腐竹小炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/663d38wX.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "长豆角炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/27dc6eqA.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/tcL2e45a.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小竹笋肉丝",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/CbXUjnrj.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "攸县香干炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/qyQ8FPje.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "毛豆炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/f3a7edpS.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "千张炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/b92089vN.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "花菜炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ojdx8pdx.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "四季豆肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/FsXgrHNz.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金针菇肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3T3vxKmg.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸鱼茄子饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/UMi6lKAX.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "包菜炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/rc6aPFQF.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "莲藕炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/yME7167d.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红萝卜肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/c207b6sV.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "家常豆腐饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/tUd4oNaz.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香菇肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/HsN6XO2o.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒榨菜肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/1c3f96fU.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉瓜炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/43J1zEVK.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆片炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/pGgTfx16.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "洋葱肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/U7FQjWvr.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "菜心炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/1QVR1Spc.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "莴笋炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/da35e3zN.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "油豆腐炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ZtnOZK81.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香干肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/RpbqHFNB.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青瓜炒肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/0cc027cE.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑木耳肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3SJbYMCs.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸豆角肉沫饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/qYwuCj4Q.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆丝肉丝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DN9uIGan.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "14元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "15元区",
-			"foods": [
-				{
-					"name": "韭菜河虾",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8p2o3sRM.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆烧鸡饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/L5eWjxex.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木耳焖鸡饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/SAxb6tEX.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "冬菇滑鸡饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/2d3849vJ.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "辣子鸡饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8g4U1RmR.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸豆角鸡杂饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9BfHh0Il.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泡椒鸡杂饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/CJjMdWBg.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸萝卜鸡杂饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/wyDTNS5I.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧鱼块饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3LOYNZrM.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腐竹拆骨肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/90a894fO.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "油豆腐拆骨肉饭",
-					"picUrl": "",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爆炒猪肝饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/94e9aagU.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒拆骨肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/BxSsRRN0.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔回锅肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/wmYsyApl.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "干豆角回锅肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/1LvVMOic.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青椒回锅肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/562c1fyJ.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆片回锅肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ec69f5nI.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香干回锅肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4bXgzxrB.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "农家小炒肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/34JNfjGm.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "15元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "16元区",
-			"foods": [
-				{
-					"name": "荷包蛋拆骨饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/129c19kS.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小炒猪耳朵饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/S8oNZ8dM.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "农家一碗香饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/OHuXm5Wl.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "莴笋腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Be90qRBS.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "四季豆腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/VyulfIIx.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烟笋腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DgkJKCmy.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "干豆角腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/odrrEIrD.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香干腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Il1rA6Iz.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/JpSUIkeM.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小竹笋腊肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9EJRT2JK.jpg",
-					"price": "16.0",
-					"unit": "份",
-					"categoryName": "16元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "17元区",
-			"foods": [
-				{
-					"name": "酸菜肥肠饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/2a610dqC.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣肥肠饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/yD3ewFex.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爆炒肥肠饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3JDiPQTF.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸菜猪肚饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3T1JTUIO.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "开胃猪肚饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/rXcMNdzA.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老干妈猪肚饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Mrq1Xgq0.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "油豆腐红烧肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/nixaAa3A.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆红烧肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DiVpodlM.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腐竹红烧肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/KtZpF63w.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "干豆角红烧肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/bOUOy9pZ.jpg",
-					"price": "17.0",
-					"unit": "份",
-					"categoryName": "17元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "18元区",
-			"foods": [
-				{
-					"name": "野山椒牛肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/774f95kO.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金针菇牛肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/pvoSWrYc.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉瓜牛肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/25a345tC.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "尖椒牛肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/6ff1d8xE.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆牛肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/FVKYFd5H.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香菇排骨饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/d58Tw4bG.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆排骨饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/bo5WE7Vd.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爆炒牛杂饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/5iYvSpIG.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爆炒牛肚饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/UoVyBQoV.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆牛腩饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/LRyycXsj.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腐竹牛腩饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/uNb4IMcR.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "湘味牛腩饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/MFz3mHqU.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "18元区",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "特色小炒类",
-			"foods": [
-				{
-					"name": "空心菜",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9vYvWqfd.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": []
-				},
-				{
-					"name": "米饭（小炒不配米饭）",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/SgXfUFZl.jpg",
-					"price": "2.0",
-					"unit": "个",
-					"categoryName": "特色小炒类",
-					"props": []
-				},
-				{
-					"name": "小猪耳炒",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/S8oNZ8dM.jpg",
+					"name": "D套餐",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg",
 					"price": "30.0",
 					"unit": "份",
-					"categoryName": "特色小炒类",
+					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
+							"name": "固定菜",
+							"values": []
+						},
+						{
+							"name": "可选分组1",
+							"values": []
+						},
+						{
+							"name": "可选分组2",
+							"values": []
+						},
+						{
+							"name": "可选分组3",
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "土豆红烧肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DiVpodlM.jpg",
-					"price": "30.0",
+					"name": "C套餐",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg",
+					"price": "21.0",
 					"unit": "份",
-					"categoryName": "特色小炒类",
+					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
+							"name": "固定菜",
+							"values": []
+						},
+						{
+							"name": "可选分组1",
+							"values": []
+						},
+						{
+							"name": "可选分组2",
+							"values": []
+						},
+						{
+							"name": "可选分组3",
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "红烧日本豆腐",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/hZl3j1YW.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "湘味牛腩",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/MFz3mHqU.jpg",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧鱼块",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3LOYNZrM.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小炒拆骨肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8YExESJ2.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣土豆丝",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/6OoenbWF.jpg",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜蓉菜心",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/59fc7cqG.jpg",
+					"name": "B套餐",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg",
 					"price": "18.0",
 					"unit": "份",
-					"categoryName": "特色小炒类",
+					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
+							"name": "固定菜",
+							"values": []
+						},
+						{
+							"name": "可选分组1",
+							"values": []
+						},
+						{
+							"name": "可选分组2",
+							"values": []
 						}
 					]
 				},
 				{
-					"name": "手撕包菜",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/QIL9CAAm.jpg",
-					"price": "18.0",
+					"name": "A套餐",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg",
+					"price": "16.0",
 					"unit": "份",
-					"categoryName": "特色小炒类",
+					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "干豆角腊肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/kRPQNneQ.jpg",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
+							"name": "固定菜",
+							"values": []
+						},
 						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔腊肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/JpSUIkeM.jpg",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
+							"name": "可选分组1",
+							"values": []
+						},
 						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
+							"name": "可选分组2",
+							"values": []
 						}
 					]
-				},
-				{
-					"name": "小竹笋腊肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9EJRT2JK.jpg",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸鱼茄子",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/YkexE4Xu.jpg",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "冬菇滑鸡",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/2d3849vJ.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金针菇牛肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/pvoSWrYc.jpg",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆牛腩",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/LRyycXsj.jpg",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老干妈猪肚",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Mrq1Xgq0.jpg",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "野山椒牛肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/bySuHyRI.jpg",
-					"price": "38.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸菜红烧肉",
-					"picUrl": "",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣鸡杂",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/VzkEla0i.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "一碗香",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/95901dwD.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "辣子鸡",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/f56J8BiM.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土匪猪肝",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Pagfguqz.jpg",
-					"price": "30.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "回锅肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/bmI6h8iQ.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茄子豆角",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/IOodve9i.jpg",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麻婆豆腐",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/6stGqy9G.jpg",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "外婆菜炒蛋",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/AD3SRxLc.jpg",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "家常豆腐",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/tUd4oNaz.jpg",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄鸡蛋",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/df2792uP.jpg",
-					"price": "20.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小炒肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Ote4XGy1.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "攸县香干",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/w5BfUD7s.jpg",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "特色小炒类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "加辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "干锅类",
-			"foods": [
-				{
-					"name": "干锅包菜",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/uGqsIDuk.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "干锅类",
-					"props": []
-				},
-				{
-					"name": "干锅肥肠",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/n385lsy4.jpg",
-					"price": "38.0",
-					"unit": "份",
-					"categoryName": "干锅类",
-					"props": []
-				},
-				{
-					"name": "干锅牛杂",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ZnaQj2sc.jpg",
-					"price": "38.0",
-					"unit": "份",
-					"categoryName": "干锅类",
-					"props": []
-				},
-				{
-					"name": "干锅牛肚",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/zNw1LcDm.jpg",
-					"price": "38.0",
-					"unit": "份",
-					"categoryName": "干锅类",
-					"props": []
-				},
-				{
-					"name": "干锅家鸡",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/9WVyyLUK.jpg",
-					"price": "32.0",
-					"unit": "份",
-					"categoryName": "干锅类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "水煮",
-			"foods": [
-				{
-					"name": "水煮肉片",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/BCqGqahQ.jpg",
-					"price": "36.0",
-					"unit": "份",
-					"categoryName": "水煮",
-					"props": []
-				},
-				{
-					"name": "水煮牛肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/JsgUo9lB.jpg",
-					"price": "42.0",
-					"unit": "份",
-					"categoryName": "水煮",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "铁板类",
-			"foods": [
-				{
-					"name": "铁板肥肠",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/GJN7eqOc.jpg",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "铁板类",
-					"props": []
-				},
-				{
-					"name": "铁板牛肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/wH7OSUzd.jpg",
-					"price": "35.0",
-					"unit": "份",
-					"categoryName": "铁板类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "汤类",
-			"foods": [
-				{
-					"name": "苦瓜皮蛋汤",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/G7tmiM7U.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": []
-				},
-				{
-					"name": "紫菜蛋汤",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/FLTR9ePc.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": []
-				},
-				{
-					"name": "西红柿蛋汤",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/h1aSrjmR.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": []
-				},
-				{
-					"name": "三鲜汤",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/oYb23YsJ.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "汤类",
-					"props": []
 				}
 			]
 		}

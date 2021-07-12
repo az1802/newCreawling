@@ -107,6 +107,7 @@ function formatFileName(name) {
 async function genImgs(merchantInfo,outputDir) { 
 
   let { categories, shopName, shop_pic } = merchantInfo;
+  
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
   let noImgUrls = []
@@ -122,6 +123,7 @@ async function genImgs(merchantInfo,outputDir) {
     let foods = categoryItem.foods
     foods.forEach(foodItem => {
       let imgUrl = foodItem.picUrl;
+     
       let imgName = formatFileName(foodItem.name) + ".jpg"
       if (imgUrl) {
         try {
@@ -183,7 +185,11 @@ menuSetting = {
 
 // 飞蛾模式的菜品excel导出
 async function genExcelAll(merchantInfo, outputDir,menuSetting) { 
+  console.log('%cmerchantInfo: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',merchantInfo);
   let { categories, shopName } = merchantInfo;
+
+
+
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let title = ["商品名称","一级分类","二级分类","标准单位","规格类别","规格","品牌定价","做法类别","做法","加料","备注"];
   

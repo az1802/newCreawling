@@ -9,8 +9,8 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 
 
 
-// const exportMode = "keruyun"
-  const exportMode = "feie"
+const exportMode = "keruyun"
+  // const exportMode = "feie"
 
 
 
@@ -30,16 +30,12 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
     "辣度",
-    "面的做法",
-    "加量",
     "温度"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
     "辣度",
-    "面的做法",
-    "加量",
     "温度"
   ],
 }
