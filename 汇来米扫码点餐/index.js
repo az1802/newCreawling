@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-03-09 12:20:00
- * @LastEditTime: 2021-06-10 16:06:39
+ * @LastEditTime: 2021-07-15 14:21:05
  * @LastEditors: sunj
  * @Description: In User Settings Edit
  * @FilePath: /newCreawling/汇来米扫码点餐/index.js
@@ -16,15 +16,15 @@ let goodsList = requestMenuJson.respData.goodsList;
 let categoryList = categoryJson.respData.goodsGroupDTOList;
 
 let shopInfo = {
-  name: "回味柳州螺蛳粉",
+  name: "狐椒粉",
   logo:""
 }
 
 const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll} = require("../utils/index")
 
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+// const exportMode = "keruyun"
+const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
@@ -106,7 +106,7 @@ async function  handleRequestData(requestMenuData) {
       if (categoryObj) {
         let foods = categoryObj.foods;
         foods.push({
-          name:goodItem.goodsName || "",
+          name: goodItem.goodsName&&goodItem.goodsName.replace(/\//ig,"-") || "",   
           picUrl: goodItem.goodsLogoUrl || "",
           price:goodItem.goodsPrice || "",
           unit: "份",

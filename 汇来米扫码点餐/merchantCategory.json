@@ -1,73 +1,37 @@
 {
 	"respCode": "90000",
 	"respDesc": "交易成功",
-	"requestSeqId": "1zsnxi7xwmw",
-	"respSeq": "20210610160345884",
+	"requestSeqId": "20vno6zb0h0",
+	"respSeq": "20210715134535919",
 	"respData": {
 		"goodsGroupDTOList": [{
-			"groupId": "243110494583914496",
-			"groupName": "合集大全",
+			"groupId": "264529058108801024",
+			"groupName": "新疆炒米粉",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "264532934358728704",
+			"groupName": "下饭菜套餐",
 			"groupSN": "1",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "242214230551953408",
-			"groupName": "螺蛳粉类",
+			"groupId": "264534354071912448",
+			"groupName": "港式烧腊饭",
 			"groupSN": "2",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "242238488988614656",
-			"groupName": "汤粉／面类",
+			"groupId": "264535533241761792",
+			"groupName": "牛卤粉面",
 			"groupSN": "3",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}, {
-			"groupId": "242238622585585664",
-			"groupName": "老友粉类",
+			"groupId": "264538080207699968",
+			"groupName": "酒水饮料",
 			"groupSN": "4",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "242238809005621248",
-			"groupName": "干捞粉类",
-			"groupSN": "5",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "242239023292612608",
-			"groupName": "炒粉类",
-			"groupSN": "6",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "243202147181133824",
-			"groupName": "肉类",
-			"groupSN": "6",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "242239261726212096",
-			"groupName": "小吃类",
-			"groupSN": "7",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "242239405326598144",
-			"groupName": "卤味类",
-			"groupSN": "8",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "242239486788370432",
-			"groupName": "糖水类",
-			"groupSN": "9",
-			"groupOrderFlag": "0",
-			"goodsList": []
-		}, {
-			"groupId": "242239569638457344",
-			"groupName": "饮料类",
-			"groupSN": "10",
 			"groupOrderFlag": "0",
 			"goodsList": []
 		}]
