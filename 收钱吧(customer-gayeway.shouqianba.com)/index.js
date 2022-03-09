@@ -9,18 +9,24 @@ const defaultImgUrl = ""
 
 // const exportMode = "keruyun"
 const exportMode = "feie"
-const findJsonLen = 2
+const findJsonLen = 4
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
-    "味道"
+  	"温度",
+	"酱",
+	"面",
+	"鱼蛋/鱼豆腐"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "味道",
+    "温度",
+    "酱",
+    "面",
+    "鱼蛋/鱼豆腐",
     "规格"
   ],
   propsSort: {
