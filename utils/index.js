@@ -12,9 +12,9 @@ const axios = require("axios")
 const DishMatchUrl = "https://test.shilai.zhiyi.cn/staff_assist/merchant/dish/fuzzy_match?dishName="
 
 
-async function sleep() {
+async function sleep(time=2000) {
   return new Promise((resolve, reject) => {
-    setTimeout(resolve,3000)
+    setTimeout(resolve,time)
   })
 }
 
@@ -316,6 +316,12 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
       let imgName= foodItem.name
       if (url) {
         let ext =  url.slice(url.lastIndexOf("."));
+        // url = url.slice(0,url.lastIndexOf("."))
+        ext = ext.indexOf("jpg")!=-1 ? ".jpg" : ".png"
+
+        console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url,ext);
+
+
         // ext= ".jpg" 
         // ext=".jpeg"
         // ext = ".png"
@@ -324,6 +330,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         // } 
         try {
           await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)));
+          sleep()
         } catch (err) {
           noImgUrls[imgName] = foodItem.name
           console.log("保存图片错误", url)

@@ -9,19 +9,20 @@ const defaultImgUrl = ""
 
 // const exportMode = "keruyun"
 const exportMode = "feie"
-const findJsonLen = 2
+const findJsonLen = 5
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
-    "味道"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
     "味道",
-    "规格"
+    "规格",
+    "份量",
+    "大小"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -30,7 +31,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 
 let merchantInfo = require("./shopData.json")
 merchantInfo = merchantInfo.data
-const categories = merchantInfo.categories
+const categories = merchantInfo.category
 let categoryObj = {}
 let shopName = merchantInfo.name || merchantInfo.merchantName
 
@@ -98,7 +99,7 @@ async function genMenuFoods() {
   for (let i = 0; i < findJsonLen; i++) { 
     let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
     let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
-
+    console.log(goods)
     // console.log(records)
     goods.forEach(goodItem => {
       goodItem.items.forEach(record => {
@@ -110,7 +111,8 @@ async function genMenuFoods() {
           categoryId:record.item.category_id,
           foodDetail: record,
           specs: record.specs || [],
-          attributes:record.attributes || []
+          attributes:record.attributes || [],
+          price:record.item.price
         }
         foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".")+1)
         allFoods.push(foodTemp)
@@ -133,7 +135,6 @@ async function genMenuFoods() {
     let foods = categoryData[categoryId].foods;
 
     let foodDetail = foodItem.foodDetail;
-    // console.log( foodDetail.item.name)
     foods.push({
       id: foodItem.id,
       name:foodItem.name,

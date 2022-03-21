@@ -9,8 +9,8 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 
 
 
-const exportMode = "keruyun"
-  // const exportMode = "feie"
+// const exportMode = "keruyun"
+  const exportMode = "feie"
 
 
 
