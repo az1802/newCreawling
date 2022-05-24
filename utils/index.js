@@ -100,6 +100,7 @@ function mkdirSync(path) {
 
 // 格式化文件名称
 function formatFileName(name) { 
+  console.log('%cname: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',name);
   return name.replace(/\//ig, "-")
 }
 
@@ -314,12 +315,18 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
       let url = foodItem.picUrl
       let imgName= foodItem.name
+      imgName = imgName.replace(/\//ig,'-')
+      url = url.replace('@watermark=1&&object=L3dtcHJvZHVjdC9kZWJiN2M1ZTgyZjJiNjU4Y2ZmNzA1ZTg1N2FjOTcwYjgxLnBuZw==|750w_563h','')
+      url = url.replace('@750w_563h','')
       if (url) {
-        let ext =  url.slice(url.lastIndexOf("."));
-        // url = url.slice(0,url.lastIndexOf("."))
-        ext = ext.indexOf("jpg")!=-1 ? ".jpg" : ".png"
+        // let ext =  url.slice(url.lastIndexOf("."));
+        // // url = url.slice(0,url.lastIndexOf("."))
+        // ext = ext.indexOf("jpg")!=-1 ? ".jpg" : ".png" 
 
-        console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url,ext);
+        let imgReg = /\w(\.gif|\.jpeg|\.png|\.jpg|\.bmp|\.image)/i 
+      let matchRes = url&&url.match(imgReg);
+      let ext = matchRes&&matchRes[1] || ".jpg";
+        console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url,String(imgName.trim()) + ext);
 
 
         // ext= ".jpg" 
@@ -329,8 +336,8 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         //   url = url.slice(0, -3) + "2048";a
         // } 
         try {
-          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)));
-          sleep()
+          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName.trim()) + ext)));
+          sleep(2000)
         } catch (err) {
           noImgUrls[imgName] = foodItem.name
           console.log("保存图片错误", url)

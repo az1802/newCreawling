@@ -9,20 +9,20 @@ const defaultImgUrl = ""
 
 // const exportMode = "keruyun"
 const exportMode = "feie"
-const findJsonLen = 5
+const findJsonLen = 4
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[ "规格" ],//规格
+  specifications:[ ],//规格
   practice: [
+    "炒菜",
+    "辣度"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "味道",
-    "规格",
-    "份量",
-    "大小"
+    "炒菜",
+    "辣度"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -33,7 +33,7 @@ let merchantInfo = require("./shopData.json")
 merchantInfo = merchantInfo.data
 const categories = merchantInfo.category
 let categoryObj = {}
-let shopName = merchantInfo.name || merchantInfo.merchantName
+let shopName = merchantInfo.name || merchantInfo.store.merchantName
 
 
 async function handleCategories() {

@@ -26,3 +26,10 @@ https://uf4c-app.shouqianba.com    v1 merchants内
 https://uf4c-app.shouqianba.com/api/v1/merchants/info
 
 shoData数据
+
+
+第一个目录的信息
+https://uf4c-app.shouqianba.com/api/v1/gather/index?code=9056b1e5d10a421e9f71bad500c9TX31&q=https%253A%252F%252F99zhe.com%252Ft%252FKDHhJ&query=q%3Dhttps%253A%252F%252F99zhe.com%252Ft%252FKDHhJ&compatible=true&env=prod
+
+滚动加载的接口
+https://uf4c-app.shouqianba.com/api/v1/items/index

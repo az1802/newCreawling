@@ -1,0 +1,1349 @@
+{
+	"code": 0,
+	"msg": "成功",
+	"data": {
+		"categoryList": [
+      {
+			"id": 31616964,
+			"name": "超值套餐﹏🍱  ﹏",
+			"rank": 1
+		}, {
+			"id": 31616965,
+			"name": "招牌紫菜包饭﹏",
+			"rank": 2
+		}, {
+			"id": 31616970,
+			"name": "部队小火锅🥘",
+			"rank": 3
+		}, {
+			"id": 31616966,
+			"name": "韩式小吃﹏🍢  ﹏",
+			"rank": 4
+		}, {
+			"id": 31616967,
+			"name": "如有忌口请备注、注明",
+			"rank": 5
+		}],
+		"dishList": [
+      {
+			"spuId": "2561195487",
+			"name": "年糕套餐【紫菜包饭+饮料+泡菜+年糕】",
+			"img": "http://p0.meituan.net/mstorebossgoods/6a2e00d5e63e367fac711978ddb04230984865.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/6a2e00d5e63e367fac711978ddb04230984865.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 1,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [
+        {
+				"skuId": "2561195488",
+				"spuId": "2561195487",
+				"price": 2000,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 2000,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [
+        {
+				"group": {
+					"name": "口味"
+				},
+				"attrValues": [{
+					"name": "芝士+金枪鱼"
+				}, {
+					"name": "芝士+肉松"
+				}, {
+					"name": "蟹柳+金枪鱼"
+				}, {
+					"name": "蟹柳+肉松"
+				}, {
+					"name": "芝士+泡菜"
+				}, {
+					"name": "金枪鱼+泡菜"
+				}, {
+					"name": "金枪鱼+肉松"
+				}, {
+					"name": "全家福"
+				}]
+			}, {
+				"group": {
+					"name": "年糕"
+				},
+				"attrValues": [{
+					"name": "韩式炒年糕+海苔碎（4+4）"
+				}]
+			}, {
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉酱番茄酱撒在上面"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2561126912",
+			"name": "小吃套餐【紫菜包饭+饮料+泡菜+小吃】",
+			"img": "http://p0.meituan.net/mstorebossgoods/16423baeb6c578f7a6560cf5e37d9516627556.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/16423baeb6c578f7a6560cf5e37d9516627556.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 2,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2561126913",
+				"spuId": "2561126912",
+				"price": 1800,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1800,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "口味"
+				},
+				"attrValues": [{
+					"name": "芝士+金枪鱼"
+				}, {
+					"name": "芝士+肉松"
+				}, {
+					"name": "蟹柳+金枪鱼"
+				}, {
+					"name": "蟹柳+肉松"
+				}, {
+					"name": "全家福"
+				}]
+			}, {
+				"group": {
+					"name": "小吃"
+				},
+				"attrValues": [{
+					"name": "海带汤"
+				}, {
+					"name": "鱼饼"
+				}]
+			}, {
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉酱番茄酱撒在上面"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2576035911",
+			"name": "🛑扫码点完餐麻烦到窗口拿小票哦🛑",
+			"img": "http://p1.meituan.net/mstorebossgoods/dd6bebac9ea7a09f85423fddb6797e66616378.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/dd6bebac9ea7a09f85423fddb6797e66616378.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 3,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2576035912",
+				"spuId": "2576035911",
+				"price": 0,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 0,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448469",
+			"name": "鸡扒韩式拌饭+海带汤+泡菜+时蔬",
+			"img": "http://p1.meituan.net/mstorebossgoods/31d1e41ec5e1bc441692378f1007884b1623540.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/31d1e41ec5e1bc441692378f1007884b1623540.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 4,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448470",
+				"spuId": "2559448469",
+				"price": 1980,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1980,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2579421328",
+			"name": "特制金枪鱼韩式拌饭【套餐】+海带汤+泡菜+时蔬★",
+			"img": "http://p0.meituan.net/mstorebossgoods/309b2c8f24a574f4db1dad24cba7d72d1853754.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/309b2c8f24a574f4db1dad24cba7d72d1853754.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 5,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2579421329",
+				"spuId": "2579421328",
+				"price": 1980,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1980,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "配餐"
+				},
+				"attrValues": [{
+					"name": "紫菜包饭+泡菜+时蔬"
+				}]
+			}, {
+				"group": {
+					"name": "汤饮"
+				},
+				"attrValues": [{
+					"name": "海带汤"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2579421330",
+			"name": "特制肥牛韩式拌饭【套餐】+海带汤+泡菜+时蔬★",
+			"img": "http://p0.meituan.net/mstorebossgoods/979675c102cf97d6180d15a916d378871701922.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/979675c102cf97d6180d15a916d378871701922.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "选择困难症的小伙伴可以选择这个,我们帮您搭配",
+			"rank": 6,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2579421331",
+				"spuId": "2579421330",
+				"price": 1980,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1980,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "配餐"
+				},
+				"attrValues": [{
+					"name": "紫菜包饭+泡菜+时蔬"
+				}]
+			}, {
+				"group": {
+					"name": "汤饮"
+				},
+				"attrValues": [{
+					"name": "海带汤"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448467",
+			"name": "牛扒韩式拌饭+海带汤+泡菜",
+			"img": "http://p1.meituan.net/mstorebossgoods/51dbb78f160e3f469081ab35232b9c1d1614596.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/51dbb78f160e3f469081ab35232b9c1d1614596.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "我们会帮您拌好拌饭酱的哦！",
+			"rank": 7,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559448468",
+				"spuId": "2559448467",
+				"price": 2180,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 2180,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448465",
+			"name": "扒扒双拼韩式拌饭牛扒鸡扒+海带汤+泡菜",
+			"img": "http://p1.meituan.net/mstorebossgoods/f6998319e520df5f813f2a0b172fb3861484589.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/f6998319e520df5f813f2a0b172fb3861484589.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616964",
+			"categoryName": "超值套餐﹏🍱  ﹏",
+			"desc": "",
+			"descDetail": "我们会帮您拌好拌饭酱的哦！",
+			"rank": 8,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559448466",
+				"spuId": "2559448465",
+				"price": 2380,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 2380,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448473",
+			"name": "【招牌】全家福紫菜包饭（四拼口味）",
+			"img": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 1,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559651489",
+				"spuId": "2559448473",
+				"price": 1500,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1500,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉番茄撒包饭上"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448475",
+			"name": "芝士+肉松",
+			"img": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 2,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448476",
+				"spuId": "2559448475",
+				"price": 1300,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1300,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉番茄撒包饭上"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448477",
+			"name": "芝士+金枪鱼",
+			"img": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 3,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448478",
+				"spuId": "2559448477",
+				"price": 1300,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1300,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉番茄撒包饭上"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448479",
+			"name": "蟹柳+肉松",
+			"img": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 4,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448480",
+				"spuId": "2559448479",
+				"price": 1300,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1300,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉番茄撒包饭上"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448481",
+			"name": "金枪鱼+蟹柳",
+			"img": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 5,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448482",
+				"spuId": "2559448481",
+				"price": 1300,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1300,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [{
+				"group": {
+					"name": "酱料"
+				},
+				"attrValues": [{
+					"name": "沙拉番茄撒包饭上"
+				}, {
+					"name": "芥末酱油包"
+				}, {
+					"name": "不需要酱料"
+				}]
+			}],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2602078574",
+			"name": "芝士+泡菜",
+			"img": "http://p0.meituan.net/wmproduct/8893f3ff0f6327b1690735dc992aeb7c271870.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/wmproduct/8893f3ff0f6327b1690735dc992aeb7c271870.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 6,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2602078575",
+				"spuId": "2602078574",
+				"price": 1680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1680,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2602078576",
+			"name": "金枪鱼+肉松",
+			"img": "http://p0.meituan.net/wmproduct/15c65c70b921fabdaf4e9880dd121c1f271527.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/wmproduct/15c65c70b921fabdaf4e9880dd121c1f271527.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 7,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2602078577",
+				"spuId": "2602078576",
+				"price": 1680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1680,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2602078578",
+			"name": "金枪鱼+泡菜",
+			"img": "http://p0.meituan.net/wmproduct/58feade6338e94968025afc32f390f6c264256.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/wmproduct/58feade6338e94968025afc32f390f6c264256.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616965",
+			"categoryName": "招牌紫菜包饭﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 8,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2602078579",
+				"spuId": "2602078578",
+				"price": 1680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1680,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2561073308",
+			"name": "肥牛部队小火锅",
+			"img": "http://p0.meituan.net/mstorebossgoods/0fe47144d375ddaf45e4a514bc635e6e399261.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/0fe47144d375ddaf45e4a514bc635e6e399261.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "",
+			"rank": 1,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2561073309",
+				"spuId": "2561073308",
+				"price": 2000,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102787606,
+				"specValue": "米饭",
+				"originPrice": 2000,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2561054148",
+				"spuId": "2561073308",
+				"price": 2000,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102787607,
+				"specValue": "拉面",
+				"originPrice": 2000,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562430603",
+				"spuId": "2561073308",
+				"price": 2880,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352785,
+				"specValue": "芝士+金枪鱼紫菜包饭",
+				"originPrice": 2880,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562430604",
+				"spuId": "2561073308",
+				"price": 2880,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352782,
+				"specValue": "芝士+肉松紫菜包饭",
+				"originPrice": 2880,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562430605",
+				"spuId": "2561073308",
+				"price": 2880,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352781,
+				"specValue": "蟹柳+肉松紫菜包饭",
+				"originPrice": 2880,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562430606",
+				"spuId": "2561073308",
+				"price": 2880,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352783,
+				"specValue": "蟹柳+金枪鱼紫菜包饭",
+				"originPrice": 2880,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562430607",
+				"spuId": "2561073308",
+				"price": 2880,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352784,
+				"specValue": "全家福（四拼口味）",
+				"originPrice": 2880,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2560885396",
+			"name": "芝士年糕部队小火锅",
+			"img": "http://p0.meituan.net/mstorebossgoods/536600dcc6bc947119292d6b72059783398842.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/536600dcc6bc947119292d6b72059783398842.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "",
+			"rank": 2,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2560885397",
+				"spuId": "2560885396",
+				"price": 1800,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102787606,
+				"specValue": "米饭",
+				"originPrice": 1800,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2560885398",
+				"spuId": "2560885396",
+				"price": 1800,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102787607,
+				"specValue": "拉面",
+				"originPrice": 1800,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562789696",
+				"spuId": "2560885396",
+				"price": 2680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352785,
+				"specValue": "芝士+金枪鱼紫菜包饭",
+				"originPrice": 2680,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562789697",
+				"spuId": "2560885396",
+				"price": 2680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352782,
+				"specValue": "芝士+肉松紫菜包饭",
+				"originPrice": 2680,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562789698",
+				"spuId": "2560885396",
+				"price": 2680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352781,
+				"specValue": "蟹柳+肉松紫菜包饭",
+				"originPrice": 2680,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562789699",
+				"spuId": "2560885396",
+				"price": 2680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352783,
+				"specValue": "蟹柳+金枪鱼紫菜包饭",
+				"originPrice": 2680,
+				"campaignTag": null,
+				"dishBox": null
+			}, {
+				"skuId": "2562771800",
+				"spuId": "2560885396",
+				"price": 2680,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 105352784,
+				"specValue": "全家福（四拼口味）",
+				"originPrice": 2680,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478823",
+			"name": "加一份千叶豆腐（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/f97ac295bad56255847bcfe1f7e9131047940.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/f97ac295bad56255847bcfe1f7e9131047940.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "2片",
+			"rank": 3,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478824",
+				"spuId": "2559478823",
+				"price": 188,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 188,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478825",
+			"name": "加一份火腿片（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/4a1626197529f06b7a7b4f34fe615d8652715.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/4a1626197529f06b7a7b4f34fe615d8652715.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "3片",
+			"rank": 4,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478826",
+				"spuId": "2559478825",
+				"price": 188,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 188,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478827",
+			"name": "加一份拉面（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/6a8d490134787c87e97b66b5e7734e3a56187.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/6a8d490134787c87e97b66b5e7734e3a56187.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "仅限部队锅可点",
+			"rank": 5,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478828",
+				"spuId": "2559478827",
+				"price": 288,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 288,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478829",
+			"name": "加一份芝士年糕（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/c01620fa42752d7aef1e040ad8dc89bd57096.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/c01620fa42752d7aef1e040ad8dc89bd57096.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "4条",
+			"rank": 6,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478830",
+				"spuId": "2559478829",
+				"price": 388,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 388,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478833",
+			"name": "加一份传统年糕条（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/b7425312e9237ae528f00c3d35635ee751712.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/b7425312e9237ae528f00c3d35635ee751712.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "4条",
+			"rank": 8,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478834",
+				"spuId": "2559478833",
+				"price": 288,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 288,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478837",
+			"name": "加一份鱼饼（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/9e6d23da390947a06fc89bad55b4302757978.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/9e6d23da390947a06fc89bad55b4302757978.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "6-7片",
+			"rank": 9,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478838",
+				"spuId": "2559478837",
+				"price": 188,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 188,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478839",
+			"name": "加一份肥牛（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/26d9868d653fa387fe9e8c3941f75bf461343.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/26d9868d653fa387fe9e8c3941f75bf461343.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "4卷",
+			"rank": 10,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478840",
+				"spuId": "2559478839",
+				"price": 488,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 488,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478841",
+			"name": "加一份蟹柳（限部队锅）",
+			"img": "https://img.meituan.net/mstorebossgoods/15891daabb1650bd56b21d1cd3260d9f61315.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/15891daabb1650bd56b21d1cd3260d9f61315.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616970",
+			"categoryName": "部队小火锅🥘",
+			"desc": "",
+			"descDetail": "3根",
+			"rank": 11,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559478842",
+				"spuId": "2559478841",
+				"price": 188,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 188,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448487",
+			"name": "韩国泡菜",
+			"img": "https://img.meituan.net/mstorebossgoods/747ab34151fd00ced5e7785939b164b159617.png",
+			"detailImgUrls": ["https://img.meituan.net/mstorebossgoods/747ab34151fd00ced5e7785939b164b159617.png"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616966",
+			"categoryName": "韩式小吃﹏🍢  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 2,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448488",
+				"spuId": "2559448487",
+				"price": 388,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 388,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448489",
+			"name": "韩国鱼饼",
+			"img": "http://p1.meituan.net/mstorebossgoods/c278ed093d8632880a3db79cbab2c6dc470342.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/c278ed093d8632880a3db79cbab2c6dc470342.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616966",
+			"categoryName": "韩式小吃﹏🍢  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 3,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448490",
+				"spuId": "2559448489",
+				"price": 300,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 300,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448491",
+			"name": "韩国海带汤",
+			"img": "http://p1.meituan.net/mstorebossgoods/2dab874dbb3fb9980651cda0acae2973482498.jpg@1sc",
+			"detailImgUrls": ["http://p1.meituan.net/mstorebossgoods/2dab874dbb3fb9980651cda0acae2973482498.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616966",
+			"categoryName": "韩式小吃﹏🍢  ﹏",
+			"desc": "",
+			"descDetail": "",
+			"rank": 4,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559448492",
+				"spuId": "2559448491",
+				"price": 300,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 300,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2601830794",
+			"name": "韩式炒年糕+海苔碎（5+6）",
+			"img": null,
+			"detailImgUrls": [null],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616966",
+			"categoryName": "韩式小吃﹏🍢  ﹏",
+			"desc": "",
+			"descDetail": "芝士年糕和传统年糕混合，配料还有包菜和洋葱噢",
+			"rank": 6,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2601830795",
+				"spuId": "2601830794",
+				"price": 1280,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 1280,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448497",
+			"name": "【有酱】 和【无酱】的说明（非餐品）",
+			"img": null,
+			"detailImgUrls": [null],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616967",
+			"categoryName": "如有忌口请备注、注明",
+			"desc": "",
+			"descDetail": "带酱的，口感丰富\n不带酱的，配芥末酱料包，口味传统",
+			"rank": 1,
+			"shelfStatus": 10,
+			"soldOut": true,
+			"skuList": [{
+				"skuId": "2559448498",
+				"spuId": "2559448497",
+				"price": 0,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102986229,
+				"specValue": "1克",
+				"originPrice": 0,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559448499",
+			"name": "一盒紫菜包饭分量12小块（非餐品）",
+			"img": "http://p0.meituan.net/mstorebossgoods/05c305dfef7c4a06d444fdae2f517272687733.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/05c305dfef7c4a06d444fdae2f517272687733.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616967",
+			"categoryName": "如有忌口请备注、注明",
+			"desc": "",
+			"descDetail": "",
+			"rank": 2,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559478800",
+				"spuId": "2559448499",
+				"price": 0,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 0,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}, {
+			"spuId": "2559478801",
+			"name": "如有忌口请备注",
+			"img": "http://p0.meituan.net/mstorebossgoods/8b15231c8eac040772d191a1263dd509684144.jpg@1sc",
+			"detailImgUrls": ["http://p0.meituan.net/mstorebossgoods/8b15231c8eac040772d191a1263dd509684144.jpg"],
+			"unitId": 102998773,
+			"unitName": "份",
+			"categoryId": "31616967",
+			"categoryName": "如有忌口请备注、注明",
+			"desc": "",
+			"descDetail": "我们包饭有5种基本材料，分别是腌萝卜、火腿、胡萝卜、菜心、鱼饼。",
+			"rank": 3,
+			"shelfStatus": 10,
+			"soldOut": false,
+			"skuList": [{
+				"skuId": "2559478802",
+				"spuId": "2559478801",
+				"price": 0,
+				"specId": -1,
+				"specName": "规格",
+				"specValueId": 102581127,
+				"specValue": "",
+				"originPrice": 0,
+				"campaignTag": null,
+				"dishBox": null
+			}],
+			"sideDishList": null,
+			"tasteList": [],
+			"dishType": 0,
+			"spuCampaignTags": null,
+			"unicornGoodsType": 10
+		}],
+		"recommendDishList": null,
+		"frequentBuyDishList": null,
+		"storeSimpleCampaigns": [],
+		"recommendDishSkuList": [],
+		"mandatorySettingList": []
+	}
+}

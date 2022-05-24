@@ -1,0 +1,671 @@
+{
+	"shopName": "吉星屋紫菜包饭",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "超值套餐﹏🍱  ﹏",
+			"id": 31616964,
+			"foods": [
+				{
+					"name": "年糕套餐【紫菜包饭+饮料+泡菜+年糕】",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/6a2e00d5e63e367fac711978ddb04230984865.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "芝士+金枪鱼",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芝士+肉松",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "蟹柳+金枪鱼",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "蟹柳+肉松",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芝士+泡菜",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "金枪鱼+泡菜",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "金枪鱼+肉松",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "全家福",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "年糕",
+							"values": [
+								{
+									"value": "韩式炒年糕+海苔碎（4+4）",
+									"price": 0,
+									"propName": "年糕",
+									"type": "",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉酱番茄酱撒在上面",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小吃套餐【紫菜包饭+饮料+泡菜+小吃】",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/16423baeb6c578f7a6560cf5e37d9516627556.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "芝士+金枪鱼",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芝士+肉松",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "蟹柳+金枪鱼",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "蟹柳+肉松",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "全家福",
+									"price": 0,
+									"propName": "口味",
+									"type": "",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "海带汤",
+									"price": 0,
+									"propName": "小吃",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "鱼饼",
+									"price": 0,
+									"propName": "小吃",
+									"type": "",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉酱番茄酱撒在上面",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "🛑扫码点完餐麻烦到窗口拿小票哦🛑",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/dd6bebac9ea7a09f85423fddb6797e66616378.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": []
+				},
+				{
+					"name": "鸡扒韩式拌饭+海带汤+泡菜+时蔬",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/31d1e41ec5e1bc441692378f1007884b1623540.jpg",
+					"price": 19.8,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": []
+				},
+				{
+					"name": "特制金枪鱼韩式拌饭【套餐】+海带汤+泡菜+时蔬★",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/309b2c8f24a574f4db1dad24cba7d72d1853754.jpg",
+					"price": 19.8,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": [
+						{
+							"name": "配餐",
+							"values": [
+								{
+									"value": "紫菜包饭+泡菜+时蔬",
+									"price": 0,
+									"propName": "配餐",
+									"type": "",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汤饮",
+							"values": [
+								{
+									"value": "海带汤",
+									"price": 0,
+									"propName": "汤饮",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "特制肥牛韩式拌饭【套餐】+海带汤+泡菜+时蔬★",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/979675c102cf97d6180d15a916d378871701922.jpg",
+					"price": 19.8,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": [
+						{
+							"name": "配餐",
+							"values": [
+								{
+									"value": "紫菜包饭+泡菜+时蔬",
+									"price": 0,
+									"propName": "配餐",
+									"type": "",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "汤饮",
+							"values": [
+								{
+									"value": "海带汤",
+									"price": 0,
+									"propName": "汤饮",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛扒韩式拌饭+海带汤+泡菜",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/51dbb78f160e3f469081ab35232b9c1d1614596.jpg",
+					"price": 21.8,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": []
+				},
+				{
+					"name": "扒扒双拼韩式拌饭牛扒鸡扒+海带汤+泡菜",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/f6998319e520df5f813f2a0b172fb3861484589.jpg",
+					"price": 23.8,
+					"unit": "份",
+					"categoryName": "超值套餐﹏🍱  ﹏",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "招牌紫菜包饭﹏",
+			"id": 31616965,
+			"foods": [
+				{
+					"name": "【招牌】全家福紫菜包饭（四拼口味）",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉番茄撒包饭上",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士+肉松",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉番茄撒包饭上",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士+金枪鱼",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉番茄撒包饭上",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蟹柳+肉松",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉番茄撒包饭上",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金枪鱼+蟹柳",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/cb42f84aaf04b66af02a7d67dabe7804195700.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉番茄撒包饭上",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "芥末酱油包",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								},
+								{
+									"value": "不需要酱料",
+									"price": 0,
+									"propName": "酱料",
+									"type": "",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝士+泡菜",
+					"picUrl": "http://p0.meituan.net/wmproduct/8893f3ff0f6327b1690735dc992aeb7c271870.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": []
+				},
+				{
+					"name": "金枪鱼+肉松",
+					"picUrl": "http://p0.meituan.net/wmproduct/15c65c70b921fabdaf4e9880dd121c1f271527.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": []
+				},
+				{
+					"name": "金枪鱼+泡菜",
+					"picUrl": "http://p0.meituan.net/wmproduct/58feade6338e94968025afc32f390f6c264256.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "招牌紫菜包饭﹏",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "部队小火锅🥘",
+			"id": 31616970,
+			"foods": [
+				{
+					"name": "肥牛部队小火锅",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/0fe47144d375ddaf45e4a514bc635e6e399261.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "芝士年糕部队小火锅",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/536600dcc6bc947119292d6b72059783398842.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份千叶豆腐（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/f97ac295bad56255847bcfe1f7e9131047940.png",
+					"price": 1.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份火腿片（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/4a1626197529f06b7a7b4f34fe615d8652715.png",
+					"price": 1.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份拉面（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/6a8d490134787c87e97b66b5e7734e3a56187.png",
+					"price": 2.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份芝士年糕（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/c01620fa42752d7aef1e040ad8dc89bd57096.png",
+					"price": 3.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份传统年糕条（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/b7425312e9237ae528f00c3d35635ee751712.png",
+					"price": 2.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份鱼饼（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/9e6d23da390947a06fc89bad55b4302757978.png",
+					"price": 1.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份肥牛（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/26d9868d653fa387fe9e8c3941f75bf461343.png",
+					"price": 4.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				},
+				{
+					"name": "加一份蟹柳（限部队锅）",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/15891daabb1650bd56b21d1cd3260d9f61315.png",
+					"price": 1.88,
+					"unit": "份",
+					"categoryName": "部队小火锅🥘",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "韩式小吃﹏🍢  ﹏",
+			"id": 31616966,
+			"foods": [
+				{
+					"name": "韩国泡菜",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/747ab34151fd00ced5e7785939b164b159617.png",
+					"price": 3.88,
+					"unit": "份",
+					"categoryName": "韩式小吃﹏🍢  ﹏",
+					"props": []
+				},
+				{
+					"name": "韩国鱼饼",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/c278ed093d8632880a3db79cbab2c6dc470342.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "韩式小吃﹏🍢  ﹏",
+					"props": []
+				},
+				{
+					"name": "韩国海带汤",
+					"picUrl": "http://p1.meituan.net/mstorebossgoods/2dab874dbb3fb9980651cda0acae2973482498.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "韩式小吃﹏🍢  ﹏",
+					"props": []
+				},
+				{
+					"name": "韩式炒年糕+海苔碎（5+6）",
+					"picUrl": "",
+					"price": 12.8,
+					"unit": "份",
+					"categoryName": "韩式小吃﹏🍢  ﹏",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "如有忌口请备注、注明",
+			"id": 31616967,
+			"foods": [
+				{
+					"name": "【有酱】 和【无酱】的说明（非餐品）",
+					"picUrl": "",
+					"price": "",
+					"unit": "份",
+					"categoryName": "如有忌口请备注、注明",
+					"props": []
+				},
+				{
+					"name": "一盒紫菜包饭分量12小块（非餐品）",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/05c305dfef7c4a06d444fdae2f517272687733.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "如有忌口请备注、注明",
+					"props": []
+				},
+				{
+					"name": "如有忌口请备注",
+					"picUrl": "http://p0.meituan.net/mstorebossgoods/8b15231c8eac040772d191a1263dd509684144.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "如有忌口请备注、注明",
+					"props": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,145 @@
+{
+	"ErrorNo": 0,
+	"ErrorInfo": null,
+	"Data": {
+		"branchno": "43207084",
+		"branchname": "润科华府",
+		"status": "在线",
+		"dishfile": "5432070843637805284352183950.json",
+		"staticdishfile": "0005432070843_637805284352183950.json",
+		"dishimagefile": "843207084637841477122242987.json",
+		"staticdishimagefile": "000843207084_637841477122242987.json",
+		"dishtypeimagefile": "743207084637646626724596964.json",
+		"staticdishtypeimagefile": "000743207084_637646626724596964.json",
+		"orderrulefile": "001143207084637835676003445240.json",
+		"staticorderrulefile": "001143207084_637835676003445240.json",
+		"branchimagefile": "001243207084637835676003445240.json",
+		"staticbranchimagefile": "001243207084_637835676003445240.json",
+		"deskname": "B23",
+		"member": {
+			"base": {
+				"memberId": "6915178821151757421",
+				"openId": "oEs2q0iXsvUxd3N9eqzH1jzur3fY",
+				"mpOpenId": "oG2pA5BcaPQ6sbv4vOPUdbshduZ0",
+				"cardCode": "",
+				"mobile": "",
+				"memberName": "",
+				"activeTime": "2022-03-31 14:11:48",
+				"validTime": "2032-03-31 14:11:48",
+				"birthType": "公历",
+				"birthDay": "",
+				"gender": "未知",
+				"status": 2,
+				"typeId": 37477439,
+				"levelId": 80706080,
+				"isFollow": 0
+			},
+			"level": {
+				"typeName": "会员卡",
+				"levelName": "普通会员",
+				"isIntegral": 0,
+				"isStorage": 1,
+				"faceMode": 0,
+				"faceValue": "",
+				"ruleDescribe": ""
+			},
+			"account": {
+				"balance": 0,
+				"basicAccount": 0,
+				"giveAccount": 0,
+				"allowBalance": 0,
+				"rechargeTimes": 0,
+				"consumeTimes": 0,
+				"lastConsume": "2022-03-31 14:11:48",
+				"integralRemain": 0
+			},
+			"param": {
+				"RightIntegralCashCoupon": "0",
+				"RightNoAmtNoDis": "0",
+				"RightVipPrice": "0"
+			}
+		},
+		"dishoverinfos": [{
+			"specno": "19817646",
+			"dishno": "31079939",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2022-04-01 05:00:00"
+		}, {
+			"specno": "85903663",
+			"dishno": "62564302",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2022-04-01 05:00:00"
+		}, {
+			"specno": "51490454",
+			"dishno": "83291135",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2022-04-01 05:00:00"
+		}, {
+			"specno": "92527228",
+			"dishno": "23311952",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}, {
+			"specno": "57517547",
+			"dishno": "56378732",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}, {
+			"specno": "18684814",
+			"dishno": "47558171",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}, {
+			"specno": "56658085",
+			"dishno": "52926214",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}, {
+			"specno": "72993186",
+			"dishno": "65876903",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}, {
+			"specno": "55425331",
+			"dishno": "12743983",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}, {
+			"specno": "63588296",
+			"dishno": "85741809",
+			"qty": 0.0000,
+			"saleqty": 0.0000,
+			"begintime": "2022-03-31 00:00:00",
+			"endtime": "2099-01-01 00:00:00"
+		}],
+		"markoverinfos": null,
+		"appinfo": {
+			"enable": true,
+			"pause": false,
+			"wechatpay": true,
+			"storagepay": true,
+			"integralpay": true,
+			"alipay": true,
+			"orderwayh5": false,
+			"orderwaymp": true
+		}
+	}
+}

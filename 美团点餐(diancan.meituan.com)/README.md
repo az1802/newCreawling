@@ -1,3 +1,5 @@
+https://diancan.meituan.com/graphql
+
 shopData 为商户基本信息
 menuData为菜品目录
 均需要从请求拦截器中进行下载
